@@ -1,20 +1,20 @@
 [
   {
     "texto1": "además",
-    "texto2": "también"
-    "texto3": "besides"
+    "texto2": "también",
+    "texto3": "besides",
     "texto4": "I have no other family besides my parents"
   },
   {
     "texto1": "bastante",
-    "texto2": "mas bien"
-    "texto3": "rather"
+    "texto2": "mas bien",
+    "texto3": "rather",
     "texto4": "she'd rather die than cause a scene"
   },
   {
     "texto1": "programar",
-    "texto2": "cronograma"
-    "texto3": "schedule"
+    "texto2": "cronograma",
+    "texto3": "schedule",
     "texto4": "we have drawn up an engineering schedule"
   }
 ]
