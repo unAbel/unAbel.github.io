@@ -1,14 +1,20 @@
 [
   {
-    "id": 1,
-    "title": "uno abel"
+    "texto1": "además",
+    "texto2": "también"
+    "texto3": "besides"
+    "texto4": "I have no other family besides my parents"
   },
   {
-    "id": 2,
-    "title": "love belo"
+    "texto1": "bastante",
+    "texto2": "mas bien"
+    "texto3": "rather"
+    "texto4": "she'd rather die than cause a scene"
   },
   {
-    "id": 3,
-    "title": "youuu"
+    "texto1": "programar",
+    "texto2": "cronograma"
+    "texto3": "schedule"
+    "texto4": "we have drawn up an engineering schedule"
   }
 ]
