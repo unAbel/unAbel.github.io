@@ -12,7 +12,7 @@
     "texto4": "she'd rather die than cause a scene"
   },
   {
-    "texto1": "volteos",
+    "texto1": "Voltear",
     "texto2": "cambiar",
     "texto3": "Flips",
     "texto4": "The acrobat performed an incredible series of flips and twists"
@@ -22,5 +22,101 @@
     "texto2": "cronograma",
     "texto3": "schedule",
     "texto4": "we have drawn up an engineering schedule"
+  },
+  {
+    "texto1": "Mezclar",
+    "texto2": "Reorganizar",
+    "texto3": "shuffle",
+    "texto4": "I like to shuffle my playlist to discover new songs"
+  },
+  {
+    "texto1": "tirar",
+    "texto2": "lanzar",
+    "texto3": "throw",
+    "texto4": "She thrown the ball to her friend"
+  },
+  {
+    "texto1": "ataque/golpe",
+    "texto2": "trazar",
+    "texto3": "stroke",
+    "texto4": "the paint had been applied in careful strokes"
+  },
+  {
+    "texto1": "Aparte",
+    "texto2": "comentario",
+    "texto3": "aside",
+    "texto4": "She set some money aside for a rainy day"
+  },
+  {
+    "texto1": "desvanecer",
+    "texto2": "desaparecer",
+    "texto3": "Fading",
+    "texto4": "The colors of the sunset were fading"
+  },
+  {
+    "texto1": "Obtener/Entender",
+    "texto2": "Llegar/recibir",
+    "texto3": "Gets",
+    "texto4": "The bus usually gets to the station at 9 AM"
+  },
+  {
+    "texto1": "configurado",
+    "texto2": "enlatado",
+    "texto3": "canned",
+    "texto4": "transition pre canned"
+  },
+  {
+    "texto1": "directo",
+    "texto2": "sencillo",
+    "texto3": "straightforward",
+    "texto4": "The problem had a straightforward solution"
+  },
+  {
+    "texto1": "acuerdo/comerciar",
+    "texto2": "trato/reparto",
+    "texto3": "deal",
+    "texto4": "Working mothers get a raw deal"
+  },
+  {
+    "texto1": "parecer",
+    "texto2": "impresion",
+    "texto3": "seem",
+    "texto4": "She seems happy today"
+  },
+  {
+    "texto1": "cambio dir",
+    "texto2": "rotar",
+    "texto3": "turn",
+    "texto4": "The Earth turns on its axis"
+  },
+  {
+    "texto1": "oportunidad",
+    "texto2": "encender",
+    "texto3": "turn",
+    "texto4": "It's your turn to speak"
+  },
+  {
+    "texto1": "conducir",
+    "texto2": "dirigir",
+    "texto3": "lead",
+    "texto4": "She will lead the team in the project"
+  },
+  {
+    "texto1": "causas",
+    "texto2": "pista",
+    "texto3": "lead",
+    "texto4": "His actions may lead to consequences."
+  },
+  {
+    "texto1": "rostro",
+    "texto2": "afrontar",
+    "texto3": "face",
+    "texto4": "She had to face the challenges head-on"
+  },
+  {
+    "texto1": "part delante",
+    "texto2": "girar",
+    "texto3": "house faces the ocean",
+    "texto4": "The mountain faces the valley."
   }
 ]
