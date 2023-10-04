@@ -118,5 +118,77 @@
     "texto2": "girar",
     "texto3": "house faces the ocean",
     "texto4": "The mountain faces the valley."
+  },
+  {
+    "texto1": "esfuerzo",
+    "texto2": "pelea",
+    "texto3": "struggle",
+    "texto4": "Her life has been a constant struggle"
+  },
+  {
+    "texto1": "competir",
+    "texto2": "dificultad",
+    "texto3": "struggle",
+    "texto4": "Students often struggle with math"
+  },
+  {
+    "texto1": "derrotar",
+    "texto2": "superar",
+    "texto3": "overcome",
+    "texto4": "The new technology will overcome the limitations"
+  },
+  {
+    "texto1": "característica",
+    "texto2": "Aparecer",
+    "texto3": "feature",
+    "texto4": "The singer will feature in tonight's concert"
+  },
+  {
+    "texto1": "Entregar",
+    "texto2": "Rendirse",
+    "texto3": "submit",
+    "texto4": "They were forced to submit to the enemy's control"
+  },
+  {
+    "texto1": "molestar",
+    "texto2": "tomar tiempo",
+    "texto3": "bother",
+    "texto4": "She'll bother to cook a special meal"
+  },
+  {
+    "texto1": "citar",
+    "texto2": "estimacion",
+    "texto3": "quote",
+    "texto4": "The contractor will quote a price"
+  },
+  {
+    "texto1": "vinculo",
+    "texto2": "enlace",
+    "texto3": "link",
+    "texto4": "Click on the link to visit the website"
+  },
+  {
+    "texto1": "relacion",
+    "texto2": "conectar",
+    "texto3": "link",
+    "texto4": "You can link these two documents"
+  },
+  {
+    "texto1": "asunto",
+    "texto2": "problema",
+    "texto3": "issue",
+    "texto4": "The main issue of the meeting"
+  },
+  {
+    "texto1": "publicacion",
+    "texto2": "asunto legal",
+    "texto3": "issue",
+    "texto4": "The court will address the issue"
+  },
+  {
+    "texto1": "permitirse",
+    "texto2": "costearse",
+    "texto3": "afford",
+    "texto4": "We can't afford to ignore climate change any longer"
   }
 ]
