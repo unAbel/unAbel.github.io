@@ -303,6 +303,60 @@
     "texto1": "dificil",
     "texto2": "engañoso",
     "texto3": "tricky",
-    "texto4": "That puzzle is tricky; I can't figure it out"
+    "texto4": "That puzzle is tricky. I can't figure it out"
+  },
+  {
+    "texto1": "lleno",
+    "texto2": "abarrotado",
+    "texto3": "crowded",
+    "texto4": "The stadium was crowded with fans"
+  },
+  {
+    "texto1": "derramar",
+    "texto2": "verter",
+    "texto3": "spill",
+    "texto4": "Be careful not to spill your coffee on the table"
+  },
+  {
+    "texto1": "atascado",
+    "texto2": "apretada",
+    "texto3": "jammed",
+    "texto4": "The traffic was jammed bloqueado"
+  },
+  {
+    "texto1": "sensato",
+    "texto2": "sensitivo",
+    "texto3": "sensible",
+    "texto4": "He made a sensible decision razonable"
+  },
+  {
+    "texto1": "reinado",
+    "texto2": "imperar",
+    "texto3": "reign",
+    "texto4": "puzzle"
+  },
+  {
+    "texto1": "apagar",
+    "texto2": "eliminar",
+    "texto3": "stub out",
+    "texto4": "We'll stub out the main algorithm (esqueleto)"
+  },
+  {
+    "texto1": "orden",
+    "texto2": "tipo/clase",
+    "texto3": "sort",
+    "texto4": "What sort of music do you like"
+  },
+  {
+    "texto1": "justamente",
+    "texto2": "bastante",
+    "texto3": "fairly",
+    "texto4": "She is fairly good at playing the piano"
+  },
+  {
+    "texto1": "reverenciar",
+    "texto2": "adorar",
+    "texto3": "revere",
+    "texto4": "The students revere their teacher"
   }
 ]
