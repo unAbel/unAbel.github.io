@@ -333,7 +333,7 @@
     "texto1": "reinado",
     "texto2": "imperar",
     "texto3": "reign",
-    "texto4": "puzzle"
+    "texto4": "King George's reign lasted for several decades duro"
   },
   {
     "texto1": "apagar",
@@ -358,5 +358,107 @@
     "texto2": "adorar",
     "texto3": "revere",
     "texto4": "The students revere their teacher"
+  },
+  {
+    "texto1": "en efecto",
+    "texto2": "ciertamente",
+    "texto3": "indeed",
+    "texto4": "He is, indeed, a talented musician"
+  },
+  {
+    "texto1": "sobre",
+    "texto2": "encima",
+    "texto3": "upon",
+    "texto4": "The book is upon the table"
+  },
+  {
+    "texto1": "pegar/palillo",
+    "texto2": "quedarse",
+    "texto3": "stick",
+    "texto4": "I'll stick around for a little while longer."
+  },
+  {
+    "texto1": "esamblar",
+    "texto2": "reunir/montar",
+    "texto3": "assemble",
+    "texto4": "They will assemble the team"
+  },
+  {
+    "texto1": "abandonado",
+    "texto2": "desechado",
+    "texto3": "dumped",
+    "texto4": "She was heartbroken when he dumped her"
+  },
+  {
+    "texto1": "raro",
+    "texto2": "apasionado",
+    "texto3": "freaks",
+    "texto4": "He's a computer freak"
+  },
+  {
+    "texto1": "azufre",
+    "texto2": "upon",
+    "texto3": "brimstone",
+    "texto4": "The air was thick with the smell of brimstone cargado"
+  },
+  {
+    "texto1": "mangas",
+    "texto2": "upon",
+    "texto3": "Sleeves",
+    "texto4": "I prefer short-sleeved shirts "
+  },
+  {
+    "texto1": "alla",
+    "texto2": "alli",
+    "texto3": "yonder",
+    "texto4": "Look yonder, where the mountains touch the sky"
+  },
+  {
+    "texto1": "tu obra",
+    "texto2": "tu accion",
+    "texto3": "thy deed",
+    "texto4": "Thy deed was truly admirable"
+  },
+  {
+    "texto1": "ventaja",
+    "texto2": "privilegio",
+    "texto3": "perk",
+    "texto4": "One of the perks of this job is free access"
+  },
+  {
+    "texto1": "presumir",
+    "texto2": "presumir",
+    "texto3": "brag",
+    "texto4": "He always brags about his expensive car"
+  },
+  {
+    "texto1": "apenas",
+    "texto2": "escasamente",
+    "texto3": "barely",
+    "texto4": "appointment"
+  },
+  {
+    "texto1": "cita",
+    "texto2": "cargo",
+    "texto3": "appointment",
+    "texto4": "I have an appointment with my dentist tomorrow"
+  },
+  {
+    "texto1": "calido",
+    "texto2": "afectuoso",
+    "texto3": "warm",
+    "texto4": "Rebecca gave a warm hug to her"
+  },
+  {
+    "texto1": "campo",
+    "texto2": "terreno",
+    "texto3": "field",
+    "texto4": "You can enter data into each field"
+  },
+  {
+    "texto1": "reunir",
+    "texto2": "recoger",
+    "texto3": "gather",
+    "texto4": "the family gathered for a holiday dinner"
   }
 ]
