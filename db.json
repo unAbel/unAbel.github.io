@@ -460,5 +460,65 @@
     "texto2": "recoger",
     "texto3": "gather",
     "texto4": "the family gathered for a holiday dinner"
+  },
+  {
+    "texto1": "montar/paseo",
+    "texto2": "Transporte",
+    "texto3": "ride",
+    "texto4": "I can give you a ride to the airport llevarte"
+  },
+  {
+    "texto1": "duelo",
+    "texto2": "aflicción",
+    "texto3": "grief",
+    "texto4": "The stages of grief, including denial, duelo"
+  },
+  {
+    "texto1": "arriba",
+    "texto2": "piso sup",
+    "texto3": "upstairs",
+    "texto4": "Please go upstairs and get the box"
+  },
+  {
+    "texto1": "Golpear",
+    "texto2": "Soplar",
+    "texto3": "blow",
+    "texto4": "The wind can blow very strongly"
+  },
+  {
+    "texto1": "Explotar",
+    "texto2": "Perder",
+    "texto3": "blow",
+    "texto4": "I can't believe I blew my chance"
+  },
+  {
+    "texto1": "Jurar/Prometer",
+    "texto2": "Maldecir",
+    "texto3": "swear",
+    "texto4": "I swear to tell the truth"
+  },
+  {
+    "texto1": "Prestar",
+    "texto2": "Dar",
+    "texto3": "lend",
+    "texto4": "I'm happy to lend you my camera"
+  },
+  {
+    "texto1": "Tragar",
+    "texto2": "contener",
+    "texto3": "swallow",
+    "texto4": "She had to swallow her tears"
+  },
+  {
+    "texto1": "peor",
+    "texto2": "peor",
+    "texto3": "worse",
+    "texto4": "The weather today is worse"
+  },
+  {
+    "texto1": "en lugar",
+    "texto2": "una vez",
+    "texto3": "instead",
+    "texto4": "I had tea instead of coffee"
   }
 ]
