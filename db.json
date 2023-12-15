@@ -1,392 +1,266 @@
 [
   {
-    "texto1": "Interacción",
-    "texto2": "Relación Recípr",
-    "texto3": "interplay",
-    "texto4": "The interplay between the characters in the novel Interacción"
+    "texto1": "Bolso ",
+    "texto2": "cartera",
+    "texto3": "purse",
+    "texto4": "She left her keys in her purse."
   },
   {
-    "texto1": "Emocionado",
-    "texto2": "Encantado",
-    "texto3": "thrilled",
-    "texto4": "She was thrilled to receive the award"
+    "texto1": "Ridículo",
+    "texto2": "tonto",
+    "texto3": "dorky",
+    "texto4": "He wore a dorky hat to the party."
   },
   {
-    "texto1": "Desgastado",
-    "texto2": "Descuidado",
-    "texto3": "shabby",
-    "texto4": "The old house had a shabby appearance"
+    "texto1": "Estable",
+    "texto2": "constante",
+    "texto3": "steady",
+    "texto4": "She maintained a steady pace (ritmo)"
   },
   {
-    "texto1": "Económico",
-    "texto2": "Marcar",
-    "texto3": "dial",
-    "texto4": "I picked up the phone and began to dial her number"
+    "texto1": "Tendencias ",
+    "texto2": "   ",
+    "texto3": "trends",
+    "texto4": "Current fashion trends include oversized sweaters (suéteres)"
   },
   {
-    "texto1": "bastante",
-    "texto2": "Asequible",
-    "texto3": "affordable",
-    "texto4": "delicious meals at affordable prices"
+    "texto1": "revelar info",
+    "texto2": "Percepción",
+    "texto3": "insights",
+    "texto4": "The insights from the data analysis were invaluable (Descubrimiento)"
   },
   {
-    "texto1": "Salto",
-    "texto2": "Dar un Paso Importante",
-    "texto3": "leap",
-    "texto4": "The cat made a graceful leap"
+    "texto1": "Fragmentos",
+    "texto2": "Troso pe",
+    "texto3": "snippets",
+    "texto4": "I read snippets of the article to get an overview of the topic"
   },
   {
-    "texto1": "Emoción ",
-    "texto2": "Estímulo",
-    "texto3": "excitement",
-    "texto4": "scene"
+    "texto1": "Encuesta",
+    "texto2": "sondeo",
+    "texto3": "gather",
+    "texto4": "We conducted a survey to gather opinions from the participants"
   },
   {
-    "texto1": "Risita",
-    "texto2": "Risueño",
-    "texto3": "chuckle",
-    "texto4": "He had a chuckle on his face expresión risueña"
+    "texto1": "Pericia",
+    "texto2": "conocimiento especiazado",
+    "texto3": "expertise",
+    "texto4": "Her expertise in computer programming is highly (experiencia)"
   },
   {
-    "texto1": "Meditar",
-    "texto2": "Reflexionar",
-    "texto3": "pondered",
-    "texto4": "She pondered the decision for days"
-  },
-  {
-    "texto1": "Interés",
-    "texto2": "Estaca/apostar",
-    "texto3": "stake",
-    "texto4": "He has a significant stake in the success of the company"
-  },
-  {
-    "texto1": "Torpe",
-    "texto2": "pesada/tosca",
-    "texto3": "clunky",
-    "texto4": "The software had a clunky interface"
-  },
-  {
-    "texto1": "gritar",
-    "texto2": "chillar",
-    "texto3": "scream",
-    "texto4": "She let out a loud scream soltó"
-  },
-  {
-    "texto1": "Mejorar",
-    "texto2": "Potenciar",
-    "texto3": "enhance",
-    "texto4": "Regular exercise can enhance overall health"
-  },
-  {
-    "texto1": "Pasatiempo",
-    "texto2": "Divertimento",
-    "texto3": "pastime",
-    "texto4": "Reading is my favorite pastime"
-  },
-  {
-    "texto1": "Grupo",
-    "texto2": "Manojo",
-    "texto3": "bunch",
-    "texto4": "He picked a bunch of bananas"
-  },
-  {
-    "texto1": "Recogr/levantr",
-    "texto2": "Escoger/elegir",
-    "texto3": "picked",
-    "texto4": "I need to pick a dress for the party tonight"
-  },
-  {
-    "texto1": "Paquete",
-    "texto2": "Manojo",
-    "texto3": "bundle",
-    "texto4": "She bought a bundle of clothes"
-  },
-  {
-    "texto1": "Demandar",
-    "texto2": "-Legalmente",
-    "texto3": "sue",
-    "texto4": "The company decided to sue the manufacturer (fabricante)"
-  },
-  {
-    "texto1": "Gente",
-    "texto2": "Familia",
-    "texto3": "folks",
-    "texto4": "The folks in the neighborhood are friendly"
-  },
-  {
-    "texto1": "Subcotizar",
-    "texto2": "bajarPrecio",
-    "texto3": "undercut",
-    "texto4": "The supermarket undercut prices on basic goods"
-  },
-  {
-    "texto1": "Peculiar",
-    "texto2": "excéntrico",
-    "texto3": "quirky",
-    "texto4": "She has a quirky sense of humor"
-  },
-  {
-    "texto1": "Ampliamente",
-    "texto2": "extensamente",
-    "texto3": "widely",
-    "texto4": "Her talent was widely recognized"
-  },
-  {
-    "texto1": "Propina",
-    "texto2": "consejo",
-    "texto3": "tip",
-    "texto4": "I always leave a tip for the waiter"
-  },
-  {
-    "texto1": "tristeza ",
-    "texto2": "Dolor",
-    "texto3": "sorrow",
-    "texto4": "The news of the accident brought great sorrow to the community"
-  },
-  {
-    "texto1": "Tonto",
-    "texto2": "absurdo",
-    "texto3": "silly",
-    "texto4": "Don't be silly, it's just a harmless prank inofensiva"
-  },
-  {
-    "texto1": "Afirmar",
-    "texto2": "asegurar",
-    "texto3": "assert",
-    "texto4": "He confidently asserted Afirmó con seguridad"
-  },
-  {
-    "texto1": "Molestia",
-    "texto2": "irritación",
-    "texto3": "annoyance",
-    "texto4": "became a source of annoyance for the residents"
-  },
-  {
-    "texto1": "Contratación",
-    "texto2": "contratar",
-    "texto3": "hiring",
-    "texto4": "The company is currently hiring new employees"
-  },
-  {
-    "texto1": "Raspar ",
-    "texto2": "x",
-    "texto3": "to scrape",
-    "texto4": "She had to scrape the mud barro"
-  },
-  {
-    "texto1": "Falta",
-    "texto2": "ausencia",
-    "texto3": "lack",
-    "texto4": "There is a lack of communication "
-  },
-  {
-    "texto1": "Contrariado",
-    "texto2": "molesto",
-    "texto3": "upset",
-    "texto4": "She was upset"
-  },
-  {
-    "texto1": "Amplio",
-    "texto2": "extenso",
-    "texto3": "broad",
-    "texto4": "She has a broad knowledge of literature"
-  },
-  {
-    "texto1": "Completo",
-    "texto2": "total",
-    "texto3": "whole",
-    "texto4": "I ate the whole pizza by myself."
-  },
-  {
-    "texto1": "Juegos preliminares.",
-    "texto2": "x",
-    "texto3": "foreplay",
-    "texto4": "Couples often engage in foreplay participar"
-  },
-  {
-    "texto1": "comprometer",
-    "texto2": "abordar",
+    "texto1": "Participar",
+    "texto2": "comprometerse",
     "texto3": "engage",
-    "texto4": "scene"
+    "texto4": "The teacher tried to engage the students in a lively (animada) discussion"
   },
   {
-    "texto1": "Cargar",
-    "texto2": "pesado",
-    "texto3": "load",
-    "texto4": "I need to load the dishwasher lavavajillas"
+    "texto1": "Codificar",
+    "texto2": "cifrar",
+    "texto3": "encode",
+    "texto4": "The software is designed to encode sensitive information for security"
   },
   {
-    "texto1": "Colocado",
-    "texto2": "acostado",
-    "texto3": "laid",
-    "texto4": "She laid the book on the table"
+    "texto1": "engranane",
+    "texto2": "marcha",
+    "texto3": "gear",
+    "texto4": "The car is in first gear. primera marcha"
   },
   {
-    "texto1": "Arbusto ",
-    "texto2": "x",
-    "texto3": "bush",
-    "texto4": "he encountered various types of bushes."
+    "texto1": "Reclamar",
+    "texto2": "afirmar",
+    "texto3": "claim",
+    "texto4": "she decided to claim the prize she had won"
   },
   {
-    "texto1": "Arco",
-    "texto2": "inclinarse",
-    "texto3": "bow",
-    "texto4": "to bow in respect inclinarse en señal d"
+    "texto1": "Lamer",
+    "texto2": "",
+    "texto3": "lick",
+    "texto4": "The dog likes to lick people's hands"
   },
   {
-    "texto1": "Provocado",
-    "texto2": "obligar",
-    "texto3": "prompted",
-    "texto4": "The alarm prompted everyone to evacuate the building"
+    "texto1": "Pico",
+    "texto2": "cima",
+    "texto3": "peak",
+    "texto4": "They reached the peak of the mountain"
   },
   {
-    "texto1": "traje",
-    "texto2": "traje formal",
-    "texto3": "suit",
-    "texto4": "He wore a stylish suit elegante"
+    "texto1": "Confiado",
+    "texto2": "seguro",
+    "texto3": "confident",
+    "texto4": "She felt (sintió) confident about her presentation"
   },
   {
-    "texto1": "Burla",
-    "texto2": "bromear",
-    "texto3": "teasing",
-    "texto4": "He was just teasing"
+    "texto1": "Respuesta",
+    "texto2": "Responder",
+    "texto3": "answer",
+    "texto4": "Can you provide an answer to the question?"
   },
   {
-    "texto1": "Inactivo",
-    "texto2": "desocupado",
-    "texto3": "idle",
-    "texto4": "the machine is currently idle"
+    "texto1": "Actuar",
+    "texto2": "realizar",
+    "texto3": "perform",
+    "texto4": "The musician will perform a live concert"
   },
   {
-    "texto1": "Tirar",
-    "texto2": "Tjalar",
-    "texto3": "pull",
-    "texto4": "He tried to pull the heavy box tirar de"
+    "texto1": "Encriptación",
+    "texto2": "cifrado",
+    "texto3": "encryption",
+    "texto4": "The software uses encryption to secure sensitive data."
   },
   {
-    "texto1": "Golpear",
-    "texto2": "x",
-    "texto3": "whack",
-    "texto4": "He whacked the ball "
+    "texto1": "",
+    "texto2": "Función",
+    "texto3": "function",
+    "texto4": "a function relates each input to exactly one output."
   },
   {
-    "texto1": "Deriva",
-    "texto2": "masbdesplazamientoien",
-    "texto3": "drift",
-    "texto4": "The boat began to drift slowly"
+    "texto1": "Hash",
+    "texto2": "resumen",
+    "texto3": "Hash",
+    "texto4": "The password was stored as a hash"
   },
   {
-    "texto1": "filtración",
-    "texto2": "pérdida",
-    "texto3": "leak",
-    "texto4": "There was a leak in the roof gotera"
+    "texto1": "Lógica",
+    "texto2": "",
+    "texto3": "Logic",
+    "texto4": "Logic is the study of principles of reasoning. razonamiento"
   },
   {
-    "texto1": "Pies",
-    "texto2": "x",
-    "texto3": "feet",
-    "texto4": "feeling the sand between her feet"
+    "texto1": "Cola",
+    "texto2": "fila",
+    "texto3": "queue",
+    "texto4": "People stood (permaneció) in a queue to buy tickets for the concert."
   },
   {
-    "texto1": "Pena",
-    "texto2": "lástima",
-    "texto3": "pity",
-    "texto4": "It's a pity that she couldn't join us"
+    "texto1": "memory",
+    "texto2": "",
+    "texto3": "memory",
+    "texto4": "The computer's memory stores and retrieves information for processing"
   },
   {
-    "texto1": "Fragancia",
-    "texto2": "aroma",
-    "texto3": "scent",
-    "texto4": "The scent of fresh flowers filled the room"
+    "texto1": "Sintaxis",
+    "texto2": "",
+    "texto3": "syntax",
+    "texto4": "In programming, correct syntax is crucial"
   },
   {
-    "texto1": "Minucioso",
-    "texto2": "completo",
-    "texto3": "thorough",
-    "texto4": "He gave the car a thorough inspection"
+    "texto1": "Transacción",
+    "texto2": "",
+    "texto3": "transaction",
+    "texto4": "The online purchase was completed with a secure transaction"
   },
   {
-    "texto1": "A través de",
-    "texto2": "completado",
-    "texto3": "through",
-    "texto4": "We walked through the park"
+    "texto1": "Rendimiento",
+    "texto2": "producción",
+    "texto3": "yield",
+    "texto4": "The bond yield is expected (rendimiento d bonos)"
   },
   {
-    "texto1": "Enseñó ",
-    "texto2": "Enseñado",
-    "texto3": "taught",
-    "texto4": "She taught English at the local school"
+    "texto1": "Caché",
+    "texto2": "",
+    "texto3": "cache ",
+    "texto4": "Web browsers use a cache to store "
   },
   {
-    "texto1": "Difícil/duro",
-    "texto2": "resistente",
-    "texto3": "tough",
-    "texto4": "Studying for the exam was tough"
+    "texto1": "enlugar",
+    "texto2": "extremo",
+    "texto3": "endpoint",
+    "texto4": "The API endpoint is where the client"
   },
   {
-    "texto1": "Aunque",
-    "texto2": "sin embargo",
-    "texto3": "though",
-    "texto4": "though she was feeling tired"
+    "texto1": "Interfaz",
+    "texto2": "",
+    "texto3": "interface",
+    "texto4": "The user interface of the application is designed"
   },
   {
-    "texto1": "Pensamiento",
-    "texto2": "idea",
-    "texto3": "thought",
-    "texto4": "I just had a thought about how to solve the problem"
+    "texto1": "Puntero",
+    "texto2": "",
+    "texto3": "pointer",
+    "texto4": "In programming, a pointer is a variable that stores the memory address"
   },
   {
-    "texto1": "A lo largo de",
-    "texto2": "... de todo",
-    "texto3": "throughout",
-    "texto4": "She wore (vistió) a smile throughout the entire performance (actuación)"
+    "texto1": "token",
+    "texto2": "",
+    "texto3": "token",
+    "texto4": "In cryptocurrency, a token represents a unit of value"
   },
   {
-    "texto1": "Divierte ",
-    "texto2": "entretiene",
-    "texto3": "amuses",
-    "texto4": "The comedian's jokes always amuse the audience"
+    "texto1": "guion",
+    "texto2": "script",
+    "texto3": "script",
+    "texto4": "She wrote a script for the play (obra)."
   },
   {
-    "texto1": "Rompe",
-    "texto2": "destructor",
-    "texto3": "buster",
-    "texto4": "He's a real buster when.. (poco habilidoso)"
+    "texto1": "Flujo de trabajo",
+    "texto2": "",
+    "texto3": "workflow",
+    "texto4": "The workflow in the office includes multiple stages"
   },
   {
-    "texto1": "Discutir",
-    "texto2": "argumentar",
-    "texto3": "argue",
-    "texto4": "They used to argue about politics all the time"
+    "texto1": "Echar vistazo",
+    "texto2": "mirar rápid",
+    "texto3": "peek",
+    "texto4": "I couldn't resist the temptation to peek at the surprise."
   },
   {
-    "texto1": "Intentos",
-    "texto2": "z",
-    "texto3": "attempts",
-    "texto4": "Despite several attempts, he couldn't solve the puzzle"
+    "texto1": "habitualmente",
+    "texto2": "Comúnmente",
+    "texto3": "commonly",
+    "texto4": "This feature is commonly used in many applications"
   },
   {
-    "texto1": "Evaluación",
-    "texto2": "valoración",
-    "texto3": "assessment",
-    "texto4": "The teacher conducted (realizó) an assessment of the students"
+    "texto1": "validación",
+    "texto2": "",
+    "texto3": "validation",
+    "texto4": "The system performs validation checks (comprobaciones de validación)"
   },
   {
-    "texto1": "Excavar",
-    "texto2": "Investigar",
-    "texto3": "dig",
-    "texto4": "The journalist decided to dig into the details"
+    "texto1": "bucle",
+    "texto2": "ciclo",
+    "texto3": "loop",
+    "texto4": "using a drum (bateria) loop"
   },
   {
-    "texto1": "Divagar",
-    "texto2": "x",
-    "texto3": "digress",
-    "texto4": "The professor tends to digress during lectures"
+    "texto1": "mientras",
+    "texto2": "aunque",
+    "texto3": "While",
+    "texto4": "While (aunque) I agree with the President"
   },
   {
-    "texto1": "estropear",
-    "texto2": "confundido",
-    "texto3": "messed",
-    "texto4": "His room is always messed desordenado"
+    "texto1": "romper",
+    "texto2": "pausa/recreo",
+    "texto3": "break",
+    "texto4": "Let's take a short break "
+  },
+  {
+    "texto1": "nulo",
+    "texto2": "invalido",
+    "texto3": "null",
+    "texto4": "The employee's phone number was null"
+  },
+  {
+    "texto1": "herencia",
+    "texto2": "",
+    "texto3": "inherited",
+    "texto4": "The prince inherited the throne"
+  },
+  {
+    "texto1": "Intentar",
+    "texto2": "Probar",
+    "texto3": "try",
+    "texto4": "I will try my best to finish the project "
+  },
+  {
+    "texto1": "Agarrar",
+    "texto2": "Entender",
+    "texto3": "catch",
+    "texto4": "I managed (logre) to catch the ball before"
+  },
+  {
+    "texto1": "enlugar",
+    "texto2": "Logrado",
+    "texto3": "managed ",
+    "texto4": "Logré atrapar la pelota"
   }
 ]
