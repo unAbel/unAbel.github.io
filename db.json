@@ -1,5 +1,65 @@
 [
   {
+    "texto1": "diseño",
+    "texto2": "maquetación",
+    "texto3": "layout",
+    "texto4": "the layout for the magazine"
+  },
+  {
+    "texto1": "atrapado",
+    "texto2": "capturado",
+    "texto3": "caught",
+    "texto4": "She caught the ball with one hand"
+  },
+  {
+    "texto1": "ganar",
+    "texto2": "(de dinero)",
+    "texto3": "earn",
+    "texto4": "She earns a good salary working as a software engineer"
+  },
+  {
+    "texto1": "guardado",
+    "texto2": "conservado",
+    "texto3": "kept",
+    "texto4": "He kept the old letters in a box under his bed"
+  },
+  {
+    "texto1": "llevar",
+    "texto2": "transportar",
+    "texto3": "carry",
+    "texto4": "She carries her books in a backpack."
+  },
+  {
+    "texto1": "cáscaraNuez",
+    "texto2": "resumen",
+    "texto3": "nutshell",
+    "texto4": "In a nutshell, the project was a success"
+  },
+  {
+    "texto1": "ventana emergente",
+    "texto2": "de aviso",
+    "texto3": "pop-up",
+    "texto4": "A pop-up window appeared"
+  },
+  {
+    "texto1": "desplegable",
+    "texto2": "extraíble",
+    "texto3": "pop-out",
+    "texto4": "The book has pop-out illustrations"
+  },
+  {
+    "texto1": "simulacro",
+    "texto2": "objeto simulado",
+    "texto3": "mock",
+    "texto4": "we're mocking (simulando) the database connection"
+  },
+  {
+    "texto1": "Arrepentimiento",
+    "texto2": "Remordimiento",
+    "texto3": "regret",
+    "texto4": "expressed"
+  },
+  {
     "texto1": "Extensión",
     "texto2": "propagación ",
     "texto3": "spread",
@@ -12,58 +72,16 @@
     "texto4": "The new CEO plans to take over the company"
   },
   {
-    "texto1": "pivote",
-    "texto2": "punto central",
-    "texto3": "pivots",
-    "texto4": "-----------------"
-  },
-  {
-    "texto1": "Ejercicio",
-    "texto2": "act fisica",
-    "texto3": "exercise",
-    "texto4": "Regular exercise is important for maintaining good"
-  },
-  {
     "texto1": "Rendirse",
     "texto2": "abandonar",
     "texto3": "give up",
     "texto4": "It's important not to give up in the face of challenges"
   },
   {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
-  },
-  {
-    "texto1": "Creencia",
-    "texto2": "-",
-    "texto3": "belief",
-    "texto4": "Her strong belief in equality"
-  },
-  {
     "texto1": "desarrollarse",
     "texto2": "Evolucionar",
     "texto3": "evolve",
     "texto4": "Technology continues to evolve rapidly"
-  },
-  {
-    "texto1": "Lavar",
-    "texto2": "-",
-    "texto3": "wash",
-    "texto4": "I need to wash my hands before dinner"
-  },
-  {
-    "texto1": "enfermo",
-    "texto2": "-",
-    "texto3": "sick",
-    "texto4": " I'm feeling sick"
-  },
-  {
-    "texto1": "Vacío",
-    "texto2": "nulo",
-    "texto3": "void",
-    "texto4": "The contract was declared void due to a breach (incumplimento)"
   },
   {
     "texto1": "Tratar",
@@ -79,45 +97,9 @@
   },
   {
     "texto1": "Reforzar",
-    "texto2": "Remordimiento",
+    "texto2": "asegurar",
     "texto3": "shore up",
     "texto4": "The government implemented measures to shore up the economy "
-  },
-  {
-    "texto1": "Circundante",
-    "texto2": "que rodea",
-    "texto3": "surrounding",
-    "texto4": "views of the surrounding mountains."
-  },
-  {
-    "texto1": "nueces",
-    "texto2": "Frutos secos",
-    "texto3": "nuts",
-    "texto4": "She enjoys snacking (picar) on a mix of nuts"
-  },
-  {
-    "texto1": "Ciclo",
-    "texto2": "-",
-    "texto3": "cycle",
-    "texto4": "The water cycle involves the continuous movement"
-  },
-  {
-    "texto1": "girar",
-    "texto2": "Rodar",
-    "texto3": "roll",
-    "texto4": "He watched the ball roll down"
-  },
-  {
-    "texto1": "Accesorios",
-    "texto2": "reconocimiento",
-    "texto3": "props",
-    "texto4": "impressive collection of props"
-  },
-  {
-    "texto1": "Consciente",
-    "texto2": "informado",
-    "texto3": "aware",
-    "texto4": "She became aware of the importance of environmental"
   },
   {
     "texto1": "Basura",
@@ -150,36 +132,6 @@
     "texto4": "We have a special guest joining us"
   },
   {
-    "texto1": "Celebrado",
-    "texto2": "sostenido",
-    "texto3": "held",
-    "texto4": "The event was held in the grand hall"
-  },
-  {
-    "texto1": "Orden",
-    "texto2": "comando",
-    "texto3": "command",
-    "texto4": "The general issued a command to the soldiers to stand at attention"
-  },
-  {
-    "texto1": "Emitido",
-    "texto2": "expedido",
-    "texto3": "issued ",
-    "texto4": "El general dio la orden a los soldados de ponerse en posición de firmes."
-  },
-  {
-    "texto1": "Atascado",
-    "texto2": "pegado",
-    "texto3": "stuck",
-    "texto4": "but it seems to be stuck"
-  },
-  {
-    "texto1": "Sospechoso",
-    "texto2": "-",
-    "texto3": "suspect",
-    "texto4": "The police questioned (interrogó) the suspect"
-  },
-  {
     "texto1": "En aprietos",
     "texto2": "perjudicado",
     "texto3": "screwed",
@@ -192,28 +144,10 @@
     "texto4": "I have to bail on our plans tonight"
   },
   {
-    "texto1": "inicial",
-    "texto2": "-",
-    "texto3": "initial",
-    "texto4": "Write your initial inicial next to"
-  },
-  {
-    "texto1": "Facilita",
-    "texto2": "permite",
-    "texto3": "enables",
-    "texto4": "The new software enables"
-  },
-  {
     "texto1": "Relacionar",
     "texto2": "contar/narrar",
     "texto3": "relate",
     "texto4": "Mary decided to relate her fascinating experience"
-  },
-  {
-    "texto1": "Probar",
-    "texto2": "demostrar",
-    "texto3": "prove",
-    "texto4": "to prove the hypothesis"
   },
   {
     "texto1": "Estado",
@@ -228,42 +162,6 @@
     "texto4": "but despise the dishonesty of her colleague"
   },
   {
-    "texto1": "Gusto",
-    "texto2": "sabor",
-    "texto3": "taste",
-    "texto4": "to ensure a perfect taste"
-  },
-  {
-    "texto1": "Hacer",
-    "texto2": "fabricar",
-    "texto3": "make",
-    "texto4": "She can make a delicious cake"
-  },
-  {
-    "texto1": "Escribió",
-    "texto2": "-",
-    "texto3": "wrote",
-    "texto4": "She wrote a heartfelt letter carta sincera"
-  },
-  {
-    "texto1": "Lectura",
-    "texto2": "-",
-    "texto3": "reading",
-    "texto4": "I enjoy reading books in my free time"
-  },
-  {
-    "texto1": "Pueblo",
-    "texto2": "ciudad little",
-    "texto3": "town",
-    "texto4": "the charming town"
-  },
-  {
-    "texto1": "Mirando-",
-    "texto2": "-fijamente",
-    "texto3": "staring",
-    "texto4": "She caught him staring at her"
-  },
-  {
     "texto1": "Comenzando",
     "texto2": "-",
     "texto3": "starting",
@@ -274,12 +172,6 @@
     "texto2": "comenzó",
     "texto3": "started",
     "texto4": "The concert started right on time."
-  },
-  {
-    "texto1": "Comiendo",
-    "texto2": "-",
-    "texto3": "eating",
-    "texto4": "She is currently eating lunch"
   },
   {
     "texto1": "Más lejos",
@@ -306,166 +198,58 @@
     "texto4": "a clear sky and lots of sunny weather"
   },
   {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
+    "texto1": "diseño",
+    "texto2": "maquetación",
+    "texto3": "layout",
+    "texto4": "the layout for the magazine"
   },
   {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
+    "texto1": "atrapado",
+    "texto2": "capturado",
+    "texto3": "caught",
+    "texto4": "She caught the ball with one hand"
   },
   {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
+    "texto1": "ganar",
+    "texto2": "(de dinero)",
+    "texto3": "earn",
+    "texto4": "She earns a good salary working as a software engineer"
   },
   {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
+    "texto1": "guardado",
+    "texto2": "conservado",
+    "texto3": "kept",
+    "texto4": "He kept the old letters in a box under his bed"
   },
   {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
+    "texto1": "llevar",
+    "texto2": "transportar",
+    "texto3": "carry",
+    "texto4": "She carries her books in a backpack."
   },
   {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
+    "texto1": "cáscaraNuez",
+    "texto2": "resumen",
+    "texto3": "nutshell",
+    "texto4": "In a nutshell, the project was a success"
   },
   {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
+    "texto1": "ventana emergente",
+    "texto2": "de aviso",
+    "texto3": "pop-up",
+    "texto4": "A pop-up window appeared"
   },
   {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
+    "texto1": "desplegable",
+    "texto2": "extraíble",
+    "texto3": "pop-out",
+    "texto4": "The book has pop-out illustrations"
   },
   {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
-  },
-  {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
-  },
-  {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
-  },
-  {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
-  },
-  {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
-  },
-  {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
-  },
-  {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
-  },
-  {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
-  },
-  {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
-  },
-  {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
-  },
-  {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
-  },
-  {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
-  },
-  {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
-  },
-  {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
-  },
-  {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
-  },
-  {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
-  },
-  {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
-  },
-  {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
-  },
-  {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
+    "texto1": "simulacro",
+    "texto2": "objeto simulado",
+    "texto3": "mock",
+    "texto4": "we're mocking (simulando) the database connection"
   },
   {
     "texto1": "Arrepentimiento",
