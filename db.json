@@ -1,260 +1,266 @@
 [
   {
-    "texto1": "diseño",
-    "texto2": "maquetación",
-    "texto3": "layout",
-    "texto4": "the layout for the magazine"
+    "texto1": "Bolso ",
+    "texto2": "cartera",
+    "texto3": "purse",
+    "texto4": "She left her keys in her purse."
   },
   {
-    "texto1": "atrapado",
-    "texto2": "capturado",
-    "texto3": "caught",
-    "texto4": "She caught the ball with one hand"
+    "texto1": "Ridículo",
+    "texto2": "tonto",
+    "texto3": "dorky",
+    "texto4": "He wore a dorky hat to the party."
   },
   {
-    "texto1": "ganar",
-    "texto2": "(de dinero)",
-    "texto3": "earn",
-    "texto4": "She earns a good salary working as a software engineer"
+    "texto1": "Estable",
+    "texto2": "constante",
+    "texto3": "steady",
+    "texto4": "She maintained a steady pace (ritmo)"
   },
   {
-    "texto1": "guardado",
-    "texto2": "conservado",
-    "texto3": "kept",
-    "texto4": "He kept the old letters in a box under his bed"
+    "texto1": "Tendencias ",
+    "texto2": "   ",
+    "texto3": "trends",
+    "texto4": "Current fashion trends include oversized sweaters (suéteres)"
   },
   {
-    "texto1": "llevar",
-    "texto2": "transportar",
-    "texto3": "carry",
-    "texto4": "She carries her books in a backpack."
+    "texto1": "revelar info",
+    "texto2": "Percepción",
+    "texto3": "insights",
+    "texto4": "The insights from the data analysis were invaluable (Descubrimiento)"
   },
   {
-    "texto1": "cáscaraNuez",
+    "texto1": "Fragmentos",
+    "texto2": "Troso pe",
+    "texto3": "snippets",
+    "texto4": "I read snippets of the article to get an overview of the topic"
+  },
+  {
+    "texto1": "Encuesta",
+    "texto2": "sondeo",
+    "texto3": "survey",
+    "texto4": "We conducted a survey to gather opinions from the participants"
+  },
+  {
+    "texto1": "Pericia",
+    "texto2": "conocimiento especiazado",
+    "texto3": "expertise",
+    "texto4": "Her expertise in computer programming is highly (experiencia)"
+  },
+  {
+    "texto1": "Participar",
+    "texto2": "comprometerse",
+    "texto3": "engage",
+    "texto4": "The teacher tried to engage the students in a lively (animada) discussion"
+  },
+  {
+    "texto1": "Codificar",
+    "texto2": "cifrar",
+    "texto3": "encode",
+    "texto4": "The software is designed to encode sensitive information for security"
+  },
+  {
+    "texto1": "engranane",
+    "texto2": "marcha",
+    "texto3": "gear",
+    "texto4": "The car is in first gear. primera marcha"
+  },
+  {
+    "texto1": "Reclamar",
+    "texto2": "afirmar",
+    "texto3": "claim",
+    "texto4": "she decided to claim the prize she had won"
+  },
+  {
+    "texto1": "Lamer",
+    "texto2": "",
+    "texto3": "lick",
+    "texto4": "The dog likes to lick people's hands"
+  },
+  {
+    "texto1": "Pico",
+    "texto2": "cima",
+    "texto3": "peak",
+    "texto4": "They reached the peak of the mountain"
+  },
+  {
+    "texto1": "Confiado",
+    "texto2": "seguro",
+    "texto3": "confident",
+    "texto4": "She felt (sintió) confident about her presentation"
+  },
+  {
+    "texto1": "Respuesta",
+    "texto2": "Responder",
+    "texto3": "answer",
+    "texto4": "Can you provide an answer to the question?"
+  },
+  {
+    "texto1": "Actuar",
+    "texto2": "realizar",
+    "texto3": "perform",
+    "texto4": "The musician will perform a live concert"
+  },
+  {
+    "texto1": "Encriptación",
+    "texto2": "cifrado",
+    "texto3": "encryption",
+    "texto4": "The software uses encryption to secure sensitive data."
+  },
+  {
+    "texto1": "",
+    "texto2": "Función",
+    "texto3": "function",
+    "texto4": "a function relates each input to exactly one output."
+  },
+  {
+    "texto1": "Hash",
     "texto2": "resumen",
-    "texto3": "nutshell",
-    "texto4": "In a nutshell, the project was a success"
+    "texto3": "Hash",
+    "texto4": "The password was stored as a hash"
   },
   {
-    "texto1": "ventana emergente",
-    "texto2": "de aviso",
-    "texto3": "pop-up",
-    "texto4": "A pop-up window appeared"
+    "texto1": "Lógica",
+    "texto2": "",
+    "texto3": "Logic",
+    "texto4": "Logic is the study of principles of reasoning. razonamiento"
   },
   {
-    "texto1": "desplegable",
-    "texto2": "extraíble",
-    "texto3": "pop-out",
-    "texto4": "The book has pop-out illustrations"
+    "texto1": "Cola",
+    "texto2": "fila",
+    "texto3": "queue",
+    "texto4": "People stood (permaneció) in a queue to buy tickets for the concert."
   },
   {
-    "texto1": "simulacro",
-    "texto2": "objeto simulado",
-    "texto3": "mock",
-    "texto4": "we're mocking (simulando) the database connection"
+    "texto1": "memory",
+    "texto2": "",
+    "texto3": "memory",
+    "texto4": "The computer's memory stores and retrieves information for processing"
   },
   {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
+    "texto1": "Sintaxis",
+    "texto2": "",
+    "texto3": "syntax",
+    "texto4": "In programming, correct syntax is crucial"
   },
   {
-    "texto1": "Extensión",
-    "texto2": "propagación ",
-    "texto3": "spread",
-    "texto4": "The spread of the virus has led (provocado) to increased health"
+    "texto1": "Transacción",
+    "texto2": "",
+    "texto3": "transaction",
+    "texto4": "The online purchase was completed with a secure transaction"
   },
   {
-    "texto1": "Tomar el -",
-    "texto2": "control",
-    "texto3": "take over",
-    "texto4": "The new CEO plans to take over the company"
+    "texto1": "Rendimiento",
+    "texto2": "producción",
+    "texto3": "yield",
+    "texto4": "The bond yield is expected (rendimiento d bonos)"
   },
   {
-    "texto1": "Rendirse",
-    "texto2": "abandonar",
-    "texto3": "give up",
-    "texto4": "It's important not to give up in the face of challenges"
+    "texto1": "Caché",
+    "texto2": "",
+    "texto3": "cache ",
+    "texto4": "Web browsers use a cache to store "
   },
   {
-    "texto1": "desarrollarse",
-    "texto2": "Evolucionar",
-    "texto3": "evolve",
-    "texto4": "Technology continues to evolve rapidly"
+    "texto1": "enlugar",
+    "texto2": "extremo",
+    "texto3": "endpoint",
+    "texto4": "The API endpoint is where the client"
   },
   {
-    "texto1": "Tratar",
-    "texto2": "obsequiar",
-    "texto3": "treat",
-    "texto4": "She decided to treat herself to a relaxing spa day"
+    "texto1": "Interfaz",
+    "texto2": "",
+    "texto3": "interface",
+    "texto4": "The user interface of the application is designed"
   },
   {
-    "texto1": "Pasillos",
-    "texto2": "corredores",
-    "texto3": "halls",
-    "texto4": "The students gathered in the halls"
+    "texto1": "Puntero",
+    "texto2": "",
+    "texto3": "pointer",
+    "texto4": "In programming, a pointer is a variable that stores the memory address"
   },
   {
-    "texto1": "Reforzar",
-    "texto2": "asegurar",
-    "texto3": "shore up",
-    "texto4": "The government implemented measures to shore up the economy "
+    "texto1": "token",
+    "texto2": "",
+    "texto3": "token",
+    "texto4": "In cryptocurrency, a token represents a unit of value"
   },
   {
-    "texto1": "Basura",
-    "texto2": "obj inútiles,",
-    "texto3": "junk",
-    "texto4": "it's full of old junk"
+    "texto1": "guion",
+    "texto2": "script",
+    "texto3": "script",
+    "texto4": "She wrote a script for the play (obra)."
   },
   {
-    "texto1": "Colocarlo",
-    "texto2": "ponerlo",
-    "texto3": "lay it",
-    "texto4": "Just lay it on the table"
+    "texto1": "Flujo de trabajo",
+    "texto2": "",
+    "texto3": "workflow",
+    "texto4": "The workflow in the office includes multiple stages"
   },
   {
-    "texto1": "Viaje",
-    "texto2": "trayecto",
-    "texto3": "journey",
-    "texto4": "Their journey across the country "
+    "texto1": "Echar vistazo",
+    "texto2": "mirar rápid",
+    "texto3": "peek",
+    "texto4": "I couldn't resist the temptation to peek at the surprise."
   },
   {
-    "texto1": "Adivinar",
-    "texto2": "suponer",
-    "texto3": "guess",
-    "texto4": "Can you guess what's in the box"
+    "texto1": "habitualmente",
+    "texto2": "Comúnmente",
+    "texto3": "commonly",
+    "texto4": "This feature is commonly used in many applications"
   },
   {
-    "texto1": "Invitado",
-    "texto2": "huésped",
-    "texto3": "guest",
-    "texto4": "We have a special guest joining us"
+    "texto1": "validación",
+    "texto2": "",
+    "texto3": "validation",
+    "texto4": "The system performs validation checks (comprobaciones de validación)"
   },
   {
-    "texto1": "En aprietos",
-    "texto2": "perjudicado",
-    "texto3": "screwed",
-    "texto4": "we'll be really screwed"
+    "texto1": "bucle",
+    "texto2": "ciclo",
+    "texto3": "loop",
+    "texto4": "using a drum (bateria) loop"
   },
   {
-    "texto1": "Fianza",
-    "texto2": "abandonar",
-    "texto3": "bail",
-    "texto4": "I have to bail on our plans tonight"
+    "texto1": "mientras",
+    "texto2": "aunque",
+    "texto3": "While",
+    "texto4": "While (aunque) I agree with the President"
   },
   {
-    "texto1": "Relacionar",
-    "texto2": "contar/narrar",
-    "texto3": "relate",
-    "texto4": "Mary decided to relate her fascinating experience"
+    "texto1": "romper",
+    "texto2": "pausa/recreo",
+    "texto3": "break",
+    "texto4": "Let's take a short break "
   },
   {
-    "texto1": "Estado",
-    "texto2": "declarar",
-    "texto3": "state",
-    "texto4": "She paused for a moment to state her position"
+    "texto1": "nulo",
+    "texto2": "invalido",
+    "texto3": "null",
+    "texto4": "The employee's phone number was null"
   },
   {
-    "texto1": "Despreciar",
-    "texto2": "desdenhar",
-    "texto3": "despise",
-    "texto4": "but despise the dishonesty of her colleague"
+    "texto1": "herencia",
+    "texto2": "",
+    "texto3": "inherited",
+    "texto4": "The prince inherited the throne"
   },
   {
-    "texto1": "Comenzando",
-    "texto2": "-",
-    "texto3": "starting",
-    "texto4": "We are starting a new project"
+    "texto1": "Intentar",
+    "texto2": "Probar",
+    "texto3": "try",
+    "texto4": "I will try my best to finish the project "
   },
   {
-    "texto1": "Empezó",
-    "texto2": "comenzó",
-    "texto3": "started",
-    "texto4": "The concert started right on time."
+    "texto1": "Agarrar",
+    "texto2": "Entender",
+    "texto3": "catch",
+    "texto4": "I managed (logre) to catch the ball before"
   },
   {
-    "texto1": "Más lejos",
-    "texto2": "ADICIONAL",
-    "texto3": "further",
-    "texto4": "We need to conduct realizar further research"
-  },
-  {
-    "texto1": "entendieron",
-    "texto2": "pensó",
-    "texto3": "figured",
-    "texto4": "they figured out what had happened"
-  },
-  {
-    "texto1": "Establecer",
-    "texto2": "solucionar",
-    "texto3": "settle",
-    "texto4": "They decided to settle their differences"
-  },
-  {
-    "texto1": "Soleado",
-    "texto2": "mucho sol",
-    "texto3": "sunny",
-    "texto4": "a clear sky and lots of sunny weather"
-  },
-  {
-    "texto1": "diseño",
-    "texto2": "maquetación",
-    "texto3": "layout",
-    "texto4": "the layout for the magazine"
-  },
-  {
-    "texto1": "atrapado",
-    "texto2": "capturado",
-    "texto3": "caught",
-    "texto4": "She caught the ball with one hand"
-  },
-  {
-    "texto1": "ganar",
-    "texto2": "(de dinero)",
-    "texto3": "earn",
-    "texto4": "She earns a good salary working as a software engineer"
-  },
-  {
-    "texto1": "guardado",
-    "texto2": "conservado",
-    "texto3": "kept",
-    "texto4": "He kept the old letters in a box under his bed"
-  },
-  {
-    "texto1": "llevar",
-    "texto2": "transportar",
-    "texto3": "carry",
-    "texto4": "She carries her books in a backpack."
-  },
-  {
-    "texto1": "cáscaraNuez",
-    "texto2": "resumen",
-    "texto3": "nutshell",
-    "texto4": "In a nutshell, the project was a success"
-  },
-  {
-    "texto1": "ventana emergente",
-    "texto2": "de aviso",
-    "texto3": "pop-up",
-    "texto4": "A pop-up window appeared"
-  },
-  {
-    "texto1": "desplegable",
-    "texto2": "extraíble",
-    "texto3": "pop-out",
-    "texto4": "The book has pop-out illustrations"
-  },
-  {
-    "texto1": "simulacro",
-    "texto2": "objeto simulado",
-    "texto3": "mock",
-    "texto4": "we're mocking (simulando) the database connection"
-  },
-  {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
+    "texto1": "gestionado",
+    "texto2": "administrado",
+    "texto3": "managed ",
+    "texto4": " the team managed (logro) complete the project"
   }
 ]
