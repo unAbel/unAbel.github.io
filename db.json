@@ -18,9 +18,9 @@
     "texto4": "The old house had a shabby appearance"
   },
   {
-    "texto1": "Económico",
+    "texto1": "Indicador",
     "texto2": "Marcar",
-    "texto3": "dial",
+    "texto3": "dial/Pointer",
     "texto4": "I picked up the phone and began to dial her number"
   },
   {
@@ -50,11 +50,11 @@
   {
     "texto1": "Meditar",
     "texto2": "Reflexionar",
-    "texto3": "pondered",
+    "texto3": "pondered Meditate",
     "texto4": "She pondered the decision for days"
   },
   {
-    "texto1": "Interés",
+    "texto1": "Interes algo",
     "texto2": "Estaca/apostar",
     "texto3": "stake",
     "texto4": "He has a significant stake in the success of the company"
@@ -74,7 +74,7 @@
   {
     "texto1": "Mejorar",
     "texto2": "Potenciar",
-    "texto3": "enhance",
+    "texto3": "enhance/Improve",
     "texto4": "Regular exercise can enhance overall health"
   },
   {
@@ -152,7 +152,7 @@
   {
     "texto1": "Afirmar",
     "texto2": "asegurar",
-    "texto3": "assert",
+    "texto3": "assert Affirm",
     "texto4": "He confidently asserted Afirmó con seguridad"
   },
   {
@@ -168,10 +168,10 @@
     "texto4": "The company is currently hiring new employees"
   },
   {
-    "texto1": "Raspar ",
-    "texto2": "x",
+    "texto1": "Raspar/car",
+    "texto2": "rayar",
     "texto3": "to scrape",
-    "texto4": "She had to scrape the mud barro"
+    "texto4": "He accidentally scraped the car"
   },
   {
     "texto1": "Falta",
@@ -240,6 +240,12 @@
     "texto4": "The alarm prompted everyone to evacuate the building"
   },
   {
+    "texto1": "indicación para",
+    "texto2": "reciv rpta ",
+    "texto3": "prompt",
+    "texto4": "The prompt for the essay (ensayo) was"
+  },
+  {
     "texto1": "traje",
     "texto2": "traje formal",
     "texto3": "suit",
@@ -254,12 +260,12 @@
   {
     "texto1": "Inactivo",
     "texto2": "desocupado",
-    "texto3": "idle",
+    "texto3": "idle Inactive",
     "texto4": "the machine is currently idle"
   },
   {
-    "texto1": "Tirar",
-    "texto2": "Tjalar",
+    "texto1": "Tirar/jalar",
+    "texto2": "Extraer",
     "texto3": "pull",
     "texto4": "He tried to pull the heavy box tirar de"
   },
@@ -277,7 +283,7 @@
   },
   {
     "texto1": "filtración",
-    "texto2": "pérdida",
+    "texto2": "Fuga",
     "texto3": "leak",
     "texto4": "There was a leak in the roof gotera"
   },
