@@ -198,7 +198,7 @@
     "texto4": "Bob has a wacky sense of humor"
   },
   {
-    "texto1": "embarrado",
+    "texto1": "fangoso",
     "texto2": "turbio",
     "texto3": "muddy",
     "texto4": "After the rain, the trail was so muddy"
@@ -270,9 +270,9 @@
     "texto4": "He stepped forth to receive the award"
   },
   {
-    "texto1": "asignado",
+    "texto1": "asignar",
     "texto2": "distribuir",
-    "texto3": "allocating",
+    "texto3": "allocate",
     "texto4": "They are currently allocating funds to various projects"
   },
   {
@@ -282,8 +282,8 @@
     "texto4": ""
   },
   {
-    "texto1": "recoger",
-    "texto2": "traer/recuperar",
+    "texto1": "Obtener",
+    "texto2": "Traer/recuperar",
     "texto3": "fetch",
     "texto4": "The 'fetch' command is used to retrieve data"
   },
@@ -319,7 +319,7 @@
   },
   {
     "texto1": "atascado",
-    "texto2": "apretada",
+    "texto2": "bloqueado",
     "texto3": "jammed",
     "texto4": "The traffic was jammed bloqueado"
   },
@@ -414,9 +414,9 @@
     "texto4": "Look yonder, where the mountains touch the sky"
   },
   {
-    "texto1": "tu obra",
-    "texto2": "tu accion",
-    "texto3": "thy deed",
+    "texto1": "obra",
+    "texto2": "accion",
+    "texto3": "deed",
     "texto4": "Thy deed was truly admirable"
   },
   {
