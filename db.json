@@ -19,13 +19,25 @@
   },
   {
     "texto1": "guardado",
-    "texto2": "conservado",
+    "texto2": "Seguir",
     "texto3": "kept",
-    "texto4": "He kept the old letters in a box under his bed"
+    "texto4": "He kept walking despite the rain"
   },
   {
-    "texto1": "llevar",
-    "texto2": "transportar",
+    "texto1": "Guardar",
+    "texto2": "quedarse",
+    "texto3": "keep",
+    "texto4": "Please keep quiet during the movie"
+  },
+  {
+    "texto1": "Tener",
+    "texto2": "Seguir",
+    "texto3": "keep",
+    "texto4": "She keeps a diary to record her thoughts"
+  },
+  {
+    "texto1": "llevar/cargar",
+    "texto2": "Continuar",
     "texto3": "carry",
     "texto4": "She carries her books in a backpack."
   },
@@ -33,7 +45,7 @@
     "texto1": "cáscaraNuez",
     "texto2": "resumen",
     "texto3": "nutshell",
-    "texto4": "In a nutshell, the project was a success"
+    "texto4": "In a nutshell (resumiendo), the project was a success"
   },
   {
     "texto1": "ventana emergente",
@@ -43,9 +55,9 @@
   },
   {
     "texto1": "desplegable",
-    "texto2": "extraíble",
+    "texto2": "emergente  ",
     "texto3": "pop-out",
-    "texto4": "The book has pop-out illustrations"
+    "texto4": "The website has a pop-out menu"
   },
   {
     "texto1": "simulacro",
@@ -84,8 +96,14 @@
     "texto4": "Technology continues to evolve rapidly"
   },
   {
+    "texto1": "Implicar",
+    "texto2": "Relacionado",
+    "texto3": "evolve",
+    "texto4": "The accident involved three cars"
+  },
+  {
     "texto1": "Tratar",
-    "texto2": "obsequiar",
+    "texto2": "Exp Agradable",
     "texto3": "treat",
     "texto4": "She decided to treat herself to a relaxing spa day"
   },
@@ -153,13 +171,19 @@
     "texto1": "Estado",
     "texto2": "declarar",
     "texto3": "state",
-    "texto4": "She paused for a moment to state her position"
+    "texto4": "She paused for a moment to state (expresar) her position"
   },
   {
     "texto1": "Despreciar",
     "texto2": "desdenhar",
     "texto3": "despise",
     "texto4": "but despise the dishonesty of her colleague"
+  },
+  {
+    "texto1": "a pesar de",
+    "texto2": "-",
+    "texto3": "despite",
+    "texto4": "She keeps smiling, despite all ..."
   },
   {
     "texto1": "Comenzando",
@@ -180,6 +204,18 @@
     "texto4": "We need to conduct realizar further research"
   },
   {
+    "texto1": "-",
+    "texto2": "-",
+    "texto3": "further",
+    "texto4": "para indicar una mayor extensión, cantidad o grado"
+  },
+  {
+    "texto1": "calcular",
+    "texto2": "pensar/entender",
+    "texto3": "figure",
+    "texto4": "I figure it out (Lo averiguo.)"
+  },
+  {
     "texto1": "entendieron",
     "texto2": "pensó",
     "texto3": "figured",
@@ -196,168 +232,6 @@
     "texto2": "mucho sol",
     "texto3": "sunny",
     "texto4": "a clear sky and lots of sunny weather"
-  },
-  {
-    "texto1": "diseño",
-    "texto2": "maquetación",
-    "texto3": "layout",
-    "texto4": "the layout for the magazine"
-  },
-  {
-    "texto1": "atrapado",
-    "texto2": "capturado",
-    "texto3": "caught",
-    "texto4": "She caught the ball with one hand"
-  },
-  {
-    "texto1": "ganar",
-    "texto2": "(de dinero)",
-    "texto3": "earn",
-    "texto4": "She earns a good salary working as a software engineer"
-  },
-  {
-    "texto1": "guardado",
-    "texto2": "conservado",
-    "texto3": "kept",
-    "texto4": "He kept the old letters in a box under his bed"
-  },
-  {
-    "texto1": "llevar",
-    "texto2": "transportar",
-    "texto3": "carry",
-    "texto4": "She carries her books in a backpack."
-  },
-  {
-    "texto1": "cáscaraNuez",
-    "texto2": "resumen",
-    "texto3": "nutshell",
-    "texto4": "In a nutshell, the project was a success"
-  },
-  {
-    "texto1": "ventana emergente",
-    "texto2": "de aviso",
-    "texto3": "pop-up",
-    "texto4": "A pop-up window appeared"
-  },
-  {
-    "texto1": "desplegable",
-    "texto2": "extraíble",
-    "texto3": "pop-out",
-    "texto4": "The book has pop-out illustrations"
-  },
-  {
-    "texto1": "simulacro",
-    "texto2": "objeto simulado",
-    "texto3": "mock",
-    "texto4": "we're mocking (simulando) the database connection"
-  },
-  {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "expressed"
-  },
-  {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "She expressed deep regret"
-  },
-  {
-    "texto1": "Excavar",
-    "texto2": "Investigar",
-    "texto3": "dig",
-    "texto4": "The journalist decided to dig into the details"
-  },
-  {
-    "texto1": "Periodista",
-    "texto2": "Reportero",
-    "texto3": "journalist",
-    "texto4": "La periodista decidió profundizar en los detalles"
-  },
-  {
-    "texto1": "Frutos secos",
-    "texto2": "Chiflado",
-    "texto3": "nuts",
-    "texto4": "The professor is a bit nuts"
-  },
-  {
-    "texto1": "Valor",
-    "texto2": "Valer pena",
-    "texto3": "worth",
-    "texto4": "has a high market worth"
-  },
-  {
-    "texto1": "Licuadora",
-    "texto2": "Batidora",
-    "texto3": "blender",
-    "texto4": "She used the blender to make a smoothie (batido)"
-  },
-  {
-    "texto1": "Manejar",
-    "texto2": "asa/mango",
-    "texto3": "handle",
-    "texto4": "can you handle the responsibility of leading the project"
-  },
-  {
-    "texto1": "Áspero",
-    "texto2": "Difícil",
-    "texto3": "rough",
-    "texto4": "The surface of the rock was rough (rugosa)"
-  },
-  {
-    "texto1": "Camino",
-    "texto2": "Manera",
-    "texto3": "way",
-    "texto4": "There's no right way to solve this problem"
-  },
-  {
-    "texto1": "Imágenes",
-    "texto2": "Filmación",
-    "texto3": "footage",
-    "texto4": "The news report showed footage from the scene of the accident."
-  },
-  {
-    "texto1": "Paquete",
-    "texto2": "Envase",
-    "texto3": "package",
-    "texto4": "The cereal box has a new, eco-friendly packaging"
-  },
-  {
-    "texto1": "Duda",
-    "texto2": "Desconfianza",
-    "texto3": "doubt",
-    "texto4": "There is some doubt about the accuracy"
-  },
-  {
-    "texto1": "Cerveza",
-    "texto2": "z",
-    "texto3": "beer",
-    "texto4": "he enjoys relaxing with a cold beer"
-  },
-  {
-    "texto1": "Barba",
-    "texto2": "x",
-    "texto3": "beard",
-    "texto4": "He decided to grow a beard during the winter"
-  },
-  {
-    "texto1": "pajaro",
-    "texto2": "z",
-    "texto3": "bird",
-    "texto4": " I woke up to the sound of birds singing"
-  },
-  {
-    "texto1": "Mejor",
-    "texto2": "Superior",
-    "texto3": "better",
-    "texto4": "This new version of the software is better"
-  },
-  {
-    "texto1": "Divagar",
-    "texto2": "x",
-    "texto3": "digress",
-    "texto4": "The professor tends to digress during lectures"
   },
   {
     "texto1": "Apostar",
