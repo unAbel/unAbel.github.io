@@ -162,15 +162,33 @@
     "texto4": "This tool is fit for the job"
   },
   {
-    "texto1": "Encajar",
+    "texto1": "Caber",
     "texto2": "Ajustar",
     "texto3": "Fit fitted",
-    "texto4": "Now I see what you mean"
+    "texto4": "The book doesn't fit in the"
   },
   {
     "texto1": "Escenificado",
     "texto2": "Escenificado",
     "texto3": "See",
     "texto4": "Now I see what you mean"
+  },
+  {
+    "texto1": "Aparecer",
+    "texto2": "Parecer",
+    "texto3": "appear",
+    "texto4": "He appears to be tired"
+  },
+  {
+    "texto1": "Preguntar",
+    "texto2": "Pedir/Invitar",
+    "texto3": "ask",
+    "texto4": "He asked her to the dance"
+  },
+  {
+    "texto1": "Tabla",
+    "texto2": "Pizarra",
+    "texto3": "board",
+    "texto4": "She wrote the lesson on the board"
   }
 ]
