@@ -532,5 +532,17 @@
     "texto2": "pista",
     "texto3": "lead",
     "texto4": "His actions may lead to consequences."
+  },
+  {
+    "texto1": "Pasado ",
+    "texto2": "Más allá de",
+    "texto3": "past",
+    "texto4": "He often talks about his past."
+  },
+  {
+    "texto1": "Ganar",
+    "texto2": "Merecer",
+    "texto3": "earn",
+    "texto4": "He earns his living by teaching"
   }
 ]
