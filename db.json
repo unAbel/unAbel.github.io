@@ -544,5 +544,35 @@
     "texto2": "Merecer",
     "texto3": "earn",
     "texto4": "He earns his living by teaching"
+  },
+  {
+    "texto1": "Decir",
+    "texto2": "Distinguir",
+    "texto3": "tell",
+    "texto4": "It's hard to tell the twins apart."
+  },
+  {
+    "texto1": "Robar",
+    "texto2": "Llevarse",
+    "texto3": "steal",
+    "texto4": "Someone tried to steal my bike"
+  },
+  {
+    "texto1": "Acero",
+    "texto2": "-",
+    "texto3": "Steel",
+    "texto4": "The bridge is made of steel."
+  },
+  {
+    "texto1": "Cercas",
+    "texto2": "Vallas",
+    "texto3": "Fences",
+    "texto4": "The farm is surrounded by fences."
+  },
+  {
+    "texto1": "earn",
+    "texto2": "earn",
+    "texto3": "earn",
+    "texto4": "earn"
   }
 ]
