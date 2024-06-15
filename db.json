@@ -690,9 +690,21 @@
     "texto4": "My friends come over every weekend"
   },
   {
-    "texto1": "earn",
-    "texto2": "earn",
-    "texto3": "earn",
-    "texto4": "earn"
+    "texto1": "Grieta",
+    "texto2": "Romper",
+    "texto3": "crack",
+    "texto4": "He tried to crack the code"
+  },
+  {
+    "texto1": "Cumplimiento",
+    "texto2": "Realización",
+    "texto3": "fulfillment",
+    "texto4": "She found great fulfillment in her career"
+  },
+  {
+    "texto1": "Gracia",
+    "texto2": "Favor",
+    "texto3": "grace",
+    "texto4": "We ask for God's grace"
   }
 ]
