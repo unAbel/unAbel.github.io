@@ -262,5 +262,329 @@
     "texto2": "Dar",
     "texto3": "lend",
     "texto4": "I'm happy to lend you my camera"
+  },
+  {
+    "texto1": "sensación -",
+    "texto2": "frio/fresco",
+    "texto3": "chilly",
+    "texto4": "because it's chilly outside (hace frio)"
+  },
+  {
+    "texto1": "pagar",
+    "texto2": "cant pagada",
+    "texto3": "payment",
+    "texto4": "Please make the payment (realiza el pago)"
+  },
+  {
+    "texto1": "Plomo",
+    "texto2": "Indicio/pista",
+    "texto3": "lead",
+    "texto4": "The pipes in older houses used to be made of lead"
+  },
+  {
+    "texto1": "punto de acceso",
+    "texto2": "pasarela",
+    "texto3": "gateway",
+    "texto4": "The website serves as a gateway to a wealth of information"
+  },
+  {
+    "texto1": "abundancia-",
+    "texto2": "d-cosas",
+    "texto3": "wealth",
+    "texto4": "El sitio web sirve como una puerta de entrada a una gran cantidad de información"
+  },
+  {
+    "texto1": "guardar cambios",
+    "texto2": "Cometer",
+    "texto3": "commit",
+    "texto4": "He committed a crime and was sentenced to prison"
+  },
+  {
+    "texto1": "Atascado",
+    "texto2": "Congestionado",
+    "texto3": "jammed",
+    "texto4": "The printer is jammed with paper"
+  },
+  {
+    "texto1": "guió",
+    "texto2": "encabezó",
+    "texto3": "Led (past lead)",
+    "texto4": "She led the group through the forest"
+  },
+  {
+    "texto1": "Encabezamiento",
+    "texto2": "lider",
+    "texto3": "Leading",
+    "texto4": "The company's leading position in the market"
+  },
+  {
+    "texto1": "Rendir/ceder",
+    "texto2": "Rendimiento",
+    "texto3": "yield",
+    "texto4": "The farm yields (produce) a large"
+  },
+  {
+    "texto1": "Insecto",
+    "texto2": "Error",
+    "texto3": "bug",
+    "texto4": "because of a bug in the code"
+  },
+  {
+    "texto1": "Débil",
+    "texto2": "NO efectivo",
+    "texto3": "Weak",
+    "texto4": "He felt weak (Se sintió débil)"
+  },
+  {
+    "texto1": "Muñeco",
+    "texto2": "Tonto",
+    "texto3": "dummy",
+    "texto4": "Don't be such a dummy"
+  },
+  {
+    "texto1": "Traer",
+    "texto2": "causar",
+    "texto3": "Bring",
+    "texto4": " bring trouble upon himself"
+  },
+  {
+    "texto1": "cantar",
+    "texto2": "-",
+    "texto3": "sing",
+    "texto4": "She loves to sing in the choir"
+  },
+  {
+    "texto1": "Escaso",
+    "texto2": "Moderado",
+    "texto3": "sparing",
+    "texto4": "She is sparing in her use of sugar"
+  },
+  {
+    "texto1": "Con respecto a",
+    "texto2": "sobre..",
+    "texto3": "regarding",
+    "texto4": "The manager spoke regarding the new policy"
+  },
+  {
+    "texto1": "Asombrar",
+    "texto2": "Sorprender",
+    "texto3": "amaze amazed",
+    "texto4": "His performance amazed everyone in the room"
+  },
+  {
+    "texto1": "Debido",
+    "texto2": "Esperado",
+    "texto3": "due",
+    "texto4": "The report is due (esperado) tomorrow."
+  },
+  {
+    "texto1": "Vencido",
+    "texto2": "Adeudado",
+    "texto3": "due",
+    "texto4": "The rent is due (es adeudada)."
+  },
+  {
+    "texto1": "Pasar el",
+    "texto2": " tiempo",
+    "texto3": "Hang out",
+    "texto4": "I'm planning to hang out with my friends"
+  },
+  {
+    "texto1": "Ver (ojos)",
+    "texto2": "Entender",
+    "texto3": "See seen",
+    "texto4": "Now I see what you mean"
+  },
+  {
+    "texto1": "Escenificado",
+    "texto2": "Montado",
+    "texto3": "stage",
+    "texto4": "The protest was staged (montada)"
+  },
+  {
+    "texto1": "Ser apto",
+    "texto2": "Adecuado",
+    "texto3": "Fit",
+    "texto4": "This tool is fit for the job"
+  },
+  {
+    "texto1": "Caber",
+    "texto2": "Ajustar",
+    "texto3": "Fit fitted",
+    "texto4": "The book doesn't fit in the"
+  },
+  {
+    "texto1": "Escenificado",
+    "texto2": "Escenificado",
+    "texto3": "See",
+    "texto4": "Now I see what you mean"
+  },
+  {
+    "texto1": "Aparecer",
+    "texto2": "Parecer",
+    "texto3": "appear",
+    "texto4": "He appears to be tired"
+  },
+  {
+    "texto1": "Preguntar",
+    "texto2": "Pedir/Invitar",
+    "texto3": "ask",
+    "texto4": "He asked her to the dance"
+  },
+  {
+    "texto1": "Tabla",
+    "texto2": "Pizarra",
+    "texto3": "board",
+    "texto4": "She wrote the lesson on the board"
+  },
+  {
+    "texto1": "Suave",
+    "texto2": "Amable",
+    "texto3": "gentle",
+    "texto4": "He gave her a gentle touch"
+  },
+  {
+    "texto1": "Confiar",
+    "texto2": "Depender",
+    "texto3": "rely",
+    "texto4": "They rely on public transportation"
+  },
+  {
+    "texto1": "Capaz",
+    "texto2": "Hábil",
+    "texto3": "able",
+    "texto4": "She is able to solve complex problems"
+  },
+  {
+    "texto1": "Apuntar",
+    "texto2": "Aspirar/objetivo",
+    "texto3": "aim",
+    "texto4": "She aims to become a doctor"
+  },
+  {
+    "texto1": "Revolcarse",
+    "texto2": "Disfrutar",
+    "texto3": "wallow",
+    "texto4": "The pigs wallow in the mud"
+  },
+  {
+    "texto1": "Hundirse",
+    "texto2": "Caer",
+    "texto3": "sink",
+    "texto4": "The ship began to sink rapidly"
+  },
+  {
+    "texto1": "Por el bien de",
+    "texto2": "En nombre de",
+    "texto3": "sakes",
+    "texto4": "She stayed in the marriage for the sake of the children"
+  },
+  {
+    "texto1": "Sello",
+    "texto2": "foca",
+    "texto3": "seal",
+    "texto4": "The official document bore (llevaba) the seal"
+  },
+  {
+    "texto1": "Ingenuo/a",
+    "texto2": "Inocente",
+    "texto3": "naive",
+    "texto4": "She was naive to trust him so easily"
+  },
+  {
+    "texto1": "Rayo",
+    "texto2": "Viga",
+    "texto3": "beam",
+    "texto4": "The laser emitted a powerful beam"
+  },
+  {
+    "texto1": "Destino",
+    "texto2": "Fatalidad",
+    "texto3": "fate",
+    "texto4": "He believed that his fate was already decided"
+  },
+  {
+    "texto1": "Suerte",
+    "texto2": "Destino",
+    "texto3": "fate",
+    "texto4": "The fate of the project depends on the final decision"
+  },
+  {
+    "texto1": "Pruebas",
+    "texto2": "Juicios",
+    "texto3": "trials",
+    "texto4": "The new drug has passed several trials"
+  },
+  {
+    "texto1": "Significado/intención",
+    "texto2": "Destinado",
+    "texto3": "meant",
+    "texto4": "This gift was meant for you"
+  },
+  {
+    "texto1": "Base",
+    "texto2": "Fundamento",
+    "texto3": "basis",
+    "texto4": "His theory has a scientific basis"
+  },
+  {
+    "texto1": "Preocupación",
+    "texto2": "Interés",
+    "texto3": "concern",
+    "texto4": "This issue is of great concern to the community"
+  },
+  {
+    "texto1": "Esfuerzo",
+    "texto2": "Intento",
+    "texto3": "effort",
+    "texto4": "His effort in the project was remarkable"
+  },
+  {
+    "texto1": "Pensado",
+    "texto2": "Calculado",
+    "texto3": "figured",
+    "texto4": "She figured out the math problem quickly"
+  },
+  {
+    "texto1": "Tasa",
+    "texto2": "Tarifa",
+    "texto3": "rate",
+    "texto4": "The birth rate in the country has increased"
+  },
+  {
+    "texto1": "Consideración",
+    "texto2": "Respecto",
+    "texto3": "regard",
+    "texto4": "In regard to your request, we will respond soon"
+  },
+  {
+    "texto1": "Liberar",
+    "texto2": "Lanzar",
+    "texto3": "release",
+    "texto4": "The company will release a new product next month."
+  },
+  {
+    "texto1": "Golpear",
+    "texto2": "Huelga",
+    "texto3": "strike",
+    "texto4": "He tried to strike the ball with all his strength"
+  },
+  {
+    "texto1": "Significado",
+    "texto2": "Destinado",
+    "texto3": "meant",
+    "texto4": "This"
+  },
+  {
+    "texto1": "desmoronarse",
+    "texto2": "deshacerse",
+    "texto3": "crumble",
+    "texto4": "The old ruins began to crumble"
+  },
+  {
+    "texto1": "Manejar",
+    "texto2": "asa/mango",
+    "texto3": "handle",
+    "texto4": "can you handle the responsibility of leading the project"
   }
 ]
