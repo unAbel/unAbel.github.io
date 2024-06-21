@@ -210,12 +210,6 @@
     "texto4": "The singer will feature in tonight's concert"
   },
   {
-    "texto1": "Tbvvvvvvvvv",
-    "texto2": "Tbvvvvvvvvv",
-    "texto3": "healthier",
-    "texto4": "Tbvvvvvvvvv"
-  },
-  {
     "texto1": "relacion",
     "texto2": "vinculo",
     "texto3": "link",
@@ -283,15 +277,15 @@
   },
   {
     "texto1": "punto de acceso",
-    "texto2": "pasarela",
+    "texto2": "paso intermedio",
     "texto3": "gateway",
     "texto4": "The website serves as a gateway to a wealth of information"
   },
   {
-    "texto1": "abundancia-",
-    "texto2": "d-cosas",
+    "texto1": "abundancia ",
+    "texto2": "Riqueza ",
     "texto3": "wealth",
-    "texto4": "El sitio web sirve como una puerta de entrada a una gran cantidad de información"
+    "texto4": "His wealth allows him to travel around the world"
   },
   {
     "texto1": "guardar cambios",
@@ -670,6 +664,12 @@
     "texto2": "Atributos ",
     "texto3": "characteristics",
     "texto4": "The characteristics of the new model are impressive"
+  },
+  {
+    "texto1": "Resolver ",
+    "texto2": "Establecerse",
+    "texto3": "settle",
+    "texto4": "They settled in a small village"
   },
   {
     "texto1": "explotar",
