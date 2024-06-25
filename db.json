@@ -18,10 +18,10 @@
     "texto4": "She figured out the math problem quickly"
   },
   {
-    "texto1": "Significado",
-    "texto2": "Destinado",
-    "texto3": "meant",
-    "texto4": "This"
+    "texto1": "Gritar ",
+    "texto2": "Chillar ",
+    "texto3": "yell",
+    "texto4": "He started to yell when he saw the spider"
   },
   {
     "texto1": "desmoronarse",
@@ -48,22 +48,46 @@
     "texto4": "The rule applies to everyone except children"
   },
   {
-    "texto1": "explotar",
-    "texto2": "perder",
-    "texto3": "sight",
-    "texto4": "believe"
+    "texto1": "Materia",
+    "texto2": "Asunto",
+    "texto3": "matter",
+    "texto4": "This is a serious matter that needs our attention"
   },
   {
-    "texto1": "explotar",
-    "texto2": "perder",
-    "texto3": "sight",
-    "texto4": "believe"
+    "texto1": "Problema",
+    "texto2": "Cuestión",
+    "texto3": "matter",
+    "texto4": "It’s a matter of time before we find a solution."
   },
   {
-    "texto1": "explotar",
-    "texto2": "perder",
-    "texto3": "sight",
-    "texto4": "believe"
+    "texto1": "Murmurar",
+    "texto2": "-",
+    "texto3": "mutter",
+    "texto4": "He muttered something under his breath."
+  },
+  {
+    "texto1": "Caer ",
+    "texto2": "Otoño ",
+    "texto3": "fall",
+    "texto4": "Be careful not to fall off the ladder"
+  },
+  {
+    "texto1": "Desplomarse ",
+    "texto2": "Decaer ",
+    "texto3": "fall",
+    "texto4": "The old building finally fell after the earthquake"
+  },
+  {
+    "texto1": "Masticar ",
+    "texto2": "Roer ",
+    "texto3": "chew",
+    "texto4": "The dog loves to chew on bones"
+  },
+  {
+    "texto1": "Levantar ",
+    "texto2": "Alzar/Elevar",
+    "texto3": "lift",
+    "texto4": "She can lift heavy weights"
   },
   {
     "texto1": "explotar",
