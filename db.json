@@ -204,6 +204,42 @@
     "texto4": "The car’s motor is very powerful."
   },
   {
+    "texto1": "Evaluar",
+    "texto2": "Valorar",
+    "texto3": "assess",
+    "texto4": "The teacher needs to assess the students' progress"
+  },
+  {
+    "texto1": "Postre",
+    "texto2": "Dulce",
+    "texto3": "dessert",
+    "texto4": "I had a delicious dessert after dinner"
+  },
+  {
+    "texto1": "Merecer",
+    "texto2": "-",
+    "texto3": "deserve",
+    "texto4": "She deserves a promotion for her hard work"
+  },
+  {
+    "texto1": "Desierto",
+    "texto2": "Abandonar",
+    "texto3": "desert",
+    "texto4": "The Sahara is the largest hot desert in the world"
+  },
+  {
+    "texto1": "Debido",
+    "texto2": "Adeudado",
+    "texto3": "due",
+    "texto4": "The train is due to arrive at 5 PM."
+  },
+  {
+    "texto1": "merecido",
+    "texto2": "debido ",
+    "texto3": "due",
+    "texto4": "The event was canceled due to bad weather"
+  },
+  {
     "texto1": "explotar",
     "texto2": "perder",
     "texto3": "sight",
