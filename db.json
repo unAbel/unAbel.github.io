@@ -1,191 +1,5 @@
 [
   {
-    "texto1": "Despedir ",
-    "texto2": "Ignorar ",
-    "texto3": "blow off",
-    "texto4": "He decided to blow off his responsibilities"
-  },
-  {
-    "texto1": "Figura",
-    "texto2": "Personaje",
-    "texto3": "figure",
-    "texto4": "She is a prominent figure in the community"
-  },
-  {
-    "texto1": "Pensado",
-    "texto2": "Calculado",
-    "texto3": "figured",
-    "texto4": "She figured out the math problem quickly"
-  },
-  {
-    "texto1": "Gritar ",
-    "texto2": "Chillar ",
-    "texto3": "yell",
-    "texto4": "He started to yell when he saw the spider"
-  },
-  {
-    "texto1": "desmoronarse",
-    "texto2": "deshacerse",
-    "texto3": "crumble",
-    "texto4": "The old ruins began to crumble"
-  },
-  {
-    "texto1": "Envolver ",
-    "texto2": "Envoltura ",
-    "texto3": "wrap",
-    "texto4": "Remove the wrap before eating"
-  },
-  {
-    "texto1": "Aceptar ",
-    "texto2": "Admitir",
-    "texto3": "Accept",
-    "texto4": "She accepted the job offer"
-  },
-  {
-    "texto1": "Exceptuar",
-    "texto2": "Excluir",
-    "texto3": "Except",
-    "texto4": "The rule applies to everyone except children"
-  },
-  {
-    "texto1": "Materia",
-    "texto2": "Asunto",
-    "texto3": "matter",
-    "texto4": "This is a serious matter that needs our attention"
-  },
-  {
-    "texto1": "Problema",
-    "texto2": "Cuestión",
-    "texto3": "matter",
-    "texto4": "It’s a matter of time before we find a solution."
-  },
-  {
-    "texto1": "Murmurar",
-    "texto2": "-",
-    "texto3": "mutter",
-    "texto4": "He muttered something under his breath."
-  },
-  {
-    "texto1": "Caer ",
-    "texto2": "Otoño ",
-    "texto3": "fall",
-    "texto4": "Be careful not to fall off the ladder"
-  },
-  {
-    "texto1": "Desplomarse ",
-    "texto2": "Decaer ",
-    "texto3": "fall",
-    "texto4": "The old building finally fell after the earthquake"
-  },
-  {
-    "texto1": "Masticar ",
-    "texto2": "Roer ",
-    "texto3": "chew",
-    "texto4": "The dog loves to chew on bones"
-  },
-  {
-    "texto1": "Levantar ",
-    "texto2": "Alzar/Elevar",
-    "texto3": "lift",
-    "texto4": "She can lift heavy weights"
-  },
-  {
-    "texto1": "Estar de pie",
-    "texto2": "Permanecer ",
-    "texto3": "stood",
-    "texto4": "They stood firm in their decision"
-  },
-  {
-    "texto1": "Tímido ",
-    "texto2": "Reservado ",
-    "texto3": "shy",
-    "texto4": "He is too shy to speak in public"
-  },
-  {
-    "texto1": "lago",
-    "texto2": "-",
-    "texto3": "Lake",
-    "texto4": "They went swimming in the lake"
-  },
-  {
-    "texto1": "Lámpara",
-    "texto2": "-",
-    "texto3": "Lamp",
-    "texto4": "She turned on the lamp to read"
-  },
-  {
-    "texto1": "Tierra",
-    "texto2": "Terreno",
-    "texto3": "Aterrizar",
-    "texto4": "They bought a piece of land."
-  },
-  {
-    "texto1": "Aplaudir",
-    "texto2": "Dar palmada",
-    "texto3": "clap",
-    "texto4": "The audience began to clap after the performanc"
-  },
-  {
-    "texto1": "Cortar",
-    "texto2": "Sujetador",
-    "texto3": "clip",
-    "texto4": "He used a clip to keep the documents together"
-  },
-  {
-    "texto1": "Contento",
-    "texto2": "Agradecido",
-    "texto3": "Glad",
-    "texto4": "I'm glad you could come to the party."
-  },
-  {
-    "texto1": "brillar",
-    "texto2": "Resplandecer",
-    "texto3": "glow",
-    "texto4": "The embers of the fire continued to glow"
-  },
-  {
-    "texto1": "Brazas",
-    "texto2": "perder",
-    "texto3": "embers",
-    "texto4": "The embers of the campfire (brazas de la fogata)"
-  },
-  {
-    "texto1": "Insignia",
-    "texto2": "Placa",
-    "texto3": "badge",
-    "texto4": "He proudly wore his police badge"
-  },
-  {
-    "texto1": "Lote",
-    "texto2": "Remesa",
-    "texto3": "batch",
-    "texto4": "She baked a batch of cookies"
-  },
-  {
-    "texto1": "Educar",
-    "texto2": "Instruir",
-    "texto3": "educate",
-    "texto4": "Teachers work hard to educate their students."
-  },
-  {
-    "texto1": "Debido",
-    "texto2": "Vencido",
-    "texto3": "Programado",
-    "texto4": "The train is due to arrive at 6 PM"
-  },
-  {
-    "texto1": "Vapor",
-    "texto2": "Vapear",
-    "texto3": "steam",
-    "texto4": "The kettle releases steam when the water boils"
-  },
-  {
-    "texto1": "Datos ",
-    "texto2": "Registros ",
-    "texto3": "Data",
-    "texto4": "datos organizados y procesados o guardados"
-  },
-  {
     "texto1": "Deber mor/legal ",
     "texto2": "Impuesto ",
     "texto3": "duty",
@@ -196,108 +10,6 @@
     "texto2": "Servicio ",
     "texto3": "duty",
     "texto4": "He was called to active duty in the army"
-  },
-  {
-    "texto1": "Motor ",
-    "texto2": "Mecanismo ",
-    "texto3": "motor",
-    "texto4": "The car’s motor is very powerful."
-  },
-  {
-    "texto1": "Evaluar",
-    "texto2": "Valorar",
-    "texto3": "assess",
-    "texto4": "The teacher needs to assess the students' progress"
-  },
-  {
-    "texto1": "Postre",
-    "texto2": "Dulce",
-    "texto3": "dessert",
-    "texto4": "I had a delicious dessert after dinner"
-  },
-  {
-    "texto1": "Merecer",
-    "texto2": "-",
-    "texto3": "deserve",
-    "texto4": "She deserves a promotion for her hard work"
-  },
-  {
-    "texto1": "Desierto",
-    "texto2": "Abandonar",
-    "texto3": "desert",
-    "texto4": "The Sahara is the largest hot desert in the world"
-  },
-  {
-    "texto1": "Debido",
-    "texto2": "Adeudado",
-    "texto3": "due",
-    "texto4": "The train is due to arrive at 5 PM."
-  },
-  {
-    "texto1": "merecido",
-    "texto2": "debido ",
-    "texto3": "due",
-    "texto4": "The event was canceled due to bad weather"
-  },
-  {
-    "texto1": "Despedir",
-    "texto2": "Descartar",
-    "texto3": "dismiss",
-    "texto4": "The company decided to dismiss several employees"
-  },
-  {
-    "texto1": "Divagar",
-    "texto2": "Deambular",
-    "texto3": "ramble",
-    "texto4": "He tends to ramble during his speeches."
-  },
-  {
-    "texto1": "Cerrar",
-    "texto2": "Cercano",
-    "texto3": "close",
-    "texto4": "The store is close to my house"
-  },
-  {
-    "texto1": "Multitud",
-    "texto2": "Público",
-    "texto3": "crowd",
-    "texto4": "The crowd cheered loudly at the concert"
-  },
-  {
-    "texto1": "Turnos",
-    "texto2": "Cambios",
-    "texto3": "shift",
-    "texto4": "The nurses work in shifts to provide 24-hour care."
-  },
-  {
-    "texto1": "Duda",
-    "texto2": "Incertidumbre",
-    "texto3": "doubt",
-    "texto4": "She expressed her doubt about the plan's success"
-  },
-  {
-    "texto1": "MÁS lejos",
-    "texto2": "Adicional",
-    "texto3": "further",
-    "texto4": " If you need further information, please contact us"
-  },
-  {
-    "texto1": "ReBOTAR",
-    "texto2": "Brincar",
-    "texto3": "bounce",
-    "texto4": "The ball bounced off the wall."
-  },
-  {
-    "texto1": "Agotarse ",
-    "texto2": "Quedarse sin",
-    "texto3": "run out",
-    "texto4": "The store has run out of bread."
-  },
-  {
-    "texto1": "Escalera",
-    "texto2": "Escalafón",
-    "texto3": "ladder",
-    "texto4": "He climbed the ladder to reach the roof."
   },
   {
     "texto1": "Encontrarse",
@@ -312,9 +24,39 @@
     "texto4": "Their plan fell apart at the last moment"
   },
   {
+    "texto1": "Despedir ",
+    "texto2": "Ignorar ",
+    "texto3": "blow off",
+    "texto4": "He decided to blow off his responsibilities"
+  },
+  {
+    "texto1": "Agotarse ",
+    "texto2": "Quedarse sin",
+    "texto3": "run out",
+    "texto4": "The store has run out of bread."
+  },
+  {
+    "texto1": "believe",
+    "texto2": "believe",
+    "texto3": "believe",
+    "texto4": "believe"
+  },
+  {
     "texto1": "explotar",
     "texto2": "perder",
     "texto3": "sight",
+    "texto4": "believe"
+  },
+  {
+    "texto1": "explotar",
+    "texto2": "perder",
+    "texto3": "sight",
+    "texto4": "believe"
+  },
+  {
+    "texto1": "believe",
+    "texto2": "believe",
+    "texto3": "believe",
     "texto4": "believe"
   }
 ]
