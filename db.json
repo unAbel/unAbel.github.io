@@ -12,22 +12,16 @@
     "texto4": "He was called to active duty in the army"
   },
   {
+    "texto1": "Lote",
+    "texto2": "Remesa",
+    "texto3": "batch",
+    "texto4": "She baked a batch of cookies"
+  },
+  {
     "texto1": "Encontrarse",
     "texto2": "chocar",
     "texto3": "ran into",
     "texto4": "I ran into an old friend at the store"
-  },
-  {
-    "texto1": "Desmoronarse ",
-    "texto2": "Venirse abajo",
-    "texto3": "fell apart",
-    "texto4": "Their plan fell apart at the last moment"
-  },
-  {
-    "texto1": "Despedir ",
-    "texto2": "Ignorar ",
-    "texto3": "blow off",
-    "texto4": "He decided to blow off his responsibilities"
   },
   {
     "texto1": "Agotarse ",
@@ -36,22 +30,76 @@
     "texto4": "The store has run out of bread."
   },
   {
-    "texto1": "believe",
-    "texto2": "believe",
-    "texto3": "believe",
-    "texto4": "believe"
+    "texto1": "Despedir ",
+    "texto2": "Ignorar ",
+    "texto3": "blow off",
+    "texto4": "He decided to blow off his responsibilities"
   },
   {
-    "texto1": "explotar",
-    "texto2": "perder",
-    "texto3": "sight",
-    "texto4": "believe"
+    "texto1": "Desmoronarse ",
+    "texto2": "Venirse abajo",
+    "texto3": "fell apart",
+    "texto4": "Their plan fell apart at the last moment"
   },
   {
-    "texto1": "explotar",
-    "texto2": "perder",
-    "texto3": "sight",
-    "texto4": "believe"
+    "texto1": "Levantarse",
+    "texto2": "Despertarse",
+    "texto3": "get up",
+    "texto4": "I get up at 7 AM every day"
+  },
+  {
+    "texto1": "Subirse",
+    "texto2": "Llevarse bien",
+    "texto3": "get on",
+    "texto4": "They get on well with each other"
+  },
+  {
+    "texto1": "Bajarse",
+    "texto2": "Salir",
+    "texto3": "get off",
+    "texto4": "He got off the bus at the wrong stop"
+  },
+  {
+    "texto1": "Quitarse",
+    "texto2": "Escaparse",
+    "texto3": "got off",
+    "texto4": "He got off with a warning"
+  },
+  {
+    "texto1": "Arreglárselas",
+    "texto2": "Sobrevivir",
+    "texto3": "get by",
+    "texto4": "She manages to get by on a small salary."
+  },
+  {
+    "texto1": "Pasar",
+    "texto2": "Aprobar",
+    "texto3": "get by",
+    "texto4": "Excuse me, can I get by?"
+  },
+  {
+    "texto1": "Superar/Olvidar",
+    "texto2": "Recuperarse",
+    "texto3": "get over",
+    "texto4": "It took her a long time to get over the breakup."
+  },
+  {
+    "texto1": "Escaparse",
+    "texto2": "Huir",
+    "texto3": "get away",
+    "texto4": "They got away from the burning building."
+  },
+  {
+    "texto1": "Regresar",
+    "texto2": "Volver",
+    "texto3": "get back ",
+    "texto4": "I need to get back to work"
+  },
+  {
+    "texto1": "Recuperar",
+    "texto2": "Responder",
+    "texto3": "get back ",
+    "texto4": "I'll get back to you later."
   },
   {
     "texto1": "believe",
