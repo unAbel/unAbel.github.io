@@ -240,6 +240,78 @@
     "texto4": "The event was canceled due to bad weather"
   },
   {
+    "texto1": "Despedir",
+    "texto2": "Descartar",
+    "texto3": "dismiss",
+    "texto4": "The company decided to dismiss several employees"
+  },
+  {
+    "texto1": "Divagar",
+    "texto2": "Deambular",
+    "texto3": "ramble",
+    "texto4": "He tends to ramble during his speeches."
+  },
+  {
+    "texto1": "Cerrar",
+    "texto2": "Cercano",
+    "texto3": "close",
+    "texto4": "The store is close to my house"
+  },
+  {
+    "texto1": "Multitud",
+    "texto2": "Público",
+    "texto3": "crowd",
+    "texto4": "The crowd cheered loudly at the concert"
+  },
+  {
+    "texto1": "Turnos",
+    "texto2": "Cambios",
+    "texto3": "shift",
+    "texto4": "The nurses work in shifts to provide 24-hour care."
+  },
+  {
+    "texto1": "Duda",
+    "texto2": "Incertidumbre",
+    "texto3": "doubt",
+    "texto4": "She expressed her doubt about the plan's success"
+  },
+  {
+    "texto1": "MÁS lejos",
+    "texto2": "Adicional",
+    "texto3": "further",
+    "texto4": " If you need further information, please contact us"
+  },
+  {
+    "texto1": "ReBOTAR",
+    "texto2": "Brincar",
+    "texto3": "bounce",
+    "texto4": "The ball bounced off the wall."
+  },
+  {
+    "texto1": "Agotarse ",
+    "texto2": "Quedarse sin",
+    "texto3": "run out",
+    "texto4": "The store has run out of bread."
+  },
+  {
+    "texto1": "Escalera",
+    "texto2": "Escalafón",
+    "texto3": "ladder",
+    "texto4": "He climbed the ladder to reach the roof."
+  },
+  {
+    "texto1": "Encontrarse",
+    "texto2": "chocar",
+    "texto3": "ran into",
+    "texto4": "I ran into an old friend at the store"
+  },
+  {
+    "texto1": "Desmoronarse ",
+    "texto2": "Venirse abajo",
+    "texto3": "fell apart",
+    "texto4": "Their plan fell apart at the last moment"
+  },
+  {
     "texto1": "explotar",
     "texto2": "perder",
     "texto3": "sight",
