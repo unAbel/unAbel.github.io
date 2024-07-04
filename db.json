@@ -55,15 +55,15 @@
   },
   {
     "texto1": "Bajarse",
-    "texto2": "Salir",
+    "texto2": "Desmontarse",
     "texto3": "get off",
-    "texto4": "He got off the bus at the wrong stop"
+    "texto4": "Get off the table (Bájate de la mesa)"
   },
   {
     "texto1": "Quitarse",
-    "texto2": "Escaparse",
+    "texto2": "Salir ",
     "texto3": "got off",
-    "texto4": "He got off with a warning"
+    "texto4": "Get off your shoes before entering the house"
   },
   {
     "texto1": "Arreglárselas",
@@ -109,8 +109,8 @@
   },
   {
     "texto1": "Salir",
-    "texto2": "Escaparse  ",
-    "texto3": "Revelar",
+    "texto2": "Escaparse",
+    "texto3": "Expulsar",
     "texto4": "The secret finally got out"
   },
   {
@@ -134,7 +134,7 @@
   {
     "texto1": "Entrar",
     "texto2": "Llegar",
-    "texto3": "Ser admitido",
+    "texto3": "Ingresar ",
     "texto4": "She got in to the university"
   },
   {
