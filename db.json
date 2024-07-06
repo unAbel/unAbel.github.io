@@ -90,6 +90,108 @@
     "texto4": "They broke off their engagement last week."
   },
   {
+    "texto1": "Continuar al mismo ritmo o nivel.",
+    "texto2": "Mantener",
+    "texto3": "keep up",
+    "texto4": "He runs so fast, it's hard to keep up with him."
+  },
+  {
+    "texto1": "Estar al día con información o tendencias",
+    "texto2": "Seguir",
+    "texto3": "keep up",
+    "texto4": "i try to keep up with the latest news."
+  },
+  {
+    "texto1": "Mantener algo en su lugar o posición.",
+    "texto2": "Sostener",
+    "texto3": "keep up",
+    "texto4": "The pillars keep up the roof."
+  },
+  {
+    "texto1": "Continuar haciendo algo sin para",
+    "texto2": "Seguir",
+    "texto3": "keep on",
+    "texto4": "If you keep on practicing, you'll improve."
+  },
+  {
+    "texto1": "Continuar con una acción, especialmente a pesar de dificultades.",
+    "texto2": "Persistir",
+    "texto3": "keep on",
+    "texto4": "She keeps on working despite the challenges."
+  },
+  {
+    "texto1": " Continuar empleando a alguien.",
+    "texto2": "Mantenerse (empleado)",
+    "texto3": "keep on",
+    "texto4": "They decided to keep on all the staff after the merger."
+  },
+  {
+    "texto1": "Prevenir la entrada de algo o alguien.",
+    "texto2": "Mantener fuera",
+    "texto3": "keep out",
+    "texto4": "Please keep out of the restricted area."
+  },
+  {
+    "texto1": "No permitir que algo entre en un lugar.",
+    "texto2": "Impedir el acceso",
+    "texto3": "keep out",
+    "texto4": "The fence is there to keep out wild animals."
+  },
+  {
+    "texto1": "Evitar que alguien participe en una actividad o grupo.",
+    "texto2": "Excluir",
+    "texto3": "keep out",
+    "texto4": " They tried to keep her out of the meeting."
+  },
+  {
+    "texto1": "No involucrarse en una situación.",
+    "texto2": "Apartarse",
+    "texto3": "keep away",
+    "texto4": "It's best to keep away from arguments."
+  },
+  {
+    "texto1": "Evitar que algo o alguien se acerque.",
+    "texto2": "Alejar",
+    "texto3": "keep away",
+    "texto4": "The sign warns to keep away dangerous animals."
+  },
+  {
+    "texto1": "Dejar de intentar algo porque es difícil o parece imposible.",
+    "texto2": "Rendirse/Entregarse",
+    "texto3": "give up",
+    "texto4": "She decided to give up after many failed attempts."
+  },
+  {
+    "texto1": "Dejar de hacer algo que se había comenzado.",
+    "texto2": "Abandonar",
+    "texto3": "give up",
+    "texto4": "He had to give up his studies due to financial problems."
+  },
+  {
+    "texto1": "Aceptar algo después de resistirse inicialmente.",
+    "texto2": "Ceder/Rendirse",
+    "texto3": "give in",
+    "texto4": "After hours of arguing, he finally gave in."
+  },
+  {
+    "texto1": "Dar algo a alguien, especialmente cuando se requiere.",
+    "texto2": "Entregar",
+    "texto3": "give in",
+    "texto4": "Please give in your homework by Friday."
+  },
+  {
+    "texto1": "Distribuir algo a varias personas.",
+    "texto2": "Repartir",
+    "texto3": "give out",
+    "texto4": "They gave out flyers for the event."
+  },
+  {
+    "texto1": "Cuando algo deja de funcionar o se queda sin fuerza.",
+    "texto2": "Agotarse",
+    "texto3": "give out",
+    "texto4": "After running for miles, his legs finally gave out."
+  },
+  {
     "texto1": "believe",
     "texto2": "believe",
     "texto3": "believe",
