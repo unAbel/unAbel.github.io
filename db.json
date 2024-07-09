@@ -1,206 +1,128 @@
 [
   {
-    "texto1": "abundancia ",
-    "texto2": "Riqueza ",
-    "texto3": "wealth",
-    "texto4": "His wealth allows him to travel around the world"
+    "texto1": "Cambiar de dirección/ dirección completamente",
+    "texto2": "Voltear ",
+    "texto3": "turn around",
+    "texto4": "He had to turn around and go back home"
   },
   {
-    "texto1": "Traer",
-    "texto2": "causar",
-    "texto3": "Bring",
-    "texto4": " bring trouble upon himself"
+    "texto1": "Alterar el curso o dirección de algo",
+    "texto2": "Cambiar de rumbo",
+    "texto3": "turn around",
+    "texto4": "The company managed to turn around its financial situation."
   },
   {
-    "texto1": "Escaso",
-    "texto2": "Moderado",
-    "texto3": "sparing",
-    "texto4": "She is sparing in her use of sugar"
+    "texto1": "No aceptar una oferta o propuesta.",
+    "texto2": "Rechazar ",
+    "texto3": "turn down",
+    "texto4": "She turned down the job offer."
   },
   {
-    "texto1": "Debido",
-    "texto2": "Esperado",
-    "texto3": "due",
-    "texto4": "The report is due (esperado) tomorrow."
+    "texto1": "No aceptar una invitación.",
+    "texto2": "Declinar ",
+    "texto3": "turn down",
+    "texto4": "He turned down the invitation to the party."
   },
   {
-    "texto1": "Vencido",
-    "texto2": "Adeudado",
-    "texto3": "due",
-    "texto4": "The rent is due (es adeudada)."
+    "texto1": "Hacerse presente o visible.",
+    "texto2": "Aparecer/Presentarse",
+    "texto3": "turn up",
+    "texto4": "She turned up late to the meeting."
   },
   {
-    "texto1": "Escenificado",
-    "texto2": "Montado",
-    "texto3": "stage",
-    "texto4": "The protest was staged (montada)"
+    "texto1": "Aumentar el volumen o la intensidad de algo",
+    "texto2": "Subir ",
+    "texto3": "turn up",
+    "texto4": "Can you turn up the volume?"
   },
   {
-    "texto1": "Ser apto",
-    "texto2": "Ajustar",
-    "texto3": "Fit",
-    "texto4": "This tool is fit for the job"
+    "texto1": "Introducir un tema en una conversación.",
+    "texto2": "Mencionar ",
+    "texto3": "Bring up",
+    "texto4": "She brought up the issue during the meeting"
   },
   {
-    "texto1": "Preguntar",
-    "texto2": "Pedir/Invitar",
-    "texto3": "ask",
-    "texto4": "He asked her to the dance"
+    "texto1": "Educar y cuidar a un niño.",
+    "texto2": "Criar ",
+    "texto3": "Bring up",
+    "texto4": "They brought up their children in a loving environment."
   },
   {
-    "texto1": "Suave",
-    "texto2": "Amable",
-    "texto3": "gentle",
-    "texto4": "He gave her a gentle touch"
+    "texto1": "Regresar algo al lugar de donde vino.",
+    "texto2": "Devolver ",
+    "texto3": "bring back",
+    "texto4": "Please bring back the book you borrowed."
   },
   {
-    "texto1": "Confiar",
-    "texto2": "Depender",
-    "texto3": "rely",
-    "texto4": "They rely on public transportation"
+    "texto1": "Hacer que alguien recuerde algo.",
+    "texto2": "Recordar ",
+    "texto3": "bring back",
+    "texto4": "This song brings back many memories."
   },
   {
-    "texto1": "Capaz",
-    "texto2": "Hábil",
-    "texto3": "able",
-    "texto4": "She is able to solve complex problems"
+    "texto1": "Llevar algo a un lugar.",
+    "texto2": "Traer ",
+    "texto3": "Bring in",
+    "texto4": "Can you bring in the groceries from the car?"
   },
   {
-    "texto1": "Hundirse",
-    "texto2": "Caer",
-    "texto3": "sink",
-    "texto4": "The ship began to sink rapidly"
+    "texto1": "Generar o aportar ingresos (get in)",
+    "texto2": "Ingresar ",
+    "texto3": "Bring in",
+    "texto4": "The new product line is expected to bring in significant revenue."
   },
   {
-    "texto1": "Por el bien de",
-    "texto2": "En nombre de",
-    "texto3": "sakes",
-    "texto4": "She stayed in the marriage for the sake of the children"
+    "texto1": "Seguir haciendo algo.",
+    "texto2": "Continuar ",
+    "texto3": "go on",
+    "texto4": "Please go on with your story."
   },
   {
-    "texto1": "Ingenuo/a",
-    "texto2": "Inocente",
-    "texto3": "naive",
-    "texto4": "She was naive to trust him so easily"
+    "texto1": " Suceder o tener lugar.",
+    "texto2": "Ocurrir ",
+    "texto3": "go on",
+    "texto4": " What’s going on here?"
   },
   {
-    "texto1": "Destino/Suerte",
-    "texto2": "Fatalidad",
-    "texto3": "fate",
-    "texto4": "He believed that his fate was already decided"
+    "texto1": "Seguir adelante después de una pausa.",
+    "texto2": "Proseguir ",
+    "texto3": "go on",
+    "texto4": "After a brief break, they went on with the meeting."
   },
   {
-    "texto1": "Pruebas",
-    "texto2": "Juicios",
-    "texto3": "trials",
-    "texto4": "The new drug has passed several trials"
+    "texto1": "Ir fuera de casa, especialmente para socializar.",
+    "texto2": "Salir ",
+    "texto3": "go out",
+    "texto4": "They decided to go out for dinner."
   },
   {
-    "texto1": "Significado/intención",
-    "texto2": "Destinado",
-    "texto3": "meant",
-    "texto4": "This gift was meant for you"
+    "texto1": "Dejar de arder o funcionar (usualmente una luz o fuego).",
+    "texto2": "Apagarse ",
+    "texto3": "go out",
+    "texto4": "The fire went out during the night."
   },
   {
-    "texto1": "Preocupación",
-    "texto2": "Interés",
-    "texto3": "concern",
-    "texto4": "This issue is of great concern to the community"
+    "texto1": "Estar en una relación romántica con alguien.",
+    "texto2": "saliendo",
+    "texto3": "go out",
+    "texto4": "They have been going out for three months."
   },
   {
-    "texto1": "Esfuerzo",
-    "texto2": "Intento",
-    "texto3": "effort",
-    "texto4": "His effort in the project was remarkable"
+    "texto1": "Volver al lugar de origen.",
+    "texto2": "Regresar ",
+    "texto3": "Go back",
+    "texto4": "We need to go back to the office."
   },
   {
-    "texto1": "Tasa",
-    "texto2": "Tarifa",
-    "texto3": "rate",
-    "texto4": "The birth rate in the country has increased"
+    "texto1": "Retornar a una condición o estado previo.",
+    "texto2": "Volver/Retroceder ",
+    "texto3": "Go back",
+    "texto4": "He went back to his old habits."
   },
   {
-    "texto1": "Liberar",
-    "texto2": "Lanzar",
-    "texto3": "release",
-    "texto4": "The company will release a new product next month."
-  },
-  {
-    "texto1": "Golpear",
-    "texto2": "Huelga",
-    "texto3": "strike",
-    "texto4": "He tried to strike the ball with all his strength"
-  },
-  {
-    "texto1": "desmoronarse",
-    "texto2": "deshacerse",
-    "texto3": "crumble",
-    "texto4": "The old ruins began to crumble"
-  },
-  {
-    "texto1": "explotar",
-    "texto2": "perder",
-    "texto3": "blow",
-    "texto4": "i can't believe i blew my chance"
-  },
-  {
-    "texto1": "Panorama",
-    "texto2": "Perspectiva",
-    "texto3": "sight",
-    "texto4": "From this sight, the city looks amazing."
-  },
-  {
-    "texto1": "Despedir ",
-    "texto2": "Ignorar ",
-    "texto3": "blow off",
-    "texto4": "He decided to blow off his responsibilities"
-  },
-  {
-    "texto1": "Cables ",
-    "texto2": "Conductores ",
-    "texto3": "Wires",
-    "texto4": "Wires are essential for electrical circuits"
-  },
-  {
-    "texto1": "Traje ",
-    "texto2": "Demanda ",
-    "texto3": "suit",
-    "texto4": "They filed (presentaron) a suit against the company"
-  },
-  {
-    "texto1": "Características ",
-    "texto2": "Atributos ",
-    "texto3": "characteristics",
-    "texto4": "The characteristics of the new model are impressive"
-  },
-  {
-    "texto1": "Arrestar/Incautar",
-    "texto2": "Romper",
-    "texto3": "sight",
-    "texto4": "He accidentally busted the vase"
-  },
-  {
-    "texto1": "Jefe",
-    "texto2": "Principal",
-    "texto3": "chief",
-    "texto4": "He is the chief of the fire department"
-  },
-  {
-    "texto1": "Ladrón",
-    "texto2": "-",
-    "texto3": "thief",
-    "texto4": "The thief was caught by the police"
-  },
-  {
-    "texto1": "Traer/Llevar",
-    "texto2": "Producir",
-    "texto3": "bring",
-    "texto4": "The new policy will bring significant changes."
-  },
-  {
-    "texto1": "explotar",
-    "texto2": "perder",
-    "texto3": "sight",
+    "texto1": "believe",
+    "texto2": "believe",
+    "texto3": "believe",
     "texto4": "believe"
   }
 ]
