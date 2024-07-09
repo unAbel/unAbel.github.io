@@ -1,123 +1,177 @@
 [
   {
-    "texto1": "Cambiar de dirección/ dirección completamente",
-    "texto2": "Voltear ",
-    "texto3": "turn around",
-    "texto4": "He had to turn around and go back home"
+    "texto1": "Deber mor/legal ",
+    "texto2": "Impuesto ",
+    "texto3": "duty",
+    "texto4": "The duty on imported goods (bienes importados)"
   },
   {
-    "texto1": "Alterar el curso o dirección de algo",
-    "texto2": "Cambiar de rumbo",
-    "texto3": "turn around",
-    "texto4": "The company managed to turn around its financial situation."
+    "texto1": "Responsabilidad ",
+    "texto2": "Servicio ",
+    "texto3": "duty",
+    "texto4": "He was called to active duty in the army"
   },
   {
-    "texto1": "No aceptar una oferta o propuesta.",
-    "texto2": "Rechazar ",
-    "texto3": "turn down",
-    "texto4": "She turned down the job offer."
+    "texto1": "Lote",
+    "texto2": "Remesa",
+    "texto3": "batch",
+    "texto4": "She baked a batch of cookies"
   },
   {
-    "texto1": "No aceptar una invitación.",
-    "texto2": "Declinar ",
-    "texto3": "turn down",
-    "texto4": "He turned down the invitation to the party."
+    "texto1": "Encontrarse",
+    "texto2": "chocar",
+    "texto3": "ran into",
+    "texto4": "I ran into an old friend at the store"
   },
   {
-    "texto1": "Hacerse presente o visible.",
-    "texto2": "Aparecer/Presentarse",
-    "texto3": "turn up",
-    "texto4": "She turned up late to the meeting."
+    "texto1": "Agotarse ",
+    "texto2": "Quedarse sin",
+    "texto3": "run out",
+    "texto4": "The store has run out of bread."
   },
   {
-    "texto1": "Aumentar el volumen o la intensidad de algo",
-    "texto2": "Subir ",
-    "texto3": "turn up",
-    "texto4": "Can you turn up the volume?"
+    "texto1": "Despedir ",
+    "texto2": "Ignorar ",
+    "texto3": "blow off",
+    "texto4": "He decided to blow off his responsibilities"
   },
   {
-    "texto1": "Introducir un tema en una conversación.",
-    "texto2": "Mencionar ",
-    "texto3": "Bring up",
-    "texto4": "She brought up the issue during the meeting"
+    "texto1": "Desmoronarse ",
+    "texto2": "Venirse abajo",
+    "texto3": "fell apart",
+    "texto4": "Their plan fell apart at the last moment"
   },
   {
-    "texto1": "Educar y cuidar a un niño.",
-    "texto2": "Criar ",
-    "texto3": "Bring up",
-    "texto4": "They brought up their children in a loving environment."
+    "texto1": "Levantarse",
+    "texto2": "Despertarse",
+    "texto3": "get up",
+    "texto4": "I get up at 7 AM every day"
   },
   {
-    "texto1": "Regresar algo al lugar de donde vino.",
-    "texto2": "Devolver ",
-    "texto3": "bring back",
-    "texto4": "Please bring back the book you borrowed."
+    "texto1": "Subirse",
+    "texto2": "Llevarse bien",
+    "texto3": "get on",
+    "texto4": "They get on well with each other"
   },
   {
-    "texto1": "Hacer que alguien recuerde algo.",
-    "texto2": "Recordar ",
-    "texto3": "bring back",
-    "texto4": "This song brings back many memories."
+    "texto1": "Bajarse",
+    "texto2": "Desmontarse",
+    "texto3": "get off",
+    "texto4": "Get off the table (Bájate de la mesa)"
   },
   {
-    "texto1": "Llevar algo a un lugar.",
-    "texto2": "Traer ",
-    "texto3": "Bring in",
-    "texto4": "Can you bring in the groceries from the car?"
-  },
-  {
-    "texto1": "Generar o aportar ingresos (get in)",
-    "texto2": "Ingresar ",
-    "texto3": "Bring in",
-    "texto4": "The new product line is expected to bring in significant revenue."
-  },
-  {
-    "texto1": "Seguir haciendo algo.",
-    "texto2": "Continuar ",
-    "texto3": "go on",
-    "texto4": "Please go on with your story."
-  },
-  {
-    "texto1": " Suceder o tener lugar.",
-    "texto2": "Ocurrir ",
-    "texto3": "go on",
-    "texto4": " What’s going on here?"
-  },
-  {
-    "texto1": "Seguir adelante después de una pausa.",
-    "texto2": "Proseguir ",
-    "texto3": "go on",
-    "texto4": "After a brief break, they went on with the meeting."
-  },
-  {
-    "texto1": "Ir fuera de casa, especialmente para socializar.",
+    "texto1": "Quitarse",
     "texto2": "Salir ",
-    "texto3": "go out",
-    "texto4": "They decided to go out for dinner."
+    "texto3": "got off",
+    "texto4": "Get off your shoes before entering the house"
   },
   {
-    "texto1": "Dejar de arder o funcionar (usualmente una luz o fuego).",
-    "texto2": "Apagarse ",
-    "texto3": "go out",
-    "texto4": "The fire went out during the night."
+    "texto1": "Arreglárselas",
+    "texto2": "Sobrevivir",
+    "texto3": "get by",
+    "texto4": "She manages to get by on a small salary."
   },
   {
-    "texto1": "Estar en una relación romántica con alguien.",
-    "texto2": "saliendo",
-    "texto3": "go out",
-    "texto4": "They have been going out for three months."
+    "texto1": "Pasar",
+    "texto2": "Aprobar",
+    "texto3": "get by",
+    "texto4": "Excuse me, can I get by?"
   },
   {
-    "texto1": "Volver al lugar de origen.",
-    "texto2": "Regresar ",
-    "texto3": "Go back",
-    "texto4": "We need to go back to the office."
+    "texto1": "Superar/Olvidar",
+    "texto2": "Recuperarse",
+    "texto3": "get over",
+    "texto4": "It took her a long time to get over the breakup."
   },
   {
-    "texto1": "Retornar a una condición o estado previo.",
-    "texto2": "Volver/Retroceder ",
-    "texto3": "Go back",
-    "texto4": "He went back to his old habits."
+    "texto1": "Escaparse",
+    "texto2": "Huir",
+    "texto3": "get away",
+    "texto4": "They got away from the burning building."
+  },
+  {
+    "texto1": "Regresar",
+    "texto2": "Volver",
+    "texto3": "get back ",
+    "texto4": "I need to get back to work"
+  },
+  {
+    "texto1": "Recuperar",
+    "texto2": "Responder",
+    "texto3": "get back ",
+    "texto4": "I'll get back to you later."
+  },
+  {
+    "texto1": "Entrar en",
+    "texto2": "Involucrarse en",
+    "texto3": "Meterse en",
+    "texto4": "Get into the car"
+  },
+  {
+    "texto1": "Salir",
+    "texto2": "Escaparse",
+    "texto3": "Revelarse",
+    "texto4": "The secret finally got out"
+  },
+  {
+    "texto1": "Cruzar",
+    "texto2": "Comunicar",
+    "texto3": "Transmitir",
+    "texto4": "He struggled to get his point across."
+  },
+  {
+    "texto1": "Moverse por",
+    "texto2": "Esquivar",
+    "texto3": "Circular",
+    "texto4": "She found a way to get around the rules"
+  },
+  {
+    "texto1": "Superar",
+    "texto2": "Comunicar",
+    "texto3": "Terminar",
+    "texto4": "She got through a tough year"
+  },
+  {
+    "texto1": "Entrar",
+    "texto2": "Llegar",
+    "texto3": "Ingresar ",
+    "texto4": "What time did you get in last night?"
+  },
+  {
+    "texto1": "Despegar",
+    "texto2": "Quitarse",
+    "texto3": "irse",
+    "texto4": "He took off his jacket."
+  },
+  {
+    "texto1": "Comenzar",
+    "texto2": "Ocupar",
+    "texto3": "Aceptar",
+    "texto4": "This project takes up too much time."
+  },
+  {
+    "texto1": "Sacar/Eliminar",
+    "texto2": "Llevar",
+    "texto3": "take out",
+    "texto4": "Llevar a alguien a algún lugar"
+  },
+  {
+    "texto1": "Tomar el control",
+    "texto2": "Encargarse",
+    "texto3": "Take over",
+    "texto4": "He will take over the project next week"
+  },
+  {
+    "texto1": "Acoger",
+    "texto2": "Asimilar",
+    "texto3": "Engañar",
+    "texto4": "She was taken in by the scam"
+  },
+  {
+    "texto1": "Asumir",
+    "texto2": "Enfrentarse ",
+    "texto3": "Contratar",
+    "texto4": "She took on extra duties at work"
   },
   {
     "texto1": "believe",
