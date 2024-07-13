@@ -1,195 +1,123 @@
 [
   {
-    "texto1": "Descomposición de sustancias o elementos",
-    "texto2": "Descomponer",
-    "texto3": "broke down",
-    "texto4": "The enzymes help to break down food in the stomach"
+    "texto1": "Cambiar de dirección/ dirección completamente",
+    "texto2": "Voltear ",
+    "texto3": "turn around",
+    "texto4": "He had to turn around and go back home"
   },
   {
-    "texto1": "Cuando una máquina o vehículo deja de funcionar",
-    "texto2": "Averiarse",
-    "texto3": "broke down",
-    "texto4": "My car broke down on the way to work"
+    "texto1": "Alterar el curso o dirección de algo",
+    "texto2": "Cambiar de rumbo",
+    "texto3": "turn around",
+    "texto4": "The company managed to turn around its financial situation."
   },
   {
-    "texto1": "Cuando alguien pierde la compostura emocional.",
-    "texto2": "Derrumbarse",
-    "texto3": "broke down",
-    "texto4": "She broke down in tears after hearing the news"
+    "texto1": "No aceptar una oferta o propuesta.",
+    "texto2": "Rechazar ",
+    "texto3": "turn down",
+    "texto4": "She turned down the job offer."
   },
   {
-    "texto1": "Terminar una relación romántica",
-    "texto2": "Terminar/Finalizar",
-    "texto3": "break up",
-    "texto4": "They decided to break up after five years together"
+    "texto1": "No aceptar una invitación.",
+    "texto2": "Declinar ",
+    "texto3": "turn down",
+    "texto4": "He turned down the invitation to the party."
   },
   {
-    "texto1": "Dividir algo en partes más pequeñas",
-    "texto2": "Desintegrar(se)",
-    "texto3": "break up",
-    "texto4": "The ice began to break up as the temperature rose"
+    "texto1": "Hacerse presente o visible.",
+    "texto2": "Aparecer/Presentarse",
+    "texto3": "turn up",
+    "texto4": "She turned up late to the meeting."
   },
   {
-    "texto1": "Dispersar a un grupo de personas",
-    "texto2": "Separar",
-    "texto3": "break up",
-    "texto4": "The police were called to break up the fight"
+    "texto1": "Aumentar el volumen o la intensidad de algo",
+    "texto2": "Subir ",
+    "texto3": "turn up",
+    "texto4": "Can you turn up the volume?"
   },
   {
-    "texto1": "Entrar en un lugar sin permiso, usualmente de manera ilegal.",
-    "texto2": "Entrar a la fuerza",
-    "texto3": "break into",
-    "texto4": "Someone tried to break into my house last night."
+    "texto1": "Introducir un tema en una conversación.",
+    "texto2": "Mencionar ",
+    "texto3": "Bring up",
+    "texto4": "She brought up the issue during the meeting"
   },
   {
-    "texto1": "Empezar algo de repente, como una actividad o expresión.",
-    "texto2": "Irrumpir",
-    "texto3": "break into",
-    "texto4": "He broke into laughter at the joke."
+    "texto1": "Educar y cuidar a un niño.",
+    "texto2": "Criar ",
+    "texto3": "Bring up",
+    "texto4": "They brought up their children in a loving environment."
   },
   {
-    "texto1": "Comenzar una nueva actividad, especialmente una carrera o campo.",
-    "texto2": "Iniciar",
-    "texto3": "break into",
-    "texto4": "She broke into the music industry at a young age."
+    "texto1": "Regresar algo al lugar de donde vino.",
+    "texto2": "Devolver ",
+    "texto3": "bring back",
+    "texto4": "Please bring back the book you borrowed."
   },
   {
-    "texto1": "Salir de un lugar o situación de manera repentina y usualmente forzada.",
-    "texto2": "Escapar",
-    "texto3": "break out",
-    "texto4": "The prisoners managed to break out of the prison"
+    "texto1": "Hacer que alguien recuerde algo.",
+    "texto2": "Recordar ",
+    "texto3": "bring back",
+    "texto4": "This song brings back many memories."
   },
   {
-    "texto1": "Salir de una situación o restricción.",
-    "texto2": "Liberarse",
-    "texto3": "break out",
-    "texto4": "He broke out of his routine and tried something new."
+    "texto1": "Llevar algo a un lugar.",
+    "texto2": "Traer ",
+    "texto3": "Bring in",
+    "texto4": "Can you bring in the groceries from the car?"
   },
   {
-    "texto1": "Cuando algo indeseado, como una erupción cutánea, se manifiesta en el cuerpo",
-    "texto2": "Aparecer",
-    "texto3": "break out",
-    "texto4": "She broke out in a rash after eating the strawberries."
+    "texto1": "Generar o aportar ingresos (get in)",
+    "texto2": "Ingresar ",
+    "texto3": "Bring in",
+    "texto4": "The new product line is expected to bring in significant revenue."
   },
   {
-    "texto1": "Romper algo en pedazos, usualmente una parte de un objeto más grande",
-    "texto2": "Romper",
-    "texto3": "break off",
-    "texto4": " She broke off a piece of chocolate."
+    "texto1": "Seguir haciendo algo.",
+    "texto2": "Continuar ",
+    "texto3": "go on",
+    "texto4": "Please go on with your story."
   },
   {
-    "texto1": "Detener bruscamente una actividad o conversación.",
-    "texto2": "Interrumpir",
-    "texto3": "break off",
-    "texto4": "He broke off in the middle of his speech."
+    "texto1": " Suceder o tener lugar.",
+    "texto2": "Ocurrir ",
+    "texto3": "go on",
+    "texto4": " What’s going on here?"
   },
   {
-    "texto1": "Terminar una relación, acuerdo o compromiso",
-    "texto2": "Romper",
-    "texto3": "break off",
-    "texto4": "They broke off their engagement last week."
+    "texto1": "Seguir adelante después de una pausa.",
+    "texto2": "Proseguir ",
+    "texto3": "go on",
+    "texto4": "After a brief break, they went on with the meeting."
   },
   {
-    "texto1": "Continuar al mismo ritmo o nivel.",
-    "texto2": "Mantener",
-    "texto3": "keep up",
-    "texto4": "He runs so fast, it's hard to keep up with him."
+    "texto1": "Ir fuera de casa, especialmente para socializar.",
+    "texto2": "Salir ",
+    "texto3": "go out",
+    "texto4": "They decided to go out for dinner."
   },
   {
-    "texto1": "Estar al día con información o tendencias",
-    "texto2": "Seguir",
-    "texto3": "keep up",
-    "texto4": "i try to keep up with the latest news."
+    "texto1": "Dejar de arder o funcionar (usualmente una luz o fuego).",
+    "texto2": "Apagarse ",
+    "texto3": "go out",
+    "texto4": "The fire went out during the night."
   },
   {
-    "texto1": "Mantener algo en su lugar o posición.",
-    "texto2": "Sostener",
-    "texto3": "keep up",
-    "texto4": "The pillars keep up the roof."
+    "texto1": "Estar en una relación romántica con alguien.",
+    "texto2": "saliendo",
+    "texto3": "go out",
+    "texto4": "They have been going out for three months."
   },
   {
-    "texto1": "Continuar haciendo algo sin para",
-    "texto2": "Seguir",
-    "texto3": "keep on",
-    "texto4": "If you keep on practicing, you'll improve."
+    "texto1": "Volver al lugar de origen.",
+    "texto2": "Regresar ",
+    "texto3": "Go back",
+    "texto4": "We need to go back to the office."
   },
   {
-    "texto1": "Continuar con una acción, especialmente a pesar de dificultades.",
-    "texto2": "Persistir",
-    "texto3": "keep on",
-    "texto4": "She keeps on working despite the challenges."
-  },
-  {
-    "texto1": " Continuar empleando a alguien.",
-    "texto2": "Mantenerse (empleado)",
-    "texto3": "keep on",
-    "texto4": "They decided to keep on all the staff after the merger."
-  },
-  {
-    "texto1": "Prevenir la entrada de algo o alguien.",
-    "texto2": "Mantener fuera",
-    "texto3": "keep out",
-    "texto4": "Please keep out of the restricted area."
-  },
-  {
-    "texto1": "No permitir que algo entre en un lugar.",
-    "texto2": "Impedir el acceso",
-    "texto3": "keep out",
-    "texto4": "The fence is there to keep out wild animals."
-  },
-  {
-    "texto1": "Evitar que alguien participe en una actividad o grupo.",
-    "texto2": "Excluir",
-    "texto3": "keep out",
-    "texto4": " They tried to keep her out of the meeting."
-  },
-  {
-    "texto1": "No involucrarse en una situación.",
-    "texto2": "Apartarse",
-    "texto3": "keep away",
-    "texto4": "It's best to keep away from arguments."
-  },
-  {
-    "texto1": "Evitar que algo o alguien se acerque.",
-    "texto2": "Alejar",
-    "texto3": "keep away",
-    "texto4": "The sign warns to keep away dangerous animals."
-  },
-  {
-    "texto1": "Dejar de intentar algo porque es difícil o parece imposible.",
-    "texto2": "Rendirse/Entregarse",
-    "texto3": "give up",
-    "texto4": "She decided to give up after many failed attempts."
-  },
-  {
-    "texto1": "Dejar de hacer algo que se había comenzado.",
-    "texto2": "Abandonar",
-    "texto3": "give up",
-    "texto4": "He had to give up his studies due to financial problems."
-  },
-  {
-    "texto1": "Aceptar algo después de resistirse inicialmente.",
-    "texto2": "Ceder/Rendirse",
-    "texto3": "give in",
-    "texto4": "After hours of arguing, he finally gave in."
-  },
-  {
-    "texto1": "Dar algo a alguien, especialmente cuando se requiere.",
-    "texto2": "Entregar",
-    "texto3": "give in",
-    "texto4": "Please give in your homework by Friday."
-  },
-  {
-    "texto1": "Distribuir algo a varias personas.",
-    "texto2": "Repartir",
-    "texto3": "give out",
-    "texto4": "They gave out flyers for the event."
-  },
-  {
-    "texto1": "Cuando algo deja de funcionar o se queda sin fuerza.",
-    "texto2": "Agotarse",
-    "texto3": "give out",
-    "texto4": "After running for miles, his legs finally gave out."
+    "texto1": "Retornar a una condición o estado previo.",
+    "texto2": "Volver/Retroceder ",
+    "texto3": "Go back",
+    "texto4": "He went back to his old habits."
   },
   {
     "texto1": "believe",
