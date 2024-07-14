@@ -1,117 +1,135 @@
 [
   {
-    "texto1": "suspender un evento o actividad planeada.",
-    "texto2": "Cancelar",
-    "texto3": "call off",
-    "texto4": "They had to call off the meeting due to the storm."
+    "texto1": "Acción de intentar encontrar algo o a alguien.",
+    "texto2": "Buscar/Investigar",
+    "texto3": "look for",
+    "texto4": "I will look for my keys."
   },
   {
-    "texto1": "Interrumpir temporalmente una actividad.",
-    "texto2": "Suspender",
-    "texto3": "call off",
-    "texto4": "The game was called off because of rain."
-  },
-  {
-    "texto1": "Usar el teléfono para hablar con alguien.",
-    "texto2": "Llamar",
-    "texto3": "call up",
-    "texto4": "She decided to call up her friend to invite her to the party."
-  },
-  {
-    "texto1": "Convocar a alguien para el servicio militar.",
-    "texto2": "Reclutar",
-    "texto3": "call up",
-    "texto4": "He was called up to serve in the army. "
-  },
-  {
-    "texto1": "Realizar o completar una tarea o acción.",
-    "texto2": "Llevar a cabo",
-    "texto3": "Carry out",
-    "texto4": "The scientists carried out an important experiment."
-  },
-  {
-    "texto1": "Implementar o hacer cumplir una orden o plan.",
-    "texto2": "Ejecutar",
-    "texto3": "Carry out",
-    "texto4": "The soldiers were ordered to carry out the mission."
-  },
-  {
-    "texto1": "Seguir con una actividad o proceso.",
-    "texto2": "Continuar",
-    "texto3": "carry on",
-    "texto4": "Despite the difficulties, they decided to carry on with the project."
-  },
-  {
-    "texto1": "Persistir en una acción o esfuerzo.",
-    "texto2": "Seguir adelante",
-    "texto3": "carry on",
-    "texto4": "After the interruption, she carried on with her presentation."
-  },
-  {
-    "texto1": "Aparecer o presentarse inesperadamente.",
-    "texto2": "Surgir",
-    "texto3": "Come up",
-    "texto4": "A new issue has come up during the meeting."
-  },
-  {
-    "texto1": "Acercarse a alguien o a algún lugar.",
-    "texto2": "Acercarse",
-    "texto3": "Come up",
-    "texto4": "She came up to me and asked for directions."
-  },
-  {
-    "texto1": "Moverse de dentro a fuera.",
-    "texto2": "Salir",
-    "texto3": "Come out",
-    "texto4": "The cat came out from under the bed."
-  },
-  {
-    "texto1": " Ser lanzado o divulgado al público.",
-    "texto2": "Publicarse",
-    "texto3": "Come out",
-    "texto4": "Her new book is coming out next month."
-  },
-  {
-    "texto1": "Encontrar una solución a un problema o misterio.",
-    "texto2": "Resolver",
-    "texto3": "Figure out",
-    "texto4": "She managed to figure out the complex puzzle."
-  },
-  {
-    "texto1": "Descubrir información a través de la investigación o el pensamiento.",
-    "texto2": "Averiguar",
-    "texto3": "Figure out",
-    "texto4": " I need to figure out where the noise is coming from."
-  },
-  {
-    "texto1": "Entender algo después de pensarlo detenidamente.",
-    "texto2": "Comprender",
-    "texto3": "Figure out",
-    "texto4": "It took him a while to figure out the instructions."
-  },
-  {
-    "texto1": "Considerar o tomar en cuenta algo o a alguien en un plan o cálculo.",
-    "texto2": "Incluir/Contar ",
-    "texto3": "Figure in",
-    "texto4": "Don't forget to figure in the cost of materials."
-  },
-  {
-    "texto1": "Anticipar o planear que algo suceda.",
+    "texto1": "Anticipar o esperar algo con interés.",
     "texto2": "Esperar",
-    "texto3": "Figure on",
-    "texto4": "They figured on having more time to prepare."
+    "texto3": "look for",
+    "texto4": "I look for better results next time"
   },
   {
-    "texto1": "Escapar de un lugar o situación.",
-    "texto2": "Huir",
-    "texto3": "Run away",
-    "texto4": "The prisoner tried to run away but was caught by the guards."
+    "texto1": "Acción de atender o proteger a alguien o algo",
+    "texto2": "Cuidar/Atender",
+    "texto3": "Look after",
+    "texto4": "She will look after the children while we are away"
   },
   {
-    "texto1": "Escaparse, especialmente de un hogar o lugar de confinamiento.",
-    "texto2": "Fugarse",
-    "texto3": "Run away",
-    "texto4": "She decided to run away from home at a young age."
+    "texto1": "Acción de buscar información en una fuente específica.",
+    "texto2": "Buscar",
+    "texto3": "look up",
+    "texto4": "i  need to look up the word in the dictionary"
+  },
+  {
+    "texto1": "referirse a una situación que está cambiando a mejor.",
+    "texto2": "Mejorar",
+    "texto3": "look up",
+    "texto4": "Things are starting to look up for the company"
+  },
+  {
+    "texto1": "Hacer una visita a alguien después de un período de tiempo.",
+    "texto2": "Visitar",
+    "texto3": "look up",
+    "texto4": "I'll look you up next time I'm in town."
+  },
+  {
+    "texto1": "Pedir a alguien que espere un momento.",
+    "texto2": "Esperar",
+    "texto3": "Hold on",
+    "texto4": "Please hold on while I transfer your call."
+  },
+  {
+    "texto1": "Sujetarse firmemente a algo.",
+    "texto2": "Agarrarse",
+    "texto3": "Hold on",
+    "texto4": "Hold on to the railing to avoid falling"
+  },
+  {
+    "texto1": "Causar una demora en algo.",
+    "texto2": "Retrasar",
+    "texto3": "hold up",
+    "texto4": "Traffic held us up for over an hour."
+  },
+  {
+    "texto1": "Cometer un robo, especialmente a mano armada.",
+    "texto2": "Robar",
+    "texto3": "hold up",
+    "texto4": "The bank was held up by armed robbers"
+  },
+  {
+    "texto1": "Mantenerse en buenas condiciones o soportar el uso",
+    "texto2": "Resistir",
+    "texto3": "hold up",
+    "texto4": "This material holds up well under pressure"
+  },
+  {
+    "texto1": "Levantar algo del suelo o de otra superficie",
+    "texto2": "Recoger",
+    "texto3": "pick up",
+    "texto4": "Please pick up the trash."
+  },
+  {
+    "texto1": "Referirse a una mejora en una situación",
+    "texto2": "Mejorar",
+    "texto3": "pick up",
+    "texto4": "Sales have picked up this quarter."
+  },
+  {
+    "texto1": "Adquirir conocimiento o habilidad de manera informal",
+    "texto2": "Aprender",
+    "texto3": "pick up",
+    "texto4": "He picked up French while living in Paris"
+  },
+  {
+    "texto1": "Cuando una persona o grupo se enfoca en alguien para hacerle sentir mal ",
+    "texto2": "Molestar",
+    "texto3": "pick on",
+    "texto4": "The older kids like to pick on the younger ones"
+  },
+  {
+    "texto1": "Comportamiento persistente y agresivo hacia alguien",
+    "texto2": "Acosar",
+    "texto3": "pick on",
+    "texto4": "She felt that her boss was picking on her unfairly"
+  },
+  {
+    "texto1": "Aplicar productos cosméticos en el rostro.",
+    "texto2": "Maquillar",
+    "texto3": "make up",
+    "texto4": "She likes to make up her face before going out."
+  },
+  {
+    "texto1": "Crear algo que no existe, como una historia o excusa.",
+    "texto2": "Inventar",
+    "texto3": "make up",
+    "texto4": "He made up an excuse for being late."
+  },
+  {
+    "texto1": "Cambiar significativamente la apariencia o características de algo o alguien.",
+    "texto2": "Transformar",
+    "texto3": "make over",
+    "texto4": "They made over the entire house to give it a modern look."
+  },
+  {
+    "texto1": "actualizar o mejorar algo, especialmente en términos de apariencia.",
+    "texto2": "Renovar/Reformar",
+    "texto3": "make over",
+    "texto4": "She made over her wardrobe for the new season."
+  },
+  {
+    "texto1": "Manejar una situación con los recursos disponibles, aunque sean insuficientes.",
+    "texto2": "Arreglárselas",
+    "texto3": "make do",
+    "texto4": "We don’t have all the ingredients, but we’ll have to make do."
+  },
+  {
+    "texto1": "Aceptar lo que se tiene, incluso si no es ideal.",
+    "texto2": "Conformarse",
+    "texto3": "make do",
+    "texto4": "She wanted a new dress, but she had to make do with the old one."
   },
   {
     "texto1": "believe",
