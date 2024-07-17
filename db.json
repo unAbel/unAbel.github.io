@@ -1,9 +1,9 @@
 [
   {
-      "texto1": "Extender/Difundir",
-      "texto2": "Propagar",
-      "texto3": "spread",
-      "texto4": "She spread butter on the bread"
+    "texto1": "Extender/Difundir",
+    "texto2": "Propagar",
+    "texto3": "spread",
+    "texto4": "She spread butter on the bread"
   },
   {
     "texto1": "Tomar el control/Hacerse cargo",
@@ -54,8 +54,38 @@
     "texto4": "The contract was declared void due to a breach (incumplimento)"
   },
   {
+    "texto1": "atrapado",
+    "texto2": "capturado",
+    "texto3": "caught",
+    "texto4": "She caught the ball with one hand"
+  },
+  {
+    "texto1": "guardado",
+    "texto2": "Seguir",
+    "texto3": "kept",
+    "texto4": "He kept walking despite the rain"
+  },
+  {
+    "texto1": "Tener",
+    "texto2": "Seguir",
+    "texto3": "keep",
+    "texto4": "She keeps a diary to record her thoughts"
+  },
+  {
+    "texto1": "llevar/cargar",
+    "texto2": "Continuar",
+    "texto3": "carry",
+    "texto4": "She carries her books in a backpack."
+  },
+  {
+    "texto1": "Implicar",
+    "texto2": "Relacionado",
+    "texto3": "involved",
+    "texto4": "The accident involved three cars"
+  },
+  {
     "texto1": "Tratar/tratarse",
-    "texto2": "Invitar/Disfrutar",
+    "texto2": "Invitar",
     "texto3": "treat",
     "texto4": "She decided to treat herself to a relaxing spa day"
   },
@@ -384,9 +414,9 @@
     "texto4": "The photos came out beautifully."
   },
   {
-    "texto1": "expressed",
-    "texto2": "expressed",
-    "texto3": "expressed",
-    "texto4": "expressed"
+    "texto1": "Traer/Aportar/Producir",
+    "texto2": "Causar",
+    "texto3": "brings",
+    "texto4": "His experience brings a lot to the team."
   }
 ]
