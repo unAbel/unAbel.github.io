@@ -66,8 +66,8 @@
     "texto4": "He kept walking despite the rain"
   },
   {
-    "texto1": "Tener",
-    "texto2": "Seguir",
+    "texto1": "Tener/Guardar",
+    "texto2": "Seguir/Mantener",
     "texto3": "keep",
     "texto4": "She keeps a diary to record her thoughts"
   },
@@ -162,6 +162,12 @@
     "texto4": "We have a special guest joining us"
   },
   {
+    "texto1": "Sostener/Mantener Continuar en una posición o estado.",
+    "texto2": "Aguantar/Celebrar",
+    "texto3": "hold",
+    "texto4": "He can hold his breath for two minutes"
+  },
+  {
     "texto1": "sostenido/Mantener Continuar en una posición o estado.",
     "texto2": "Celebrar",
     "texto3": "held",
@@ -174,8 +180,14 @@
     "texto4": "Enter the command to start the program"
   },
   {
+    "texto1": "Emitir, Producir o distribuir algo formalmente.",
+    "texto2": "Cuestión",
+    "texto3": "issue",
+    "texto4": "her passport was issued yesterday."
+  },
+  {
     "texto1": "Emitido/Publicado",
-    "texto2": "expedido",
+    "texto2": "Producido",
     "texto3": "issued ",
     "texto4": "her passport was issued yesterday."
   },
