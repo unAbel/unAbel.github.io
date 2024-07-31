@@ -1,15 +1,261 @@
 [
   {
-    "texto1": "Pico/punta",
-    "texto2": "actividad breve",
-    "texto3": "spike",
-    "texto4": "we decided to do a spike to investigate the feasibility of using"
+    "texto1": "A pesar de",
+    "texto2": "z",
+    "texto3": "Despite",
+    "texto4": "He still loves her, despite everything"
   },
   {
-    "texto1": "factible",
-    "texto2": "viable",
-    "texto3": "feasibility",
-    "texto4": "we need to assess its feasibility"
+    "texto1": "Evaluación",
+    "texto2": "valoración",
+    "texto3": "assessment",
+    "texto4": "The teacher conducted (realizó) an assessment of the students"
+  },
+  {
+    "texto1": "Divagar",
+    "texto2": "Desviarse",
+    "texto3": "digress",
+    "texto4": "The professor tends to digress during lectures"
+  },
+  {
+    "texto1": "Señal",
+    "texto2": "Firma",
+    "texto3": "signs",
+    "texto4": "There are signs of improvement (evidencia)"
+  },
+  {
+    "texto1": "obra",
+    "texto2": "accion",
+    "texto3": "deed",
+    "texto4": "Thy deed was truly admirable"
+  },
+  {
+    "texto1": "atascado",
+    "texto2": "bloqueado",
+    "texto3": "jammed",
+    "texto4": "The traffic was jammed bloqueado"
+  },
+  {
+    "texto1": "Cercas",
+    "texto2": "Vallas",
+    "texto3": "Fences",
+    "texto4": "The farm is surrounded by fences."
+  },
+  {
+    "texto1": "Separado",
+    "texto2": "Alejado",
+    "texto3": "apart",
+    "texto4": "The events happened years apart (años alejados)"
+  },
+  {
+    "texto1": "Colgar",
+    "texto2": "Suspender",
+    "texto3": "hang",
+    "texto4": "The bridge hangs over the river."
+  },
+  {
+    "texto1": "Aguantar",
+    "texto2": "Aferrarse",
+    "texto3": "hang on",
+    "texto4": "Hang on to the railing (barandilla)"
+  },
+  {
+    "texto1": "Pasar el",
+    "texto2": " tiempo",
+    "texto3": "Hang out",
+    "texto4": "I'm planning to hang out with my friends"
+  },
+  {
+    "texto1": "Culpar",
+    "texto2": "Responsabilizar",
+    "texto3": "blame",
+    "texto4": "She was blamed for the project's failure"
+  },
+  {
+    "texto1": "Examinar",
+    "texto2": "Mirar",
+    "texto3": "look at",
+    "texto4": "The doctor will look at your injury (lesión)"
+  },
+  {
+    "texto1": "Agarrar",
+    "texto2": "Capturar",
+    "texto3": "grabbed",
+    "texto4": "The movie grabbed my attention"
+  },
+  {
+    "texto1": "Martes",
+    "texto2": "-",
+    "texto3": "Tuesday",
+    "texto4": "We have a meeting scheduled for Tuesday"
+  },
+  {
+    "texto1": "Venir",
+    "texto2": "Visitar",
+    "texto3": "come over",
+    "texto4": "My friends come over every weekend"
+  },
+  {
+    "texto1": "Grieta",
+    "texto2": "Romper",
+    "texto3": "crack",
+    "texto4": "He tried to crack the code"
+  },
+  {
+    "texto1": "Cumplimiento",
+    "texto2": "Realización",
+    "texto3": "fulfillment",
+    "texto4": "She found great fulfillment in her career"
+  },
+  {
+    "texto1": "Gracia",
+    "texto2": "Favor",
+    "texto3": "grace",
+    "texto4": "We ask for God's grace"
+  },
+  {
+    "texto1": "Cortés",
+    "texto2": "Educado",
+    "texto3": "polite",
+    "texto4": "He gave a polite response to the criticism"
+  },
+  {
+    "texto1": "Animar",
+    "texto2": "Fomentar",
+    "texto3": "encourage",
+    "texto4": "Her friends encouraged her to apply for the job"
+  },
+  {
+    "texto1": "esperar",
+    "texto2": "prever",
+    "texto3": "expect",
+    "texto4": "We expect a rise in sales next quarter"
+  },
+  {
+    "texto1": "Pausa",
+    "texto2": "Detenerse",
+    "texto3": "pause",
+    "texto4": "She paused before answering the question"
+  },
+  {
+    "texto1": "Vista/Visión",
+    "texto2": "Aparición",
+    "texto3": "sight",
+    "texto4": "The sight of the rainbow made (aparición)"
+  },
+  {
+    "texto1": "Asentarse",
+    "texto2": "Resolver",
+    "texto3": "settles",
+    "texto4": "The lawyer settles the dispute"
+  },
+  {
+    "texto1": "Cruz/Cruzar",
+    "texto2": "Encrucijada",
+    "texto3": "cross",
+    "texto4": "She will cross the street carefully"
+  },
+  {
+    "texto1": "Esquina",
+    "texto2": "Ángulo",
+    "texto3": "Acorralar",
+    "texto4": "The police cornered the suspect"
+  },
+  {
+    "texto1": "Más saludable",
+    "texto2": "Más sano",
+    "texto3": "healthier",
+    "texto4": "Eating more vegetables will make you healthier"
+  },
+  {
+    "texto1": "Escapar",
+    "texto2": "Irse/Librarse",
+    "texto3": "get away",
+    "texto4": "The thief managed to get away"
+  },
+  {
+    "texto1": "Decepcionar",
+    "texto2": "Defraudar",
+    "texto3": "let down",
+    "texto4": "I don't want to let you down"
+  },
+  {
+    "texto1": "citar",
+    "texto2": "Recitar",
+    "texto3": "quote",
+    "texto4": "He likes to quote famous authors"
+  },
+  {
+    "texto1": "Mencionar",
+    "texto2": "Presupuestar",
+    "texto3": "quote",
+    "texto4": "She quoted the study in her article"
+  },
+  {
+    "texto1": "Abogar",
+    "texto2": "Promover",
+    "texto3": "advocate",
+    "texto4": "They advocate for healthier eating habits."
+  },
+  {
+    "texto1": "esfuerzo",
+    "texto2": "competir",
+    "texto3": "struggle",
+    "texto4": "Her life has been a constant struggle"
+  },
+  {
+    "texto1": "característica",
+    "texto2": "Aparecer",
+    "texto3": "feature",
+    "texto4": "The singer will feature in tonight's concert"
+  },
+  {
+    "texto1": "relacion",
+    "texto2": "vinculo",
+    "texto3": "link",
+    "texto4": "You can link these two documents"
+  },
+  {
+    "texto1": "singularidad",
+    "texto2": "rareza",
+    "texto3": "oddity",
+    "texto4": "The oddity of the situation was"
+  },
+  {
+    "texto1": "adelante",
+    "texto2": "en adelante",
+    "texto3": "forth",
+    "texto4": "He stepped forth to receive the award"
+  },
+  {
+    "texto1": "pegar/palillo",
+    "texto2": "quedarse",
+    "texto3": "stick",
+    "texto4": "I'll stick around for a little while longer."
+  },
+  {
+    "texto1": "ventaja",
+    "texto2": "privilegio",
+    "texto3": "perk",
+    "texto4": "One of the perks of this job is free access"
+  },
+  {
+    "texto1": "presumir",
+    "texto2": "presumir",
+    "texto3": "brag",
+    "texto4": "He always brags about his expensive car"
+  },
+  {
+    "texto1": "duelo",
+    "texto2": "aflicción",
+    "texto3": "grief",
+    "texto4": "The stages of grief, including denial, duelo"
+  },
+  {
+    "texto1": "Prestar",
+    "texto2": "Dar",
+    "texto3": "lend",
+    "texto4": "I'm happy to lend you my camera"
   },
   {
     "texto1": "sensación -",
@@ -30,22 +276,16 @@
     "texto4": "The pipes in older houses used to be made of lead"
   },
   {
-    "texto1": "Líder",
-    "texto2": "Llevar/guiar",
-    "texto3": "lead",
-    "texto4": "She was chosen as the team lead"
-  },
-  {
     "texto1": "punto de acceso",
-    "texto2": "pasarela",
+    "texto2": "paso intermedio",
     "texto3": "gateway",
     "texto4": "The website serves as a gateway to a wealth of information"
   },
   {
-    "texto1": "abundancia-",
-    "texto2": "d-cosas",
+    "texto1": "abundancia ",
+    "texto2": "Riqueza ",
     "texto3": "wealth",
-    "texto4": "El sitio web sirve como una puerta de entrada a una gran cantidad de información"
+    "texto4": "His wealth allows him to travel around the world"
   },
   {
     "texto1": "guardar cambios",
@@ -324,21 +564,141 @@
     "texto4": "He tried to strike the ball with all his strength"
   },
   {
-    "texto1": "Holgura",
-    "texto2": "Flojera",
-    "texto3": "slack",
-    "texto4": "He was criticized for his slack attitude"
-  },
-  {
-    "texto1": "Equipo/Aparatos",
-    "texto2": "Herramientas",
-    "texto3": "equipment",
-    "texto4": "The mechanic brought all the necessary equipment"
-  },
-  {
-    "texto1": "Destinado",
+    "texto1": "Significado",
     "texto2": "Destinado",
-    "texto3": "Destinado",
-    "texto4": "Destinado"
+    "texto3": "meant",
+    "texto4": "This"
+  },
+  {
+    "texto1": "desmoronarse",
+    "texto2": "deshacerse",
+    "texto3": "crumble",
+    "texto4": "The old ruins began to crumble"
+  },
+  {
+    "texto1": "Manejar",
+    "texto2": "asa/mango",
+    "texto3": "handle",
+    "texto4": "can you handle the responsibility of leading the project"
+  },
+  {
+    "texto1": "Allá",
+    "texto2": "Más allá",
+    "texto3": "yonder",
+    "texto4": "The treasure is hidden yonder beyond the hills"
+  },
+  {
+    "texto1": "explotar",
+    "texto2": "perder",
+    "texto3": "blow",
+    "texto4": "i can't believe i blew my chance"
+  },
+  {
+    "texto1": "Esperar",
+    "texto2": "Suponer",
+    "texto3": "expect",
+    "texto4": "I expect him to arrive at 5 PM"
+  },
+  {
+    "texto1": "Vista",
+    "texto2": "Visión",
+    "texto3": "sight",
+    "texto4": "His sight is not very good without glasses."
+  },
+  {
+    "texto1": "Panorama",
+    "texto2": "Perspectiva",
+    "texto3": "sight",
+    "texto4": "From this sight, the city looks amazing."
+  },
+  {
+    "texto1": "Establecerse",
+    "texto2": "Resolver/Pagar",
+    "texto3": "settles",
+    "texto4": "He settles his debts before"
+  },
+  {
+    "texto1": "Envolver ",
+    "texto2": "Envoltura ",
+    "texto3": "wrap",
+    "texto4": "Remove the wrap before eating"
+  },
+  {
+    "texto1": "Concluir ",
+    "texto2": "Rodear ",
+    "texto3": "wrapped",
+    "texto4": "The snake wrapped around the tree."
+  },
+  {
+    "texto1": "Despedir ",
+    "texto2": "Ignorar ",
+    "texto3": "blow off",
+    "texto4": "He decided to blow off his responsibilities"
+  },
+  {
+    "texto1": "Debido ",
+    "texto2": "Esperado",
+    "texto3": "Due",
+    "texto4": "The baby is due next month"
+  },
+  {
+    "texto1": "Cables ",
+    "texto2": "Conductores ",
+    "texto3": "Wires",
+    "texto4": "Wires are essential for electrical circuits"
+  },
+  {
+    "texto1": "Traje ",
+    "texto2": "Demanda ",
+    "texto3": "suit",
+    "texto4": "They filed (presentaron) a suit against the company"
+  },
+  {
+    "texto1": "Apestar ",
+    "texto2": "Peste ",
+    "texto3": "stink",
+    "texto4": "There was a terrible stink coming from"
+  },
+  {
+    "texto1": "Características ",
+    "texto2": "Atributos ",
+    "texto3": "characteristics",
+    "texto4": "The characteristics of the new model are impressive"
+  },
+  {
+    "texto1": "Aceptar ",
+    "texto2": "Admitir",
+    "texto3": "Accept",
+    "texto4": "She accepted the job offer"
+  },
+  {
+    "texto1": "Exceptuar",
+    "texto2": "Excluir",
+    "texto3": "Except",
+    "texto4": "The rule applies to everyone except children"
+  },
+  {
+    "texto1": "explotar",
+    "texto2": "perder",
+    "texto3": "sight",
+    "texto4": "believe"
+  },
+  {
+    "texto1": "explotar",
+    "texto2": "perder",
+    "texto3": "sight",
+    "texto4": "believe"
+  },
+  {
+    "texto1": "explotar",
+    "texto2": "perder",
+    "texto3": "sight",
+    "texto4": "believe"
+  },
+  {
+    "texto1": "explotar",
+    "texto2": "perder",
+    "texto3": "sight",
+    "texto4": "believe"
   }
 ]
