@@ -1,123 +1,123 @@
 [
   {
-    "texto1": "suspender un evento o actividad planeada.",
-    "texto2": "Cancelar",
-    "texto3": "call off",
-    "texto4": "They had to call off the meeting due to the storm."
+    "texto1": "Cambiar de dirección/ dirección completamente",
+    "texto2": "Voltear ",
+    "texto3": "turn around",
+    "texto4": "He had to turn around and go back home"
   },
   {
-    "texto1": "Interrumpir temporalmente una actividad.",
-    "texto2": "Suspender",
-    "texto3": "call off",
-    "texto4": "The game was called off because of rain."
+    "texto1": "Alterar el curso o dirección de algo",
+    "texto2": "Cambiar de rumbo",
+    "texto3": "turn around",
+    "texto4": "The company managed to turn around its financial situation."
   },
   {
-    "texto1": "Usar el teléfono para hablar con alguien.",
-    "texto2": "Llamar",
-    "texto3": "call up",
-    "texto4": "She decided to call up her friend to invite her to the party."
+    "texto1": "No aceptar una oferta o propuesta.",
+    "texto2": "Rechazar ",
+    "texto3": "turn down",
+    "texto4": "She turned down the job offer."
   },
   {
-    "texto1": "Convocar a alguien para el servicio militar.",
-    "texto2": "Reclutar",
-    "texto3": "call up",
-    "texto4": "He was called up to serve in the army. "
+    "texto1": "No aceptar una invitación.",
+    "texto2": "Declinar ",
+    "texto3": "turn down",
+    "texto4": "He turned down the invitation to the party."
   },
   {
-    "texto1": "Realizar o completar una tarea o acción.",
-    "texto2": "Llevar a cabo",
-    "texto3": "Carry out",
-    "texto4": "The scientists carried out an important experiment."
+    "texto1": "Hacerse presente o visible.",
+    "texto2": "Aparecer/Presentarse",
+    "texto3": "turn up",
+    "texto4": "She turned up late to the meeting."
   },
   {
-    "texto1": "Implementar o hacer cumplir una orden o plan.",
-    "texto2": "Ejecutar",
-    "texto3": "Carry out",
-    "texto4": "The soldiers were ordered to carry out the mission."
+    "texto1": "Aumentar el volumen o la intensidad de algo",
+    "texto2": "Subir ",
+    "texto3": "turn up",
+    "texto4": "Can you turn up the volume?"
   },
   {
-    "texto1": "Seguir con una actividad o proceso.",
-    "texto2": "Continuar",
-    "texto3": "carry on",
-    "texto4": "Despite the difficulties, they decided to carry on with the project."
+    "texto1": "Introducir un tema en una conversación.",
+    "texto2": "Mencionar ",
+    "texto3": "Bring up",
+    "texto4": "She brought up the issue during the meeting"
   },
   {
-    "texto1": "Persistir en una acción o esfuerzo.",
-    "texto2": "Seguir adelante",
-    "texto3": "carry on",
-    "texto4": "After the interruption, she carried on with her presentation."
+    "texto1": "Educar y cuidar a un niño.",
+    "texto2": "Criar ",
+    "texto3": "Bring up",
+    "texto4": "They brought up their children in a loving environment."
   },
   {
-    "texto1": "Aparecer o presentarse inesperadamente.",
-    "texto2": "Surgir",
-    "texto3": "Come up",
-    "texto4": "A new issue has come up during the meeting."
+    "texto1": "Regresar algo al lugar de donde vino.",
+    "texto2": "Devolver ",
+    "texto3": "bring back",
+    "texto4": "Please bring back the book you borrowed."
   },
   {
-    "texto1": "Acercarse a alguien o a algún lugar.",
-    "texto2": "Acercarse",
-    "texto3": "Come up",
-    "texto4": "She came up to me and asked for directions."
+    "texto1": "Hacer que alguien recuerde algo.",
+    "texto2": "Recordar ",
+    "texto3": "bring back",
+    "texto4": "This song brings back many memories."
   },
   {
-    "texto1": "Moverse de dentro a fuera.",
-    "texto2": "Salir",
-    "texto3": "Come out",
-    "texto4": "The cat came out from under the bed."
+    "texto1": "Llevar algo a un lugar.",
+    "texto2": "Traer ",
+    "texto3": "Bring in",
+    "texto4": "Can you bring in the groceries from the car?"
   },
   {
-    "texto1": " Ser lanzado o divulgado al público.",
-    "texto2": "Publicarse",
-    "texto3": "Come out",
-    "texto4": "Her new book is coming out next month."
+    "texto1": "Generar o aportar ingresos (get in)",
+    "texto2": "Ingresar ",
+    "texto3": "Bring in",
+    "texto4": "The new product line is expected to bring in significant revenue."
   },
   {
-    "texto1": "Encontrar una solución a un problema o misterio.",
-    "texto2": "Resolver",
-    "texto3": "Figure out",
-    "texto4": "She managed to figure out the complex puzzle."
+    "texto1": "Seguir haciendo algo.",
+    "texto2": "Continuar ",
+    "texto3": "go on",
+    "texto4": "Please go on with your story."
   },
   {
-    "texto1": "Descubrir información a través de la investigación o el pensamiento.",
-    "texto2": "Averiguar",
-    "texto3": "Figure out",
-    "texto4": " I need to figure out where the noise is coming from."
+    "texto1": " Suceder o tener lugar.",
+    "texto2": "Ocurrir ",
+    "texto3": "go on",
+    "texto4": " What’s going on here?"
   },
   {
-    "texto1": "Entender algo después de pensarlo detenidamente.",
-    "texto2": "Comprender",
-    "texto3": "Figure out",
-    "texto4": "It took him a while to figure out the instructions."
+    "texto1": "Seguir adelante después de una pausa.",
+    "texto2": "Proseguir ",
+    "texto3": "go on",
+    "texto4": "After a brief break, they went on with the meeting."
   },
   {
-    "texto1": "Considerar o tomar en cuenta algo o a alguien en un plan o cálculo.",
-    "texto2": "Incluir/Contar ",
-    "texto3": "Figure in",
-    "texto4": "Don't forget to figure in the cost of materials."
+    "texto1": "Ir fuera de casa, especialmente para socializar.",
+    "texto2": "Salir ",
+    "texto3": "go out",
+    "texto4": "They decided to go out for dinner."
   },
   {
-    "texto1": "Anticipar o planear que algo suceda.",
-    "texto2": "Esperar/planear",
-    "texto3": "Figure on",
-    "texto4": "They figured on having more time to prepare."
+    "texto1": "Dejar de arder o funcionar (usualmente una luz o fuego).",
+    "texto2": "Apagarse ",
+    "texto3": "go out",
+    "texto4": "The fire went out during the night."
   },
   {
-    "texto1": "Escapar de un lugar o situación.",
-    "texto2": "Huir",
-    "texto3": "Run away",
-    "texto4": "The prisoner tried to run away but was caught by the guards."
+    "texto1": "Estar en una relación romántica con alguien.",
+    "texto2": "saliendo",
+    "texto3": "go out",
+    "texto4": "They have been going out for three months."
   },
   {
-    "texto1": "Escaparse, especialmente de un hogar o lugar de confinamiento.",
-    "texto2": "Fugarse",
-    "texto3": "Run away",
-    "texto4": "She decided to run away from home at a young age."
+    "texto1": "Volver al lugar de origen.",
+    "texto2": "Regresar ",
+    "texto3": "Go back",
+    "texto4": "We need to go back to the office."
   },
   {
-    "texto1": "believe",
-    "texto2": "believe",
-    "texto3": "believe",
-    "texto4": "believe"
+    "texto1": "Retornar a una condición o estado previo.",
+    "texto2": "Volver/Retroceder ",
+    "texto3": "Go back",
+    "texto4": "He went back to his old habits."
   },
   {
     "texto1": "believe",
