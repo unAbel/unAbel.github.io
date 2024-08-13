@@ -1,728 +1,200 @@
 [
   {
-    "texto1": "atrapado",
-    "texto2": "capturado",
-    "texto3": "caught",
-    "texto4": "She caught the ball with one hand"
+    "texto1": "Descomposición de sustancias o elementos",
+    "texto2": "Descomponer",
+    "texto3": "broke down",
+    "texto4": "The enzymes help to break down food in the stomach"
   },
   {
-    "texto1": "guardado",
+    "texto1": "Cuando una máquina o vehículo deja de funcionar",
+    "texto2": "Averiarse",
+    "texto3": "broke down",
+    "texto4": "My car broke down on the way to work"
+  },
+  {
+    "texto1": "Cuando alguien pierde la compostura emocional.",
+    "texto2": "Derrumbarse",
+    "texto3": "broke down",
+    "texto4": "She broke down in tears after hearing the news"
+  },
+  {
+    "texto1": "Terminar una relación romántica",
+    "texto2": "Terminar/Finalizar",
+    "texto3": "break up",
+    "texto4": "They decided to break up after five years together"
+  },
+  {
+    "texto1": "Dividir algo en partes más pequeñas",
+    "texto2": "Desintegrar(se)",
+    "texto3": "break up",
+    "texto4": "The ice began to break up as the temperature rose"
+  },
+  {
+    "texto1": "Dispersar a un grupo de personas",
+    "texto2": "Separar",
+    "texto3": "break up",
+    "texto4": "The police were called to break up the fight"
+  },
+  {
+    "texto1": "Entrar en un lugar sin permiso, usualmente de manera ilegal.",
+    "texto2": "Entrar a la fuerza",
+    "texto3": "break into",
+    "texto4": "Someone tried to break into my house last night."
+  },
+  {
+    "texto1": "Empezar algo de repente, como una actividad o expresión.",
+    "texto2": "Irrumpir",
+    "texto3": "break into",
+    "texto4": "He broke into laughter at the joke."
+  },
+  {
+    "texto1": "Comenzar una nueva actividad, especialmente una carrera o campo.",
+    "texto2": "Iniciar",
+    "texto3": "break into",
+    "texto4": "She broke into the music industry at a young age."
+  },
+  {
+    "texto1": "Salir de un lugar o situación de manera repentina y usualmente forzada.",
+    "texto2": "Escapar",
+    "texto3": "break out",
+    "texto4": "The prisoners managed to break out of the prison"
+  },
+  {
+    "texto1": "Salir de una situación o restricción.",
+    "texto2": "Liberarse",
+    "texto3": "break out",
+    "texto4": "He broke out of his routine and tried something new."
+  },
+  {
+    "texto1": "Cuando algo indeseado, como una erupción cutánea, se manifiesta en el cuerpo",
+    "texto2": "Aparecer",
+    "texto3": "break out",
+    "texto4": "She broke out in a rash after eating the strawberries."
+  },
+  {
+    "texto1": "Romper algo en pedazos, usualmente una parte de un objeto más grande",
+    "texto2": "Romper",
+    "texto3": "break off",
+    "texto4": " She broke off a piece of chocolate."
+  },
+  {
+    "texto1": "Detener bruscamente una actividad o conversación.",
+    "texto2": "Interrumpir",
+    "texto3": "break off",
+    "texto4": "He broke off in the middle of his speech."
+  },
+  {
+    "texto1": "Terminar una relación, acuerdo o compromiso",
+    "texto2": "Romper",
+    "texto3": "break off",
+    "texto4": "They broke off their engagement last week."
+  },
+  {
+    "texto1": "Continuar al mismo ritmo o nivel.",
+    "texto2": "Mantener",
+    "texto3": "keep up",
+    "texto4": "He runs so fast, it's hard to keep up with him."
+  },
+  {
+    "texto1": "Estar al día con información o tendencias",
     "texto2": "Seguir",
-    "texto3": "kept",
-    "texto4": "He kept walking despite the rain"
+    "texto3": "keep up",
+    "texto4": "i try to keep up with the latest news."
   },
   {
-    "texto1": "Tener",
+    "texto1": "Mantener algo en su lugar o posición.",
+    "texto2": "Sostener",
+    "texto3": "keep up",
+    "texto4": "The pillars keep up the roof."
+  },
+  {
+    "texto1": "Continuar haciendo algo sin para",
     "texto2": "Seguir",
-    "texto3": "keep",
-    "texto4": "She keeps a diary to record her thoughts"
+    "texto3": "keep on",
+    "texto4": "If you keep on practicing, you'll improve."
   },
   {
-    "texto1": "llevar/cargar",
-    "texto2": "Continuar",
-    "texto3": "carry",
-    "texto4": "She carries her books in a backpack."
+    "texto1": "Continuar con una acción, especialmente a pesar de dificultades.",
+    "texto2": "Persistir",
+    "texto3": "keep on",
+    "texto4": "She keeps on working despite the challenges."
   },
   {
-    "texto1": "Implicar",
-    "texto2": "Relacionado",
-    "texto3": "involved",
-    "texto4": "The accident involved three cars"
+    "texto1": " Continuar empleando a alguien.",
+    "texto2": "Mantenerse (empleado)",
+    "texto3": "keep on",
+    "texto4": "They decided to keep on all the staff after the merger."
   },
   {
-    "texto1": "Cuando se refiere a administrar cuidados médicos o terapéuticos.",
-    "texto2": "tratar/tratarse",
-    "texto3": "treat",
-    "texto4": "He treats his employees with respect."
+    "texto1": "Prevenir la entrada de algo o alguien.",
+    "texto2": "Mantener fuera",
+    "texto3": "keep out",
+    "texto4": "Please keep out of the restricted area."
   },
   {
-    "texto1": "Cuando se refiere a considerar o ver algo de una manera específica.",
-    "texto2": "Considerar/Invitar",
-    "texto3": "treat",
-    "texto4": "They treat this matter as urgent"
+    "texto1": "No permitir que algo entre en un lugar.",
+    "texto2": "Impedir el acceso",
+    "texto3": "keep out",
+    "texto4": "The fence is there to keep out wild animals."
   },
   {
-    "texto1": "En aprietos/Arruinado",
-    "texto2": "Fastidiado",
-    "texto3": "screwed",
-    "texto4": "we'll be really screwed"
-  },
-  {
-    "texto1": "Establecer",
-    "texto2": "solucionar",
-    "texto3": "settle",
-    "texto4": "They decided to settle their differences"
-  },
-  {
-    "texto1": "Experimentado",
-    "texto2": "Realizado",
-    "texto3": "accomplished",
-    "texto4": "He is an accomplished musician"
-  },
-  {
-    "texto1": "estropear",
-    "texto2": "confundido",
-    "texto3": "messed",
-    "texto4": "His room is always messed desordenado"
-  },
-  {
-    "texto1": "desmoronarse",
-    "texto2": "deshacerse",
-    "texto3": "crumble",
-    "texto4": "The old ruins began to crumble"
-  },
-  {
-    "texto1": "Económico",
-    "texto2": "Asequible",
-    "texto3": "affordable",
-    "texto4": "delicious meals at affordable prices"
-  },
-  {
-    "texto1": "Meditar",
-    "texto2": "Reflexionar",
-    "texto3": "pondered Meditate",
-    "texto4": "She pondered the decision for days"
-  },
-  {
-    "texto1": "Interes algo",
-    "texto2": "Estaca/apostar",
-    "texto3": "stake",
-    "texto4": "He has a significant stake in the success of the company"
-  },
-  {
-    "texto1": "Inactivo/Ocioso/Holgazán",
-    "texto2": "desocupado",
-    "texto3": "idle Inactive",
-    "texto4": "the machine is currently idle"
-  },
-  {
-    "texto1": "filtración",
-    "texto2": "Fuga",
-    "texto3": "leak",
-    "texto4": "There was a leak in the roof gotera"
-  },
-  {
-    "texto1": "Rompe",
-    "texto2": "destructor",
-    "texto3": "buster",
-    "texto4": "He's a real buster when.. (poco habilidoso)"
-  },
-  {
-    "texto1": "Excavar",
-    "texto2": "profundizar",
-    "texto3": "dig",
-    "texto4": "The journalist decided to dig into the details"
-  },
-  {
-    "texto1": "Asunto/importancia",
-    "texto2": "Sustancia",
-    "texto3": "matter/Issue",
-    "texto4": "The matter of the investigation (asunto)"
-  },
-  {
-    "texto1": "preferir",
-    "texto2": "bastante",
-    "texto3": "rather",
-    "texto4": "she'd rather die than cause a scene"
-  },
-  {
-    "texto1": "especificar algo con mayor precisión/ indicar una opción",
-    "texto2": "Más bien/en lugar",
-    "texto3": "rather",
-    "texto4": "She is not tall, but rather short"
-  },
-  {
-    "texto1": "especificar algo con mayor precisión/ indicar una opción",
-    "texto2": "Quejarse/Reclamar",
-    "texto3": "complain",
-    "texto4": "He always complains about the weather."
-  },
-  {
-    "texto1": "Mezclar",
-    "texto2": "Reorganizar",
-    "texto3": "shuffle",
-    "texto4": "I like to shuffle my playlist to discover new songs"
-  },
-  {
-    "texto1": "singularidad",
-    "texto2": "rareza",
-    "texto3": "oddity",
-    "texto4": "The oddity of the situation was"
-  },
-  {
-    "texto1": "Obtener",
-    "texto2": "Traer/recuperar",
-    "texto3": "fetch",
-    "texto4": "The 'fetch' command is used to retrieve data"
-  },
-  {
-    "texto1": "apagar",
-    "texto2": "eliminar",
-    "texto3": "stub out",
-    "texto4": "We'll stub out the main algorithm (esqueleto)"
-  },
-  {
-    "texto1": "presumir",
-    "texto2": "presumir",
-    "texto3": "brag",
-    "texto4": "He always brags about his expensive car"
-  },
-  {
-    "texto1": "Manejar",
-    "texto2": "asa/mango",
-    "texto3": "handle",
-    "texto4": "can you handle the responsibility of leading the project"
-  },
-  {
-    "texto1": "Periodista",
-    "texto2": "Reportero",
-    "texto3": "journalist",
-    "texto4": "La periodista decidió profundizar en los detalles"
-  },
-  {
-    "texto1": "Paquete",
-    "texto2": "Envase",
-    "texto3": "package",
-    "texto4": "The cereal box has a new, eco-friendly packaging"
-  },
-  {
-    "texto1": "Despedir ",
-    "texto2": "Ignorar ",
-    "texto3": "blow off",
-    "texto4": "He decided to blow off his responsibilities"
-  },
-  {
-    "texto1": "Figura",
-    "texto2": "Personaje",
-    "texto3": "figure",
-    "texto4": "She is a prominent figure in the community"
-  },
-  {
-    "texto1": "Pensado",
-    "texto2": "Calculado",
-    "texto3": "figured",
-    "texto4": "She figured out the math problem quickly"
-  },
-  {
-    "texto1": "Gritar ",
-    "texto2": "Chillar ",
-    "texto3": "yell",
-    "texto4": "He started to yell when he saw the spider"
-  },
-  {
-    "texto1": "desmoronarse",
-    "texto2": "deshacerse",
-    "texto3": "crumble",
-    "texto4": "The old ruins began to crumble"
-  },
-  {
-    "texto1": "Envolver ",
-    "texto2": "Envoltura ",
-    "texto3": "wrap",
-    "texto4": "Remove the wrap before eating"
-  },
-  {
-    "texto1": "Aceptar ",
-    "texto2": "Admitir",
-    "texto3": "Accept",
-    "texto4": "She accepted the job offer"
-  },
-  {
-    "texto1": "Exceptuar",
+    "texto1": "Evitar que alguien participe en una actividad o grupo.",
     "texto2": "Excluir",
-    "texto3": "Except",
-    "texto4": "The rule applies to everyone except children"
+    "texto3": "keep out",
+    "texto4": " They tried to keep her out of the meeting."
   },
   {
-    "texto1": "Materia",
-    "texto2": "Asunto",
-    "texto3": "matter",
-    "texto4": "This is a serious matter that needs our attention"
+    "texto1": "No involucrarse en una situación.",
+    "texto2": "Apartarse",
+    "texto3": "keep away",
+    "texto4": "It's best to keep away from arguments."
   },
   {
-    "texto1": "Problema",
-    "texto2": "Cuestión",
-    "texto3": "matter",
-    "texto4": "It’s a matter of time before we find a solution."
+    "texto1": "Evitar que algo o alguien se acerque.",
+    "texto2": "Alejar",
+    "texto3": "keep away",
+    "texto4": "The sign warns to keep away dangerous animals."
   },
   {
-    "texto1": "Murmurar",
-    "texto2": "-",
-    "texto3": "mutter",
-    "texto4": "He muttered something under his breath."
+    "texto1": "Dejar de intentar algo porque es difícil o parece imposible.",
+    "texto2": "Rendirse/Entregarse",
+    "texto3": "give up",
+    "texto4": "She decided to give up after many failed attempts."
   },
   {
-    "texto1": "Caer ",
-    "texto2": "Otoño ",
-    "texto3": "fall",
-    "texto4": "Be careful not to fall off the ladder"
-  },
-  {
-    "texto1": "Desplomarse ",
-    "texto2": "Decaer ",
-    "texto3": "fall",
-    "texto4": "The old building finally fell after the earthquake"
-  },
-  {
-    "texto1": "Masticar ",
-    "texto2": "Roer ",
-    "texto3": "chew",
-    "texto4": "The dog loves to chew on bones"
-  },
-  {
-    "texto1": "Levantar ",
-    "texto2": "Alzar/Elevar",
-    "texto3": "lift",
-    "texto4": "She can lift heavy weights"
-  },
-  {
-    "texto1": "Estar de pie",
-    "texto2": "Permanecer ",
-    "texto3": "stood",
-    "texto4": "They stood firm in their decision"
-  },
-  {
-    "texto1": "Tímido ",
-    "texto2": "Reservado ",
-    "texto3": "shy",
-    "texto4": "He is too shy to speak in public"
-  },
-  {
-    "texto1": "lago",
-    "texto2": "-",
-    "texto3": "Lake",
-    "texto4": "They went swimming in the lake"
-  },
-  {
-    "texto1": "Lámpara",
-    "texto2": "-",
-    "texto3": "Lamp",
-    "texto4": "She turned on the lamp to read"
-  },
-  {
-    "texto1": "Tierra",
-    "texto2": "Terreno",
-    "texto3": "Aterrizar",
-    "texto4": "They bought a piece of land."
-  },
-  {
-    "texto1": "Aplaudir",
-    "texto2": "Dar palmada",
-    "texto3": "clap",
-    "texto4": "The audience began to clap after the performanc"
-  },
-  {
-    "texto1": "Cortar",
-    "texto2": "Sujetador",
-    "texto3": "clip",
-    "texto4": "He used a clip to keep the documents together"
-  },
-  {
-    "texto1": "Contento",
-    "texto2": "Agradecido",
-    "texto3": "Glad",
-    "texto4": "I'm glad you could come to the party."
-  },
-  {
-    "texto1": "brillar",
-    "texto2": "Resplandecer",
-    "texto3": "glow",
-    "texto4": "The embers of the fire continued to glow"
-  },
-  {
-    "texto1": "Brazas",
-    "texto2": "perder",
-    "texto3": "embers",
-    "texto4": "The embers of the campfire (brazas de la fogata)"
-  },
-  {
-    "texto1": "Insignia",
-    "texto2": "Placa",
-    "texto3": "badge",
-    "texto4": "He proudly wore his police badge"
-  },
-  {
-    "texto1": "Lote",
-    "texto2": "Remesa",
-    "texto3": "batch",
-    "texto4": "She baked a batch of cookies"
-  },
-  {
-    "texto1": "Educar",
-    "texto2": "Instruir",
-    "texto3": "educate",
-    "texto4": "Teachers work hard to educate their students."
-  },
-  {
-    "texto1": "Debido",
-    "texto2": "Vencido",
-    "texto3": "Programado",
-    "texto4": "The train is due to arrive at 6 PM"
-  },
-  {
-    "texto1": "Vapor",
-    "texto2": "Vapear",
-    "texto3": "steam",
-    "texto4": "The kettle releases steam when the water boils"
-  },
-  {
-    "texto1": "Datos ",
-    "texto2": "Registros ",
-    "texto3": "Data",
-    "texto4": "datos organizados y procesados o guardados"
-  },
-  {
-    "texto1": "Deber mor/legal ",
-    "texto2": "Impuesto ",
-    "texto3": "duty",
-    "texto4": "The duty on imported goods (bienes importados)"
-  },
-  {
-    "texto1": "Responsabilidad ",
-    "texto2": "Servicio ",
-    "texto3": "duty",
-    "texto4": "He was called to active duty in the army"
-  },
-  {
-    "texto1": "Motor ",
-    "texto2": "Mecanismo ",
-    "texto3": "motor",
-    "texto4": "The car’s motor is very powerful."
-  },
-  {
-    "texto1": "Evaluar",
-    "texto2": "Valorar",
-    "texto3": "assess",
-    "texto4": "The teacher needs to assess the students' progress"
-  },
-  {
-    "texto1": "Postre",
-    "texto2": "Dulce",
-    "texto3": "dessert",
-    "texto4": "I had a delicious dessert after dinner"
-  },
-  {
-    "texto1": "Merecer",
-    "texto2": "-",
-    "texto3": "deserve",
-    "texto4": "She deserves a promotion for her hard work"
-  },
-  {
-    "texto1": "Desierto",
+    "texto1": "Dejar de hacer algo que se había comenzado.",
     "texto2": "Abandonar",
-    "texto3": "desert",
-    "texto4": "The Sahara is the largest hot desert in the world"
+    "texto3": "give up",
+    "texto4": "He had to give up his studies due to financial problems."
   },
   {
-    "texto1": "Debido",
-    "texto2": "Adeudado",
-    "texto3": "due",
-    "texto4": "The train is due to arrive at 5 PM."
+    "texto1": "Aceptar algo después de resistirse inicialmente.",
+    "texto2": "Ceder/Rendirse",
+    "texto3": "give in",
+    "texto4": "After hours of arguing, he finally gave in."
   },
   {
-    "texto1": "merecido",
-    "texto2": "debido ",
-    "texto3": "due",
-    "texto4": "The event was canceled due to bad weather"
+    "texto1": "Dar algo a alguien, especialmente cuando se requiere.",
+    "texto2": "Entregar",
+    "texto3": "give in",
+    "texto4": "Please give in your homework by Friday."
   },
   {
-    "texto1": "Despedir",
-    "texto2": "Descartar",
-    "texto3": "dismiss",
-    "texto4": "The company decided to dismiss several employees"
+    "texto1": "Distribuir algo a varias personas.",
+    "texto2": "Repartir",
+    "texto3": "give out",
+    "texto4": "They gave out flyers for the event."
   },
   {
-    "texto1": "Divagar",
-    "texto2": "Deambular",
-    "texto3": "ramble",
-    "texto4": "He tends to ramble during his speeches."
+    "texto1": "Cuando algo deja de funcionar o se queda sin fuerza.",
+    "texto2": "Agotarse",
+    "texto3": "give out",
+    "texto4": "After running for miles, his legs finally gave out."
   },
   {
-    "texto1": "Cerrar",
-    "texto2": "Cercano",
-    "texto3": "close",
-    "texto4": "The store is close to my house"
-  },
-  {
-    "texto1": "Multitud",
-    "texto2": "Público",
-    "texto3": "crowd",
-    "texto4": "The crowd cheered loudly at the concert"
-  },
-  {
-    "texto1": "Turnos",
-    "texto2": "Cambios",
-    "texto3": "shift",
-    "texto4": "The nurses work in shifts to provide 24-hour care."
-  },
-  {
-    "texto1": "Duda",
-    "texto2": "Incertidumbre",
-    "texto3": "doubt",
-    "texto4": "She expressed her doubt about the plan's success"
-  },
-  {
-    "texto1": "MÁS lejos",
-    "texto2": "Adicional",
-    "texto3": "further",
-    "texto4": " If you need further information, please contact us"
-  },
-  {
-    "texto1": "ReBOTAR",
-    "texto2": "Brincar",
-    "texto3": "bounce",
-    "texto4": "The ball bounced off the wall."
-  },
-  {
-    "texto1": "Agotarse ",
-    "texto2": "Quedarse sin",
-    "texto3": "run out",
-    "texto4": "The store has run out of bread."
-  },
-  {
-    "texto1": "Escalera",
-    "texto2": "Escalafón",
-    "texto3": "ladder",
-    "texto4": "He climbed the ladder to reach the roof."
-  },
-  {
-    "texto1": "Arrepentimiento",
-    "texto2": "Remordimiento",
-    "texto3": "regret",
-    "texto4": "She expressed deep regret"
-  },
-  {
-    "texto1": "Excavar",
-    "texto2": "Investigar",
-    "texto3": "dig",
-    "texto4": "The journalist decided to dig into the details"
-  },
-  {
-    "texto1": "Periodista",
-    "texto2": "Reportero",
-    "texto3": "journalist",
-    "texto4": "La periodista decidió profundizar en los detalles"
-  },
-  {
-    "texto1": "Frutos secos",
-    "texto2": "Chiflado",
-    "texto3": "nuts",
-    "texto4": "The professor is a bit nuts"
-  },
-  {
-    "texto1": "Valor",
-    "texto2": "Valer pena",
-    "texto3": "worth",
-    "texto4": "has a high market worth"
-  },
-  {
-    "texto1": "Licuadora",
-    "texto2": "Batidora",
-    "texto3": "blender",
-    "texto4": "She used the blender to make a smoothie (batido)"
-  },
-  {
-    "texto1": "Manejar",
-    "texto2": "asa/mango",
-    "texto3": "handle",
-    "texto4": "can you handle the responsibility of leading the project"
-  },
-  {
-    "texto1": "Áspero",
-    "texto2": "Difícil",
-    "texto3": "rough",
-    "texto4": "The surface of the rock was rough (rugosa)"
-  },
-  {
-    "texto1": "Camino",
-    "texto2": "Manera",
-    "texto3": "way",
-    "texto4": "There's no right way to solve this problem"
-  },
-  {
-    "texto1": "Imágenes",
-    "texto2": "Filmación",
-    "texto3": "footage",
-    "texto4": "The news report showed footage from the scene of the accident."
-  },
-  {
-    "texto1": "Cerveza",
-    "texto2": "z",
-    "texto3": "beer",
-    "texto4": "he enjoys relaxing with a cold beer"
-  },
-  {
-    "texto1": "Barba",
-    "texto2": "x",
-    "texto3": "beard",
-    "texto4": "He decided to grow a beard during the winter"
-  },
-  {
-    "texto1": "pajaro",
-    "texto2": "z",
-    "texto3": "bird",
-    "texto4": " I woke up to the sound of birds singing"
-  },
-  {
-    "texto1": "Mejor",
-    "texto2": "Superior",
-    "texto3": "better",
-    "texto4": "This new version of the software is better"
-  },
-  {
-    "texto1": "Divagar",
-    "texto2": "x",
-    "texto3": "digress",
-    "texto4": "The professor tends to digress during lectures"
-  },
-  {
-    "texto1": "Apostar",
-    "texto2": "Arriesgar",
-    "texto3": "bet",
-    "texto4": " I wouldn't bet my savings on that risky investment"
-  },
-  {
-    "texto1": "Golpear",
-    "texto2": "Vencer",
-    "texto3": "beat",
-    "texto4": "Our team worked hard to beat the opponents"
-  },
-  {
-    "texto1": "Trae",
-    "texto2": "Provoca",
-    "texto3": "brings",
-    "texto4": "His behavior often brings trouble"
-  },
-  {
-    "texto1": "hija",
-    "texto2": "x",
-    "texto3": "daughter",
-    "texto4": "My daughter is studying engineering"
-  },
-  {
-    "texto1": "poder",
-    "texto2": "lata",
-    "texto3": "can",
-    "texto4": "I opened a can of soup for lunch"
-  },
-  {
-    "texto1": "cortar",
-    "texto2": "todo",
-    "texto3": "cut",
-    "texto4": " She has a cut hairstyle."
-  },
-  {
-    "texto1": "curso",
-    "texto2": "trayectoria",
-    "texto3": "course",
-    "texto4": "The river changed its course"
-  },
-  {
-    "texto1": "maldecir",
-    "texto2": "palabrota",
-    "texto3": "curse",
-    "texto4": "He blurted out a curse Soltó una maldición"
-  },
-  {
-    "texto1": "Asustado",
-    "texto2": "Preocupado",
-    "texto3": "afraid",
-    "texto4": "She was afraid that she wouldn't pass the exam"
-  },
-  {
-    "texto1": "descuidado",
-    "texto2": "flojo",
-    "texto3": "slack",
-    "texto4": "was criticized for his slack performance "
-  },
-  {
-    "texto1": "Experimentado",
-    "texto2": "Realizado",
-    "texto3": "accomplished",
-    "texto4": "He is an accomplished musician"
-  },
-  {
-    "texto1": "estropear",
-    "texto2": "confundido",
-    "texto3": "messed",
-    "texto4": "His room is always messed desordenado"
-  },
-  {
-    "texto1": "Propósito",
-    "texto2": "Finalidad",
-    "texto3": "purpose",
-    "texto4": "The purpose of the research is to find"
-  },
-  {
-    "texto1": "significar",
-    "texto2": "desagradable",
-    "texto3": "mean",
-    "texto4": "Don't be mean to your little sister"
-  },
-  {
-    "texto1": "desmoronarse",
-    "texto2": "deshacerse",
-    "texto3": "crumble",
-    "texto4": "The old ruins began to crumble"
-  },
-  {
-    "texto1": "puerto",
-    "texto2": "llevar",
-    "texto3": "port",
-    "texto4": "The boat is designed to port across the river"
-  },
-  {
-    "texto1": "conexión en un-",
-    "texto2": "-computadora",
-    "texto3": "port",
-    "texto4": "Connect the USB cable to the port on your computer"
-  },
-  {
-    "texto1": "factura",
-    "texto2": "proyecto-ley",
-    "texto3": "bill",
-    "texto4": "The government introduced a new bill"
-  },
-  {
-    "texto1": "mantener",
-    "texto2": "guardar",
-    "texto3": "keep",
-    "texto4": "I keep my keys in the drawer el cajón"
-  },
-  {
-    "texto1": "Camarero",
-    "texto2": "-",
-    "texto3": "waiter",
-    "texto4": "The waiter brought the menu"
-  },
-  {
-    "texto1": "llevar puesto",
-    "texto2": "-",
-    "texto3": "wearing",
-    "texto4": "She is wearing a beautiful dress"
-  },
-  {
-    "texto1": "aplastar",
-    "texto2": "golpe fuerte",
-    "texto3": "smash",
-    "texto4": "He accidentally smashed the glass"
-  },
-  {
-    "texto1": "lleno",
-    "texto2": "abarrotado",
-    "texto3": "crowded",
-    "texto4": "Connect"
-  },
-  {
-    "texto1": "obligar",
-    "texto2": "provocar",
-    "texto3": "prompted ",
-    "texto4": "The alarm prompted everyone to evacuate"
-  },
-  {
-    "texto1": "broma",
-    "texto2": "burla",
-    "texto3": "teasing ",
-    "texto4": "He was just teasing"
+    "texto1": "believe",
+    "texto2": "believe",
+    "texto3": "believe",
+    "texto4": "believe"
   }
 ]
