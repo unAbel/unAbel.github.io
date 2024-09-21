@@ -1,200 +1,404 @@
 [
   {
-    "texto1": "Descomposición de sustancias o elementos",
-    "texto2": "Descomponer",
-    "texto3": "broke down",
-    "texto4": "The enzymes help to break down food in the stomach"
+    "texto1": "diseño",
+    "texto2": "maquetación",
+    "texto3": "layout",
+    "texto4": "the layout for the magazine"
   },
   {
-    "texto1": "Cuando una máquina o vehículo deja de funcionar",
-    "texto2": "Averiarse",
-    "texto3": "broke down",
-    "texto4": "My car broke down on the way to work"
+    "texto1": "atrapado",
+    "texto2": "capturado",
+    "texto3": "caught",
+    "texto4": "She caught the ball with one hand"
   },
   {
-    "texto1": "Cuando alguien pierde la compostura emocional.",
-    "texto2": "Derrumbarse",
-    "texto3": "broke down",
-    "texto4": "She broke down in tears after hearing the news"
+    "texto1": "ganar",
+    "texto2": "(de dinero)",
+    "texto3": "earn",
+    "texto4": "She earns a good salary working as a software engineer"
   },
   {
-    "texto1": "Terminar una relación romántica",
-    "texto2": "Terminar/Finalizar",
-    "texto3": "break up",
-    "texto4": "They decided to break up after five years together"
+    "texto1": "guardado",
+    "texto2": "conservado",
+    "texto3": "kept",
+    "texto4": "He kept the old letters in a box under his bed"
   },
   {
-    "texto1": "Dividir algo en partes más pequeñas",
-    "texto2": "Desintegrar(se)",
-    "texto3": "break up",
-    "texto4": "The ice began to break up as the temperature rose"
+    "texto1": "llevar",
+    "texto2": "transportar",
+    "texto3": "carry",
+    "texto4": "She carries her books in a backpack."
   },
   {
-    "texto1": "Dispersar a un grupo de personas",
-    "texto2": "Separar",
-    "texto3": "break up",
-    "texto4": "The police were called to break up the fight"
+    "texto1": "cáscaraNuez",
+    "texto2": "resumen",
+    "texto3": "nutshell",
+    "texto4": "In a nutshell, the project was a success"
   },
   {
-    "texto1": "Entrar en un lugar sin permiso, usualmente de manera ilegal.",
-    "texto2": "Entrar a la fuerza",
-    "texto3": "break into",
-    "texto4": "Someone tried to break into my house last night."
+    "texto1": "ventana emergente",
+    "texto2": "de aviso",
+    "texto3": "pop-up",
+    "texto4": "A pop-up window appeared"
   },
   {
-    "texto1": "Empezar algo de repente, como una actividad o expresión.",
-    "texto2": "Irrumpir",
-    "texto3": "break into",
-    "texto4": "He broke into laughter at the joke."
+    "texto1": "desplegable",
+    "texto2": "extraíble",
+    "texto3": "pop-out",
+    "texto4": "The book has pop-out illustrations"
   },
   {
-    "texto1": "Comenzar una nueva actividad, especialmente una carrera o campo.",
-    "texto2": "Iniciar",
-    "texto3": "break into",
-    "texto4": "She broke into the music industry at a young age."
+    "texto1": "simulacro",
+    "texto2": "objeto simulado",
+    "texto3": "mock",
+    "texto4": "we're mocking (simulando) the database connection"
   },
   {
-    "texto1": "Salir de un lugar o situación de manera repentina y usualmente forzada.",
-    "texto2": "Escapar",
-    "texto3": "break out",
-    "texto4": "The prisoners managed to break out of the prison"
+    "texto1": "Arrepentimiento",
+    "texto2": "Remordimiento",
+    "texto3": "regret",
+    "texto4": "expressed"
   },
   {
-    "texto1": "Salir de una situación o restricción.",
-    "texto2": "Liberarse",
-    "texto3": "break out",
-    "texto4": "He broke out of his routine and tried something new."
+    "texto1": "Extensión",
+    "texto2": "propagación ",
+    "texto3": "spread",
+    "texto4": "The spread of the virus has led (provocado) to increased health"
   },
   {
-    "texto1": "Cuando algo indeseado, como una erupción cutánea, se manifiesta en el cuerpo",
-    "texto2": "Aparecer",
-    "texto3": "break out",
-    "texto4": "She broke out in a rash after eating the strawberries."
+    "texto1": "Tomar el -",
+    "texto2": "control",
+    "texto3": "take over",
+    "texto4": "The new CEO plans to take over the company"
   },
   {
-    "texto1": "Romper algo en pedazos, usualmente una parte de un objeto más grande",
-    "texto2": "Romper",
-    "texto3": "break off",
-    "texto4": " She broke off a piece of chocolate."
-  },
-  {
-    "texto1": "Detener bruscamente una actividad o conversación.",
-    "texto2": "Interrumpir",
-    "texto3": "break off",
-    "texto4": "He broke off in the middle of his speech."
-  },
-  {
-    "texto1": "Terminar una relación, acuerdo o compromiso",
-    "texto2": "Romper",
-    "texto3": "break off",
-    "texto4": "They broke off their engagement last week."
-  },
-  {
-    "texto1": "Continuar al mismo ritmo o nivel.",
-    "texto2": "Mantener",
-    "texto3": "keep up",
-    "texto4": "He runs so fast, it's hard to keep up with him."
-  },
-  {
-    "texto1": "Estar al día con información o tendencias",
-    "texto2": "Seguir",
-    "texto3": "keep up",
-    "texto4": "i try to keep up with the latest news."
-  },
-  {
-    "texto1": "Mantener algo en su lugar o posición.",
-    "texto2": "Sostener",
-    "texto3": "keep up",
-    "texto4": "The pillars keep up the roof."
-  },
-  {
-    "texto1": "Continuar haciendo algo sin para",
-    "texto2": "Seguir",
-    "texto3": "keep on",
-    "texto4": "If you keep on practicing, you'll improve."
-  },
-  {
-    "texto1": "Continuar con una acción, especialmente a pesar de dificultades.",
-    "texto2": "Persistir",
-    "texto3": "keep on",
-    "texto4": "She keeps on working despite the challenges."
-  },
-  {
-    "texto1": " Continuar empleando a alguien.",
-    "texto2": "Mantenerse (empleado)",
-    "texto3": "keep on",
-    "texto4": "They decided to keep on all the staff after the merger."
-  },
-  {
-    "texto1": "Prevenir la entrada de algo o alguien.",
-    "texto2": "Mantener fuera",
-    "texto3": "keep out",
-    "texto4": "Please keep out of the restricted area."
-  },
-  {
-    "texto1": "No permitir que algo entre en un lugar.",
-    "texto2": "Impedir el acceso",
-    "texto3": "keep out",
-    "texto4": "The fence is there to keep out wild animals."
-  },
-  {
-    "texto1": "Evitar que alguien participe en una actividad o grupo.",
-    "texto2": "Excluir",
-    "texto3": "keep out",
-    "texto4": " They tried to keep her out of the meeting."
-  },
-  {
-    "texto1": "No involucrarse en una situación.",
-    "texto2": "Apartarse",
-    "texto3": "keep away",
-    "texto4": "It's best to keep away from arguments."
-  },
-  {
-    "texto1": "Evitar que algo o alguien se acerque.",
-    "texto2": "Alejar",
-    "texto3": "keep away",
-    "texto4": "The sign warns to keep away dangerous animals."
-  },
-  {
-    "texto1": "Dejar de intentar algo porque es difícil o parece imposible.",
-    "texto2": "Rendirse/Entregarse",
+    "texto1": "Rendirse",
+    "texto2": "abandonar",
     "texto3": "give up",
-    "texto4": "She decided to give up after many failed attempts."
+    "texto4": "It's important not to give up in the face of challenges"
   },
   {
-    "texto1": "Dejar de hacer algo que se había comenzado.",
-    "texto2": "Abandonar",
-    "texto3": "give up",
-    "texto4": "He had to give up his studies due to financial problems."
+    "texto1": "desarrollarse",
+    "texto2": "Evolucionar",
+    "texto3": "evolve",
+    "texto4": "Technology continues to evolve rapidly"
   },
   {
-    "texto1": "Aceptar algo después de resistirse inicialmente.",
-    "texto2": "Ceder/Rendirse",
-    "texto3": "give in",
-    "texto4": "After hours of arguing, he finally gave in."
+    "texto1": "Tratar",
+    "texto2": "obsequiar",
+    "texto3": "treat",
+    "texto4": "She decided to treat herself to a relaxing spa day"
   },
   {
-    "texto1": "Dar algo a alguien, especialmente cuando se requiere.",
-    "texto2": "Entregar",
-    "texto3": "give in",
-    "texto4": "Please give in your homework by Friday."
+    "texto1": "Pasillos",
+    "texto2": "corredores",
+    "texto3": "halls",
+    "texto4": "The students gathered in the halls"
   },
   {
-    "texto1": "Distribuir algo a varias personas.",
-    "texto2": "Repartir",
-    "texto3": "give out",
-    "texto4": "They gave out flyers for the event."
+    "texto1": "Reforzar",
+    "texto2": "asegurar",
+    "texto3": "shore up",
+    "texto4": "The government implemented measures to shore up the economy "
   },
   {
-    "texto1": "Cuando algo deja de funcionar o se queda sin fuerza.",
-    "texto2": "Agotarse",
-    "texto3": "give out",
-    "texto4": "After running for miles, his legs finally gave out."
+    "texto1": "Basura",
+    "texto2": "obj inútiles,",
+    "texto3": "junk",
+    "texto4": "it's full of old junk"
   },
   {
-    "texto1": "believe",
-    "texto2": "believe",
-    "texto3": "believe",
-    "texto4": "believe"
+    "texto1": "Colocarlo",
+    "texto2": "ponerlo",
+    "texto3": "lay it",
+    "texto4": "Just lay it on the table"
+  },
+  {
+    "texto1": "Viaje",
+    "texto2": "trayecto",
+    "texto3": "journey",
+    "texto4": "Their journey across the country "
+  },
+  {
+    "texto1": "Adivinar",
+    "texto2": "suponer",
+    "texto3": "guess",
+    "texto4": "Can you guess what's in the box"
+  },
+  {
+    "texto1": "Invitado",
+    "texto2": "huésped",
+    "texto3": "guest",
+    "texto4": "We have a special guest joining us"
+  },
+  {
+    "texto1": "En aprietos",
+    "texto2": "perjudicado",
+    "texto3": "screwed",
+    "texto4": "we'll be really screwed"
+  },
+  {
+    "texto1": "Fianza",
+    "texto2": "abandonar",
+    "texto3": "bail",
+    "texto4": "I have to bail on our plans tonight"
+  },
+  {
+    "texto1": "Relacionar",
+    "texto2": "contar/narrar",
+    "texto3": "relate",
+    "texto4": "Mary decided to relate her fascinating experience"
+  },
+  {
+    "texto1": "Estado",
+    "texto2": "declarar",
+    "texto3": "state",
+    "texto4": "She paused for a moment to state her position"
+  },
+  {
+    "texto1": "Despreciar",
+    "texto2": "desdenhar",
+    "texto3": "despise",
+    "texto4": "but despise the dishonesty of her colleague"
+  },
+  {
+    "texto1": "Comenzando",
+    "texto2": "-",
+    "texto3": "starting",
+    "texto4": "We are starting a new project"
+  },
+  {
+    "texto1": "Empezó",
+    "texto2": "comenzó",
+    "texto3": "started",
+    "texto4": "The concert started right on time."
+  },
+  {
+    "texto1": "Más lejos",
+    "texto2": "ADICIONAL",
+    "texto3": "further",
+    "texto4": "We need to conduct realizar further research"
+  },
+  {
+    "texto1": "entendieron",
+    "texto2": "pensó",
+    "texto3": "figured",
+    "texto4": "they figured out what had happened"
+  },
+  {
+    "texto1": "Establecer",
+    "texto2": "solucionar",
+    "texto3": "settle",
+    "texto4": "They decided to settle their differences"
+  },
+  {
+    "texto1": "Soleado",
+    "texto2": "mucho sol",
+    "texto3": "sunny",
+    "texto4": "a clear sky and lots of sunny weather"
+  },
+  {
+    "texto1": "diseño",
+    "texto2": "maquetación",
+    "texto3": "layout",
+    "texto4": "the layout for the magazine"
+  },
+  {
+    "texto1": "atrapado",
+    "texto2": "capturado",
+    "texto3": "caught",
+    "texto4": "She caught the ball with one hand"
+  },
+  {
+    "texto1": "ganar",
+    "texto2": "(de dinero)",
+    "texto3": "earn",
+    "texto4": "She earns a good salary working as a software engineer"
+  },
+  {
+    "texto1": "guardado",
+    "texto2": "conservado",
+    "texto3": "kept",
+    "texto4": "He kept the old letters in a box under his bed"
+  },
+  {
+    "texto1": "llevar",
+    "texto2": "transportar",
+    "texto3": "carry",
+    "texto4": "She carries her books in a backpack."
+  },
+  {
+    "texto1": "cáscaraNuez",
+    "texto2": "resumen",
+    "texto3": "nutshell",
+    "texto4": "In a nutshell, the project was a success"
+  },
+  {
+    "texto1": "ventana emergente",
+    "texto2": "de aviso",
+    "texto3": "pop-up",
+    "texto4": "A pop-up window appeared"
+  },
+  {
+    "texto1": "desplegable",
+    "texto2": "extraíble",
+    "texto3": "pop-out",
+    "texto4": "The book has pop-out illustrations"
+  },
+  {
+    "texto1": "simulacro",
+    "texto2": "objeto simulado",
+    "texto3": "mock",
+    "texto4": "we're mocking (simulando) the database connection"
+  },
+  {
+    "texto1": "Se refiere a una línea de personas, Hacer cola.",
+    "texto2": "Fila/cola",
+    "texto3": "queue",
+    "texto4": "There was a long queue outside the store."
+  },
+  {
+    "texto1": "descomponer una oración, Procesar, interpretar o entender algo",
+    "texto2": "Analizar/Interpretar",
+    "texto3": "parse",
+    "texto4": "It was difficult to parse his message because it was unclear."
+  },
+  {
+    "texto1": "Se usa cuando algo se asegura, Bloquear",
+    "texto2": "Cerradura",
+    "texto3": "locks",
+    "texto4": "The phone automatically locks after a few minutes of inactivity"
+  },
+  {
+    "texto1": "colgar algo usando un gancho, Captar la atención",
+    "texto2": "Gancho/Enganchar",
+    "texto3": "hook",
+    "texto4": "The movie's opening scene really hooked the audience."
+  },
+  {
+    "texto1": "sustituto del dinero, fragmento de información que representa datos",
+    "texto2": "Ficha/Vale",
+    "texto3": "token",
+    "texto4": "The system requires a security token for authentication."
+  },
+  {
+    "texto1": "Se usa comúnmente en tecnología para describir un flujo constante de datos",
+    "texto2": "Flujo continuo",
+    "texto3": "stream",
+    "texto4": "The system processes a stream of data every second."
+  },
+  {
+    "texto1": "Carcasa o envoltura, una interfaz permite interactuar con el SO",
+    "texto2": "Concha/Cáscara ",
+    "texto3": "shell",
+    "texto4": "You can use the shell to execute commands on the server"
+  },
+  {
+    "texto1": "actualización de software que corrige errores o mejora el rendimiento de un programa.",
+    "texto2": "Parche (textil o informatico)",
+    "texto3": "patch",
+    "texto4": "The latest patch fixed several bugs in the system."
+  },
+  {
+    "texto1": "un método en una clase hija reemplaza o modifica el comportamiento de un método heredado",
+    "texto2": "Anular/Sobrescribir ",
+    "texto3": "override",
+    "texto4": "You can override the default settings in the program."
+  },
+  {
+    "texto1": "Sobrecarga de Recursos, método o función",
+    "texto2": "Sobrecarga",
+    "texto3": "Sobrecarga",
+    "texto4": "expressed"
+  },
+  {
+    "texto1": "Dividir o Ramificar",
+    "texto2": "Tenedor",
+    "texto3": "fork",
+    "texto4": "The road will fork in two; you can choose either direction"
+  },
+  {
+    "texto1": "área de terreno, área de estudio, area en UI",
+    "texto2": "Campo",
+    "texto3": "field",
+    "texto4": "The form requires you to fill in your name in the name field"
+  },
+  {
+    "texto1": "identificar y corregir errores o bugs, Corregir fallos",
+    "texto2": "Depurar",
+    "texto3": "debug",
+    "texto4": "The technician was called to debug the issues with the network connection."
+  },
+  {
+    "texto1": "Grupo o Conjunto, Agrupación de Datos, Grupo de Computadoras",
+    "texto2": "Grupo",
+    "texto3": "cluster",
+    "texto4": "The data analysis revealed a cluster of customers who prefer organic products."
+  },
+  {
+    "texto1": "Memoria que se utiliza para almacenar temporalmente datos",
+    "texto2": "Memoria Intermedia",
+    "texto3": "buffer",
+    "texto4": "The video playback was interrupted due to a buffer issue"
+  },
+  {
+    "texto1": "objeto que representa la eventual finalización de una operación asíncron",
+    "texto2": "Promesa",
+    "texto3": "promise",
+    "texto4": "The function returns a promise that resolves when the data is fetched successfully"
+  },
+  {
+    "texto1": "tiempo que transcurre entre una solicitud y la respuesta o resultado",
+    "texto2": "Latencia ",
+    "texto3": "latency",
+    "texto4": "The latency in the network caused delays during the video cal"
+  },
+  {
+    "texto1": "proporciona una interfaz simplificada a un conjunto de interfaces en un sistema más complejo",
+    "texto2": "Fachada",
+    "texto3": "facade",
+    "texto4": "The facade pattern helped simplify the complex interactions"
+  },
+  {
+    "texto1": "parte más externa o límite de un objeto",
+    "texto2": "Borde/Ventaja",
+    "texto3": "edge",
+    "texto4": "Be careful near the edge of the cliFf"
+  },
+  {
+    "texto1": "una señal de que algo podría estar mal o no ser óptimo.",
+    "texto2": "Remordimiento",
+    "texto3": "code smell",
+    "texto4": "When reviewing the project, I noticed several code smells"
+  },
+  {
+    "texto1": "Entorno de Pruebas, Caja de Arena, Espacio de Experimento",
+    "texto2": "Entorno de Pruebas",
+    "texto3": "sandbox",
+    "texto4": "The developers used a sandbox to test the new features"
+  },
+  {
+    "texto1": "archivo o herramienta que muestra las diferencias entre dos versiones",
+    "texto2": "Diferencia",
+    "texto3": "diff",
+    "texto4": "I ran a diff on the two code files to see what changes were made"
+  },
+  {
+    "texto1": "registro donde se anotan detalles de eventos o actividades",
+    "texto2": "Registros ",
+    "texto3": "logs",
+    "texto4": "The system logs helped the developers identify the cause of the crash"
+  },
+  {
+    "texto1": "lista de tareas, pedidos o trabajos",
+    "texto2": "Tareas Pendientes ",
+    "texto3": "backlog",
+    "texto4": "We need to prioritize the items in our product backlog to ensure timely delivery"
+  },
+  {
+    "texto1": "regret",
+    "texto2": "regret",
+    "texto3": "regret",
+    "texto4": "regret"
   }
 ]
