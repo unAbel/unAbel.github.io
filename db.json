@@ -1,5 +1,425 @@
 [
   {
+    "texto1": "exhaustivo",
+    "texto2": "completo",
+    "texto3": "thorough/Meticulous",
+    "texto4": "He gave the car a thorough inspection"
+  },
+  {
+    "texto1": "A través de",
+    "texto2": "A lo largo de",
+    "texto3": "through/across",
+    "texto4": "We walked through the park"
+  },
+  {
+    "texto1": "Terminado",
+    "texto2": "Mediante/por",
+    "texto3": "through/by means",
+    "texto4": "I communicated with him through email"
+  },
+  {
+    "texto1": "Enseñó ",
+    "texto2": "Enseñado",
+    "texto3": "taught/instructed",
+    "texto4": "She taught English at the local school"
+  },
+  {
+    "texto1": "Difícil/duro",
+    "texto2": "resistente",
+    "texto3": "tough",
+    "texto4": "Studying for the exam was tough"
+  },
+  {
+    "texto1": "Aunque/Pero",
+    "texto2": "sin embargo",
+    "texto3": "though",
+    "texto4": ".. though she was feeling tired"
+  },
+  {
+    "texto1": "Pensamiento",
+    "texto2": "idea",
+    "texto3": "thought",
+    "texto4": "I just had a thought about how to solve the problem"
+  },
+  {
+    "texto1": "A lo largo de",
+    "texto2": "en todas partes",
+    "texto3": "throughout/through",
+    "texto4": "She looked for her keys throughout the house toda la"
+  },
+  {
+    "texto1": "Rodar/Enrollar, Dar forma de cilindro a algo.",
+    "texto2": "Giro",
+    "texto3": "roll",
+    "texto4": "The car went into (dio) a roll after hitting the curb."
+  },
+  {
+    "texto1": "Abogar",
+    "texto2": "Promover",
+    "texto3": "advocate",
+    "texto4": "They advocate for healthier eating habits."
+  },
+  {
+    "texto1": "factura",
+    "texto2": "proyecto-ley",
+    "texto3": "bill",
+    "texto4": "The government introduced a new bill"
+  },
+  {
+    "texto1": "Se utiliza cuando una persona está enfrentando una tarea difícil o un obstáculo",
+    "texto2": "Resistir/Esforzarse",
+    "texto3": "struggle",
+    "texto4": "Her life has been a constant struggle"
+  },
+  {
+    "texto1": "En situaciones donde hay una pelea o conflicto físico entre personas",
+    "texto2": "Pelear/Luchar",
+    "texto3": "struggle",
+    "texto4": "The two men struggled for control of the weapon"
+  },
+  {
+    "texto1": " un atributo, rasgo, o función distintiva de algo",
+    "texto2": "Característica",
+    "texto3": "feature",
+    "texto4": "The new phone has many impressive features"
+  },
+  {
+    "texto1": "Como verbo, significa presentar o destacar algo",
+    "texto2": "Presentar",
+    "texto3": "feature",
+    "texto4": "The concert will feature performances by several famous artists"
+  },
+  {
+    "texto1": "una Actuación/representación artística",
+    "texto2": "representación",
+    "texto3": "performance",
+    "texto4": "The band's live performance was incredible and full of energy"
+  },
+  {
+    "texto1": "para medir cuán bien una persona, máquina, o sistema lleva a cabo una tarea",
+    "texto2": "Rendimiento",
+    "texto3": "performance",
+    "texto4": "The performance of the new computer is much faster than the previous model"
+  },
+  {
+    "texto1": " ejecución de una tarea o acción",
+    "texto2": "Ejecutar",
+    "texto3": "To Perform",
+    "texto4": "The technician performed a routine check on the equipment."
+  },
+  {
+    "texto1": "moverse o avanzar hacia adelante",
+    "texto2": "Hacia Adelante",
+    "texto3": "Forward",
+    "texto4": "The soldiers marched forth into battle"
+  },
+  {
+    "texto1": "Se refiere a hacer que algo se adhiera o se mantenga unido",
+    "texto2": "Pegar ",
+    "texto3": "stick",
+    "texto4": "You can use glue to stick the paper to the wall."
+  },
+  {
+    "texto1": "Hace referencia a una vara o palo, generalmente de madera",
+    "texto2": "Palo/Barra",
+    "texto3": "stick",
+    "texto4": "The dog loves to fetch sticks at the park"
+  },
+  {
+    "texto1": "Se refiere a permanecer en un lugar o situación (manera constante)",
+    "texto2": "permanecer",
+    "texto3": "stick",
+    "texto4": "I'll stick with my original decision"
+  },
+  {
+    "texto1": "acto de transferir dinero a cambio de bienes",
+    "texto2": "Pago d Dinero",
+    "texto3": "payment",
+    "texto4": "I made the final payment on my car loan last week"
+  },
+  {
+    "texto1": "recompensa o compensación por un trabajo o servicio",
+    "texto2": "Compensación ",
+    "texto3": "payment",
+    "texto4": "She received payment in the form of a bonus for her hard work"
+  },
+  {
+    "texto1": "Se refiere a estar al mando o dirigir a un grupo, proyecto, o actividad",
+    "texto2": "Liderar",
+    "texto3": "lead",
+    "texto4": "She was chosen to lead the project because of her experience"
+  },
+  {
+    "texto1": "Se utiliza cuando alguien está en primer lugar o tiene una ventaja en una competencia",
+    "texto2": "encabezando",
+    "texto3": "lead",
+    "texto4": "He is leading in the polls for the upcoming election"
+  },
+  {
+    "texto1": "Indica que una acción o situación causa o conduce a otra cosa.",
+    "texto2": "Conducir",
+    "texto3": "lead",
+    "texto4": "A poor diet can lead to health problems"
+  },
+  {
+    "texto1": "se refiere al metal pesado",
+    "texto2": "Plomo ",
+    "texto3": "lead",
+    "texto4": "The pipes in older homes were made of lead"
+  },
+  {
+    "texto1": "Se refiere a información que puede ayudar a descubrir o resolver algo",
+    "texto2": "Pista ",
+    "texto3": "lead",
+    "texto4": "The detective followed a lead that helped solve the case"
+  },
+  {
+    "texto1": "Se refiere a una entrada, especialmente en un contexto físico",
+    "texto2": "Entrada",
+    "texto3": "gateway",
+    "texto4": "The garden features a beautiful wooden gateway "
+  },
+  {
+    "texto1": "dispositivo o software que permite la comunicación entre dos redes diferentes",
+    "texto2": "Conexión",
+    "texto3": "gateway",
+    "texto4": "The router acts as a gateway between the local network and the internet"
+  },
+  {
+    "texto1": "Se refiere al acto de llevar algo o alguien",
+    "texto2": "traer",
+    "texto3": "bring",
+    "texto4": "Can you bring the book to my office"
+  },
+  {
+    "texto1": "Se usa para describir la acción de provocar que algo ocurra",
+    "texto2": "Causar",
+    "texto3": "bring",
+    "texto4": "The news brought her great joy"
+  },
+  {
+    "texto1": "Puede referirse a presentar o introducir a alguien a un grupo",
+    "texto2": "Introducir ",
+    "texto3": "bring",
+    "texto4": "I would like to bring my friend to the party"
+  },
+  {
+    "texto1": "una acción puede llevar a un resultado",
+    "texto2": "Conducir ",
+    "texto3": "bring",
+    "texto4": "These changes will bring significant improvements "
+  },
+  {
+    "texto1": "Se refiere a preparar/montar algo para ser visto o exhibido",
+    "texto2": "Colocar",
+    "texto3": "Stage",
+    "texto4": "They staged the artwork beautifully in the gallery"
+  },
+  {
+    "texto1": "Escenario/etapa/Fase",
+    "texto2": "Escenario",
+    "texto3": "Stage",
+    "texto4": "The actors will perform on stage tonight."
+  },
+  {
+    "texto1": "Tener a alguien o algo como garantía",
+    "texto2": "Confiar",
+    "texto3": "rely",
+    "texto4": "I rely on my friends for support"
+  },
+  {
+    "texto1": "Necesitar de alguien o algo para funcionar o tener éxito",
+    "texto2": "Depender",
+    "texto3": "rely",
+    "texto4": "We rely on technology for many daily tasks"
+  },
+  {
+    "texto1": "Dirigir un objeto o una acción hacia un objetivo específico",
+    "texto2": "Apuntar",
+    "texto3": "Aim",
+    "texto4": "He aimed the arrow at the target"
+  },
+  {
+    "texto1": "tener la intención de lograr algo",
+    "texto2": "Objetivo",
+    "texto3": "aim",
+    "texto4": "We aim to reduce costs by 10% this quarter"
+  },
+  {
+    "texto1": "Estructura en la cocina o baño para lavar cosas",
+    "texto2": "Fregadero",
+    "texto3": "sink",
+    "texto4": "She washed the dishes in the kitchen sink."
+  },
+  {
+    "texto1": "Hundir/Sumergir/descender ",
+    "texto2": "Caer",
+    "texto3": "sink",
+    "texto4": "The boat began to sink after hitting the iceberg"
+  },
+  {
+    "texto1": "Proceso legal donde se determina la culpabilidad o inocencia",
+    "texto2": "Juicio",
+    "texto3": "trial",
+    "texto4": "The trial lasted for three weeks"
+  },
+  {
+    "texto1": "Acto de probar o intentar algo",
+    "texto2": "Prueba",
+    "texto3": "trial",
+    "texto4": "They gave the new strategy a trial to see if it worked"
+  },
+  {
+    "texto1": "Sentimiento de inquietud o ansiedad por algo",
+    "texto2": "Preocupación",
+    "texto3": "Concern",
+    "texto4": "She expressed concern about the safety of the children"
+  },
+  {
+    "texto1": "Algo que es importante o relevante",
+    "texto2": "Asunto",
+    "texto3": "concern",
+    "texto4": "The company’s financial health is a major concern"
+  },
+  {
+    "texto1": "Tener un interés o implicación en algo",
+    "texto2": "Interés",
+    "texto3": "concern",
+    "texto4": "This matter is of great concern to the community"
+  },
+  {
+    "texto1": "Proporción o cantidad relativa de algo",
+    "texto2": "Tasa",
+    "texto3": "Rate",
+    "texto4": "The interest rate has increased this year"
+  },
+  {
+    "texto1": "Evaluar o asignar un valor a algo",
+    "texto2": "Valorar",
+    "texto3": "Rate",
+    "texto4": "I would rate this movie a five out of ten."
+  },
+  {
+    "texto1": "Controlar o dirigir algo, como una situación o un objeto",
+    "texto2": "Manejar",
+    "texto3": "handle",
+    "texto4": "believe"
+  },
+  {
+    "texto1": " Sostener o tomar algo con las manos.",
+    "texto2": "Agarrar/asa",
+    "texto3": "handle",
+    "texto4": "Please handle the fragile items with care"
+  },
+  {
+    "texto1": "Abordar o gestionar un tema o problema",
+    "texto2": "Tratar",
+    "texto3": "handle",
+    "texto4": "They need to handle the issue promptly"
+  },
+  {
+    "texto1": "Traje, Ajustar o modificar algo para que funcione",
+    "texto2": "Adaptar",
+    "texto3": "Suit",
+    "texto4": "We need to suit the plan to fit the new requirements."
+  },
+  {
+    "texto1": "Acción legal presentada ante un tribunal",
+    "texto2": "Demanda",
+    "texto3": "Suit",
+    "texto4": "She filed a suit against the company for negligence"
+  },
+  {
+    "texto1": "Llevar a cabo una acción legal contra alguien en un tribunal.",
+    "texto2": "Demandar",
+    "texto3": "Sue",
+    "texto4": "She decided to sue the company for breach of contract."
+  },
+  {
+    "texto1": "Tener la intención/Pretender de hacer algo",
+    "texto2": "Soñar",
+    "texto3": "sue",
+    "texto4": "They plan to sue for a better deal"
+  },
+  {
+    "texto1": "Persistir/seguir en una acción o estado",
+    "texto2": "Continuar",
+    "texto3": "keep",
+    "texto4": "He decided to keep working despite the challenges"
+  },
+  {
+    "texto1": "Proteger o atender a algo o alguien",
+    "texto2": "Cuidar",
+    "texto3": "keep",
+    "texto4": "They promised to keep the garden tidy."
+  },
+  {
+    "texto1": "Algo especial dado como un obsequio o sorpresa",
+    "texto2": "Regalo",
+    "texto3": "treat",
+    "texto4": "Let's go out for ice cream as a treat."
+  },
+  {
+    "texto1": "Actuar de una manera que implica cierta actitud hacia alguien.",
+    "texto2": "Comportamiento",
+    "texto3": "treat",
+    "texto4": "He didn't like the way they treated him"
+  },
+  {
+    "texto1": "Presentar una queja/reclamo formal sobre un servicio",
+    "texto2": "Quejarse",
+    "texto3": "complain",
+    "texto4": "He decided to complain to the manager about"
+  },
+  {
+    "texto1": "Expresar oposición a algo de manera verbal.",
+    "texto2": "Protestar",
+    "texto3": "complain",
+    "texto4": "Customers complained loudly about the price increase"
+  },
+  {
+    "texto1": "Un objeto que identifica a una persona, tbm placa",
+    "texto2": "Identificación",
+    "texto3": "Badge",
+    "texto4": "Please wear your ID badge at all times"
+  },
+  {
+    "texto1": "Un símbolo que representa una marca comercial o producto",
+    "texto2": "Marca/Insignia",
+    "texto3": "Badge",
+    "texto4": "The badge on the product indicates its quality"
+  },
+  {
+    "texto1": "Responsabilidad,Servicio, impuesto,Deber mor/legal",
+    "texto2": "Servicio ",
+    "texto3": "duty",
+    "texto4": "He was called to active duty in the army"
+  },
+  {
+    "texto1": "Se usa cuando una persona ha hecho algo para ganarse o ser digno de una recompensa",
+    "texto2": "Merecer",
+    "texto3": "deserve",
+    "texto4": "This function deserves a refactor after solving so many issues"
+  },
+  {
+    "texto1": "se usa cuando decides no tener en cuenta o rechazar algo",
+    "texto2": "Despedir/Descartar",
+    "texto3": "dismiss",
+    "texto4": "The company decided to dismiss several employees due.."
+  },
+  {
+    "texto1": "cerrar una ventana, un archivo o finalizar una conexión de base",
+    "texto2": "Cerrar",
+    "texto3": "close",
+    "texto4": "Don’t forget to close the file after writing to it."
+  },
+  {
+    "texto1": "cuando se refiere a proximidad física o temporal",
+    "texto2": "Cercano",
+    "texto3": "close",
+    "texto4": "The deadline is close, so we need to finalize the code review soon."
+  },
+  {
     "texto1": "Se utiliza para expresar que algo se extiende más allá de lo previamente mencionado",
     "texto2": "Más",
     "texto3": "further",
@@ -18,6 +438,60 @@
     "texto4": "The goal of this training is to further the development"
   },
   {
+    "texto1": "alteración o modificación en una situación, posición o enfoque.",
+    "texto2": "Cambio",
+    "texto3": "shift",
+    "texto4": "There has been a significant shift in the company's strategy"
+  },
+  {
+    "texto1": "al turno de trabajo",
+    "texto2": "Turno",
+    "texto3": "shift",
+    "texto4": "I will work the night shift this week"
+  },
+  {
+    "texto1": "mover algo de un lugar a otro",
+    "texto2": "Desplazar",
+    "texto3": "shift",
+    "texto4": "Can you shift the chair to the other side of the room?"
+  },
+  {
+    "texto1": "tarea que no pudo ser entregado, chocar contra una superficie",
+    "texto2": "Rebotar",
+    "texto3": "bounce",
+    "texto4": "The email bounced back because the recipient's address was incorrect"
+  },
+  {
+    "texto1": "Escalera",
+    "texto2": "Escalafón",
+    "texto3": "ladder",
+    "texto4": "He climbed the ladder to reach the roof."
+  },
+  {
+    "texto1": "Imágenes",
+    "texto2": "Filmación",
+    "texto3": "footage",
+    "texto4": "The news report showed footage from the scene of the accident."
+  },
+  {
+    "texto1": "Cerveza",
+    "texto2": "-",
+    "texto3": "beer",
+    "texto4": "he enjoys relaxing with a cold beer"
+  },
+  {
+    "texto1": "Barba",
+    "texto2": "-",
+    "texto3": "beard",
+    "texto4": "He decided to grow a beard during the winter"
+  },
+  {
+    "texto1": "pajaro",
+    "texto2": "-",
+    "texto3": "bird",
+    "texto4": "I woke up to the sound of birds singing"
+  },
+  {
     "texto1": "al valor de algo en términos de su utilidad o costo",
     "texto2": "Valer la pena",
     "texto3": "worth",
@@ -30,255 +504,255 @@
     "texto4": "Is this project worth our time?"
   },
   {
-    "texto1": "describir el avance o la continuación de algo, futuro",
-    "texto2": "Adelante",
-    "texto3": "forth",
-    "texto4": "The team moved forth with the development after the initial tests"
+    "texto1": "algo que tiene una calidad o efectividad superior",
+    "texto2": "Mejor/ar",
+    "texto3": "better",
+    "texto4": "Using a more efficient algorithm would result in better performance"
   },
   {
-    "texto1": "algo que es habitual, compartido o visto frecuentemente.",
-    "texto2": "Común",
-    "texto3": "common",
-    "texto4": "It's common to use arrays to store data in many programming languages"
+    "texto1": "ser más adecuado o preferible para una situación específica",
+    "texto2": "Preferible",
+    "texto3": "better",
+    "texto4": "It’s better to use version control to track changes in your code."
   },
   {
-    "texto1": "recursos, funciones o variables que son accesibles por varias partes del sistema o aplicación",
-    "texto2": "Compartido",
-    "texto3": "common",
-    "texto4": "We use a common library to handle all the authentication logic"
+    "texto1": "eliminar algo físicamente o digitalmente y colocarlo en otro lugar",
+    "texto2": "Cortar/Reducir",
+    "texto3": "cut",
+    "texto4": "You can cut this part of the code and paste it inside the function."
   },
   {
-    "texto1": "una ubicación física, como una dirección postal",
-    "texto2": "Dirección",
-    "texto3": "address",
-    "texto4": "The server's IP address is 192.168.1.1."
+    "texto1": " interrumpir o detener un proceso, conexión o servicio",
+    "texto2": "Interrumpir",
+    "texto3": "cut",
+    "texto4": "The server cut the connection due to inactivity"
   },
   {
-    "texto1": "Se utiliza para describir la acción de tratar un problema o una cuestión de manera directa.",
-    "texto2": "Abordar",
-    "texto3": "address",
-    "texto4": "We need to address the performance issues in the application"
+    "texto1": " reducción de intensidad, tamaño o cantidad de algo",
+    "texto2": "Disminuir ",
+    "texto3": "cut",
+    "texto4": "We need to cut the memory usage of this application."
   },
   {
-    "texto1": "Implica la acción de arreglar o mejorar algo que estaba funcionando incorrectamente.",
-    "texto2": "Solucionar",
-    "texto3": "address",
-    "texto4": "We need to address the bug in the authentication system"
+    "texto1": "significado o la definición de algo.",
+    "texto2": "Significar",
+    "texto3": "mean",
+    "texto4": "What does this error message mean?"
   },
   {
-    "texto1": "Se utiliza para describir cómo se enfrenta un desafío o se trata un tema.",
-    "texto2": "Abordar",
-    "texto3": "addressing",
-    "texto4": "We are addressing the performance issues in our application"
+    "texto1": "intención detrás de una acción o declaración",
+    "texto2": "intención",
+    "texto3": "mean",
+    "texto4": "I didn’t mean to cause any confusion with my explanation"
   },
   {
-    "texto1": "Se utiliza cuando alguien está hablando o enviando un mensaje a otro grupo o persona.",
-    "texto2": "Dirigirse a",
-    "texto3": "addressing",
-    "texto4": "The speaker is addressing the audience about the new framework."
+    "texto1": "promedio aritmético de un conjunto de números.",
+    "texto2": "Promedio",
+    "texto3": "mean",
+    "texto4": "To find the mean of these values"
   },
   {
-    "texto1": "Se refiere a un elemento temporal en una interfaz que será reemplazado",
-    "texto2": "Espacio reservado",
-    "texto3": "placeholder",
-    "texto4": "The placeholder text in the input field says 'Enter your email'"
+    "texto1": "comportamientos o actitudes que son crueles o malintencionados.",
+    "texto2": "Cruel/malo",
+    "texto3": "mean",
+    "texto4": "It's mean to criticize your teammates without offering constructive feedback"
   },
   {
-    "texto1": "alguien tiene una obligación de pagar o devolver algo",
-    "texto2": "Deber",
-    "texto3": "owe",
-    "texto4": "I owe you $50 for the concert tickets."
+    "texto1": "alguien que no es generoso o que actúa con egoísmo.",
+    "texto2": "Mediocre",
+    "texto3": "mean",
+    "texto4": "Don't be mean; share your knowledge with others"
   },
   {
-    "texto1": "estar en deuda. No necesariamente implica dinero",
-    "texto2": "Estar en d",
-    "texto3": "owe",
-    "texto4": "I owe you for helping me finish the project"
+    "texto1": "Meditar, refiriéndose a evaluar o contemplar opciones.",
+    "texto2": "Reflexionar",
+    "texto3": "pondered",
+    "texto4": "After pondering the requirements, we decided to simplify the user interface."
   },
   {
-    "texto1": "se combina una cosa con otra para formar un todo completo",
-    "texto2": "Unificar",
-    "texto3": "integrate",
-    "texto4": "We need to integrate the payment gateway with our application."
+    "texto1": "acción de TOMAR algo con la mano o captar algo de forma física.",
+    "texto2": "Agarrar",
+    "texto3": "grab",
+    "texto4": "Make sure to grab the latest version of the code before making changes"
   },
   {
-    "texto1": "acción de conservar algo en buen estado o funcionamiento",
-    "texto2": "Mantenimiento",
-    "texto3": "maintenance",
-    "texto4": "The website will be down for maintenance tonight"
+    "texto1": "obtener algo, especialmente en el ámbito de datos o información.",
+    "texto2": "Obtener",
+    "texto3": "grab",
+    "texto4": "We can grab the latest statistics from the API."
   },
   {
-    "texto1": "hacer algo más sencillo o accesible",
-    "texto2": "Facilitar",
-    "texto3": "facilitate",
-    "texto4": "We need to facilitate the integration between the frontend and backend"
+    "texto1": "se refiere a obtener o recolectar información.",
+    "texto2": "Capturar",
+    "texto3": "grab",
+    "texto4": "We need to grab the user input from the form to process it"
   },
   {
-    "texto1": "dirección o consejo que se da para realizar una tarea o tomar una decisión",
-    "texto2": "Guía",
-    "texto3": "guidance",
-    "texto4": "Follow the official guidance when setting up the development environment"
+    "texto1": "Se utiliza para indicar la acción de recoger algo que está disponible o a la mano.",
+    "texto2": "Recoger",
+    "texto3": "grab",
+    "texto4": "Don’t forget to grab the results from the testing suite"
   },
   {
-    "texto1": "proporciona dirección sobre cómo resolver un problema o lograr un objetivo",
-    "texto2": "Orientación",
-    "texto3": "guidance",
-    "texto4": "We need some guidance on how to debug the app efficiently"
+    "texto1": "acción de mover algo de un lugar a otro al hacer clic y sostener.",
+    "texto2": "Arrastrar",
+    "texto3": "drag",
+    "texto4": "You can drag the icon to the desktop to create a shortcut"
   },
   {
-    "texto1": "Colega, persona o entidad que está en el mismo nivel o rango",
-    "texto2": "Par/es",
-    "texto3": "peers",
-    "texto4": "It's important to collaborate with your peers for better results"
+    "texto1": "desplazar algo en un espacio determinado.",
+    "texto2": "Desplazar",
+    "texto3": "drag",
+    "texto4": "Drag the slider to adjust the volume level"
   },
   {
-    "texto1": "dos o más personas o cosas tienen características similares/ mismo nivel",
-    "texto2": "Igual",
-    "texto3": "peers",
-    "texto4": "Ensure your code is at the same quality level as your peers."
+    "texto1": "comunicar información o expresar algo.",
+    "texto2": "Decir",
+    "texto3": "tell",
+    "texto4": "Can you tell me how to access the database?"
   },
   {
-    "texto1": "velocidad a la que se lleva a cabo un proceso o actividad",
-    "texto2": "Ritmo/Paso",
-    "texto3": "pace",
-    "texto4": "We need to maintain a steady pace to meet the project deadline"
+    "texto1": "comparación y análisis para encontrar las diferencias entre dos cosas o personas",
+    "texto2": "distinguir",
+    "texto3": "tell",
+    "texto4": "It's hard to tell the twins apart."
   },
   {
-    "texto1": "lo más reciente en una serie de eventos o desarrollos.",
-    "texto2": "Último",
-    "texto3": "latest",
-    "texto4": "Make sure to download the latest version of the software"
+    "texto1": "punto de apoyo o un eje alrededor del cual algo gira o se mueve.",
+    "texto2": "Pivote",
+    "texto3": "pivot",
+    "texto4": "You can create a pivot table to summarize the data."
   },
   {
-    "texto1": "algo que ha ocurrido en un periodo de tiempo reciente",
-    "texto2": "Reciente",
-    "texto3": "latest",
-    "texto4": "The latest news on technology can be found on our blog"
+    "texto1": "cambiar de enfoque o dirección (contexto estratégico)",
+    "texto2": "cambiar de dir",
+    "texto3": "pivot",
+    "texto4": "The team decided to pivot the project to focus on user feedback"
   },
   {
-    "texto1": "algo que es apropiado o adecuado para una situación",
-    "texto2": "Adecuado",
-    "texto3": "suited",
-    "texto4": "This framework is well-suited for developing mobile applications"
+    "texto1": "girar alrededor de un punto central.",
+    "texto2": "Girar",
+    "texto3": "pivot",
+    "texto4": "You can pivot the object to change its orientation in the 3D space"
   },
   {
-    "texto1": "algo que es beneficioso o que se ajusta bien a las necesidades",
-    "texto2": "Conveniente",
-    "texto3": "suited",
-    "texto4": "We need a solution that is suited to our current requirements"
+    "texto1": "algo que ha sido puesto en una posición específica.",
+    "texto2": "Colocado",
+    "texto3": "laid",
+    "texto4": "The components are laid out in a grid for better organization"
   },
   {
-    "texto1": "Se refiere a las características o cualidades distintivas de una persona, objeto, o entidad",
-    "texto2": "Rasgos",
-    "texto3": "traits",
-    "texto4": "One of the key traits of this algorithm is its efficiency in large datasets"
+    "texto1": "acción de establecer o fijar algo de manera formal.",
+    "texto2": "Establecido",
+    "texto3": "laid",
+    "texto4": "The requirements were laid out clearly in the project documentation."
   },
   {
-    "texto1": "aspectos positivos o negativos que forman parte de la naturaleza de algo o alguien",
-    "texto2": "Características",
-    "texto3": "traits",
-    "texto4": "The object-oriented design focuses on traits and behaviors of classes."
+    "texto1": "puede significar presentar información o ideas.",
+    "texto2": "Presentado",
+    "texto3": "laid",
+    "texto4": "He laid his ideas on the table during the discussion"
   },
   {
-    "texto1": " alcanzar un objetivo o resultado deseado, generalmente a través de esfuerzo o dedicación",
-    "texto2": "Lograr",
-    "texto3": "achieve",
-    "texto4": "We achieved our project goals ahead of schedule"
+    "texto1": "estar en una posición horizontal.",
+    "texto2": "acostado",
+    "texto3": "laid",
+    "texto4": "I found the cat laid on the couch, fast asleep"
   },
   {
-    "texto1": "cuando se completan ciertas metas o expectativas, como cuando un proyecto",
-    "texto2": "Cumplir",
-    "texto3": "achieved",
-    "texto4": "The development team achieved all the requirements outlined by the client"
+    "texto1": "acción de mantener algo en una posición.",
+    "texto2": "Sostener",
+    "texto3": "hold",
+    "texto4": "You need to hold the variable value while the function executes"
   },
   {
-    "texto1": "pieza de ropa que cubre la cabeza",
-    "texto2": "Capucha",
-    "texto3": "hood",
-    "texto4": "He pulled up his hood when it started to rain"
+    "texto1": "capacidad de una estructura o contenedor para mantener información.",
+    "texto2": "Contener",
+    "texto3": "hold",
+    "texto4": "This array can hold up to ten elements"
   },
   {
-    "texto1": "Cubierta/Tapa una protección o algo que cubre una pieza",
-    "texto2": "Cubierta",
-    "texto3": "hood",
-    "texto4": "Remove the hood of the computer to access the internal components"
+    "texto1": "mantener/Guardar algo constante o en un estado particular.",
+    "texto2": "Mantener",
+    "texto3": "hold",
+    "texto4": "We need to hold compatibility with previous versions of the API"
   },
   {
-    "texto1": "instead",
-    "texto2": "instead",
-    "texto3": "instead",
-    "texto4": "instead"
+    "texto1": "el estado de estar en un lugar o situación.",
+    "texto2": "Permanecer",
+    "texto3": "remain",
+    "texto4": "The variable will remain unchanged until the function completes"
   },
   {
-    "texto1": "instead",
-    "texto2": "instead",
-    "texto3": "instead",
-    "texto4": "instead"
+    "texto1": "continuar siendo algo.",
+    "texto2": "Seguir",
+    "texto3": "remain",
+    "texto4": "The application will remain functional even after the update"
   },
   {
-    "texto1": "instead",
-    "texto2": "instead",
-    "texto3": "instead",
-    "texto4": "instead"
+    "texto1": "referirse a lo que queda o lo que persiste después de un cambio.",
+    "texto2": "Quedar",
+    "texto3": "remain",
+    "texto4": "Only a few bugs remain after the last testing phase"
   },
   {
-    "texto1": "instead",
-    "texto2": "instead",
-    "texto3": "instead",
-    "texto4": "instead"
+    "texto1": "acción de conservar algo en su estado original.",
+    "texto2": "Conservar",
+    "texto3": "remain",
+    "texto4": "It is important to remain compliant with the coding standards"
   },
   {
-    "texto1": "instead",
-    "texto2": "instead",
-    "texto3": "instead",
-    "texto4": "instead"
+    "texto1": "la acción de hacer que alguien recuerde algo.",
+    "texto2": "Recordar",
+    "texto3": "remind",
+    "texto4": "Please remind me to send the report by Friday"
   },
   {
-    "texto1": "instead",
-    "texto2": "instead",
-    "texto3": "instead",
-    "texto4": "instead"
+    "texto1": "notificar a alguien sobre algo importante.",
+    "texto2": "Avisar",
+    "texto3": "remind",
+    "texto4": "The app will remind you about the upcoming meeting"
   },
   {
-    "texto1": "instead",
-    "texto2": "instead",
-    "texto3": "instead",
-    "texto4": "instead"
+    "texto1": "acción de terminar el empleo de un grupo de trabajadores.",
+    "texto2": "Despidos",
+    "texto3": "layoffs",
+    "texto4": "The company announced layoffs due to budget cuts"
   },
   {
-    "texto1": "instead",
-    "texto2": "instead",
-    "texto3": "instead",
-    "texto4": "instead"
+    "texto1": "algo que está bien organizado o arreglado.",
+    "texto2": "Ordenado",
+    "texto3": "neat",
+    "texto4": "Make sure your code is neat and properly indented."
   },
   {
-    "texto1": "instead",
-    "texto2": "instead",
-    "texto3": "instead",
-    "texto4": "instead"
+    "texto1": "claridad o simplicidad de algo, como un diseño o un documento.",
+    "texto2": "Limpio",
+    "texto3": "neat",
+    "texto4": "The app has a neat interface that is easy to navigate."
   },
   {
-    "texto1": "instead",
-    "texto2": "instead",
-    "texto3": "instead",
-    "texto4": "instead"
+    "texto1": "señal o indicio que ayuda a resolver un problema.",
+    "texto2": "Pista/idea",
+    "texto3": "clue",
+    "texto4": "The error message provided a clue about what went wrong"
   },
   {
-    "texto1": "instead",
-    "texto2": "instead",
-    "texto3": "instead",
-    "texto4": "instead"
+    "texto1": "donde se necesita referirse a algo que ya se conoce.",
+    "texto2": "Sugerencia",
+    "texto3": "clue",
+    "texto4": "this piece of code is a clue to how we should structure our new features"
   },
   {
-    "texto1": "instead",
-    "texto2": "instead",
-    "texto3": "instead",
-    "texto4": "instead"
+    "texto1": "un consejo que puede ser útil",
+    "texto2": "consejo",
+    "texto3": "clue",
+    "texto4": "A good clue for developers is to always test their code thoroughly"
   },
   {
-    "texto1": "instead",
-    "texto2": "instead",
-    "texto3": "instead",
-    "texto4": "instead"
+    "texto1": "believe",
+    "texto2": "Mantener",
+    "texto3": "believe",
+    "texto4": "believe"
   }
 ]
