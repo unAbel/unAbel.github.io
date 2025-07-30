@@ -54,5 +54,405 @@
     "texto4": "accomplished / will accomplish",
     "texto5": "We need to accomplish this task by Friday.",
     "texto6": "Necesitamos lograr esta tarea para el viernes."
+  },
+  {
+    "texto1": "Un estado de desorden y suciedad.",
+    "texto2": "Desorden / Caos / Lío / Mugre",
+    "texto3": "mess",
+    "texto4": "messes / will mess",
+    "texto5": "My room is a complete mess.",
+    "texto6": "Mi habitación es un completo desorden."
+  },
+  {
+    "texto1": "Una situación o asunto enredado o complicado.",
+    "texto2": "Aprieto / Problema / Enredo / Embrollo",
+    "texto3": "mess",
+    "texto4": "messes / will mess",
+    "texto5": "We're in a bit of a financial mess.",
+    "texto6": "Estamos en un pequeño aprieto financiero."
+  },
+  {
+    "texto1": "Causar desorden o suciedad; arruinar o estropear algo.",
+    "texto2": "Desordenar / Ensuciar / Estropear / Arruinar",
+    "texto3": "mess",
+    "texto4": "messed / will mess",
+    "texto5": "Don't mess up the kitchen!",
+    "texto6": "¡No desordenes la cocina!"
+  },
+  {
+    "texto1": "Interferir o inmiscuirse en los asuntos de alguien más.",
+    "texto2": "Meterse / Entrometerse / Fastidiar",
+    "texto3": "mess",
+    "texto4": "messed / will mess",
+    "texto5": "Don't mess with me.",
+    "texto6": "No te metas conmigo."
+  },
+  {
+    "texto1": "Querer decir o significar algo; tener un propósito o intención.",
+    "texto2": "Significar / Querer decir / Pretender / Intentar",
+    "texto3": "mean",
+    "texto4": "meant / will mean",
+    "texto5": "What do you mean by that?",
+    "texto6": "¿Qué quieres decir con eso?"
+  },
+  {
+    "texto1": "Ser cruel, desagradable o malintencionado.",
+    "texto2": "Malvado / Cruel / Desagradable / Mezquino",
+    "texto3": "mean",
+    "texto4": "meaner / meanest",
+    "texto5": "Don't be so mean to your sister.",
+    "texto6": "No seas tan cruel con tu hermana."
+  },
+  {
+    "texto1": "Un punto intermedio entre dos extremos; el promedio de un conjunto de números.",
+    "texto2": "Media / Promedio / Término medio",
+    "texto3": "mean",
+    "texto4": "means / will mean",
+    "texto5": "The mean temperature for July is 25 degrees Celsius.",
+    "texto6": "La temperatura media de julio es de 25 grados Celsius."
+  },
+  {
+    "texto1": "Los recursos o métodos utilizados para lograr un fin.",
+    "texto2": "Medios / Recursos / Forma / Modo",
+    "texto3": "means",
+    "texto4": "means",
+    "texto5": "By all means, come in.",
+    "texto6": "Por supuesto, pasa."
+  },
+  {
+    "texto1": "Desmoronarse o romperse en pedazos pequeños.",
+    "texto2": "Desmoronarse / Deshacerse / Fragmentarse / Romperse",
+    "texto3": "crumble",
+    "texto4": "crumbled / will crumble",
+    "texto5": "The old wall started to crumble.",
+    "texto6": "La vieja pared comenzó a desmoronarse."
+  },
+  {
+    "texto1": "Perder fuerza, cohesión o estabilidad, especialmente de forma gradual.",
+    "texto2": "Derrumbarse / Colapsar / Debilitarse / Venirse abajo",
+    "texto3": "crumble",
+    "texto4": "crumbled / will crumble",
+    "texto5": "Their empire began to crumble from within.",
+    "texto6": "Su imperio empezó a derrumbarse desde dentro."
+  },
+  {
+    "texto1": "Un postre hecho con fruta cubierta con una capa desmenuzable de harina, mantequilla y azúcar.",
+    "texto2": "Crumble (postre) / Pastel desmenuzado",
+    "texto3": "crumble",
+    "texto4": "crumbles",
+    "texto5": "I love apple crumble with ice cream.",
+    "texto6": "Me encanta el crumble de manzana con helado."
+  },
+  {
+    "texto1": "Tener suficiente dinero para pagar algo.",
+    "texto2": "Permitirse / Costearse / Poder pagar",
+    "texto3": "afford",
+    "texto4": "afforded / will afford",
+    "texto5": "I can't afford a new car right now.",
+    "texto6": "No puedo permitirme un coche nuevo ahora mismo."
+  },
+  {
+    "texto1": "Poder proporcionar o dar algo sin dificultad, especialmente un beneficio o una oportunidad.",
+    "texto2": "Proporcionar / Ofrecer / Dar / Brindar",
+    "texto3": "afford",
+    "texto4": "afforded / will afford",
+    "texto5": "The new policy will afford equal opportunities to everyone.",
+    "texto6": "La nueva política brindará igualdad de oportunidades a todos."
+  },
+  {
+    "texto1": "Cantidad de dinero, bienes o recursos que se apuestan o se invierten en algo, con el riesgo de perderlo o la posibilidad de ganarlo.",
+    "texto2": "Apuesta / Inversión / Participación / Riesgo",
+    "texto3": "stake",
+    "texto4": "stakes / will stake",
+    "texto5": "He has a high stake in the success of the company.",
+    "texto6": "Él tiene mucho en juego en el éxito de la empresa."
+  },
+  {
+    "texto1": "Un interés o participación en algo, especialmente un negocio o un resultado.",
+    "texto2": "Interés / Participación / Cuota / Parte",
+    "texto3": "stake",
+    "texto4": "stakes / will stake",
+    "texto5": "Everyone has a stake in protecting the environment.",
+    "texto6": "Todos tienen un interés en proteger el medio ambiente."
+  },
+  {
+    "texto1": "Un palo afilado que se clava en el suelo, a menudo para marcar algo o como soporte.",
+    "texto2": "Estaca / Poste / Clavija",
+    "texto3": "stake",
+    "texto4": "stakes",
+    "texto5": "They used wooden stakes to mark the boundaries.",
+    "texto6": "Usaron estacas de madera para marcar los límites."
+  },
+  {
+    "texto1": "Apostar o arriesgar dinero, bienes o algo de valor en un resultado.",
+    "texto2": "Apostar / Arriesgar / Poner en juego",
+    "texto3": "stake",
+    "texto4": "staked / will stake",
+    "texto5": "He staked his reputation on the success of the project.",
+    "texto6": "Se jugó su reputación en el éxito del proyecto."
+  },
+  {
+    "texto1": "Que no está en funcionamiento o no se está utilizando.",
+    "texto2": "Inactivo / Ocioso / Parado / Desocupado",
+    "texto3": "idle",
+    "texto4": "idled / will idle",
+    "texto5": "The car engine was idling at the traffic light.",
+    "texto6": "El motor del coche estaba en punto muerto en el semáforo."
+  },
+  {
+    "texto1": "Que evita el trabajo o la actividad; perezoso.",
+    "texto2": "Perezoso / Holgazán / Vago",
+    "texto3": "idle",
+    "texto4": "idler / idlest",
+    "texto5": "He spent his idle hours watching TV.",
+    "texto6": "Pasó sus horas ociosas viendo televisión."
+  },
+  {
+    "texto1": "Perder el tiempo sin hacer nada útil.",
+    "texto2": "Holgazanear / Vaguear / Perder el tiempo",
+    "texto3": "idle",
+    "texto4": "idled / will idle",
+    "texto5": "Instead of working, he just idled around all day.",
+    "texto6": "En lugar de trabajar, simplemente holgazaneó todo el día."
+  },
+  {
+    "texto1": "Que no tiene un propósito o fundamento real; sin sentido.",
+    "texto2": "Inútil / Sin sentido / Vano / Infundado",
+    "texto3": "idle",
+    "texto4": "idle",
+    "texto5": "Don't pay attention to idle gossip.",
+    "texto6": "No prestes atención a los chismes sin fundamento."
+  },
+  {
+    "texto1": "Que tiene poca fuerza física o mental.",
+    "texto2": "Débil / Frágil / Flojo / Enfermizo",
+    "texto3": "weak",
+    "texto4": "weaker / weakest",
+    "texto5": "After the illness, he felt very weak.",
+    "texto6": "Después de la enfermedad, se sintió muy débil."
+  },
+  {
+    "texto1": "Que tiene poca intensidad o efectividad.",
+    "texto2": "Leve / Tenue / Escaso / Poco convincente",
+    "texto3": "weak",
+    "texto4": "weaker / weakest",
+    "texto5": "The signal is too weak here.",
+    "texto6": "La señal es demasiado débil aquí."
+  },
+  {
+    "texto1": "Que es susceptible a fallar o ceder; no es fuerte o seguro.",
+    "texto2": "Vulnerable / Endeble / Cuestionable / Frágil",
+    "texto3": "weak",
+    "texto4": "weaker / weakest",
+    "texto5": "This argument has a weak point.",
+    "texto6": "Este argumento tiene un punto débil."
+  },
+  {
+    "texto1": "Moverse sigilosamente o en secreto para evitar ser visto o escuchado.",
+    "texto2": "Escabullirse / Colarse / Entrar a escondidas / Ir a hurtadillas",
+    "texto3": "sneak",
+    "texto4": "snuck / will sneak",
+    "texto5": "He tried to sneak out of the house without anyone noticing.",
+    "texto6": "Trató de escabullirse de la casa sin que nadie se diera cuenta."
+  },
+  {
+    "texto1": "Introducir o llevar algo a escondidas.",
+    "texto2": "Colar / Meter a escondidas / Contrabandear",
+    "texto3": "sneak",
+    "texto4": "snuck / will sneak",
+    "texto5": "She managed to sneak some cookies into her room.",
+    "texto6": "Se las arregló para colar algunas galletas en su habitación."
+  },
+  {
+    "texto1": "Una persona que hace algo en secreto o de forma sigilosa.",
+    "texto2": "Soplón / Chivato / Delator",
+    "texto3": "sneak",
+    "texto4": "sneaks",
+    "texto5": "Don't be a sneak and tell on your friends.",
+    "texto6": "No seas un soplón y delates a tus amigos."
+  },
+  {
+    "texto1": "Hecho o realizado en secreto o sin previo aviso.",
+    "texto2": "Secreto / Sigiloso / A escondidas / Sorpresa",
+    "texto3": "sneak",
+    "texto4": "sneak",
+    "texto5": "They released a sneak peek of the new movie.",
+    "texto6": "Lanzaron un adelanto secreto de la nueva película."
+  },
+  {
+    "texto1": "Saltar con fuerza o agilidad, generalmente sobre o desde algo.",
+    "texto2": "Saltar / Brincar / Dar un salto",
+    "texto3": "leap",
+    "texto4": "leaped / leapt / will leap",
+    "texto5": "The deer leaped over the fence.",
+    "texto6": "El ciervo saltó la valla."
+  },
+  {
+    "texto1": "Un salto o brinco, especialmente uno largo o alto.",
+    "texto2": "Salto / Brinco / Zancada",
+    "texto3": "leap",
+    "texto4": "leaps",
+    "texto5": "He made a mighty leap across the chasm.",
+    "texto6": "Dio un salto poderoso a través del abismo."
+  },
+  {
+    "texto1": "Un cambio o progreso repentino y significativo.",
+    "texto2": "Avance / Salto (cuantitativo) / Progreso / Mejora",
+    "texto3": "leap",
+    "texto4": "leaps",
+    "texto5": "This discovery represents a huge leap forward for science.",
+    "texto6": "Este descubrimiento representa un gran avance para la ciencia."
+  },
+  {
+    "texto1": "Algo grande, impresionante o extraordinario en tamaño o efecto.",
+    "texto2": "Monstruo / Coloso / Gigante / Éxito rotundo",
+    "texto3": "buster",
+    "texto4": "busters",
+    "texto5": "That last storm was a real buster.",
+    "texto6": "Esa última tormenta fue un verdadero monstruo."
+  },
+  {
+    "texto1": "Alguien o algo que rompe o destruye algo, o que pone fin a algo.",
+    "texto2": "Rompedor / Destructor / Acabador / Liquidador",
+    "texto3": "buster",
+    "texto4": "busters",
+    "texto5": "He's a myth buster, always challenging old beliefs.",
+    "texto6": "Él es un rompedor de mitos, siempre desafiando viejas creencias."
+  },
+  {
+    "texto1": "Remover tierra o excavar para hacer un agujero o encontrar algo.",
+    "texto2": "Cavar / Excavar / Ahondar / Hurgar",
+    "texto3": "dig",
+    "texto4": "dug / will dig",
+    "texto5": "They had to dig a deep hole to plant the tree.",
+    "texto6": "Tuvieron que cavar un agujero profundo para plantar el árbol."
+  },
+  {
+    "texto1": "Descubrir o encontrar algo mediante la investigación o la búsqueda.",
+    "texto2": "Descubrir / Investigar / Averiguar / Encontrar",
+    "texto3": "dig",
+    "texto4": "dug / will dig",
+    "texto5": "I need to dig up some information for my report.",
+    "texto6": "Necesito desenterrar algo de información para mi informe."
+  },
+  {
+    "texto1": "Entender o apreciar algo, especialmente algo que es complejo o inusual.",
+    "texto2": "Entender / Comprender / Captar / Apreciar",
+    "texto3": "dig",
+    "texto4": "dug / will dig",
+    "texto5": "Do you dig what I'm saying?",
+    "texto6": "¿Captas lo que digo?"
+  },
+  {
+    "texto1": "Un comentario crítico, sarcástico o despectivo.",
+    "texto2": "Burla / Indirecta / Comentario mordaz / Critica",
+    "texto3": "dig",
+    "texto4": "digs",
+    "texto5": "He made a sarcastic dig at his opponent.",
+    "texto6": "Hizo una burla sarcástica a su oponente."
+  },
+  {
+    "texto1": "Expresar descontento, insatisfacción o malestar por algo.",
+    "texto2": "Quejarse / Lamentarse / Protestar / Reclamar",
+    "texto3": "complain",
+    "texto4": "complained / will complain",
+    "texto5": "He always complains about the weather.",
+    "texto6": "Siempre se queja del tiempo."
+  },
+  {
+    "texto1": "Presentar una queja formal sobre algo.",
+    "texto2": "Denunciar / Presentar una queja / Protestar formalmente",
+    "texto3": "complain",
+    "texto4": "complained / will complain",
+    "texto5": "Customers often complain about poor service.",
+    "texto6": "Los clientes a menudo se quejan del mal servicio."
+  },
+  {
+    "texto1": "Mantener algo en buen estado, funcionamiento o condición.",
+    "texto2": "Mantener / Conservar / Sostener / Preservar",
+    "texto3": "maintain",
+    "texto4": "maintained / will maintain",
+    "texto5": "It's important to maintain your car regularly.",
+    "texto6": "Es importante mantener tu coche regularmente."
+  },
+  {
+    "texto1": "Continuar con una situación, nivel o estado; no permitir que cambie o disminuya.",
+    "texto2": "Mantener / Sostener / Preservar / Conservar",
+    "texto3": "maintain",
+    "texto4": "maintained / will maintain",
+    "texto5": "They struggled to maintain their lead in the game.",
+    "texto6": "Lucharon por mantener su ventaja en el partido."
+  },
+  {
+    "texto1": "Afirmar o defender una opinión, creencia o postura.",
+    "texto2": "Mantener / Sostener / Afirmar / Defender",
+    "texto3": "maintain",
+    "texto4": "maintained / will maintain",
+    "texto5": "She maintains her innocence despite the evidence.",
+    "texto6": "Ella mantiene su inocencia a pesar de la evidencia."
+  },
+  {
+    "texto1": "Proveer de sustento o apoyo financiero.",
+    "texto2": "Mantener / Sostener / Sustentar / Pagar",
+    "texto3": "maintain",
+    "texto4": "maintained / will maintain",
+    "texto5": "He works hard to maintain his family.",
+    "texto6": "Él trabaja duro para mantener a su familia."
+  },
+  {
+    "texto1": "Mantener algo existente, en un cierto nivel o en una buena condición a lo largo del tiempo.",
+    "texto2": "Mantener / Sostener / Preservar / Conservar",
+    "texto3": "sustain",
+    "texto4": "sustained / will sustain",
+    "texto5": "The economy needs to grow at a faster rate to sustain job creation.",
+    "texto6": "La economía necesita crecer a un ritmo más rápido para mantener la creación de empleo."
+  },
+  {
+    "texto1": "Sufrir o experimentar algo desagradable o perjudicial, como una lesión o una pérdida.",
+    "texto2": "Sufrir / Padecer / Experimentar / Recibir",
+    "texto3": "sustain",
+    "texto4": "sustained / will sustain",
+    "texto5": "He sustained serious injuries in the accident.",
+    "texto6": "Sufrió heridas graves en el accidente."
+  },
+  {
+    "texto1": "Proveer de lo necesario para la vida o el mantenimiento.",
+    "texto2": "Sustentar / Alimentar / Nutrir / Mantener",
+    "texto3": "sustain",
+    "texto4": "sustained / will sustain",
+    "texto5": "The land could no longer sustain the large population.",
+    "texto6": "La tierra ya no podía sustentar a la gran población."
+  },
+  {
+    "texto1": "Confirmar o probar la validez de algo.",
+    "texto2": "Confirmar / Apoyar / Ratificar / Validar",
+    "texto3": "sustain",
+    "texto4": "sustained / will sustain",
+    "texto5": "The court sustained the objection.",
+    "texto6": "El tribunal confirmó la objeción."
+  },
+  {
+    "texto1": "Mezclar o reorganizar elementos de forma aleatoria o desordenada.",
+    "texto2": "Mezclar / Barajar / Reorganizar / Desordenar",
+    "texto3": "shuffle",
+    "texto4": "shuffled / will shuffle",
+    "texto5": "Please shuffle the cards before dealing them.",
+    "texto6": "Por favor, baraja las cartas antes de repartirlas."
+  },
+  {
+    "texto1": "Arrastrar los pies al caminar, sin levantarlos completamente del suelo.",
+    "texto2": "Arrastrar los pies / Caminar arrastrando",
+    "texto3": "shuffle",
+    "texto4": "shuffled / will shuffle",
+    "texto5": "He shuffled across the room in his slippers.",
+    "texto6": "Arrastró los pies por la habitación en sus pantuflas."
+  },
+  {
+    "texto1": "Un acto de reorganización o mezcla aleatoria de algo.",
+    "texto2": "Mezcla / Barajado / Reorganización",
+    "texto3": "shuffle",
+    "texto4": "shuffles",
+    "texto5": "The music player has a shuffle feature.",
+    "texto6": "El reproductor de música tiene una función de mezcla aleatoria."
   }
 ]
