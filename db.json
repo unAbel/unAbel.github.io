@@ -248,6 +248,22 @@
     "texto6": "Nuestro equipo venció fácilmente a la competencia en el juego final."
   },
   {
+    "texto1": "Mirar de forma rápida o furtiva, a menudo a través de una abertura o desde un escondite.",
+    "texto2": "Echar un vistazo / Ojeada / Fisgonear / Atisbar",
+    "texto3": "peek",
+    "texto4": "peeked / will peek",
+    "texto5": "She peeked through the curtains to see who was at the door.",
+    "texto6": "Ella echó un vistazo a través de las cortinas para ver quién estaba en la puerta."
+  },
+  {
+    "texto1": "Una mirada rápida y breve.",
+    "texto2": "Vistazo / Ojeada / Atisbo / Mirada fugaz",
+    "texto3": "peek",
+    "texto4": "peeks (plural)",
+    "texto5": "I took a quick peek at the test answers.",
+    "texto6": "Le eché un vistazo rápido a las respuestas del examen."
+  },
+  {
     "texto1": "El punto más alto de una montaña o colina.",
     "texto2": "Cima / Pico / Cúspide / Cumbre",
     "texto3": "peak",
@@ -406,5 +422,365 @@
     "texto4": "functioned / will function",
     "texto5": "The old car still functions well despite its age.",
     "texto6": "El coche viejo todavía funciona bien a pesar de su edad."
+  },
+  {
+    "texto1": "Un algoritmo o función matemática que transforma datos de un tamaño arbitrario en un valor de tamaño fijo, usualmente para fines de seguridad, indexación o verificación de integridad.",
+    "texto2": "Función hash / Resumen criptográfico / Algoritmo de dispersión / Código hash",
+    "texto3": "hash",
+    "texto4": "hashed / will hash",
+    "texto5": "The system uses a hash function to secure user passwords.",
+    "texto6": "El sistema utiliza una función hash para proteger las contraseñas de los usuarios."
+  },
+  {
+    "texto1": "Los datos resultantes de aplicar una función hash; una cadena de caracteres alfanuméricos de longitud fija que representa los datos originales.",
+    "texto2": "Hash / Valor hash / Código de dispersión / Suma de verificación",
+    "texto3": "hash",
+    "texto4": "hashes (plural)",
+    "texto5": "Even a small change in the file will result in a completely different hash.",
+    "texto6": "Incluso un pequeño cambio en el archivo resultará en un hash completamente diferente."
+  },
+  {
+    "texto1": "Cortar algo en trozos pequeños, especialmente comida, y luego mezclarlo.",
+    "texto2": "Picar / Trocear / Mezclar / Rebanar",
+    "texto3": "hash",
+    "texto4": "hashed / will hash",
+    "texto5": "She hashed the potatoes and onions for breakfast.",
+    "texto6": "Ella picó las patatas y las cebollas para el desayuno."
+  },
+  {
+    "texto1": "Hacer un desorden o desastre de algo; confundir o estropear.",
+    "texto2": "Estropear / Enredar / Desordenar / Confundir",
+    "texto3": "hash",
+    "texto4": "hashed / will hash",
+    "texto5": "He really hashed up the presentation with all the mistakes.",
+    "texto6": "Realmente estropeó la presentación con todos los errores."
+  },
+  {
+    "texto1": "Un sistema de principios de razonamiento utilizado para sacar conclusiones válidas y correctas.",
+    "texto2": "Razón / Razonamiento / Coherencia / Sentido común",
+    "texto3": "logic",
+    "texto4": "logics (plural, en contextos específicos como 'lógicas modales'); has logic (past); will have logic (future)",
+    "texto5": "The lawyer's argument was based on sound logic and evidence.",
+    "texto6": "El argumento del abogado se basó en una lógica y evidencia sólidas."
+  },
+  {
+    "texto1": "La forma en que se estructura algo o la secuencia de eventos que tienen sentido o siguen un orden natural.",
+    "texto2": "Estructura / Secuencia / Hilo / Conexión",
+    "texto3": "logic",
+    "texto4": "logics (plural, en contextos específicos); had a logic (past); will have a logic (future)",
+    "texto5": "There's a certain logic to how the universe works.",
+    "texto6": "Hay una cierta lógica en cómo funciona el universo."
+  },
+  {
+    "texto1": "En informática y electrónica, la disposición de los componentes o el diseño de un sistema para realizar una función específica de manera predeterminada.",
+    "texto2": "Lógica (de programación) / Diseño lógico / Circuito lógico",
+    "texto3": "logic",
+    "texto4": "logics (plural, en contextos de tipos de lógica); implemented logic (past); will implement logic (future)",
+    "texto5": "The programmer designed the game's core logic before writing the code.",
+    "texto6": "El programador diseñó la lógica central del juego antes de escribir el código."
+  },
+  {
+    "texto1": "Un área de almacenamiento temporal de datos que permite un acceso rápido a la información utilizada con frecuencia, mejorando así el rendimiento.",
+    "texto2": "Caché / Memoria caché / Almacenamiento temporal",
+    "texto3": "cache",
+    "texto4": "cached / will cache",
+    "texto5": "Web browsers use a cache to store images and files from websites, making them load faster on subsequent visits.",
+    "texto6": "Los navegadores web usan una caché para almacenar imágenes y archivos de sitios web, haciendo que carguen más rápido en visitas posteriores."
+  },
+  {
+    "texto1": "Un escondite de objetos valiosos o provisiones; un alijo.",
+    "texto2": "Escondite / Alijo / Depósito / Provisión secreta",
+    "texto3": "cache",
+    "texto4": "cached / will cache",
+    "texto5": "The explorer discovered a hidden cache of ancient artifacts in the cave.",
+    "texto6": "El explorador descubrió un escondite oculto de artefactos antiguos en la cueva."
+  },
+  {
+    "texto1": "Almacenar datos en una caché para un acceso más rápido en el futuro.",
+    "texto2": "Guardar en caché / Almacenar temporalmente / Cachear",
+    "texto3": "cache",
+    "texto4": "cached / will cache",
+    "texto5": "The server will cache the most frequently requested data to reduce load times.",
+    "texto6": "El servidor guardará en caché los datos más solicitados para reducir los tiempos de carga."
+  },
+  {
+    "texto1": "Un punto de entrada para la comunicación entre dos sistemas, especialmente en redes informáticas o APIs, donde se realizan solicitudes y se envían respuestas.",
+    "texto2": "Punto final / Punto de acceso / URL de API / Interfaz",
+    "texto3": "endpoint",
+    "texto4": "endpoints (plural)",
+    "texto5": "To get user data, you need to send a request to the `/users` endpoint of the API.",
+    "texto6": "Para obtener datos de usuario, debes enviar una solicitud al 'endpoint' `/users` de la API."
+  },
+  {
+    "texto1": "El final o la conclusión de un proceso, viaje o actividad.",
+    "texto2": "Punto final / Fin / Conclusión / Destino",
+    "texto3": "endpoint",
+    "texto4": "endpoints (plural)",
+    "texto5": "The journey from the source to the endpoint was long and arduous.",
+    "texto6": "El viaje desde el origen hasta el punto final fue largo y arduo."
+  },
+  {
+    "texto1": "Un texto escrito que contiene las palabras de un discurso, obra de teatro, película o programa de televisión.",
+    "texto2": "Guion / Libreto / Texto",
+    "texto3": "script",
+    "texto4": "scripted / will script",
+    "texto5": "The actors are rehearsing their lines from the new movie script.",
+    "texto6": "Los actores están ensayando sus líneas del guion de la nueva película."
+  },
+  {
+    "texto1": "Un archivo de computadora que contiene una secuencia de comandos o instrucciones que un programa o sistema operativo puede ejecutar.",
+    "texto2": "Script / Programa / Rutina / Código",
+    "texto3": "script",
+    "texto4": "scripted / will script",
+    "texto5": "I wrote a Python script to automate the data processing.",
+    "texto6": "Escribí un script de Python para automatizar el procesamiento de datos."
+  },
+  {
+    "texto1": "La escritura a mano de una persona, especialmente en términos de caligrafía.",
+    "texto2": "Escritura / Caligrafía / Manuscrito / Letra",
+    "texto3": "script",
+    "texto4": "scripts (plural)",
+    "texto5": "Her elegant script was difficult to read for those unfamiliar with it.",
+    "texto6": "Su elegante escritura era difícil de leer para aquellos no familiarizados con ella."
+  },
+  {
+    "texto1": "Un plan detallado para una acción o serie de acciones; una rutina predecible o establecida.",
+    "texto2": "Guion / Patrón / Rutina / Procedimiento",
+    "texto3": "script",
+    "texto4": "scripted / will script",
+    "texto5": "The protest followed a predictable script of speeches and marches.",
+    "texto6": "La protesta siguió un guion predecible de discursos y marchas."
+  },
+  {
+    "texto1": "La secuencia de operaciones o tareas que se realizan para completar un proceso, especialmente en el ámbito empresarial o tecnológico.",
+    "texto2": "Flujo de trabajo / Proceso / Cadena de tareas / Procedimiento",
+    "texto3": "workflow",
+    "texto4": "workflows (plural)",
+    "texto5": "The new software streamlines our entire sales workflow, from lead generation to closing the deal.",
+    "texto6": "El nuevo software optimiza todo nuestro flujo de trabajo de ventas, desde la generación de clientes potenciales hasta el cierre del trato."
+  },
+  {
+    "texto1": "Un conjunto de pasos o actividades coordinadas y repetibles que se siguen para lograr un objetivo específico.",
+    "texto2": "Metodología / Sistema / Ruta / Esquem",
+    "texto3": "workflow",
+    "texto4": "workflows (plural)",
+    "texto5": "Automating this workflow will save us a lot of time and reduce errors.",
+    "texto6": "Automatizar este flujo de trabajo nos ahorrará mucho tiempo y reducirá errores."
+  },
+  {
+    "texto1": "Un camino, forma o diseño circular o que regresa sobre sí mismo.",
+    "texto2": "Bucle / Lazo / Aro / Ciclo",
+    "texto3": "loop",
+    "texto4": "looped / will loop",
+    "texto5": "The road forms a loop around the lake.",
+    "texto6": "La carretera forma un bucle alrededor del lago."
+  },
+  {
+    "texto1": "En programación, una secuencia de instrucciones que se repite un número determinado de veces o hasta que se cumple una condición específica.",
+    "texto2": "Bucle / Ciclo / Iteración",
+    "texto3": "loop",
+    "texto4": "looped / will loop",
+    "texto5": "The program entered an infinite loop, causing it to crash.",
+    "texto6": "El programa entró en un bucle infinito, provocando su caída."
+  },
+  {
+    "texto1": "Hacer que algo se doble, se curve o se enrolle para formar un bucle.",
+    "texto2": "Enlazar / Enlazar / Enredar / Doblar",
+    "texto3": "loop",
+    "texto4": "looped / will loop",
+    "texto5": "She looped the rope around the post to secure it.",
+    "texto6": "Ella enlazó la cuerda alrededor del poste para asegurarla."
+  },
+  {
+    "texto1": "Repetir una acción o una secuencia de sonido o video continuamente.",
+    "texto2": "Repetir / Reproducir en bucle / Reiterar",
+    "texto3": "loop",
+    "texto4": "looped / will loop",
+    "texto5": "The song will loop automatically when it finishes.",
+    "texto6": "La canción se repetirá automáticamente cuando termine."
+  },
+  {
+    "texto1": "Durante el tiempo que algo está sucediendo; al mismo tiempo que.",
+    "texto2": "Mientras / Durante / Al mismo tiempo que",
+    "texto3": "while",
+    "texto4": "was/were while (past continuous, e.g., 'I was working while he was sleeping') / will be while (future continuous)",
+    "texto5": "While I was studying, my brother was watching TV.",
+    "texto6": "Mientras yo estaba estudiando, mi hermano estaba viendo televisión."
+  },
+  {
+    "texto1": "Aunque; a pesar de que; en contraste con (usado para introducir un contraste).",
+    "texto2": "Aunque / Si bien / Mientras que / Considerando que",
+    "texto3": "while",
+    "texto4": "was/were while (past contrasting situations) / will be while (future contrasting situations)",
+    "texto5": "While I understand your point, I don't agree with your conclusion.",
+    "texto6": "Aunque entiendo tu punto, no estoy de acuerdo con tu conclusión."
+  },
+  {
+    "texto1": "Un período de tiempo; un rato.",
+    "texto2": "Rato / Momento / Tiempo / Lapso",
+    "texto3": "while",
+    "texto4": "whiles (rare plural, as in 'for a while'); has been a while (past); will be a while (future)",
+    "texto5": "I haven't seen her in a while.",
+    "texto6": "No la he visto en un rato."
+  },
+  {
+    "texto1": "Separar algo en pedazos como resultado de un golpe, presión o tensión.",
+    "texto2": "Romper / Quebrar / Fracturar / Partir",
+    "texto3": "break",
+    "texto4": "broke / broken / will break",
+    "texto5": "Be careful not to break the glass.",
+    "texto6": "Ten cuidado de no romper el vaso."
+  },
+  {
+    "texto1": "Interrumpir la continuidad, el orden o el progreso de algo.",
+    "texto2": "Interrumpir / Pausar / Suspender / Cortar",
+    "texto3": "break",
+    "texto4": "broke / broken / will break",
+    "texto5": "Let's take a short break for coffee.",
+    "texto6": "Tomemos un breve descanso para el café."
+  },
+  {
+    "texto1": "Un período corto de tiempo durante el cual se detiene una actividad, trabajo o rutina.",
+    "texto2": "Descanso / Pausa / Interrupción / Receso",
+    "texto3": "break",
+    "texto4": "breaks (plural)",
+    "texto5": "The students enjoyed their summer break.",
+    "texto6": "Los estudiantes disfrutaron de sus vacaciones de verano."
+  },
+  {
+    "texto1": "Revelar una noticia o información importante, a menudo por primera vez.",
+    "texto2": "Revelar / Publicar / Difundir / Dar a conocer",
+    "texto3": "break",
+    "texto4": "broke / broken / will break",
+    "texto5": "The newspaper was the first to break the story.",
+    "texto6": "El periódico fue el primero en revelar la noticia."
+  },
+  {
+    "texto1": "Superar un récord o una barrera.",
+    "texto2": "Superar / Batir / Romper (récord)",
+    "texto3": "break",
+    "texto4": "broke / broken / will break",
+    "texto5": "The athlete tried to break the world record.",
+    "texto6": "El atleta intentó batir el récord mundial."
+  },
+  {
+    "texto1": "Un valor que indica la ausencia de cualquier valor o un valor desconocido o indefinido.",
+    "texto2": "Nulo / Vacío / Ninguno / Sin valor",
+    "texto3": "null",
+    "texto4": "was null / will be null",
+    "texto5": "In many programming languages, 'null' is used to represent an empty reference or pointer.",
+    "texto6": "En muchos lenguajes de programación, 'null' se usa para representar una referencia o puntero vacío."
+  },
+  {
+    "texto1": "En bases de datos, un marcador que especifica que un valor de datos no existe en la base de datos.",
+    "texto2": "Nulo (base de datos) / Ausente / Indefinido",
+    "texto3": "null",
+    "texto4": "was null / will be null",
+    "texto5": "If a field in the database allows null values, it means it can be left empty.",
+    "texto6": "Si un campo en la base de datos permite valores nulos, significa que puede dejarse vacío."
+  },
+  {
+    "texto1": "Algo que no tiene fuerza legal o validez; inválido.",
+    "texto2": "Nulo / Inválido / Sin efecto / Anulado",
+    "texto3": "null",
+    "texto4": "was null / will be null",
+    "texto5": "The contract was declared null and void due to a technicality.",
+    "texto6": "El contrato fue declarado nulo y sin efecto debido a un tecnicismo."
+  },
+  {
+    "texto1": "Recibir propiedades, títulos o dinero como heredero al morir el dueño anterior.",
+    "texto2": "Heredar / Recibir en herencia / Adquirir por sucesión",
+    "texto3": "inherit",
+    "texto4": "inherited / will inherit",
+    "texto5": "She inherited a large sum of money from her grandmother.",
+    "texto6": "Ella heredó una gran suma de dinero de su abuela."
+  },
+  {
+    "texto1": "Obtener una característica, rasgo o cualidad genética de los padres o ancestros.",
+    "texto2": "Heredar (genético) / Transmitir (rasgos) / Adquirir (de padres)",
+    "texto3": "inherit",
+    "texto4": "inherited / will inherit",
+    "texto5": "He inherited his father's blue eyes and musical talent.",
+    "texto6": "Él heredó los ojos azules y el talento musical de su padre."
+  },
+  {
+    "texto1": "En programación, adquirir propiedades y métodos de una clase superior o padre.",
+    "texto2": "Heredar (programación) / Derivar / Extender",
+    "texto3": "inherit",
+    "texto4": "inherited / will inherit",
+    "texto5": "The 'Dog' class inherits properties from the 'Animal' class.",
+    "texto6": "La clase 'Perro' hereda propiedades de la clase 'Animal'."
+  },
+  {
+    "texto1": "Intentar hacer algo o esforzarse por lograrlo.",
+    "texto2": "Intentar / Probar / Esforzarse / Procurar",
+    "texto3": "try",
+    "texto4": "tried / will try",
+    "texto5": "I will try my best to finish the project on time.",
+    "texto6": "Intentaré dar lo mejor de mí para terminar el proyecto a tiempo."
+  },
+  {
+    "texto1": "Experimentar con algo para ver si funciona, es adecuado o es efectivo.",
+    "texto2": "Probar / Ensayar / Experimentar / Catare",
+    "texto3": "try",
+    "texto4": "tried / will try",
+    "texto5": "You should try this new restaurant; the food is delicious.",
+    "texto6": "Deberías probar este nuevo restaurante; la comida es deliciosa."
+  },
+  {
+    "texto1": "Someter a una persona o caso a un juicio legal.",
+    "texto2": "Juzgar / Enjuiciar / Procesar / Someter a juicio",
+    "texto3": "try",
+    "texto4": "tried / will try",
+    "texto5": "The suspect will be tried in court next month.",
+    "texto6": "El sospechoso será juzgado en el tribunal el próximo mes."
+  },
+  {
+    "texto1": "Un intento de hacer o lograr algo.",
+    "texto2": "Intento / Prueba / Ensayo / Esfuerzo",
+    "texto3": "try",
+    "texto4": "tries (plural)",
+    "texto5": "He made several tries before finally succeeding.",
+    "texto6": "Hizo varios intentos antes de finalmente tener éxito."
+  },
+  {
+    "texto1": "Agarrar o interceptar algo en movimiento, especialmente después de ser lanzado, caído o disparado.",
+    "texto2": "Atrapar / Coger / Agarrar / Recoger",
+    "texto3": "catch",
+    "texto4": "caught / will catch",
+    "texto5": "The baseball player made an amazing catch.",
+    "texto6": "El jugador de béisbol hizo una atrapada increíble."
+  },
+  {
+    "texto1": "Sorprender a alguien haciendo algo, especialmente algo malo o inesperado.",
+    "texto2": "Sorprender / Pillar / Descubrir / Encontrar",
+    "texto3": "catch",
+    "texto4": "caught / will catch",
+    "texto5": "The police caught the thief trying to escape.",
+    "texto6": "La policía atrapó al ladrón tratando de escapar."
+  },
+  {
+    "texto1": "Adquirir una enfermedad o infección.",
+    "texto2": "Coger (enfermedad) / Contraer / Pescar / Pillar",
+    "texto3": "catch",
+    "texto4": "caught / will catch",
+    "texto5": "I hope I don't catch a cold this winter.",
+    "texto6": "Espero no coger un resfriado este invierno."
+  },
+  {
+    "texto1": "Llegar a tiempo para tomar un transporte público como un autobús, tren o avión.",
+    "texto2": "Coger (transporte) / Alcanzar / Tomar",
+    "texto3": "catch",
+    "texto4": "caught / will catch",
+    "texto5": "We need to leave now if we want to catch the train.",
+    "texto6": "Necesitamos irnos ahora si queremos coger el tren."
+  },
+  {
+    "texto1": "Entender o comprender algo que se ha dicho o presentado.",
+    "texto2": "Entender / Captar / Comprender / Pillar (idea)",
+    "texto3": "catch",
+    "texto4": "caught / will catch",
+    "texto5": "I didn't quite catch what you said; could you repeat it?",
+    "texto6": "No capto del todo lo que dijiste; ¿podrías repetirlo?"
   }
 ]
