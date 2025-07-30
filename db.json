@@ -782,5 +782,61 @@
     "texto4": "caught / will catch",
     "texto5": "I didn't quite catch what you said; could you repeat it?",
     "texto6": "No capto del todo lo que dijiste; ¿podrías repetirlo?"
+  },
+  {
+    "texto1": "Ser igual o muy similar a algo o alguien; encajar o combinar bien.",
+    "texto2": "Coincidir / Combinar / Empatar / Corresponder",
+    "texto3": "match",
+    "texto4": "matched / will match",
+    "texto5": "The curtains match the sofa perfectly.",
+    "texto6": "Las cortinas combinan perfectamente con el sofá."
+  },
+  {
+    "texto1": "Un encuentro o competición deportiva entre dos personas o equipos.",
+    "texto2": "Partido / Encuentro / Competición / Contienda",
+    "texto3": "match",
+    "texto4": "matches (plural)",
+    "texto5": "Our team won the football match.",
+    "texto6": "Nuestro equipo ganó el partido de fútbol."
+  },
+  {
+    "texto1": "Una persona o cosa que es compatible o comparable con otra.",
+    "texto2": "Pareja / Correspondencia / Equivalente / Similar",
+    "texto3": "match",
+    "texto4": "matches (plural)",
+    "texto5": "He's looking for a good match for his daughter.",
+    "texto6": "Él está buscando una buena pareja para su hija."
+  },
+  {
+    "texto1": "Un pequeño palo o tira de madera o cartón con una punta recubierta de una sustancia inflamable, utilizada para encender fuego.",
+    "texto2": "Cerilla / Fósforo",
+    "texto3": "match",
+    "texto4": "matches (plural)",
+    "texto5": "Do you have a light? I need a match.",
+    "texto6": "¿Tienes fuego? Necesito una cerilla."
+  },
+  {
+    "texto1": "Encontrar algo que corresponde a otra cosa; buscar una equivalencia.",
+    "texto2": "Emparejar / Encontrar correspondencia / Cotejar / Asociar",
+    "texto3": "match",
+    "texto4": "matched / will match",
+    "texto5": "Can you match these keys to their correct locks?",
+    "texto6": "¿Puedes emparejar estas llaves con sus cerraduras correctas?"
+  },
+  {
+    "texto1": "En un resumen muy breve y conciso, expresando las ideas principales.",
+    "texto2": "En pocas palabras / En resumen / En síntesis / Brevemente",
+    "texto3": "nutshell",
+    "texto4": "N/A",
+    "texto5": "To put it in a nutshell, we're bankrupt.",
+    "texto6": "(Para decirlo en pocas palabras, estamos en bancarrota.)"
+  },
+  {
+    "texto1": "Algo que es muy pequeño o que se presenta de forma muy compacta.",
+    "texto2": "Minúsculo / Diminuto / En miniatura",
+    "texto3": "nutshell",
+    "texto4": "N/A",
+    "texto5": "The entire plan fits in a nutshell.",
+    "texto6": "(Todo el plan cabe en un espacio minúsculo.)"
   }
 ]
