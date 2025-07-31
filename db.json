@@ -1,1082 +1,162 @@
 [
-{
-    "texto1": "Sensación que se produce en el órgano del oído por un conjunto de vibraciones que se propagan por un medio elástico, como el aire.",
-    "texto2": "Sonido / Ruido / Acústica",
-    "texto3": "sound",
-    "texto4": "sounds / will sound",
-    "texto5": "The sound of waves crashing on the shore is very relaxing.",
-    "texto6": "El sonido de las olas rompiendo en la orilla es muy relajante."
-  },
-  {
-    "texto1": "Acción o efecto de emitir un sonido.",
-    "texto2": "Sonar / Hacer ruido / Emitir",
-    "texto3": "sound",
-    "texto4": "sounded / will sound",
-    "texto5": "The alarm sounded when the smoke was detected.",
-    "texto6": "La alarma sonó cuando se detectó humo."
-  },
-  {
-    "texto1": "Que es razonable, sensato o fiable.",
-    "texto2": "Sólido / Firme / Razonable / Sensato",
-    "texto3": "sound",
-    "texto4": "sounder / soundest",
-    "texto5": "He gave me a sound piece of advice.",
-    "texto6": "Me dio un consejo sensato."
-  },
-  {
-    "texto1": "Medir la profundidad de un cuerpo de agua o la distancia a un fondo.",
-    "texto2": "Sondear / Medir la profundidad",
-    "texto3": "sound",
-    "texto4": "sounded / will sound",
-    "texto5": "They sounded the depths of the ocean.",
-    "texto6": "Sondearon las profundidades del océano."
-  },
-  {
-    "texto1": "Que ha logrado un objetivo o ha tenido éxito en algo.",
-    "texto2": "Exitoso / Realizado / Consumado / Logrado",
-    "texto3": "accomplished",
-    "texto4": "accomplished",
-    "texto5": "She is an accomplished musician.",
-    "texto6": "Ella es una música consumada."
-  },
-  {
-    "texto1": "Que es hábil o experto en una actividad o arte.",
-    "texto2": "Habilidoso / Experto / Diestro / Versado",
-    "texto3": "accomplished",
-    "texto4": "accomplished",
-    "texto5": "He is an accomplished speaker.",
-    "texto6": "Él es un orador hábil."
-  },
-  {
-    "texto1": "Llevar a cabo o finalizar algo con éxito.",
-    "texto2": "Lograr / Realizar / Completar / Consumar",
-    "texto3": "accomplish",
-    "texto4": "accomplished / will accomplish",
-    "texto5": "We need to accomplish this task by Friday.",
-    "texto6": "Necesitamos lograr esta tarea para el viernes."
-  },
-  {
-    "texto1": "Un estado de desorden y suciedad.",
-    "texto2": "Desorden / Caos / Lío / Mugre",
-    "texto3": "mess",
-    "texto4": "messes / will mess",
-    "texto5": "My room is a complete mess.",
-    "texto6": "Mi habitación es un completo desorden."
-  },
-  {
-    "texto1": "Una situación o asunto enredado o complicado.",
-    "texto2": "Aprieto / Problema / Enredo / Embrollo",
-    "texto3": "mess",
-    "texto4": "messes / will mess",
-    "texto5": "We're in a bit of a financial mess.",
-    "texto6": "Estamos en un pequeño aprieto financiero."
-  },
-  {
-    "texto1": "Causar desorden o suciedad; arruinar o estropear algo.",
-    "texto2": "Desordenar / Ensuciar / Estropear / Arruinar",
-    "texto3": "mess",
-    "texto4": "messed / will mess",
-    "texto5": "Don't mess up the kitchen!",
-    "texto6": "¡No desordenes la cocina!"
-  },
-  {
-    "texto1": "Interferir o inmiscuirse en los asuntos de alguien más.",
-    "texto2": "Meterse / Entrometerse / Fastidiar",
-    "texto3": "mess",
-    "texto4": "messed / will mess",
-    "texto5": "Don't mess with me.",
-    "texto6": "No te metas conmigo."
-  },
-  {
-    "texto1": "Querer decir o significar algo; tener un propósito o intención.",
-    "texto2": "Significar / Querer decir / Pretender / Intentar",
-    "texto3": "mean",
-    "texto4": "meant / will mean",
-    "texto5": "What do you mean by that?",
-    "texto6": "¿Qué quieres decir con eso?"
-  },
-  {
-    "texto1": "Ser cruel, desagradable o malintencionado.",
-    "texto2": "Malvado / Cruel / Desagradable / Mezquino",
-    "texto3": "mean",
-    "texto4": "meaner / meanest",
-    "texto5": "Don't be so mean to your sister.",
-    "texto6": "No seas tan cruel con tu hermana."
-  },
-  {
-    "texto1": "Un punto intermedio entre dos extremos; el promedio de un conjunto de números.",
-    "texto2": "Media / Promedio / Término medio",
-    "texto3": "mean",
-    "texto4": "means / will mean",
-    "texto5": "The mean temperature for July is 25 degrees Celsius.",
-    "texto6": "La temperatura media de julio es de 25 grados Celsius."
-  },
-  {
-    "texto1": "Los recursos o métodos utilizados para lograr un fin.",
-    "texto2": "Medios / Recursos / Forma / Modo",
-    "texto3": "means",
-    "texto4": "means",
-    "texto5": "By all means, come in.",
-    "texto6": "Por supuesto, pasa."
-  },
-  {
-    "texto1": "Desmoronarse o romperse en pedazos pequeños.",
-    "texto2": "Desmoronarse / Deshacerse / Fragmentarse / Romperse",
-    "texto3": "crumble",
-    "texto4": "crumbled / will crumble",
-    "texto5": "The old wall started to crumble.",
-    "texto6": "La vieja pared comenzó a desmoronarse."
-  },
-  {
-    "texto1": "Perder fuerza, cohesión o estabilidad, especialmente de forma gradual.",
-    "texto2": "Derrumbarse / Colapsar / Debilitarse / Venirse abajo",
-    "texto3": "crumble",
-    "texto4": "crumbled / will crumble",
-    "texto5": "Their empire began to crumble from within.",
-    "texto6": "Su imperio empezó a derrumbarse desde dentro."
-  },
-  {
-    "texto1": "Un postre hecho con fruta cubierta con una capa desmenuzable de harina, mantequilla y azúcar.",
-    "texto2": "Crumble (postre) / Pastel desmenuzado",
-    "texto3": "crumble",
-    "texto4": "crumbles",
-    "texto5": "I love apple crumble with ice cream.",
-    "texto6": "Me encanta el crumble de manzana con helado."
-  },
-  {
-    "texto1": "Tener suficiente dinero para pagar algo.",
-    "texto2": "Permitirse / Costearse / Poder pagar",
-    "texto3": "afford",
-    "texto4": "afforded / will afford",
-    "texto5": "I can't afford a new car right now.",
-    "texto6": "No puedo permitirme un coche nuevo ahora mismo."
-  },
-  {
-    "texto1": "Poder proporcionar o dar algo sin dificultad, especialmente un beneficio o una oportunidad.",
-    "texto2": "Proporcionar / Ofrecer / Dar / Brindar",
-    "texto3": "afford",
-    "texto4": "afforded / will afford",
-    "texto5": "The new policy will afford equal opportunities to everyone.",
-    "texto6": "La nueva política brindará igualdad de oportunidades a todos."
-  },
-  {
-    "texto1": "Cantidad de dinero, bienes o recursos que se apuestan o se invierten en algo, con el riesgo de perderlo o la posibilidad de ganarlo.",
-    "texto2": "Apuesta / Inversión / Participación / Riesgo",
-    "texto3": "stake",
-    "texto4": "stakes / will stake",
-    "texto5": "He has a high stake in the success of the company.",
-    "texto6": "Él tiene mucho en juego en el éxito de la empresa."
-  },
-  {
-    "texto1": "Un interés o participación en algo, especialmente un negocio o un resultado.",
-    "texto2": "Interés / Participación / Cuota / Parte",
-    "texto3": "stake",
-    "texto4": "stakes / will stake",
-    "texto5": "Everyone has a stake in protecting the environment.",
-    "texto6": "Todos tienen un interés en proteger el medio ambiente."
-  },
-  {
-    "texto1": "Un palo afilado que se clava en el suelo, a menudo para marcar algo o como soporte.",
-    "texto2": "Estaca / Poste / Clavija",
-    "texto3": "stake",
-    "texto4": "stakes",
-    "texto5": "They used wooden stakes to mark the boundaries.",
-    "texto6": "Usaron estacas de madera para marcar los límites."
-  },
-  {
-    "texto1": "Apostar o arriesgar dinero, bienes o algo de valor en un resultado.",
-    "texto2": "Apostar / Arriesgar / Poner en juego",
-    "texto3": "stake",
-    "texto4": "staked / will stake",
-    "texto5": "He staked his reputation on the success of the project.",
-    "texto6": "Se jugó su reputación en el éxito del proyecto."
-  },
-  {
-    "texto1": "Que no está en funcionamiento o no se está utilizando.",
-    "texto2": "Inactivo / Ocioso / Parado / Desocupado",
-    "texto3": "idle",
-    "texto4": "idled / will idle",
-    "texto5": "The car engine was idling at the traffic light.",
-    "texto6": "El motor del coche estaba en punto muerto en el semáforo."
-  },
-  {
-    "texto1": "Que evita el trabajo o la actividad; perezoso.",
-    "texto2": "Perezoso / Holgazán / Vago",
-    "texto3": "idle",
-    "texto4": "idler / idlest",
-    "texto5": "He spent his idle hours watching TV.",
-    "texto6": "Pasó sus horas ociosas viendo televisión."
-  },
-  {
-    "texto1": "Perder el tiempo sin hacer nada útil.",
-    "texto2": "Holgazanear / Vaguear / Perder el tiempo",
-    "texto3": "idle",
-    "texto4": "idled / will idle",
-    "texto5": "Instead of working, he just idled around all day.",
-    "texto6": "En lugar de trabajar, simplemente holgazaneó todo el día."
-  },
-  {
-    "texto1": "Que no tiene un propósito o fundamento real; sin sentido.",
-    "texto2": "Inútil / Sin sentido / Vano / Infundado",
-    "texto3": "idle",
-    "texto4": "idle",
-    "texto5": "Don't pay attention to idle gossip.",
-    "texto6": "No prestes atención a los chismes sin fundamento."
-  },
-  {
-    "texto1": "Que tiene poca fuerza física o mental.",
-    "texto2": "Débil / Frágil / Flojo / Enfermizo",
-    "texto3": "weak",
-    "texto4": "weaker / weakest",
-    "texto5": "After the illness, he felt very weak.",
-    "texto6": "Después de la enfermedad, se sintió muy débil."
-  },
-  {
-    "texto1": "Que tiene poca intensidad o efectividad.",
-    "texto2": "Leve / Tenue / Escaso / Poco convincente",
-    "texto3": "weak",
-    "texto4": "weaker / weakest",
-    "texto5": "The signal is too weak here.",
-    "texto6": "La señal es demasiado débil aquí."
-  },
-  {
-    "texto1": "Que es susceptible a fallar o ceder; no es fuerte o seguro.",
-    "texto2": "Vulnerable / Endeble / Cuestionable / Frágil",
-    "texto3": "weak",
-    "texto4": "weaker / weakest",
-    "texto5": "This argument has a weak point.",
-    "texto6": "Este argumento tiene un punto débil."
-  },
-  {
-    "texto1": "Moverse sigilosamente o en secreto para evitar ser visto o escuchado.",
-    "texto2": "Escabullirse / Colarse / Entrar a escondidas / Ir a hurtadillas",
-    "texto3": "sneak",
-    "texto4": "snuck / will sneak",
-    "texto5": "He tried to sneak out of the house without anyone noticing.",
-    "texto6": "Trató de escabullirse de la casa sin que nadie se diera cuenta."
-  },
-  {
-    "texto1": "Introducir o llevar algo a escondidas.",
-    "texto2": "Colar / Meter a escondidas / Contrabandear",
-    "texto3": "sneak",
-    "texto4": "snuck / will sneak",
-    "texto5": "She managed to sneak some cookies into her room.",
-    "texto6": "Se las arregló para colar algunas galletas en su habitación."
-  },
-  {
-    "texto1": "Una persona que hace algo en secreto o de forma sigilosa.",
-    "texto2": "Soplón / Chivato / Delator",
-    "texto3": "sneak",
-    "texto4": "sneaks",
-    "texto5": "Don't be a sneak and tell on your friends.",
-    "texto6": "No seas un soplón y delates a tus amigos."
-  },
-  {
-    "texto1": "Hecho o realizado en secreto o sin previo aviso.",
-    "texto2": "Secreto / Sigiloso / A escondidas / Sorpresa",
-    "texto3": "sneak",
-    "texto4": "sneak",
-    "texto5": "They released a sneak peek of the new movie.",
-    "texto6": "Lanzaron un adelanto secreto de la nueva película."
-  },
-  {
-    "texto1": "Saltar con fuerza o agilidad, generalmente sobre o desde algo.",
-    "texto2": "Saltar / Brincar / Dar un salto",
-    "texto3": "leap",
-    "texto4": "leaped / leapt / will leap",
-    "texto5": "The deer leaped over the fence.",
-    "texto6": "El ciervo saltó la valla."
-  },
-  {
-    "texto1": "Un salto o brinco, especialmente uno largo o alto.",
-    "texto2": "Salto / Brinco / Zancada",
-    "texto3": "leap",
-    "texto4": "leaps",
-    "texto5": "He made a mighty leap across the chasm.",
-    "texto6": "Dio un salto poderoso a través del abismo."
-  },
-  {
-    "texto1": "Un cambio o progreso repentino y significativo.",
-    "texto2": "Avance / Salto (cuantitativo) / Progreso / Mejora",
-    "texto3": "leap",
-    "texto4": "leaps",
-    "texto5": "This discovery represents a huge leap forward for science.",
-    "texto6": "Este descubrimiento representa un gran avance para la ciencia."
-  },
-  {
-    "texto1": "Algo grande, impresionante o extraordinario en tamaño o efecto.",
-    "texto2": "Monstruo / Coloso / Gigante / Éxito rotundo",
-    "texto3": "buster",
-    "texto4": "busters",
-    "texto5": "That last storm was a real buster.",
-    "texto6": "Esa última tormenta fue un verdadero monstruo."
-  },
-  {
-    "texto1": "Alguien o algo que rompe o destruye algo, o que pone fin a algo.",
-    "texto2": "Rompedor / Destructor / Acabador / Liquidador",
-    "texto3": "buster",
-    "texto4": "busters",
-    "texto5": "He's a myth buster, always challenging old beliefs.",
-    "texto6": "Él es un rompedor de mitos, siempre desafiando viejas creencias."
-  },
-  {
-    "texto1": "Remover tierra o excavar para hacer un agujero o encontrar algo.",
-    "texto2": "Cavar / Excavar / Ahondar / Hurgar",
-    "texto3": "dig",
-    "texto4": "dug / will dig",
-    "texto5": "They had to dig a deep hole to plant the tree.",
-    "texto6": "Tuvieron que cavar un agujero profundo para plantar el árbol."
-  },
-  {
-    "texto1": "Descubrir o encontrar algo mediante la investigación o la búsqueda.",
-    "texto2": "Descubrir / Investigar / Averiguar / Encontrar",
-    "texto3": "dig",
-    "texto4": "dug / will dig",
-    "texto5": "I need to dig up some information for my report.",
-    "texto6": "Necesito desenterrar algo de información para mi informe."
-  },
-  {
-    "texto1": "Entender o apreciar algo, especialmente algo que es complejo o inusual.",
-    "texto2": "Entender / Comprender / Captar / Apreciar",
-    "texto3": "dig",
-    "texto4": "dug / will dig",
-    "texto5": "Do you dig what I'm saying?",
-    "texto6": "¿Captas lo que digo?"
-  },
-  {
-    "texto1": "Un comentario crítico, sarcástico o despectivo.",
-    "texto2": "Burla / Indirecta / Comentario mordaz / Critica",
-    "texto3": "dig",
-    "texto4": "digs",
-    "texto5": "He made a sarcastic dig at his opponent.",
-    "texto6": "Hizo una burla sarcástica a su oponente."
-  },
-  {
-    "texto1": "Expresar descontento, insatisfacción o malestar por algo.",
-    "texto2": "Quejarse / Lamentarse / Protestar / Reclamar",
-    "texto3": "complain",
-    "texto4": "complained / will complain",
-    "texto5": "He always complains about the weather.",
-    "texto6": "Siempre se queja del tiempo."
-  },
-  {
-    "texto1": "Presentar una queja formal sobre algo.",
-    "texto2": "Denunciar / Presentar una queja / Protestar formalmente",
-    "texto3": "complain",
-    "texto4": "complained / will complain",
-    "texto5": "Customers often complain about poor service.",
-    "texto6": "Los clientes a menudo se quejan del mal servicio."
-  },
-  {
-    "texto1": "Mantener algo en buen estado, funcionamiento o condición.",
-    "texto2": "Mantener / Conservar / Sostener / Preservar",
-    "texto3": "maintain",
-    "texto4": "maintained / will maintain",
-    "texto5": "It's important to maintain your car regularly.",
-    "texto6": "Es importante mantener tu coche regularmente."
-  },
-  {
-    "texto1": "Continuar con una situación, nivel o estado; no permitir que cambie o disminuya.",
-    "texto2": "Mantener / Sostener / Preservar / Conservar",
-    "texto3": "maintain",
-    "texto4": "maintained / will maintain",
-    "texto5": "They struggled to maintain their lead in the game.",
-    "texto6": "Lucharon por mantener su ventaja en el partido."
-  },
-  {
-    "texto1": "Afirmar o defender una opinión, creencia o postura.",
-    "texto2": "Mantener / Sostener / Afirmar / Defender",
-    "texto3": "maintain",
-    "texto4": "maintained / will maintain",
-    "texto5": "She maintains her innocence despite the evidence.",
-    "texto6": "Ella mantiene su inocencia a pesar de la evidencia."
-  },
-  {
-    "texto1": "Proveer de sustento o apoyo financiero.",
-    "texto2": "Mantener / Sostener / Sustentar / Pagar",
-    "texto3": "maintain",
-    "texto4": "maintained / will maintain",
-    "texto5": "He works hard to maintain his family.",
-    "texto6": "Él trabaja duro para mantener a su familia."
-  },
-  {
-    "texto1": "Mantener algo existente, en un cierto nivel o en una buena condición a lo largo del tiempo.",
-    "texto2": "Mantener / Sostener / Preservar / Conservar",
-    "texto3": "sustain",
-    "texto4": "sustained / will sustain",
-    "texto5": "The economy needs to grow at a faster rate to sustain job creation.",
-    "texto6": "La economía necesita crecer a un ritmo más rápido para mantener la creación de empleo."
-  },
-  {
-    "texto1": "Sufrir o experimentar algo desagradable o perjudicial, como una lesión o una pérdida.",
-    "texto2": "Sufrir / Padecer / Experimentar / Recibir",
-    "texto3": "sustain",
-    "texto4": "sustained / will sustain",
-    "texto5": "He sustained serious injuries in the accident.",
-    "texto6": "Sufrió heridas graves en el accidente."
-  },
-  {
-    "texto1": "Proveer de lo necesario para la vida o el mantenimiento.",
-    "texto2": "Sustentar / Alimentar / Nutrir / Mantener",
-    "texto3": "sustain",
-    "texto4": "sustained / will sustain",
-    "texto5": "The land could no longer sustain the large population.",
-    "texto6": "La tierra ya no podía sustentar a la gran población."
-  },
-  {
-    "texto1": "Confirmar o probar la validez de algo.",
-    "texto2": "Confirmar / Apoyar / Ratificar / Validar",
-    "texto3": "sustain",
-    "texto4": "sustained / will sustain",
-    "texto5": "The court sustained the objection.",
-    "texto6": "El tribunal confirmó la objeción."
-  },
-  {
-    "texto1": "Mezclar o reorganizar elementos de forma aleatoria o desordenada.",
-    "texto2": "Mezclar / Barajar / Reorganizar / Desordenar",
-    "texto3": "shuffle",
-    "texto4": "shuffled / will shuffle",
-    "texto5": "Please shuffle the cards before dealing them.",
-    "texto6": "Por favor, baraja las cartas antes de repartirlas."
-  },
-  {
-    "texto1": "Arrastrar los pies al caminar, sin levantarlos completamente del suelo.",
-    "texto2": "Arrastrar los pies / Caminar arrastrando",
-    "texto3": "shuffle",
-    "texto4": "shuffled / will shuffle",
-    "texto5": "He shuffled across the room in his slippers.",
-    "texto6": "Arrastró los pies por la habitación en sus pantuflas."
-  },
-  {
-    "texto1": "Un acto de reorganización o mezcla aleatoria de algo.",
-    "texto2": "Mezcla / Barajado / Reorganización",
-    "texto3": "shuffle",
-    "texto4": "shuffles",
-    "texto5": "The music player has a shuffle feature.",
-    "texto6": "El reproductor de música tiene una función de mezcla aleatoria."
-  },
-  {
-    "texto1": "Ir a buscar y traer de vuelta algo o a alguien.",
-    "texto2": "Buscar / Recoger / Traer / Ir por",
-    "texto3": "fetch",
-    "texto4": "fetched / will fetch",
-    "texto5": "Can you fetch me a glass of water?",
-    "texto6": "¿Puedes traerme un vaso de agua?"
-  },
-  {
-    "texto1": "Alcanzar o conseguir un precio o cantidad particular (generalmente alto).",
-    "texto2": "Alcanzar / Obtener / Conseguir / Venderse por",
-    "texto3": "fetch",
-    "texto4": "fetched / will fetch",
-    "texto5": "The painting is expected to fetch a high price at auction.",
-    "texto6": "Se espera que la pintura alcance un precio alto en la subasta."
-  },
-  {
-    "texto1": "Un acto de ir a buscar y traer algo de vuelta.",
-    "texto2": "Búsqueda / Recogida / Viaje (para buscar)",
-    "texto3": "fetch",
-    "texto4": "fetches",
-    "texto5": "The dog loves to play fetch with the ball.",
-    "texto6": "Al perro le encanta jugar a buscar la pelota."
-  },
-  {
-    "texto1": "Recuperar datos o información desde una fuente, especialmente en informática o internet.",
-    "texto2": "Obtener / Recuperar / Solicitar datos",
-    "texto3": "fetch",
-    "texto4": "fetches / fetched / will fetch",
-    "texto5": "The app fetches data from the server every 5 minutes.",
-    "texto6": "La aplicación recupera datos del servidor cada 5 minutos."
-  },
-  {
-    "texto1": "Sustancia física que ocupa espacio y tiene masa.",
-    "texto2": "Materia / Sustancia / Material",
-    "texto3": "matter",
-    "texto4": "matters",
-    "texto5": "All physical objects are made of matter.",
-    "texto6": "Todos los objetos físicos están hechos de materia."
-  },
-  {
-    "texto1": "Asunto, problema o situación de importancia o consideración.",
-    "texto2": "Asunto / Cuestión / Problema / Tema",
-    "texto3": "matter",
-    "texto4": "matters",
-    "texto5": "It's a serious matter that needs our attention.",
-    "texto6": "Es un asunto serio que necesita nuestra atención."
-  },
-  {
-    "texto1": "Ser importante, relevante o tener un impacto significativo.",
-    "texto2": "Importar / Interesar / Tener importancia / Ser relevante",
-    "texto3": "matter",
-    "texto4": "mattered / will matter",
-    "texto5": "It doesn't matter what others think.",
-    "texto6": "No importa lo que piensen los demás."
-  },
-  {
-    "texto1": "Pus o secreción de una herida o inflamación.",
-    "texto2": "Materia (médica) / Pus / Secreción",
-    "texto3": "matter",
-    "texto4": "matters",
-    "texto5": "The wound was discharging matter.",
-    "texto6": "La herida estaba supurando materia."
-  },
-  {
-    "texto1": "Expresión que indica que algo depende de un factor o situación específica.",
-    "texto2": "Una cuestión de / Solo depende de / Es cosa de",
-    "texto3": "matter",
-    "texto4": "matters",
-    "texto5": "It's just a matter of time before she wins.",
-    "texto6": "Es solo cuestión de tiempo antes de que ella gane."
-  },
-  {
-    "texto1": "Preferir una cosa a otra; elegir o desear algo en particular.",
-    "texto2": "Preferir / Más bien / Antes bien / En su lugar",
-    "texto3": "rather",
-    "texto4": "would rather",
-    "texto5": "I'd rather stay home tonight than go out.",
-    "texto6": "Prefiero quedarme en casa esta noche que salir."
-  },
-  {
-    "texto1": "En cierto grado; hasta cierto punto.",
-    "texto2": "Bastante / Un tanto / Más bien / Algo",
-    "texto3": "rather",
-    "texto4": "rather",
-    "texto5": "The movie was rather good, actually.",
-    "texto6": "La película fue bastante buena, la verdad."
-  },
-  {
-    "texto1": "Para corregir o calificar una afirmación anterior; para ser más preciso.",
-    "texto2": "Más bien / Mejor dicho / O sea",
-    "texto3": "rather",
-    "texto4": "rather",
-    "texto5": "It's a large house, or rather, a mansion.",
-    "texto6": "Es una casa grande, o más bien, una mansión."
-  },
-  {
-    "texto1": "Un objeto o un conjunto de objetos envueltos o contenidos en un envoltorio para su transporte o venta.",
-    "texto2": "Paquete / Envoltorio / Bulto / Encomienda",
-    "texto3": "package",
-    "texto4": "packages",
-    "texto5": "I received a package in the mail today.",
-    "texto6": "Hoy recibí un paquete por correo."
-  },
-  {
-    "texto1": "Un conjunto de elementos o servicios ofrecidos juntos como una unidad.",
-    "texto2": "Paquete / Conjunto / Oferta / Combinación",
-    "texto3": "package",
-    "texto4": "packages",
-    "texto5": "The vacation package includes flights and accommodation.",
-    "texto6": "El paquete vacacional incluye vuelos y alojamiento."
-  },
-  {
-    "texto1": "Un grupo de archivos de software relacionados o módulos que funcionan juntos para una función específica.",
-    "texto2": "Paquete (informático) / Módulo / Librería",
-    "texto3": "package",
-    "texto4": "packages",
-    "texto5": "You need to install the correct software package to run this application.",
-    "texto6": "Necesitas instalar el paquete de software correcto para ejecutar esta aplicación."
-  },
-  {
-    "texto1": "Empaquetar o envolver algo.",
-    "texto2": "Empaquetar / Envolver / Embalar",
-    "texto3": "package",
-    "texto4": "packaged / will package",
-    "texto5": "They carefully packaged the fragile items for shipping.",
-    "texto6": "Empaquetaron cuidadosamente los artículos frágiles para el envío."
-  },
-  {
-    "texto1": "Gritar con voz fuerte y aguda, generalmente por enojo, dolor o emoción intensa.",
-    "texto2": "Gritar / Chillar / Vociferar / Bramar",
-    "texto3": "yell",
-    "texto4": "yelled / will yell",
-    "texto5": "She yelled at him for being late.",
-    "texto6": "Ella le gritó por llegar tarde."
-  },
-  {
-    "texto1": "Un grito fuerte o agudo.",
-    "texto2": "Grito / Chillo / Clamor / Vocerío",
-    "texto3": "yell",
-    "texto4": "yells",
-    "texto5": "We heard a loud yell from outside.",
-    "texto6": "Escuchamos un fuerte grito desde afuera."
-  },
-  {
-    "texto1": "Moverse hacia abajo, por lo general de forma incontrolada, desde una posición superior a una inferior.",
-    "texto2": "Caer / Desplomarse / Precipitarse / Venirse abajo",
-    "texto3": "fall",
-    "texto4": "fell / fallen / will fall",
-    "texto5": "Be careful not to fall down the stairs.",
-    "texto6": "Ten cuidado de no caerte por las escaleras."
-  },
-  {
-    "texto1": "Una estación del año entre el verano y el invierno, caracterizada por la caída de las hojas de los árboles.",
-    "texto2": "Otoño",
-    "texto3": "fall",
-    "texto4": "falls",
-    "texto5": "The leaves turn beautiful colors in the fall.",
-    "texto6": "Las hojas adquieren colores hermosos en otoño."
-  },
-  {
-    "texto1": "Una disminución o reducción en cantidad, nivel o intensidad.",
-    "texto2": "Caída / Disminución / Baja / Declive",
-    "texto3": "fall",
-    "texto4": "falls",
-    "texto5": "There was a sharp fall in temperatures overnight.",
-    "texto6": "Hubo una fuerte caída de las temperaturas durante la noche."
-  },
-  {
-    "texto1": "Una cascada o catarata, donde el agua cae verticalmente.",
-    "texto2": "Cascada / Catarata / Salto de agua",
-    "texto3": "fall",
-    "texto4": "falls",
-    "texto5": "Niagara Falls is a famous tourist attraction.",
-    "texto6": "Las Cataratas del Niágara son una famosa atracción turística."
-  },
-  {
-    "texto1": "Sucumbir a una tentación o un error; perder la moral o el honor.",
-    "texto2": "Caer / Pecar / Sucumbir / Degradar",
-    "texto3": "fall",
-    "texto4": "fell / fallen / will fall",
-    "texto5": "He tried not to fall into old habits.",
-    "texto6": "Trató de no caer en viejos hábitos."
-  },
-  {
-    "texto1": "Masticar algo con los dientes.",
-    "texto2": "Masticar / Roer / Rumiar",
-    "texto3": "chew",
-    "texto4": "chewed / will chew",
-    "texto5": "Please chew your food slowly.",
-    "texto6": "Por favor, mastica tu comida despacio."
-  },
-  {
-    "texto1": "Pensar en algo o considerarlo cuidadosamente durante un tiempo.",
-    "texto2": "Rumiar / Meditar / Reflexionar / Darle vueltas",
-    "texto3": "chew",
-    "texto4": "chewed / will chew",
-    "texto5": "I need some time to chew on this idea.",
-    "texto6": "Necesito tiempo para rumiar esta idea."
-  },
-  {
-    "texto1": "Un acto de masticar o una porción de algo para masticar.",
-    "texto2": "Masticada / Mascada / Mordisco",
-    "texto3": "chew",
-    "texto4": "chews",
-    "texto5": "He took a big chew of his gum.",
-    "texto6": "Dio una gran masticada a su chicle."
-  },
-  {
-    "texto1": "Elevar o mover algo de una posición inferior a una superior.",
-    "texto2": "Levantar / Alzar / Elevar / Subir",
-    "texto3": "lift",
-    "texto4": "lifted / will lift",
-    "texto5": "Can you help me lift this heavy box?",
-    "texto6": "¿Puedes ayudarme a levantar esta caja pesada?"
-  },
-  {
-    "texto1": "Una acción de levantar o la distancia que se eleva algo.",
-    "texto2": "Levantamiento / Subida / Elevación",
-    "texto3": "lift",
-    "texto4": "lifts",
-    "texto5": "He gave the box a final lift onto the shelf.",
-    "texto6": "Dio un último levantamiento a la caja para ponerla en el estante."
-  },
-  {
-    "texto1": "Un dispositivo o mecanismo para levantar personas o cosas, como un ascensor.",
-    "texto2": "Ascensor / Elevador / Montacargas",
-    "texto3": "lift",
-    "texto4": "lifts",
-    "texto5": "Take the lift to the tenth floor.",
-    "texto6": "Toma el ascensor hasta el décimo piso."
-  },
-  {
-    "texto1": "Un viaje en coche ofrecido gratuitamente a alguien.",
-    "texto2": "Viaje (en coche) / Aventón / Cola",
-    "texto3": "lift",
-    "texto4": "lifts",
-    "texto5": "Can you give me a lift to the station?",
-    "texto6": "¿Me puedes llevar a la estación?"
-  },
-  {
-    "texto1": "Una mejora en el ánimo o estado de una persona; un estímulo.",
-    "texto2": "Estímulo / Mejora / Impulso / Alivio",
-    "texto3": "lift",
-    "texto4": "lifts",
-    "texto5": "The good news gave her a real lift.",
-    "texto6": "Las buenas noticias le dieron un verdadero estímulo."
-  },
-  {
-    "texto1": "Mantenerse erguido sobre los pies; estar de pie.",
-    "texto2": "Estar de pie / Ponerse de pie / Erguirse",
-    "texto3": "stand",
-    "texto4": "stood / will stand",
-    "texto5": "Please stand up when the judge enters.",
-    "texto6": "Por favor, póngase de pie cuando entre el juez."
-  },
-  {
-    "texto1": "Colocarse en un lugar o posición específica; ocupar un sitio.",
-    "texto2": "Estar / Ubicarse / Colocarse",
-    "texto3": "stand",
-    "texto4": "stood / will stand",
-    "texto5": "The house stands on a hill overlooking the city.",
-    "texto6": "La casa se encuentra en una colina con vistas a la ciudad."
-  },
-  {
-    "texto1": "Soportar o tolerar una situación, condición o persona.",
-    "texto2": "Soportar / Tolerar / Aguantar / Resistir",
-    "texto3": "stand",
-    "texto4": "stood / will stand",
-    "texto5": "I can't stand loud noises.",
-    "texto6": "No soporto los ruidos fuertes."
-  },
-  {
-    "texto1": "Una posición o punto de vista particular sobre un tema o asunto.",
-    "texto2": "Postura / Posición / Opinión / Punto de vista",
-    "texto3": "stand",
-    "texto4": "stands",
-    "texto5": "What's your stand on this issue?",
-    "texto6": "¿Cuál es tu postura sobre este asunto?"
-  },
-  {
-    "texto1": "Un puesto o mostrador, a menudo temporal, donde se venden productos o se exhibe algo.",
-    "texto2": "Puesto / Caseta / Quiosco / Soporte",
-    "texto3": "stand",
-    "texto4": "stands",
-    "texto5": "They set up a lemonade stand by the road.",
-    "texto6": "Montaron un puesto de limonada junto a la carretera."
-  },
-  {
-    "texto1": "Estar vigente o ser válido.",
-    "texto2": "Estar vigente / Ser válido / Mantenerse",
-    "texto3": "stand",
-    "texto4": "stood / will stand",
-    "texto5": "The offer still stands.",
-    "texto6": "La oferta sigue en pie."
-  },
-  {
-    "texto1": "Que se siente incómodo o nervioso en situaciones sociales o en presencia de otras personas.",
-    "texto2": "Tímido / Introvertido / Vergonzoso / Apocado",
-    "texto3": "shy",
-    "texto4": "shyer / shyest",
-    "texto5": "She's very shy and doesn't talk much in groups.",
-    "texto6": "Ella es muy tímida y no habla mucho en grupo."
-  },
-  {
-    "texto1": "Que se asusta o se sobresalta fácilmente; que desconfía.",
-    "texto2": "Asustadizo / Receloso / Desconfiado",
-    "texto3": "shy",
-    "texto4": "shyer / shyest",
-    "texto5": "The wild horses are very shy of humans.",
-    "texto6": "Los caballos salvajes son muy asustadizos con los humanos."
-  },
-  {
-    "texto1": "Evitar o rehuir algo por timidez, miedo o precaución.",
-    "texto2": "Rehuir / Evitar / Eludir / Acobardarse",
-    "texto3": "shy",
-    "texto4": "shied / will shy",
-    "texto5": "He shied away from public speaking.",
-    "texto6": "Él rehuía hablar en público."
-  },
-  {
-    "texto1": "Una gran masa de agua rodeada de tierra, que no forma parte de un océano.",
-    "texto2": "Lago / Laguna (si es pequeña)",
-    "texto3": "lake",
-    "texto4": "lakes",
-    "texto5": "Lake Titicaca is the highest navigable lake in the world.",
-    "texto6": "El Lago Titicaca es el lago navegable más alto del mundo."
-  },
-  {
-    "texto1": "Un aparato que produce luz, generalmente eléctrica, que se utiliza para iluminar un espacio.",
-    "texto2": "Lámpara / Foco / Luminaria",
-    "texto3": "lamp",
-    "texto4": "lamps",
-    "texto5": "Please turn on the lamp; it's getting dark.",
-    "texto6": "Por favor, enciende la lámpara; está oscureciendo."
-  },
-  {
-    "texto1": "Un dispositivo que contiene una fuente de luz, como una bombilla, y a menudo tiene una pantalla o cubierta.",
-    "texto2": "Lámpara / Bombilla (en algunos contextos)",
-    "texto3": "lamp",
-    "texto4": "lamps",
-    "texto5": "The old lamp in the living room needs a new bulb.",
-    "texto6": "La lámpara vieja de la sala necesita una bombilla nueva."
-  },
-  {
-    "texto1": "La parte de la superficie terrestre que no está cubierta por agua, en contraste con el mar o el aire.",
-    "texto2": "Tierra / Terreno / Suelo / Continente",
-    "texto3": "land",
-    "texto4": "lands",
-    "texto5": "The ship finally reached dry land after a long journey.",
-    "texto6": "El barco finalmente llegó a tierra firme después de un largo viaje."
-  },
-  {
-    "texto1": "Un país o región; un territorio nacional.",
-    "texto2": "País / Nación / Territorio / Patria",
-    "texto3": "land",
-    "texto4": "lands",
-    "texto5": "He returned to his native land after many years abroad.",
-    "texto6": "Regresó a su tierra natal después de muchos años en el extranjero."
-  },
-  {
-    "texto1": "Posarse o asentarse en una superficie después de volar o caer.",
-    "texto2": "Aterrizar / Posarse / Caer",
-    "texto3": "land",
-    "texto4": "landed / will land",
-    "texto5": "The plane landed smoothly on the runway.",
-    "texto6": "El avión aterrizó suavemente en la pista."
-  },
-  {
-    "texto1": "Obtener o conseguir algo, especialmente un trabajo o un gran éxito.",
-    "texto2": "Conseguir / Obtener / Lograr / Recibir",
-    "texto3": "land",
-    "texto4": "landed / will land",
-    "texto5": "She finally managed to land her dream job.",
-    "texto6": "Finalmente logró conseguir el trabajo de sus sueños."
-  },
-  {
-    "texto1": "Poner algo en un lugar específico, a menudo de forma abrupta.",
-    "texto2": "Poner / Colocar / Dejar caer",
-    "texto3": "land",
-    "texto4": "landed / will land",
-    "texto5": "He landed the book on the table with a thud.",
-    "texto6": "Dejó caer el libro sobre la mesa con un golpe seco."
-  },
-  {
-    "texto1": "Golpear las palmas de las manos una contra otra, generalmente para aplaudir, mostrar aprobación o llamar la atención.",
-    "texto2": "Aplaudir / Palmear / Batir palmas",
-    "texto3": "clap",
-    "texto4": "clapped / will clap",
-    "texto5": "The audience began to clap loudly after the performance.",
-    "texto6": "La audiencia comenzó a aplaudir ruidosamente después de la actuación."
-  },
-  {
-    "texto1": "El sonido o el acto de golpear las palmas de las manos.",
-    "texto2": "Aplaudo / Palmas / Palmada",
-    "texto3": "clap",
-    "texto4": "claps",
-    "texto5": "She gave a quick clap to get everyone's attention.",
-    "texto6": "Ella dio una palmada rápida para llamar la atención de todos."
-  },
-  {
-    "texto1": "Un golpe repentino y fuerte, a menudo con la mano abierta o con algo que hace ruido.",
-    "texto2": "Golpe / Azote / Trallazo",
-    "texto3": "clap",
-    "texto4": "claps",
-    "texto5": "The thunder was followed by a loud clap.",
-    "texto6": "El trueno fue seguido por un fuerte golpe."
-  },
-  {
-    "texto1": "Recortar o cortar algo, especialmente el cabello, las uñas o un trozo de papel.",
-    "texto2": "Recortar / Cortar / Podar / Tijeretear",
-    "texto3": "clip",
-    "texto4": "clipped / will clip",
-    "texto5": "She asked the hairdresser to clip her hair shorter.",
-    "texto6": "Le pidió a la peluquera que le cortara el pelo más corto."
-  },
-  {
-    "texto1": "Sujetar o unir cosas con un clip o un broche.",
-    "texto2": "Sujetar / Abrochar / Enganchar / Prender",
-    "texto3": "clip",
-    "texto4": "clipped / will clip",
-    "texto5": "Please clip these papers together.",
-    "texto6": "Por favor, sujeta estos papeles."
-  },
-  {
-    "texto1": "Un pequeño objeto, generalmente de metal o plástico, que se usa para sujetar cosas.",
-    "texto2": "Clip / Sujetapapeles / Gancho / Broche",
-    "texto3": "clip",
-    "texto4": "clips",
-    "texto5": "I need a paper clip for these documents.",
-    "texto6": "Necesito un clip para estos documentos."
-  },
-  {
-    "texto1": "Un fragmento corto de una película, un programa de televisión o una grabación de audio.",
-    "texto2": "Fragmento / Extracto / Clip / Corto",
-    "texto3": "clip",
-    "texto4": "clips",
-    "texto5": "They showed a short clip from the new movie.",
-    "texto6": "Mostraron un fragmento corto de la nueva película."
-  },
-  {
-    "texto1": "La velocidad o el ritmo de algo, especialmente al correr.",
-    "texto2": "Paso / Ritmo / Velocidad",
-    "texto3": "clip",
-    "texto4": "clips",
-    "texto5": "He walked at a quick clip to get to his appointment.",
-    "texto6": "Caminó a paso rápido para llegar a su cita."
-  },
-  {
-    "texto1": "Sentir placer, alegría o satisfacción por algo.",
-    "texto2": "Contento / Alegre / Satisfecho / Complacido",
-    "texto3": "glad",
-    "texto4": "gladder / gladdest",
-    "texto5": "I'm so glad you could make it to the party.",
-    "texto6": "Estoy tan contento de que pudieras venir a la fiesta."
-  },
-  {
-    "texto1": "Que causa alegría o satisfacción.",
-    "texto2": "Grato / Agradable / Placentero / Bien recibido",
-    "texto3": "glad",
-    "texto4": "gladder / gladdest",
-    "texto5": "It was a glad moment when we finally arrived.",
-    "texto6": "Fue un momento grato cuando finalmente llegamos."
-  },
-  {
-    "texto1": "Alegrarse o regocijarse por algo.",
-    "texto2": "Alegrarse / Regocijarse / Contentarse",
-    "texto3": "glad",
-    "texto4": "gladdened / will gladden",
-    "texto5": "The good news gladdened her heart.",
-    "texto6": "Las buenas noticias le alegraron el corazón."
-  },
-  {
-    "texto1": "De mala calidad o inferior; que no cumple con los estándares esperados.",
-    "texto2": "Malo / Deficiente / Pésimo / Inferior",
-    "texto3": "bad",
-    "texto4": "worse / worst",
-    "texto5": "The food at that restaurant was really bad.",
-    "texto6": "La comida de ese restaurante era realmente mala."
-  },
-  {
-    "texto1": "Que es perjudicial o nocivo para la salud, el bienestar o una situación.",
-    "texto2": "Nocivo / Perjudicial / Dañino / Malo",
-    "texto3": "bad",
-    "texto4": "worse / worst",
-    "texto5": "Smoking is bad for your health.",
-    "texto6": "Fumar es malo para tu salud."
-  },
-  {
-    "texto1": "Que se comporta de manera incorrecta, inmoral o traviesa.",
-    "texto2": "Malo / Travieso / Malvado / Inmoral",
-    "texto3": "bad",
-    "texto4": "worse / worst",
-    "texto5": "He was a bad boy, always causing trouble.",
-    "texto6": "Era un niño malo, siempre causando problemas."
-  },
-  {
-    "texto1": "Sentirse mal o arrepentido por algo.",
-    "texto2": "Sentirse culpable / Sentirse arrepentido / Estar mal",
-    "texto3": "bad",
-    "texto4": "worse / worst",
-    "texto5": "I feel bad for forgetting her birthday.",
-    "texto6": "Me siento mal por olvidar su cumpleaños."
-  },
-  {
-    "texto1": "Grave o serio; de gran magnitud.",
-    "texto2": "Grave / Serio / Severo / Fuerte",
-    "texto3": "bad",
-    "texto4": "worse / worst",
-    "texto5": "He received some very bad news.",
-    "texto6": "Recibió muy malas noticias."
-  },
-  {
-    "texto1": "Emitir una luz suave y constante sin llamas o calor intenso.",
-    "texto2": "Resplandecer / Brillar / Irradiar / Relucir",
-    "texto3": "glow",
-    "texto4": "glowed / will glow",
-    "texto5": "The embers in the fireplace glowed in the dark.",
-    "texto6": "Las brasas en la chimenea resplandecían en la oscuridad."
-  },
-  {
-    "texto1": "Sentir una sensación de calor o rubor, a menudo por emoción o esfuerzo físico.",
-    "texto2": "Enrojecerse / Arder (la cara) / Estar radiante / Sentir calor",
-    "texto3": "glow",
-    "texto4": "glowed / will glow",
-    "texto5": "Her cheeks began to glow with embarrassment.",
-    "texto6": "Sus mejillas comenzaron a enrojecerse de vergüenza."
-  },
-  {
-    "texto1": "Una luz suave y constante o un brillo cálido.",
-    "texto2": "Resplandor / Brillo / Fulgor / Luminosidad",
-    "texto3": "glow",
-    "texto4": "glows",
-    "texto5": "The soft glow of the candles created a romantic atmosphere.",
-    "texto6": "El suave resplandor de las velas creó una atmósfera romántica."
-  },
-  {
-    "texto1": "Una sensación de bienestar, calidez o satisfacción intensa.",
-    "texto2": "Euforia / Satisfacción / Deleite / Bienestar",
-    "texto3": "glow",
-    "texto4": "glows",
-    "texto5": "She felt a warm glow of pride after finishing the project.",
-    "texto6": "Sintió una cálida euforia de orgullo después de terminar el proyecto."
-  },
-  {
-    "texto1": "Emitir o reflejar luz; brillar intensamente.",
-    "texto2": "Brillar / Resplandecer / Relucir / Destellar",
-    "texto3": "shine",
-    "texto4": "shone / shined / will shine",
-    "texto5": "The sun will shine tomorrow.",
-    "texto6": "El sol brillará mañana."
-  },
-  {
-    "texto1": "Dirigir una luz hacia algo o a algún lugar.",
-    "texto2": "Iluminar / Alumbrar / Enfocar (luz)",
-    "texto3": "shine",
-    "texto4": "shone / shined / will shine",
-    "texto5": "Shine the flashlight into the dark corner.",
-    "texto6": "Alumbra con la linterna en la esquina oscura."
-  },
   {
-    "texto1": "Destacar o sobresalir por una cualidad o habilidad.",
-    "texto2": "Sobresalir / Destacar / Brillar / Lucirse",
-    "texto3": "shine",
-    "texto4": "shone / shined / will shine",
-    "texto5": "She really shone in her performance.",
-    "texto6": "Ella realmente brilló en su actuación."
+    "texto1": "Prometer o afirmar solemnemente algo, a menudo bajo juramento.",
+    "texto2": "Jurar / Prometer solemnemente / Asegurar bajo juramento",
+    "texto3": "swear",
+    "texto4": "swore / will swear",
+    "texto5": "I swear to tell the truth, the whole truth, and nothing but the truth.",
+    "texto6": "Juro decir la verdad, toda la verdad y nada más que la verdad."
   },
   {
-    "texto1": "Un brillo, resplandor o lustre, especialmente en una superficie pulida.",
-    "texto2": "Brillo / Lustre / Resplandor / Relucir",
-    "texto3": "shine",
-    "texto4": "shines",
-    "texto5": "The car had a beautiful shine after being washed.",
-    "texto6": "El coche tenía un brillo hermoso después de ser lavado."
+    "texto1": "Usar lenguaje ofensivo, obsceno o blasfemo.",
+    "texto2": "Decir palabrotas / Maldecir / Blasfemar",
+    "texto3": "swear",
+    "texto4": "swore / will swear",
+    "texto5": "He gets angry and starts to swear.",
+    "texto6": "Se enfada y empieza a decir palabrotas."
   },
   {
-    "texto1": "Un distintivo o emblema que se usa para indicar un rango, membresía, un logro o un propósito.",
-    "texto2": "Insignia / Distintivo / Escudo / Placa",
-    "texto3": "badge",
-    "texto4": "badges",
-    "texto5": "He proudly wore his police badge.",
-    "texto6": "Él llevaba con orgullo su insignia de policía."
+    "texto1": "Un lenguaje ofensivo u obsceno.",
+    "texto2": "Palabrotas / Juramentos / Malas palabras",
+    "texto3": "swear",
+    "texto4": "swears / will swear",
+    "texto5": "I don't like it when you use so much swear.",
+    "texto6": "No me gusta cuando usas tantas palabrotas."
   },
   {
-    "texto1": "Una señal o característica que es indicativa de algo.",
-    "texto2": "Señal / Símbolo / Marca / Indicio",
-    "texto3": "badge",
-    "texto4": "badges",
-    "texto5": "His honesty is a badge of his character.",
-    "texto6": "Su honestidad es una señal de su carácter."
+    "texto1": "Ser puntual, llegar a tiempo.",
+    "texto2": "Puntual / A tiempo / Exacto",
+    "texto3": "punctual",
+    "texto4": "was punctual / will be punctual",
+    "texto5": "It is important to be punctual for a job interview.",
+    "texto6": "Es importante ser puntual para una entrevista de trabajo."
   },
   {
-    "texto1": "Marcar o designar a alguien con un distintivo o símbolo.",
-    "texto2": "Distinguir / Marcar / Etiquetar / Identificar",
-    "texto3": "badge",
-    "texto4": "badged / will badge",
-    "texto5": "He was badged as the leader of the team.",
-    "texto6": "Fue distinguido como el líder del equipo."
+    "texto1": "Una obligación moral o legal.",
+    "texto2": "Deber / Obligación / Responsabilidad",
+    "texto3": "duty",
+    "texto4": "duties / will be a duty",
+    "texto5": "It is our duty to protect the environment.",
+    "texto6": "Es nuestro deber proteger el medio ambiente."
   },
   {
-    "texto1": "Un grupo de personas o cosas consideradas juntas.",
-    "texto2": "Lote / Grupo / Tanda / Partida",
-    "texto3": "batch",
-    "texto4": "batches",
-    "texto5": "This is the first batch of cookies I've baked today.",
-    "texto6": "Esta es la primera tanda de galletas que horneo hoy."
+    "texto1": "Un trabajo o tarea que se debe realizar como parte de un empleo o función.",
+    "texto2": "Tarea / Función / Servicio",
+    "texto3": "duty",
+    "texto4": "duties / will be on duty",
+    "texto5": "The police officer was on duty all night.",
+    "texto6": "El oficial de policía estuvo de servicio toda la noche."
   },
   {
-    "texto1": "La cantidad de un material o producto que se prepara o procesa de una sola vez.",
-    "texto2": "Lote / Partida / Carga / Hornada",
-    "texto3": "batch",
-    "texto4": "batches",
-    "texto5": "We produced a large batch of chemicals this morning.",
-    "texto6": "Producimos un gran lote de productos químicos esta mañana."
+    "texto1": "Un impuesto sobre ciertos productos, especialmente los importados.",
+    "texto2": "Impuesto / Tasa / Arancel",
+    "texto3": "duty",
+    "texto4": "duties / will be a duty",
+    "texto5": "The government imposed a new duty on imported cars.",
+    "texto6": "El gobierno impuso un nuevo impuesto a los coches importados."
   },
   {
-    "texto1": "Procesar un grupo de tareas o datos de una sola vez en un sistema informático.",
-    "texto2": "Procesar por lotes / Agrupar / Ejecutar en lote",
-    "texto3": "batch",
-    "texto4": "batched / will batch",
-    "texto5": "The system can batch process thousands of transactions per second.",
-    "texto6": "El sistema puede procesar por lotes miles de transacciones por segundo."
+    "texto1": "Vapor que se forma cuando el agua hierve.",
+    "texto2": "Vapor / Vaho",
+    "texto3": "steam",
+    "texto4": "steamed / will steam",
+    "texto5": "The hot water created a lot of steam.",
+    "texto6": "El agua caliente creó mucho vapor."
+  },
+  {
+    "texto1": "Cocinar alimentos al vapor.",
+    "texto2": "Cocer al vapor / Cocinar al vapor",
+    "texto3": "steam",
+    "texto4": "steamed / will steam",
+    "texto5": "You can steam the vegetables for a healthier meal.",
+    "texto6": "Puedes cocer las verduras al vapor para una comida más sana."
+  },
+  {
+    "texto1": "Moverse rápidamente, a menudo con una sensación de enojo o urgencia.",
+    "texto2": "Ir a toda prisa / Ir enfadado",
+    "texto3": "steam",
+    "texto4": "steamed / will steam",
+    "texto5": "He steamed out of the room after the argument.",
+    "texto6": "Salió de la habitación a toda prisa después de la discusión."
+  },
+  {
+    "texto1": "Máquina que transforma energía en movimiento o trabajo.",
+    "texto2": "Motor / Máquina / Impulsor",
+    "texto3": "motor",
+    "texto4": "motors / will be a motor",
+    "texto5": "The car's motor needs to be repaired.",
+    "texto6": "El motor del coche necesita ser reparado."
+  },
+  {
+    "texto1": "Relacionado con el movimiento muscular.",
+    "texto2": "Motor / Del movimiento",
+    "texto3": "motor",
+    "texto4": "motor skills / motor function",
+    "texto5": "A baby's motor skills develop over time.",
+    "texto6": "Las habilidades motoras de un bebé se desarrollan con el tiempo."
+  },
+  {
+    "texto1": "Moverse rápidamente, a menudo como un vehículo.",
+    "texto2": "Conducir / Ir en coche",
+    "texto3": "motor",
+    "texto4": "motored / will motor",
+    "texto5": "We motored along the highway all night.",
+    "texto6": "Condujimos por la autopista toda la noche."
+  },
+  {
+    "texto1": "Evaluar la naturaleza, calidad o habilidad de algo o alguien.",
+    "texto2": "Evaluar / Valorar / Medir / Tasar",
+    "texto3": "assess",
+    "texto4": "assessed / will assess",
+    "texto5": "The teacher will assess the students' progress at the end of the semester.",
+    "texto6": "El profesor evaluará el progreso de los estudiantes al final del semestre."
+  },
+  {
+    "texto1": "Calcular la cantidad o el valor de algo, especialmente impuestos o multas.",
+    "texto2": "Calcular / Tasar / Imponer",
+    "texto3": "assess",
+    "texto4": "assessed / will assess",
+    "texto5": "The damage to the property was assessed at over $10,000.",
+    "texto6": "Los daños a la propiedad se tasaron en más de 10.000 dólares."
+  },
+  {
+    "texto1": "Un plato dulce que se sirve al final de una comida.",
+    "texto2": "Postre / Dulce",
+    "texto3": "dessert",
+    "texto4": "desserts / will be a dessert",
+    "texto5": "I would like to have some ice cream for dessert.",
+    "texto6": "Me gustaría tomar un helado de postre."
+  },
+  {
+    "texto1": "Una zona de tierra estéril o desolada con muy pocas precipitaciones y vegetación.",
+    "texto2": "Desierto / Páramo / Yermo",
+    "texto3": "desert /ˈdɛz.ɚt/",
+    "texto4": "deserts / will be a desert",
+    "texto5": "The Sahara Desert is the largest hot desert in the world.",
+    "texto6": "El desierto del Sáhara es el desierto cálido más grande del mundo."
+  },
+  {
+    "texto1": "Abandonar a una persona, lugar o causa en una situación difícil o de necesidad.",
+    "texto2": "Abandonar / Dejar / Desamparar",
+    "texto3": "desert /dɪˈzɝːt/",
+    "texto4": "deserted / will desert",
+    "texto5": "He deserted his family and left the country.",
+    "texto6": "Abandonó a su familia y se fue del país."
+  },
+  {
+    "texto1": "Abandonar un servicio militar sin permiso.",
+    "texto2": "Desertar / Fugarse / Huir",
+    "texto3": "desert /dɪˈzɝːt/",
+    "texto4": "deserted / will desert",
+    "texto5": "The soldier was punished for trying to desert his post.",
+    "texto6": "El soldado fue castigado por intentar desertar de su puesto."
+  },
+  {
+    "texto1": "Ser digno de algo, ya sea bueno o malo, debido a las acciones o cualidades de uno.",
+    "texto2": "Merecer / Ser digno de / Tener derecho a",
+    "texto3": "deserve",
+    "texto4": "deserved / will deserve",
+    "texto5": "After all her hard work, she deserves a long vacation.",
+    "texto6": "Después de todo su trabajo duro, se merece unas largas vacaciones."
   }
 ]
