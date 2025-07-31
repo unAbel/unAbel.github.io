@@ -1415,5 +1415,365 @@
     "texto4": "enhanced / will enhance",
     "texto5": "The company decided to enhance its reputation by investing in charity.",
     "texto6": "La empresa decidió realzar su reputación invirtiendo en caridad."
+  },
+  {
+    "texto1": "Una actividad que se realiza regularmente por placer y no por trabajo.",
+    "texto2": "Pasatiempo / Hábito / Afición",
+    "texto3": "pastime",
+    "texto4": "pastimes / will be a pastime",
+    "texto5": "Reading is my favorite pastime on weekends.",
+    "texto6": "Leer es mi pasatiempo favorito los fines de semana."
+  },
+  {
+    "texto1": "Una actividad que ayuda a pasar el tiempo de una manera agradable.",
+    "texto2": "Entretenimiento / Ocupación",
+    "texto3": "pastime",
+    "texto4": "pastimes / was a pastime",
+    "texto5": "Playing cards was a popular pastime in the old days.",
+    "texto6": "Jugar a las cartas era un pasatiempo popular en los viejos tiempos."
+  },
+  {
+    "texto1": "Un conjunto de cosas atadas o agrupadas.",
+    "texto2": "Paquete / Lío / Manojo",
+    "texto3": "bundle",
+    "texto4": "bundles / will be a bundle",
+    "texto5": "He carried a bundle of newspapers under his arm.",
+    "texto6": "Él llevaba un manojo de periódicos bajo el brazo."
+  },
+  {
+    "texto1": "Un paquete de bienes o servicios que se venden juntos.",
+    "texto2": "Paquete / Lote / Combinación",
+    "texto3": "bundle",
+    "texto4": "bundles / will be a bundle",
+    "texto5": "The new phone comes with a bundle of free apps.",
+    "texto6": "El nuevo teléfono viene con un paquete de aplicaciones gratuitas."
+  },
+  {
+    "texto1": "Atar o agrupar cosas.",
+    "texto2": "Atar / Agrupar / Empaquetar",
+    "texto3": "bundle",
+    "texto4": "bundled / will bundle",
+    "texto5": "She bundled up the clothes and put them in a box.",
+    "texto6": "Ella empaquetó la ropa y la puso en una caja."
+  },
+  {
+    "texto1": "Vestirse con ropa abrigada, a menudo para salir al frío.",
+    "texto2": "Abrigar / Envolverse / Arroparse",
+    "texto3": "bundle up",
+    "texto4": "bundled up / will bundle up",
+    "texto5": "You should bundle up before you go outside; it's freezing.",
+    "texto6": "Deberías abrigarte antes de salir; hace mucho frío."
+  },
+  {
+    "texto1": "Un grupo de cosas del mismo tipo, especialmente si están unidas o agrupadas.",
+    "texto2": "Manajo / Ramillete / Racimo",
+    "texto3": "bunch",
+    "texto4": "bunches / will be a bunch",
+    "texto5": "She bought a bunch of flowers for her mother.",
+    "texto6": "Ella compró un ramo de flores para su madre."
+  },
+  {
+    "texto1": "Una gran cantidad de personas o cosas.",
+    "texto2": "Montón / Lote / Cantidad",
+    "texto3": "bunch",
+    "texto4": "bunches / was a bunch",
+    "texto5": "I have a bunch of emails to answer this morning.",
+    "texto6": "Tengo un montón de correos electrónicos que responder esta mañana."
+  },
+  {
+    "texto1": "Un grupo de personas o amigos.",
+    "texto2": "Grupo / Banda / Pandilla",
+    "texto3": "bunch",
+    "texto4": "bunches / was a bunch",
+    "texto5": "We're going to the movies with the whole bunch tonight.",
+    "texto6": "Vamos al cine con toda la pandilla esta noche."
+  },
+  {
+    "texto1": "Reunir o agrupar cosas.",
+    "texto2": "Agrupar / Reunir / Hacer un manojo",
+    "texto3": "bunch",
+    "texto4": "bunched / will bunch",
+    "texto5": "He bunched the papers together and put them in a folder.",
+    "texto6": "Él agrupó los papeles y los puso en una carpeta."
+  },
+  {
+    "texto1": "Golpear algo o a alguien con el puño cerrado.",
+    "texto2": "Golpear / Pegar un puñetazo / Dar un puñetazo",
+    "texto3": "punch",
+    "texto4": "punched / will punch",
+    "texto5": "He was so angry he wanted to punch a wall.",
+    "texto6": "Estaba tan enfadado que quería golpear una pared."
+  },
+  {
+    "texto1": "Un golpe fuerte con el puño cerrado.",
+    "texto2": "Puñetazo / Golpe / Trancazo",
+    "texto3": "punch",
+    "texto4": "punches / was a punch",
+    "texto5": "He dodged the punch and countered with his own.",
+    "texto6": "Él esquivó el puñetazo y contraatacó con el suyo."
+  },
+  {
+    "texto1": "Una bebida a base de frutas, a menudo con alcohol.",
+    "texto2": "Ponche / Bebida de frutas",
+    "texto3": "punch",
+    "texto4": "punches / will be a punch",
+    "texto5": "They served a delicious fruit punch at the party.",
+    "texto6": "Sirvieron un delicioso ponche de frutas en la fiesta."
+  },
+  {
+    "texto1": "Tener un impacto o un efecto fuerte e inmediato.",
+    "texto2": "Impactar / Afectar / Sorprender",
+    "texto3": "punch",
+    "texto4": "punched / will punch",
+    "texto5": "The documentary punches you in the gut with its powerful message.",
+    "texto6": "El documental te impacta con su poderoso mensaje."
+  },
+  {
+    "texto1": "La comida que se consume al mediodía.",
+    "texto2": "Almuerzo / Comida del mediodía",
+    "texto3": "lunch",
+    "texto4": "lunches / will have lunch",
+    "texto5": "What are you having for lunch today?",
+    "texto6": "¿Qué vas a almorzar hoy?"
+  },
+  {
+    "texto1": "El acto de comer el almuerzo.",
+    "texto2": "Almorzar / Comer",
+    "texto3": "lunch",
+    "texto4": "lunched / will lunch",
+    "texto5": "We lunched at a small cafe near the office.",
+    "texto6": "Almorzamos en un pequeño café cerca de la oficina."
+  },
+  {
+    "texto1": "Una comida que se toma a media mañana y que combina elementos del desayuno y el almuerzo.",
+    "texto2": "Almuerzayuno / Comida de media mañana",
+    "texto3": "brunch",
+    "texto4": "brunches / will have brunch",
+    "texto5": "Let's go for brunch on Sunday at that new cafe.",
+    "texto6": "Vamos a comer un 'brunch' el domingo en ese nuevo café."
+  },
+  {
+    "texto1": "El acto de comer un 'brunch'.",
+    "texto2": "Tomar un brunch / Almuerzayunar",
+    "texto3": "brunch",
+    "texto4": "brunched / will brunch",
+    "texto5": "We brunched with friends at a fancy restaurant last weekend.",
+    "texto6": "Tomamos un 'brunch' con amigos en un restaurante elegante el fin de semana pasado."
+  },
+  {
+    "texto1": "Elegir o seleccionar algo de un grupo.",
+    "texto2": "Elegir / Escoger / Seleccionar",
+    "texto3": "pick",
+    "texto4": "picked / will pick",
+    "texto5": "I can't decide which one to pick; they all look good.",
+    "texto6": "No puedo decidir cuál escoger; todos se ven bien."
+  },
+  {
+    "texto1": "Recoger frutas, verduras o flores de una planta.",
+    "texto2": "Recoger / Coger / Arrancar",
+    "texto3": "pick",
+    "texto4": "picked / will pick",
+    "texto5": "We went to the field to pick strawberries.",
+    "texto6": "Fuimos al campo a recoger fresas."
+  },
+  {
+    "texto1": "Una elección o selección de algo.",
+    "texto2": "Elección / Selección / Oportunidad",
+    "texto3": "pick",
+    "texto4": "picks / was a pick",
+    "texto5": "The new manager was a good pick for the team.",
+    "texto6": "El nuevo gerente fue una buena elección para el equipo."
+  },
+  {
+    "texto1": "Un plectro, que se usa para tocar un instrumento de cuerda como una guitarra.",
+    "texto2": "Púa / Plectro",
+    "texto3": "pick",
+    "texto4": "picks / will be a pick",
+    "texto5": "He played the song with a guitar pick.",
+    "texto6": "Él tocó la canción con una púa de guitarra."
+  },
+  {
+    "texto1": "Medir una gran distancia de un lado a otro.",
+    "texto2": "Ancho / Vasto / Amplio",
+    "texto3": "wide",
+    "texto4": "wider / will be wide",
+    "texto5": "The river is very wide at this point.",
+    "texto6": "El río es muy ancho en este punto."
+  },
+  {
+    "texto1": "Tener una gran amplitud o alcance.",
+    "texto2": "Amplio / Extenso / Grande",
+    "texto3": "wide",
+    "texto4": "wider / will be wide",
+    "texto5": "The store offers a wide variety of products.",
+    "texto6": "La tienda ofrece una amplia variedad de productos."
+  },
+  {
+    "texto1": "Completamente abierto o con gran distancia entre los lados.",
+    "texto2": "Abierto de par en par / Desmesurado / Ampliado",
+    "texto3": "wide",
+    "texto4": "wider / will be wide",
+    "texto5": "He opened his eyes wide in surprise.",
+    "texto6": "Abrió los ojos de par en par por la sorpresa."
+  },
+  {
+    "texto1": "Para referirse a un espacio que es largo en su extensión.",
+    "texto2": "Amplio / Lejos",
+    "texto3": "wide",
+    "texto4": "wide / far and wide",
+    "texto5": "The news spread far and wide.",
+    "texto6": "La noticia se extendió a lo largo y ancho."
+  },
+  {
+    "texto1": "A una distancia considerable de un objetivo o punto de referencia.",
+    "texto2": "Lejos / Fuera de lugar / Desviado",
+    "texto3": "wide",
+    "texto4": "wide of / went wide",
+    "texto5": "The shot was wide of the goal and missed completely.",
+    "texto6": "El tiro se desvió de la portería y falló por completo."
+  },
+  {
+    "texto1": "Un grupo de personas en general, a menudo de forma informal y amistosa.",
+    "texto2": "Gente / Amigos / Camaradas",
+    "texto3": "folks",
+    "texto4": "folks / my folks",
+    "texto5": "Hello, folks! How is everyone doing today?",
+    "texto6": "¡Hola, amigos! ¿Cómo están todos hoy?"
+  },
+  {
+    "texto1": "Los padres de alguien, o miembros de la familia en general.",
+    "texto2": "Padres / Familiares / Parientes",
+    "texto3": "folks",
+    "texto4": "folks / my folks",
+    "texto5": "I'm going home to visit my folks this weekend.",
+    "texto6": "Voy a casa a visitar a mis padres este fin de semana."
+  },
+  {
+    "texto1": "Un grupo de personas que comparten una cultura, un origen o una identidad.",
+    "texto2": "Gente / Pueblo / Compatriotas",
+    "texto3": "folks",
+    "texto4": "folks / our folks",
+    "texto5": "The folk music of these folks is very unique.",
+    "texto6": "La música folclórica de esta gente es muy única."
+  },
+  {
+    "texto1": "Ofrecer bienes o servicios a un precio más bajo que la competencia.",
+    "texto2": "Minar los precios / Rebajar los precios",
+    "texto3": "undercut",
+    "texto4": "undercut / will undercut",
+    "texto5": "The new store is undercutting its rivals by selling products at a lower price.",
+    "texto6": "La nueva tienda está rebajando los precios de sus rivales vendiendo productos a un precio más bajo."
+  },
+  {
+    "texto1": "Debilitar o socavar la posición, la autoridad o la reputación de alguien.",
+    "texto2": "Socavar / Debilitar / Menoscabar",
+    "texto3": "undercut",
+    "texto4": "undercut / will undercut",
+    "texto5": "His constant criticism undercut the manager's authority.",
+    "texto6": "Sus constantes críticas debilitaron la autoridad del gerente."
+  },
+  {
+    "texto1": "Un corte de pelo en el que la parte superior del cabello es larga y los lados y la parte posterior son muy cortos.",
+    "texto2": "Corte 'undercut' / Corte por debajo",
+    "texto3": "undercut",
+    "texto4": "undercuts / was an undercut",
+    "texto5": "She got a stylish undercut to show off her new ear piercings.",
+    "texto6": "Ella se hizo un elegante corte 'undercut' para lucir sus nuevos piercings en la oreja."
+  },
+  {
+    "texto1": "En tenis, un golpe que produce un efecto de rotación inversa en la bola.",
+    "texto2": "Golpe con efecto 'slice'",
+    "texto3": "undercut",
+    "texto4": "undercuts / will undercut",
+    "texto5": "He used an undercut shot to make the ball bounce low.",
+    "texto6": "Él usó un golpe con efecto 'slice' para hacer que la bola rebotara bajo."
+  },
+  {
+    "texto1": "Tener un comportamiento o personalidad inusual, peculiar o excéntrica.",
+    "texto2": "Peculiar / Excéntrico / Extravagante",
+    "texto3": "quirky",
+    "texto4": "quirkier / will be quirky",
+    "texto5": "She has a quirky sense of humor that I really enjoy.",
+    "texto6": "Ella tiene un sentido del humor peculiar que realmente disfruto."
+  },
+  {
+    "texto1": "Poseer un estilo, diseño o apariencia poco convencional y original.",
+    "texto2": "Original / Raro / Extraño",
+    "texto3": "quirky",
+    "texto4": "quirkier / will be quirky",
+    "texto5": "The cafe was decorated in a quirky, vintage style.",
+    "texto6": "El café estaba decorado con un estilo peculiar y vintage."
+  },
+  {
+    "texto1": "Un pequeño pago extra por un servicio que se da a un camarero, taxista, etc.",
+    "texto2": "Propina / Bono / Gratuidad",
+    "texto3": "tip",
+    "texto4": "tips / will give a tip",
+    "texto5": "I left a generous tip for the waiter because the service was excellent.",
+    "texto6": "Dejé una propina generosa al camarero porque el servicio fue excelente."
+  },
+  {
+    "texto1": "La punta o el extremo de algo.",
+    "texto2": "Punta / Extremo / Cima",
+    "texto3": "tip",
+    "texto4": "tips / was the tip",
+    "texto5": "He stood on the tips of his toes to reach the book on the top shelf.",
+    "texto6": "Se puso de puntillas para alcanzar el libro del estante superior."
+  },
+  {
+    "texto1": "Un consejo útil o una sugerencia.",
+    "texto2": "Consejo / Sugerencia / Pista",
+    "texto3": "tip",
+    "texto4": "tips / will give a tip",
+    "texto5": "She gave me a great tip for cooking a perfect steak.",
+    "texto6": "Ella me dio un gran consejo para cocinar un filete perfecto."
+  },
+  {
+    "texto1": "Inclinar algo para que un lado esté más alto que el otro.",
+    "texto2": "Inclinar / Ladear / Volcar",
+    "texto3": "tip",
+    "texto4": "tipped / will tip",
+    "texto5": "Be careful not to tip the glass, or the water will spill.",
+    "texto6": "Ten cuidado de no inclinar el vaso, o el agua se derramará."
+  },
+  {
+    "texto1": "Dar un pequeño pago extra por un servicio.",
+    "texto2": "Dar propina / Propinar",
+    "texto3": "tip",
+    "texto4": "tipped / will tip",
+    "texto5": "We tipped the bellhop for carrying our bags to the room.",
+    "texto6": "Le dimos una propina al botones por llevar nuestras maletas a la habitación."
+  },
+  {
+    "texto1": "Un sentimiento de profunda tristeza, especialmente por la pérdida de alguien o algo.",
+    "texto2": "Dolor / Pena / Tristeza",
+    "texto3": "sorrow",
+    "texto4": "sorrows / will feel sorrow",
+    "texto5": "He expressed his sorrow at the death of his friend.",
+    "texto6": "Él expresó su dolor por la muerte de su amigo."
+  },
+  {
+    "texto1": "Lamentar o estar afligido por algo.",
+    "texto2": "Lamentar / Afligirse / Sentir pena",
+    "texto3": "sorrow",
+    "texto4": "sorrowed / will sorrow",
+    "texto5": "She sorrowed over the lost opportunity.",
+    "texto6": "Ella se afligió por la oportunidad perdida."
+  },
+  {
+    "texto1": "Tomar prestado algo de alguien con la intención de devolverlo más tarde.",
+    "texto2": "Pedir prestado / Tomar prestado / Recibir un préstamo",
+    "texto3": "borrow",
+    "texto4": "borrowed / will borrow",
+    "texto5": "Can I borrow your pen for a moment?",
+    "texto6": "¿Puedo tomar prestada tu pluma un momento?"
+  },
+  {
+    "texto1": "Adoptar una idea, palabra o estilo de otra fuente o cultura.",
+    "texto2": "Tomar prestado / Adoptar / Incorporar",
+    "texto3": "borrow",
+    "texto4": "borrowed / will borrow",
+    "texto5": "English has borrowed many words from other languages, like 'garage' from French.",
+    "texto6": "El inglés ha tomado prestadas muchas palabras de otros idiomas, como 'garage' del francés."
   }
 ]
