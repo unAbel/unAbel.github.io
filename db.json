@@ -478,5 +478,933 @@
     "texto4": "freer / will be free",
     "texto5": "Buy one pizza and get another one free with this coupon.",
     "texto6": "¡Compra una pizza y llévate otra gratis con este cupón!"
+  },
+  {
+    "texto1": "Estar o colocar algo suspendido desde arriba sin tocar el suelo o una superficie.",
+    "texto2": "Colgar / Pender",
+    "texto3": "hang /hæŋ/",
+    "texto4": "hung / will hang",
+    "texto5": "Please hang your coat on the hook by the door.",
+    "texto6": "Por favor, cuelga tu abrigo en el gancho de la puerta."
+  },
+  {
+    "texto1": "Suspender a una persona por el cuello como forma de ejecución (histórico).",
+    "texto2": "Ahorcar",
+    "texto3": "hang /hæŋ/",
+    "texto4": "hanged / will hang",
+    "texto5": "In the past, criminals were sometimes condemned to be hanged for their crimes.",
+    "texto6": "En el pasado, los criminales a veces eran condenados a ser ahorcados por sus crímenes."
+  },
+  {
+    "texto1": "Mantenerse en el aire o permanecer suspendido (ej. humo, niebla).",
+    "texto2": "Flotar / Quedarse (en el aire)",
+    "texto3": "hang /hæŋ/",
+    "texto4": "hung / will hang",
+    "texto5": "A thick mist began to hang over the valley as the sun set.",
+    "texto6": "Una densa niebla comenzó a quedarse sobre el valle al ponerse el sol."
+  },
+  {
+    "texto1": "Decorar o cubrir paredes con cuadros, tapices, etc.",
+    "texto2": "Colgar (cuadros) / Tapizar",
+    "texto3": "hang /hæŋ/",
+    "texto4": "hung / will hang",
+    "texto5": "They decided to hang new curtains in the living room for the spring.",
+    "texto6": "Decidieron colgar cortinas nuevas en la sala para la primavera."
+  },
+  {
+    "texto1": "Cuando una prenda de vestir cae o se ajusta de cierta manera.",
+    "texto2": "Caer / Ajustar (prenda)",
+    "texto3": "hang /hæŋ/",
+    "texto4": "hung / will hang",
+    "texto5": "The dress doesn't hang well on me, it's a bit too big.",
+    "texto6": "El vestido no me sienta bien, es un poco demasiado grande."
+  },
+  {
+    "texto1": "Reparar o arreglar algo que está roto o dañado.",
+    "texto2": "Reparar / Arreglar",
+    "texto3": "fix /fɪks/",
+    "texto4": "fixed / will fix",
+    "texto5": "Can you fix my broken bicycle before the weekend?",
+    "texto6": "¿Puedes reparar mi bicicleta rota antes del fin de semana?"
+  },
+  {
+    "texto1": "Preparar comida o bebida.",
+    "texto2": "Preparar (comida)",
+    "texto3": "fix /fɪks/",
+    "texto4": "fixed / will fix",
+    "texto5": "I need to fix some breakfast before I leave for work.",
+    "texto6": "Necesito preparar el desayuno antes de irme a trabajar."
+  },
+  {
+    "texto1": "Establecer o determinar algo de forma permanente o segura.",
+    "texto2": "Fijar / Establecer",
+    "texto3": "fix /fɪks/",
+    "texto4": "fixed / will fix",
+    "texto5": "Let's fix a date for our next meeting so we can all be there.",
+    "texto6": "Fijemos una fecha para nuestra próxima reunión para que todos podamos estar allí."
+  },
+  {
+    "texto1": "Dirigir la mirada o la atención de forma constante a algo o alguien.",
+    "texto2": "Fijar (la mirada)",
+    "texto3": "fix /fɪks/",
+    "texto4": "fixed / will fix",
+    "texto5": "She fixed her eyes on the distant horizon, lost in thought.",
+    "texto6": "Ella fijó su mirada en el horizonte distante, perdida en sus pensamientos."
+  },
+  {
+    "texto1": "Una dosis de una droga adictiva (sustantivo, informal).",
+    "texto2": "Dosis / Dosis de droga",
+    "texto3": "fix /fɪks/",
+    "texto4": "fixes / will be a fix",
+    "texto5": "He was desperate for his daily fix after a long day.",
+    "texto6": "Estaba desesperado por su dosis diaria después de un largo día."
+  },
+  {
+    "texto1": "Pronunciar el nombre de alguien o algo para atraer su atención o indicar su presencia.",
+    "texto2": "Llamar / Nombrar",
+    "texto3": "call /kɔːl/",
+    "texto4": "called / will call",
+    "texto5": "Could you please call my name when it's my turn?",
+    "texto6": "¿Podrías por favor decir mi nombre cuando sea mi turno?"
+  },
+  {
+    "texto1": "Intentar comunicarse con alguien por teléfono.",
+    "texto2": "Llamar por teléfono",
+    "texto3": "call /kɔːl/",
+    "texto4": "called / will call",
+    "texto5": "I need to call my mom after work to tell her about my day.",
+    "texto6": "Necesito llamar a mi mamá después del trabajo para contarle sobre mi día."
+  },
+  {
+    "texto1": "Designar o referirse a algo o alguien con un nombre particular.",
+    "texto2": "Llamar / Denominar",
+    "texto3": "call /kɔːl/",
+    "texto4": "called / will call",
+    "texto5": "They call him 'the professor' because he knows so much about history.",
+    "texto6": "Lo llaman 'el profesor' porque sabe mucho de historia."
+  },
+  {
+    "texto1": "Visitar brevemente un lugar o a alguien.",
+    "texto2": "Visitar (brevemente)",
+    "texto3": "call /kɔːl/",
+    "texto4": "called / will call",
+    "texto5": "I'll call on you later this evening to see how you are.",
+    "texto6": "Te visitaré más tarde esta noche para ver cómo estás."
+  },
+  {
+    "texto1": "Considerar o describir algo de una manera particular.",
+    "texto2": "Considerar / Describir",
+    "texto3": "call /kɔːl/",
+    "texto4": "called / will call",
+    "texto5": "It's difficult to call that a victory after we lost half our team.",
+    "texto6": "Es difícil considerar eso una victoria después de que perdimos a la mitad de nuestro equipo."
+  },
+  {
+    "texto1": "Solicitar la presencia de alguien o pedirle que venga.",
+    "texto2": "Convocar / Llamar (a alguien)",
+    "texto3": "call /kɔːl/",
+    "texto4": "called / will call",
+    "texto5": "The manager decided to call a meeting to discuss the new project.",
+    "texto6": "El gerente decidió convocar una reunión para discutir el nuevo proyecto."
+  },
+  {
+    "texto1": "Una breve visita (sustantivo).",
+    "texto2": "Visita (corta)",
+    "texto3": "call /kɔːl/",
+    "texto4": "calls / will be a call",
+    "texto5": "I paid a quick call to my aunt while I was in the neighborhood.",
+    "texto6": "Le hice una visita rápida a mi tía mientras estaba en el vecindario."
+  },
+  {
+    "texto1": "Un ruido o sonido que se usa para llamar la atención (sustantivo).",
+    "texto2": "Llamada / Grito",
+    "texto3": "call /kɔːl/",
+    "texto4": "calls / will be a call",
+    "texto5": "We heard the call of a strange bird in the forest last night.",
+    "texto6": "Escuchamos el grito de un pájaro extraño en el bosque anoche."
+  },
+  {
+    "texto1": "Permitir que algo sea visto; presentar o hacer visible.",
+    "texto2": "Mostrar / Enseñar",
+    "texto3": "show /ʃoʊ/",
+    "texto4": "showed / will show",
+    "texto5": "Can you show me how to use this new app on my phone?",
+    "texto6": "¿Puedes enseñarme cómo usar esta nueva aplicación en mi teléfono?"
+  },
+  {
+    "texto1": "Exhibir algo en público, como una obra de arte o un producto.",
+    "texto2": "Exhibir / Exponer",
+    "texto3": "show /ʃoʊ/",
+    "texto4": "showed / will show",
+    "texto5": "The gallery will show her latest paintings next month for the public.",
+    "texto6": "La galería exhibirá sus últimas pinturas el próximo mes para el público."
+  },
+  {
+    "texto1": "Demostrar una cualidad, habilidad o sentimiento.",
+    "texto2": "Demostrar / Revelar",
+    "texto3": "show /ʃoʊ/",
+    "texto4": "showed / will show",
+    "texto5": "Her actions show great courage and determination in difficult times.",
+    "texto6": "Sus acciones demuestran un gran valor y determinación en tiempos difíciles."
+  },
+  {
+    "texto1": "Indicar o señalar algo con un gesto o dirección.",
+    "texto2": "Indicar / Señalar",
+    "texto3": "show /ʃoʊ/",
+    "texto4": "showed / will show",
+    "texto5": "The map will show you the way to the station from here.",
+    "texto6": "El mapa te indicará el camino a la estación desde aquí."
+  },
+  {
+    "texto1": "Un espectáculo, una obra de teatro, una película o un programa de televisión (sustantivo).",
+    "texto2": "Espectáculo / Programa",
+    "texto3": "show /ʃoʊ/",
+    "texto4": "shows / will be a show",
+    "texto5": "We went to see a fantastic magic show last night with my family.",
+    "texto6": "Fuimos a ver un fantástico espectáculo de magia anoche con mi familia."
+  },
+  {
+    "texto1": "Una feria o exhibición donde se presentan productos o animales (sustantivo).",
+    "texto2": "Feria / Exhibición",
+    "texto3": "show /ʃoʊ/",
+    "texto4": "shows / will be a show",
+    "texto5": "Are you going to the car show this weekend? They have a new model.",
+    "texto6": "¿Vas a la exhibición de autos este fin de semana? Tienen un modelo nuevo."
+  },
+  {
+    "texto1": "Separado o a distancia; no juntos en el espacio o el tiempo.",
+    "texto2": "Separado / Aparte",
+    "texto3": "apart /əˈpɑːrt/",
+    "texto4": "further apart / will be apart",
+    "texto5": "The two houses are quite far apart from each other.",
+    "texto6": "Las dos casas están bastante separadas la una de la otra."
+  },
+  {
+    "texto1": "En pedazos o desintegrado; roto en partes.",
+    "texto2": "En pedazos / Desarmado",
+    "texto3": "apart /əˈpɑːrt/",
+    "texto4": "fell apart / will fall apart",
+    "texto5": "The old machine fell apart when he tried to move it.",
+    "texto6": "La vieja máquina se desarmó cuando intentó moverla."
+  },
+  {
+    "texto1": "Excepto o con la excepción de (generalmente en la frase 'apart from').",
+    "texto2": "Aparte de / Excepto",
+    "texto3": "apart /əˈpɑːrt/",
+    "texto4": "apart from / will be apart from",
+    "texto5": "Everything went well, apart from a small delay at the beginning.",
+    "texto6": "Todo salió bien, aparte de un pequeño retraso al principio."
+  },
+  {
+    "texto1": "De manera individual o distinta; con distinción de los demás.",
+    "texto2": "Individualmente / Distintamente",
+    "texto3": "apart /əˈpɑːrt/",
+    "texto4": "stands apart / will stand apart",
+    "texto5": "He stands apart from the others because of his unique talent.",
+    "texto6": "Se distingue de los demás por su talento único."
+  },
+  {
+    "texto1": "Desglosar o analizar algo en sus componentes individuales (ej. 'pull apart', 'take apart').",
+    "texto2": "Desglosar / Desarmar",
+    "texto3": "apart /əˈpɑːrt/",
+    "texto4": "took apart / will take apart",
+    "texto5": "We need to take this engine apart to find the problem.",
+    "texto6": "Necesitamos desarmar este motor para encontrar el problema."
+  },
+  {
+    "texto1": "Atribuir la responsabilidad de un error o algo negativo a alguien o algo.",
+    "texto2": "Culpar / Echar la culpa",
+    "texto3": "blame /bleɪm/",
+    "texto4": "blamed / will blame",
+    "texto5": "Don't blame me for your mistakes; you are responsible for your own actions.",
+    "texto6": "No me culpes por tus errores; eres responsable de tus propias acciones."
+  },
+  {
+    "texto1": "La responsabilidad de un error o de algo malo (sustantivo).",
+    "texto2": "Culpa / Responsabilidad",
+    "texto3": "blame /bleɪm/",
+    "texto4": "blames / will be the blame",
+    "texto5": "The manager took all the blame for the failed project, even though it wasn't his fault.",
+    "texto6": "El gerente asumió toda la culpa por el proyecto fallido, a pesar de que no fue su culpa."
+  },
+  {
+    "texto1": "Sentir o expresar que algo o alguien tiene la culpa (generalmente en 'be to blame').",
+    "texto2": "Tener la culpa / Ser culpable",
+    "texto3": "blame /bleɪm/",
+    "texto4": "was to blame / will be to blame",
+    "texto5": "He was to blame for the accident because he was driving too fast.",
+    "texto6": "Él tuvo la culpa del accidente porque estaba conduciendo demasiado rápido."
+  },
+  {
+    "texto1": "Reprochar o censurar a alguien por algo (menos común que 'culpar').",
+    "texto2": "Reprochar / Censurar",
+    "texto3": "blame /bleɪm/",
+    "texto4": "blamed / will blame",
+    "texto5": "You can't blame him for trying to do his best, even if he failed.",
+    "texto6": "No puedes reprocharle que intentara dar lo mejor de sí, incluso si fracasó."
+  },
+  {
+    "texto1": "Dirigir los ojos hacia algo o alguien para ver.",
+    "texto2": "Mirar / Ver",
+    "texto3": "look /lʊk/",
+    "texto4": "looked / will look",
+    "texto5": "Please look at me when I'm talking to you so you can understand.",
+    "texto6": "Por favor, mírame cuando te esté hablando para que puedas entender."
+  },
+  {
+    "texto1": "Parecer o tener una apariencia determinada.",
+    "texto2": "Parecer / Verse",
+    "texto3": "look /lʊk/",
+    "texto4": "looked / will look",
+    "texto5": "You look very tired today; you should rest.",
+    "texto6": "Hoy pareces muy cansado; deberías descansar."
+  },
+  {
+    "texto1": "Buscar algo o a alguien.",
+    "texto2": "Buscar",
+    "texto3": "look for /lʊk fɔːr/",
+    "texto4": "looked for / will look for",
+    "texto5": "I need to look for my lost keys before I go out.",
+    "texto6": "Necesito buscar mis llaves perdidas antes de salir."
+  },
+  {
+    "texto1": "Una mirada o una expresión visual (sustantivo).",
+    "texto2": "Mirada / Aspecto",
+    "texto3": "look /lʊk/",
+    "texto4": "looks / will be a look",
+    "texto5": "She gave me a strange look after I told her the news.",
+    "texto6": "Ella me dio una mirada extraña después de que le di la noticia."
+  },
+  {
+    "texto1": "Investigar o examinar algo cuidadosamente.",
+    "texto2": "Investigar / Examinar",
+    "texto3": "look into /lʊk ˈɪntuː/",
+    "texto4": "looked into / will look into",
+    "texto5": "The police will look into the matter and decide what to do next.",
+    "texto6": "La policía investigará el asunto y decidirá qué hacer a continuación."
+  },
+  {
+    "texto1": "Volver los ojos en una dirección específica.",
+    "texto2": "Mirar hacia",
+    "texto3": "look out /lʊk aʊt/",
+    "texto4": "looked out / will look out",
+    "texto5": "He looked out the window at the snow falling softly.",
+    "texto6": "Miró por la ventana la nieve cayendo suavemente."
+  },
+  {
+    "texto1": "Tomar o coger algo rápidamente o con fuerza.",
+    "texto2": "Agarrar / Coger",
+    "texto3": "grab /ɡræb/",
+    "texto4": "grabbed / will grab",
+    "texto5": "He tried to grab the falling vase before it hit the floor.",
+    "texto6": "Él intentó agarrar el jarrón que se caía antes de que tocara el suelo."
+  },
+  {
+    "texto1": "Aprovechar una oportunidad rápidamente.",
+    "texto2": "Aprovechar / Agarrar (oportunidad)",
+    "texto3": "grab /ɡræb/",
+    "texto4": "grabbed / will grab",
+    "texto5": "You should grab this chance for a promotion while you can.",
+    "texto6": "Deberías aprovechar esta oportunidad para un ascenso mientras puedas."
+  },
+  {
+    "texto1": "Comer o beber algo rápidamente.",
+    "texto2": "Comer/Beber (rápidamente)",
+    "texto3": "grab /ɡræb/",
+    "texto4": "grabbed / will grab",
+    "texto5": "Let's grab a quick bite to eat before the movie starts.",
+    "texto6": "Vamos a comer algo rápido antes de que empiece la película."
+  },
+  {
+    "texto1": "Obtener la atención de alguien rápidamente.",
+    "texto2": "Captar (atención)",
+    "texto3": "grab /ɡræb/",
+    "texto4": "grabbed / will grab",
+    "texto5": "The headline immediately grabbed my attention because it was so interesting.",
+    "texto6": "El titular captó inmediatamente mi atención porque era muy interesante."
+  },
+  {
+    "texto1": "Tomar posesión de algo, a menudo de forma ilícita o agresiva.",
+    "texto2": "Arrebatar / Aferrarse a",
+    "texto3": "grab /ɡræb/",
+    "texto4": "grabbed / will grab",
+    "texto5": "The thief grabbed her purse and ran away down the street.",
+    "texto6": "El ladrón le arrebató el bolso y salió corriendo por la calle."
+  },
+  {
+    "texto1": "Romper o fracturar algo sin que se separe completamente.",
+    "texto2": "Rajar / Agrietar",
+    "texto3": "crack /kræk/",
+    "texto4": "cracked / will crack",
+    "texto5": "The glass window started to crack from the cold weather.",
+    "texto6": "La ventana de vidrio comenzó a agrietarse por el clima frío."
+  },
+  {
+    "texto1": "Hacer un sonido seco y fuerte al romperse o golpearse.",
+    "texto2": "Crujir / Estallar",
+    "texto3": "crack /kræk/",
+    "texto4": "cracked / will crack",
+    "texto5": "I heard a loud crack as the heavy branch fell from the tree.",
+    "texto6": "Oí un crujido fuerte cuando la pesada rama cayó del árbol."
+  },
+  {
+    "texto1": "Abrir algo con un sonido abrupto (ej. un huevo, una nuez).",
+    "texto2": "Romper (un huevo, una nuez)",
+    "texto3": "crack /kræk/",
+    "texto4": "cracked / will crack",
+    "texto5": "Please crack the eggs into the bowl carefully for the recipe.",
+    "texto6": "Por favor, rompe los huevos en el tazón con cuidado para la receta."
+  },
+  {
+    "texto1": "Una línea estrecha donde algo se ha roto o agrietado (sustantivo).",
+    "texto2": "Grieta / Raja",
+    "texto3": "crack /kræk/",
+    "texto4": "cracks / will be a crack",
+    "texto5": "There's a crack in the wall that needs to be fixed.",
+    "texto6": "Hay una grieta en la pared que necesita ser reparada."
+  },
+  {
+    "texto1": "Una abertura estrecha o rendija.",
+    "texto2": "Rendija / Hendidura",
+    "texto3": "crack /kræk/",
+    "texto4": "cracks / will be a crack",
+    "texto5": "Light shone through the crack in the door, making a small line on the floor.",
+    "texto6": "La luz brillaba a través de la rendija de la puerta, haciendo una pequeña línea en el suelo."
+  },
+  {
+    "texto1": "Intentar o resolver un problema o un código (coloquial).",
+    "texto2": "Resolver / Descifrar (coloquial)",
+    "texto3": "crack /kræk/",
+    "texto4": "cracked / will crack",
+    "texto5": "We need to crack this problem before the deadline arrives.",
+    "texto6": "Necesitamos resolver este problema antes de que llegue la fecha límite."
+  },
+  {
+    "texto1": "Movimiento o forma elegante y fluida.",
+    "texto2": "Gracia / Elegancia",
+    "texto3": "grace /ɡreɪs/",
+    "texto4": "graces / will be a grace",
+    "texto5": "The ballet dancer moved with incredible grace and precision on the stage.",
+    "texto6": "La bailarina de ballet se movía con una gracia e increíble precisión en el escenario."
+  },
+  {
+    "texto1": "Cortesía, amabilidad o buena voluntad.",
+    "texto2": "Gracia / Cortesía",
+    "texto3": "grace /ɡreɪs/",
+    "texto4": "graces / will be a grace",
+    "texto5": "He accepted the defeat with grace, congratulating his opponent.",
+    "texto6": "Él aceptó la derrota con cortesía, felicitando a su oponente."
+  },
+  {
+    "texto1": "Un período de tiempo adicional otorgado para cumplir una obligación.",
+    "texto2": "Plazo de gracia",
+    "texto3": "grace /ɡreɪs/",
+    "texto4": "graces / will be a grace",
+    "texto5": "You have a 30-day grace period to pay the bill without penalty.",
+    "texto6": "Tienes un plazo de gracia de 30 días para pagar la factura sin penalización."
+  },
+  {
+    "texto1": "Una cualidad de belleza o atractivo que se muestra en la forma o el movimiento.",
+    "texto2": "Gracia / Encanto",
+    "texto3": "grace /ɡreɪs/",
+    "texto4": "graces / will be a grace",
+    "texto5": "Her natural grace and charm captivated everyone at the party.",
+    "texto6": "Su gracia y encanto naturales cautivaron a todos en la fiesta."
+  },
+  {
+    "texto1": "Añadir elegancia o adorno a algo.",
+    "texto2": "Adornar / Engalanar (verbo)",
+    "texto3": "grace /ɡreɪs/",
+    "texto4": "graced / will grace",
+    "texto5": "Her presence will grace the event and make it more special.",
+    "texto6": "Su presencia engalanará el evento y lo hará más especial."
+  },
+  {
+    "texto1": "Un sentimiento de satisfacción y felicidad por haber alcanzado un objetivo, desarrollado el potencial o vivido de una manera significativa.",
+    "texto2": "Realización / Plenitud / Satisfacción",
+    "texto3": "fulfillment /fʊlˈfɪl.mənt/",
+    "texto4": "fulfillments / will be a fulfillment",
+    "texto5": "She found great fulfillment in her career helping others.",
+    "texto6": "Ella encontró una gran realización en su carrera ayudando a los demás."
+  },
+  {
+    "texto1": "Mostrar buenas maneras, cortesía y respeto hacia los demás.",
+    "texto2": "Educado / Cortés",
+    "texto3": "polite /pəˈlaɪt/",
+    "texto4": "politer / will be polite",
+    "texto5": "It's important to be polite when you talk to strangers or new people.",
+    "texto6": "Es importante ser educado cuando hablas con extraños o personas nuevas."
+  },
+  {
+    "texto1": "Actuar de una manera respetuosa y con buenos modales.",
+    "texto2": "Amable / Atento",
+    "texto3": "polite /pəˈlaɪt/",
+    "texto4": "politer / will be polite",
+    "texto5": "She gave a polite nod as she walked past, acknowledging my presence.",
+    "texto6": "Ella dio un asentimiento amable al pasar, reconociendo mi presencia."
+  },
+  {
+    "texto1": "Expresar algo de forma indirecta o suave para no ofender.",
+    "texto2": "Discreto / Suave (al expresar)",
+    "texto3": "polite /pəˈlaɪt/",
+    "texto4": "politer / will be polite",
+    "texto5": "He made a polite suggestion, rather than a direct order, to his boss.",
+    "texto6": "Hizo una sugerencia discreta, en lugar de una orden directa, a su jefe."
+  },
+  {
+    "texto1": "Refiriéndose a la sociedad o el comportamiento social que se considera refinado o civilizado.",
+    "texto2": "Refinado / Civilizado",
+    "texto3": "polite /pəˈlaɪt/",
+    "texto4": "politer / will be polite",
+    "texto5": "In polite society, it's customary to offer guests a drink upon arrival.",
+    "texto6": "En la sociedad civilizada, es costumbre ofrecer una bebida a los invitados al llegar."
+  },
+  {
+    "texto1": "Dar a alguien apoyo, coraje o esperanza para hacer algo.",
+    "texto2": "Animar / Animar a",
+    "texto3": "encourage /ɪnˈkʌr.ɪdʒ/",
+    "texto4": "encouraged / will encourage",
+    "texto5": "Her friends encouraged her to apply for the job she really wanted.",
+    "texto6": "Sus amigos la animaron a postularse para el trabajo que realmente quería."
+  },
+  {
+    "texto1": "Considerar algo probable que suceda o que alguien llegue.",
+    "texto2": "Esperar / Contar con",
+    "texto3": "expect /ɪkˈspɛkt/",
+    "texto4": "expected / will expect",
+    "texto5": "I expect her to arrive any minute now for our meeting.",
+    "texto6": "Espero que ella llegue en cualquier momento para nuestra reunión."
+  },
+  {
+    "texto1": "Creer que algo es verdad o que es lo normal o lo que se debe hacer.",
+    "texto2": "Esperar / Suponer",
+    "texto3": "expect /ɪkˈspɛkt/",
+    "texto4": "expected / will expect",
+    "texto5": "I expect you'll want to rest after your long journey.",
+    "texto6": "Supongo que querrás descansar después de tu largo viaje."
+  },
+  {
+    "texto1": "Requerir o demandar algo de alguien porque se considera su deber o derecho.",
+    "texto2": "Exigir / Requerir",
+    "texto3": "expect /ɪkˈspɛkt/",
+    "texto4": "expected / will expect",
+    "texto5": "They expect high standards from their employees, so they work hard.",
+    "texto6": "Ellos exigen altos estándares de sus empleados, por lo que trabajan duro."
+  },
+  {
+    "texto1": "Anticipar el nacimiento de un bebé.",
+    "texto2": "Esperar (un bebé)",
+    "texto3": "expect /ɪkˈspɛkt/",
+    "texto4": "expected / will expect",
+    "texto5": "My sister is expecting her first child in October, and we are all very excited.",
+    "texto6": "Mi hermana está esperando a su primer hijo en octubre, y estamos todos muy emocionados."
+  },
+  {
+    "texto1": "La capacidad de ver; el sentido de la vista.",
+    "texto2": "Vista",
+    "texto3": "sight /saɪt/",
+    "texto4": "sights / will be a sight",
+    "texto5": "His sight is not as good as it used to be, so he wears glasses.",
+    "texto6": "Su vista no es tan buena como solía ser, así que usa gafas."
+  },
+  {
+    "texto1": "Algo que se ve o se puede ver; una vista o un espectáculo.",
+    "texto2": "Vista / Espectáculo",
+    "texto3": "sight /saɪt/",
+    "texto4": "sights / will be a sight",
+    "texto5": "The Grand Canyon is an amazing sight, especially at sunrise.",
+    "texto6": "El Gran Cañón es un espectáculo asombroso, especialmente al amanecer."
+  },
+  {
+    "texto1": "Un lugar o edificio que es popular para visitar; una atracción turística.",
+    "texto2": "Sitio turístico / Atracción",
+    "texto3": "sight /saɪt/",
+    "texto4": "sights / will be a sight",
+    "texto5": "We visited all the famous sights in Paris, including the Eiffel Tower.",
+    "texto6": "Visitamos todos los sitios turísticos famosos de París, incluida la Torre Eiffel."
+  },
+  {
+    "texto1": "El acto de ver o percibir algo.",
+    "texto2": "Avistamiento / Percepción",
+    "texto3": "sight /saɪt/",
+    "texto4": "sights / will be a sight",
+    "texto5": "The first sight of land after weeks at sea brought cheers from the sailors.",
+    "texto6": "El primer avistamiento de tierra después de semanas en el mar provocó vítores entre los marineros."
+  },
+  {
+    "texto1": "Algo desagradable o desordenado de ver (coloquial, a menudo negativo).",
+    "texto2": "Espectáculo lamentable / Desastre",
+    "texto3": "sight /saɪt/",
+    "texto4": "sights / will be a sight",
+    "texto5": "Your room is a sight! Please clean it up before your friends arrive.",
+    "texto6": "¡Tu habitación es un desastre! Por favor, límpiala antes de que lleguen tus amigos."
+  },
+  {
+    "texto1": "Establecerse en un lugar de forma permanente o por un período prolongado.",
+    "texto2": "Establecerse / Asentarse / Instalarse",
+    "texto3": "settle /ˈsɛt.əl/",
+    "texto4": "settled / will settle",
+    "texto5": "They decided to settle in a small town in the countryside to start a new life.",
+    "texto6": "Decidieron establecerse en un pueblo pequeño en el campo para empezar una nueva vida."
+  },
+  {
+    "texto1": "Llegar a un acuerdo o resolver una disputa o problema.",
+    "texto2": "Resolver / Acordar / Zanja",
+    "texto3": "settle /ˈsɛt.əl/",
+    "texto4": "settled / will settle",
+    "texto5": "The two companies managed to settle their dispute out of court.",
+    "texto6": "Las dos empresas lograron resolver su disputa fuera de los tribunales."
+  },
+  {
+    "texto1": "Calmarse o tranquilizarse, especialmente después de un período de agitación o excitación.",
+    "texto2": "Calmarse / Tranquilizarse / Serenarse",
+    "texto3": "settle /ˈsɛt.əl/",
+    "texto4": "settled / will settle",
+    "texto5": "The children finally settled down after their exciting day at the park.",
+    "texto6": "Los niños finalmente se calmaron después de su emocionante día en el parque."
+  },
+  {
+    "texto1": "Pagar una deuda o una cuenta.",
+    "texto2": "Pagar / Saldar / Liquidar",
+    "texto3": "settle /ˈsɛt.əl/",
+    "texto4": "settled / will settle",
+    "texto5": "I need to settle my bill before checking out of the hotel tomorrow morning.",
+    "texto6": "Necesito pagar mi cuenta antes de salir del hotel mañana por la mañana."
+  },
+  {
+    "texto1": "Sentarse o recostarse cómodamente.",
+    "texto2": "Acomodarse / Sentarse / Recostarse",
+    "texto3": "settle /ˈsɛt.əl/",
+    "texto4": "settled / will settle",
+    "texto5": "She settled into her favorite armchair with a book and a cup of tea.",
+    "texto6": "Se acomodó en su sillón favorito con un libro y una taza de té."
+  },
+  {
+    "texto1": "Un objeto, marca o forma que consiste en dos líneas o barras que se cruzan. También puede referirse a un símbolo religioso cristiano.",
+    "texto2": "Cruz / Cruce / Símbolo",
+    "texto3": "cross /krɔːs/",
+    "texto4": "crosses / will be a cross",
+    "texto5": "The old church had a large wooden cross on its altar, which was very beautiful.",
+    "texto6": "La iglesia antigua tenía una gran cruz de madera en su altar, que era muy hermosa."
+  },
+  {
+    "texto1": "Acción de moverse de un lado a otro, o de un punto a otro, generalmente con el fin de llegar a un destino.",
+    "texto2": "Cruzar / Atravesar / Pasar",
+    "texto3": "cross /krɔːs/",
+    "texto4": "crossed / will cross",
+    "texto5": "Be careful when you cross the street, and always look both ways.",
+    "texto6": "Ten cuidado cuando cruces la calle y mira siempre a ambos lados."
+  },
+  {
+    "texto1": "Estar enojado o irritado con alguien.",
+    "texto2": "Enojado / Irritado / Molesto",
+    "texto3": "cross /krɔːs/",
+    "texto4": "crossed / will cross",
+    "texto5": "Don't cross your mother when she's in a bad mood, it's not a good idea.",
+    "texto6": "No hagas enojar a tu madre cuando está de mal humor, no es una buena idea."
+  },
+  {
+    "texto1": "Un híbrido, un animal o planta que es una mezcla de dos razas o especies diferentes.",
+    "texto2": "Híbrido / Cruce / Mestizo",
+    "texto3": "cross /krɔːs/",
+    "texto4": "crosses / will be a cross",
+    "texto5": "The new rose is a cross between two different varieties to get a new color.",
+    "texto6": "La nueva rosa es un cruce entre dos variedades diferentes para obtener un nuevo color."
+  },
+  {
+    "texto1": "Permitir o dar permiso para que algo suceda o para que alguien haga algo.",
+    "texto2": "Permitir / Dejar / Conceder",
+    "texto3": "let /lɛt/",
+    "texto4": "let / will let",
+    "texto5": "My parents let me go to the party with my friends.",
+    "texto6": "Mis padres me dejaron ir a la fiesta con mis amigos."
+  },
+  {
+    "texto1": "Alquilar o arrendar una propiedad.",
+    "texto2": "Alquilar / Arrendar / Ceder en alquiler",
+    "texto3": "let /lɛt/",
+    "texto4": "let / will let",
+    "texto5": "They decided to let their spare room to a student for the semester.",
+    "texto6": "Decidieron alquilar su habitación libre a un estudiante por el semestre."
+  },
+  {
+    "texto1": "Causar o permitir que algo se mueva o fluya.",
+    "texto2": "Dejar salir / Soltar / Liberar",
+    "texto3": "let /lɛt/",
+    "texto4": "let / will let",
+    "texto5": "She opened the window to let the fresh air in.",
+    "texto6": "Abrió la ventana para dejar entrar el aire fresco."
+  },
+  {
+    "texto1": "En tenis y otros deportes de raqueta, una jugada que debe repetirse porque la pelota toca la red pero cae en el campo correcto.",
+    "texto2": "Repetición / Nula / Bola a la red",
+    "texto3": "let /lɛt/",
+    "texto4": "lets / will be a let",
+    "texto5": "The umpire called a let after the serve touched the net and we had to repeat it.",
+    "texto6": "El árbitro cantó 'let' después de que el saque tocó la red y tuvimos que repetirlo."
+  },
+  {
+    "texto1": "Repetir o escribir las palabras exactas de alguien o de algún texto.",
+    "texto2": "Citar / Mencionar / Referenciar",
+    "texto3": "quote /kwoʊt/",
+    "texto4": "quoted / will quote",
+    "texto5": "He likes to quote famous philosophers in his essays to support his ideas.",
+    "texto6": "Le gusta citar a filósofos famosos en sus ensayos para apoyar sus ideas."
+  },
+  {
+    "texto1": "Dar un precio estimado por un trabajo o servicio.",
+    "texto2": "Cotizar / Presupuestar / Tarifar",
+    "texto3": "quote /kwoʊt/",
+    "texto4": "quoted / will quote",
+    "texto5": "Can you quote me a price for repairing my car before you start the work?",
+    "texto6": "¿Puedes cotizarme un precio por reparar mi coche antes de que empieces el trabajo?"
+  },
+  {
+    "texto1": "Una sección de texto o discurso extraída de un libro, documento o de las palabras de alguien.",
+    "texto2": "Cita / Extracto / Frase",
+    "texto3": "quote /kwoʊt/",
+    "texto4": "quotes / will be a quote",
+    "texto5": "The article began with a powerful quote from the president, which set the tone.",
+    "texto6": "El artículo comenzó con una cita poderosa del presidente, que marcó el tono."
+  },
+  {
+    "texto1": "En el mercado de valores, el precio actual de una acción o un valor.",
+    "texto2": "Cotización / Precio / Valor",
+    "texto3": "quote /kwoʊt/",
+    "texto4": "quotes / will be a quote",
+    "texto5": "The stock market quotes change throughout the day depending on the demand.",
+    "texto6": "Las cotizaciones del mercado de valores cambian a lo largo del día dependiendo de la demanda."
+  },
+  {
+    "texto1": "Apoyar o defender públicamente una causa, una política o a un grupo de personas.",
+    "texto2": "Abogar por / Defender / Promover",
+    "texto3": "advocate /ˈæd.və.keɪt/",
+    "texto4": "advocated / will advocate",
+    "texto5": "They advocate for healthier eating habits in schools to improve children's health.",
+    "texto6": "Ellos abogan por hábitos alimenticios más saludables en las escuelas para mejorar la salud de los niños."
+  },
+  {
+    "texto1": "Luchar con gran esfuerzo para lograr algo o superar una dificultad.",
+    "texto2": "Luchar / Esforzarse / Batallar",
+    "texto3": "struggle /ˈstrʌɡ.əl/",
+    "texto4": "struggled / will struggle",
+    "texto5": "He had to struggle to finish the marathon, but he never gave up.",
+    "texto6": "Tuvo que esforzarse mucho para terminar el maratón, pero nunca se rindió."
+  },
+  {
+    "texto1": "Tener dificultades económicas o para sobrevivir.",
+    "texto2": "Apuros / Penurias / Dificultades",
+    "texto3": "struggle /ˈstrʌɡ.əl/",
+    "texto4": "struggled / will struggle",
+    "texto5": "Many families struggle to make ends meet in this current economy.",
+    "texto6": "Muchas familias tienen dificultades para llegar a fin de mes en esta economía actual."
+  },
+  {
+    "texto1": "Un esfuerzo grande y difícil para lograr algo.",
+    "texto2": "Lucha / Esfuerzo / Dificultad",
+    "texto3": "struggle /ˈstrʌɡ.əl/",
+    "texto4": "struggles / will be a struggle",
+    "texto5": "Her struggle for justice lasted for years, but she finally won.",
+    "texto6": "Su lucha por la justicia duró años, pero finalmente ganó."
+  },
+  {
+    "texto1": "Una pelea o combate físico en el que se ejerce fuerza.",
+    "texto2": "Forcejeo / Pelea / Refriega",
+    "texto3": "struggle /ˈstrʌɡ.əl/",
+    "texto4": "struggles / will be a struggle",
+    "texto5": "There was a brief struggle before the police subdued him and took him away.",
+    "texto6": "Hubo un breve forcejeo antes de que la policía lo sometiera y se lo llevara."
+  },
+  {
+    "texto1": "Una característica distintiva o cualidad importante de algo.",
+    "texto2": "Característica / Atributo / Cualidad",
+    "texto3": "feature /ˈfiːtʃər/",
+    "texto4": "features / will be a feature",
+    "texto5": "The new phone has many impressive features, including a high-resolution camera and a long-lasting battery.",
+    "texto6": "El nuevo teléfono tiene muchas características impresionantes, incluyendo una cámara de alta resolución y una batería de larga duración."
+  },
+  {
+    "texto1": "Una parte prominente del rostro, como los ojos, la nariz o la boca.",
+    "texto2": "Rasgo / Facción / Rasgo facial",
+    "texto3": "feature /ˈfiːtʃər/",
+    "texto4": "features / will be a feature",
+    "texto5": "Her most striking feature is her beautiful blue eyes and a kind smile.",
+    "texto6": "Su rasgo más llamativo son sus hermosos ojos azules y una sonrisa amable."
+  },
+  {
+    "texto1": "Presentar o incluir algo o a alguien como una parte importante o prominente.",
+    "texto2": "Presentar / Destacar / Incluir",
+    "texto3": "feature /ˈfiːtʃər/",
+    "texto4": "featured / will feature",
+    "texto5": "The documentary will feature interviews with famous scientists and their new discoveries.",
+    "texto6": "El documental presentará entrevistas con científicos famosos y sus nuevos descubrimientos."
+  },
+  {
+    "texto1": "Un artículo o programa especial que se presenta con prominencia en un periódico, revista, sitio web o emisión de televisión.",
+    "texto2": "Reportaje / Artículo especial / Pieza central",
+    "texto3": "feature /ˈfiːtʃər/",
+    "texto4": "features / will be a feature",
+    "texto5": "The newspaper ran a feature on the growing trend of remote work and its impact on society.",
+    "texto6": "El periódico publicó un reportaje sobre la creciente tendencia del trabajo remoto y su impacto en la sociedad."
+  },
+  {
+    "texto1": "Unión o conexión entre dos o más cosas, ideas o personas.",
+    "texto2": "Vínculo / Conexión / Enlace",
+    "texto3": "link /lɪŋk/",
+    "texto4": "links / will be a link",
+    "texto5": "There's a strong link between a healthy diet and a good physical condition.",
+    "texto6": "Hay un fuerte vínculo entre una dieta saludable y una buena condición física."
+  },
+  {
+    "texto1": "Un elemento en una página web que permite navegar a otra página o recurso al hacer clic en él.",
+    "texto2": "Enlace / Hipervínculo / Link",
+    "texto3": "link /lɪŋk/",
+    "texto4": "links / will be a link",
+    "texto5": "Click on the link to download the document you requested.",
+    "texto6": "Haz clic en el enlace para descargar el documento que solicitaste."
+  },
+  {
+    "texto1": "Conectar o unir dos o más cosas, personas o eventos.",
+    "texto2": "Conectar / Unir / Vincular",
+    "texto3": "link /lɪŋk/",
+    "texto4": "linked / will link",
+    "texto5": "The new bridge will link the two cities and improve communication.",
+    "texto6": "El nuevo puente unirá las dos ciudades y mejorará la comunicación."
+  },
+  {
+    "texto1": "Un eslabón en una cadena o serie.",
+    "texto2": "Eslabón / Aro / Pieza",
+    "texto3": "link /lɪŋk/",
+    "texto4": "links / will be a link",
+    "texto5": "Each link in the chain was carefully crafted by hand.",
+    "texto6": "Cada eslabón de la cadena fue cuidadosamente elaborado a mano."
+  },
+  {
+    "texto1": "Una persona, un objeto o un evento que es inusual, extraño o peculiar.",
+    "texto2": "Rareza / Peculiaridad / Curiosidad",
+    "texto3": "oddity /ˈɒd.ə.ti/",
+    "texto4": "oddities / will be an oddity",
+    "texto5": "The oddity of the situation was that nobody seemed to notice the elephant in the room.",
+    "texto6": "La rareza de la situación era que nadie parecía notar el elefante en la habitación."
+  },
+  {
+    "texto1": "Hacia adelante; continuando en una dirección o curso.",
+    "texto2": "Hacia adelante / Adelante / En adelante",
+    "texto3": "forth /fɔːrθ/",
+    "texto4": "came forth / will go forth",
+    "texto5": "From this day forth, I will work harder and dedicate myself to my goals.",
+    "texto6": "De este día en adelante, trabajaré más duro y me dedicaré a mis metas."
+  },
+  {
+    "texto1": "Fuera a la vista; hacia la existencia o a la luz.",
+    "texto2": "A la vista / A la luz / Fuera",
+    "texto3": "forth /fɔːrθ/",
+    "texto4": "came forth / will come forth",
+    "texto5": "The sun came forth from behind the clouds, bringing warmth and light.",
+    "texto6": "El sol salió de detrás de las nubes, trayendo calidez y luz."
+  },
+  {
+    "texto1": "Desde un lugar o fuente específica, o como un resultado.",
+    "texto2": "Desde / A partir de / Como resultado",
+    "texto3": "forth /fɔːrθ/",
+    "texto4": "poured forth / will pour forth",
+    "texto5": "The music poured forth from the speakers, filling the room with sound.",
+    "texto6": "La música brotaba de los altavoces, llenando la habitación de sonido."
+  },
+  {
+    "texto1": "Un trozo delgado de madera, más largo que ancho, que ha sido cortado o roto de un árbol o arbusto.",
+    "texto2": "Palo / Rama / Vara",
+    "texto3": "stick /stɪk/",
+    "texto4": "sticks / will be a stick",
+    "texto5": "The dog loves to fetch sticks in the park and play with them for hours.",
+    "texto6": "Al perro le encanta ir a buscar palos en el parque y jugar con ellos durante horas."
+  },
+  {
+    "texto1": "Un objeto largo y delgado utilizado para un propósito específico, como un bastón o un palo de hockey.",
+    "texto2": "Bastón / Palo / Barra",
+    "texto3": "stick /stɪk/",
+    "texto4": "sticks / will be a stick",
+    "texto5": "He used a walking stick to help him climb the hill safely.",
+    "texto6": "Usó un bastón para ayudarse a subir la colina de manera segura."
+  },
+  {
+    "texto1": "Adherirse o pegarse a una superficie.",
+    "texto2": "Pegar / Adherir / Enganchar",
+    "texto3": "stick /stɪk/",
+    "texto4": "stuck / will stick",
+    "texto5": "The mud stuck to his boots, making it difficult to walk.",
+    "texto6": "El barro se le pegó a las botas, lo que le dificultaba caminar."
+  },
+  {
+    "texto1": "Sobresalir o proyectarse de una superficie.",
+    "texto2": "Asomar / Sobresalir / Proyectarse",
+    "texto3": "stick /stɪk/",
+    "texto4": "stuck / will stick",
+    "texto5": "A small branch was sticking out of the bush and scratched my arm.",
+    "texto6": "Una pequeña rama sobresalía del arbusto y me arañó el brazo."
+  },
+  {
+    "texto1": "Ser difícil o imposible de quitar de un lugar o situación.",
+    "texto2": "Atascarse / Quedarse atorado / Bloquearse",
+    "texto3": "stick /stɪk/",
+    "texto4": "stuck / will stick",
+    "texto5": "The key got stuck in the lock and I couldn't open the door.",
+    "texto6": "La llave se atascó en la cerradura y no pude abrir la puerta."
+  },
+  {
+    "texto1": "Permanecer con algo, como una decisión o un plan, a pesar de las dificultades.",
+    "texto2": "Perseverar / Mantenerse firme / Insistir",
+    "texto3": "stick to /stɪk tuː/",
+    "texto4": "stuck to / will stick to",
+    "texto5": "You need to stick to your decision, even if it gets tough.",
+    "texto6": "Tienes que mantenerte firme en tu decisión, incluso si se pone difícil."
+  },
+  {
+    "texto1": "Un beneficio o ventaja adicional que se recibe por un trabajo, un cargo o una situación.",
+    "texto2": "Beneficio / Ventaja / Extra",
+    "texto3": "perk /pɜːrk/",
+    "texto4": "perks / will be a perk",
+    "texto5": "One of the perks of the job is free travel to different countries.",
+    "texto6": "Uno de los beneficios del trabajo es viajar gratis a diferentes países."
+  },
+  {
+    "texto1": "Levantar la cabeza de forma rápida y enérgica, a menudo para escuchar o mirar algo.",
+    "texto2": "Levantar / Erguir / Alzar",
+    "texto3": "perk up /pɜːrk ʌp/",
+    "texto4": "perked up / will perk up",
+    "texto5": "The dog perked up its ears when it heard the doorbell.",
+    "texto6": "El perro levantó las orejas cuando escuchó el timbre."
+  },
+  {
+    "texto1": "Profundo dolor o sufrimiento causado por la pérdida de algo o alguien, especialmente por la muerte de una persona.",
+    "texto2": "Pena / Duelo / Tristeza profunda",
+    "texto3": "grief /ɡriːf/",
+    "texto4": "griefs / will be a grief",
+    "texto5": "She felt overwhelming grief after the loss of her pet, a loyal dog for 15 years.",
+    "texto6": "Ella sintió una pena abrumadora después de la pérdida de su mascota, un perro leal durante 15 años."
+  },
+  {
+    "texto1": "Causa de gran angustia o molestia.",
+    "texto2": "Angustia / Molestia / Sufrimiento",
+    "texto3": "grief /ɡriːf/",
+    "texto4": "griefs / will be a grief",
+    "texto5": "The constant delays caused them a lot of grief during their travel.",
+    "texto6": "Los constantes retrasos les causaron mucha molestia durante su viaje."
+  },
+  {
+    "texto1": "Presumir o alardear de los propios logros, posesiones o cualidades de manera excesiva y jactanciosa.",
+    "texto2": "Alardear / Presumir / Jactarse",
+    "texto3": "brag /bræɡ/",
+    "texto4": "bragged / will brag",
+    "texto5": "He always brags about his expensive car to everyone he meets.",
+    "texto6": "Él siempre alardea de su coche caro a todo el mundo que conoce."
+  },
+  {
+    "texto1": "Un acto de presumir o una declaración jactanciosa.",
+    "texto2": "Alarde / Fanfarronería / Presunción",
+    "texto3": "brag /bræɡ/",
+    "texto4": "brags / will be a brag",
+    "texto5": "I'm not trying to make a brag, but I did win the competition fairly.",
+    "texto6": "No estoy tratando de alardear, pero sí gané la competición de forma justa."
   }
 ]
