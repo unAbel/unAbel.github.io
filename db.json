@@ -1406,5 +1406,525 @@
     "texto4": "brags / will be a brag",
     "texto5": "I'm not trying to make a brag, but I did win the competition fairly.",
     "texto6": "No estoy tratando de alardear, pero sí gané la competición de forma justa."
+  },
+  {
+    "texto1": "Prestar dinero o un objeto a alguien con la expectativa de que sea devuelto.",
+    "texto2": "Prestar / Dejar / Facilitar",
+    "texto3": "lend /lɛnd/",
+    "texto4": "lent / will lend",
+    "texto5": "Can you lend me your pen for a moment to sign this document?",
+    "texto6": "¿Puedes prestarme tu bolígrafo un momento para firmar este documento?"
+  },
+  {
+    "texto1": "Dar o añadir una cualidad o característica a algo.",
+    "texto2": "Dar / Aportar / Conferir",
+    "texto3": "lend /lɛnd/",
+    "texto4": "lent / will lend",
+    "texto5": "The flowers lend a touch of beauty to the room and make it feel more welcoming.",
+    "texto6": "Las flores aportan un toque de belleza a la habitación y la hacen sentir más acogedora."
+  },
+  {
+    "texto1": "Permitirse o ser susceptible a algo.",
+    "texto2": "Prestarse a / Ser propenso a / Permitir",
+    "texto3": "lend /lɛnd/",
+    "texto4": "lent / will lend",
+    "texto5": "The story doesn't lend itself to a simple explanation because it's so complex.",
+    "texto6": "La historia no se presta a una explicación sencilla porque es muy compleja."
+  },
+  {
+    "texto1": "Guiar o dirigir a un grupo de personas o una organización.",
+    "texto2": "Dirigir / Guiar / Encabezar",
+    "texto3": "lead /liːd/",
+    "texto4": "led / will lead",
+    "texto5": "She will lead the team on the new project to success.",
+    "texto6": "Ella dirigirá el equipo en el nuevo proyecto hacia el éxito."
+  },
+  {
+    "texto1": "Ir delante o en primera posición.",
+    "texto2": "Ir a la cabeza / Encabezar / Delantero",
+    "texto3": "lead /liːd/",
+    "texto4": "led / will lead",
+    "texto5": "The fastest runner will lead the race from the beginning.",
+    "texto6": "El corredor más rápido irá a la cabeza de la carrera desde el principio."
+  },
+  {
+    "texto1": "Causar que algo ocurra o tenga un resultado específico.",
+    "texto2": "Conducir a / Llevar a / Provocar",
+    "texto3": "lead /liːd/",
+    "texto4": "led / will lead",
+    "texto5": "Lack of exercise can lead to health problems in the long run.",
+    "texto6": "La falta de ejercicio puede llevar a problemas de salud a largo plazo."
+  },
+  {
+    "texto1": "El acto o ejemplo de guiar o dirigir.",
+    "texto2": "Liderazgo / Dirección / Guía",
+    "texto3": "lead /liːd/",
+    "texto4": "leads / will be a lead",
+    "texto5": "Her strong lead inspired the rest of the team to work harder.",
+    "texto6": "Su fuerte liderazgo inspiró al resto del equipo a trabajar más duro."
+  },
+  {
+    "texto1": "El papel principal en una obra de teatro, película o grupo musical.",
+    "texto2": "Protagonista / Papel principal / Voz principal",
+    "texto3": "lead /liːd/",
+    "texto4": "leads / will be a lead",
+    "texto5": "He got the lead role in the school play because of his acting talent.",
+    "texto6": "Él obtuvo el papel principal en la obra de teatro de la escuela debido a su talento para actuar."
+  },
+  {
+    "texto1": "Un metal pesado, blando y gris, utilizado en baterías y otros productos.",
+    "texto2": "Plomo",
+    "texto3": "lead /lɛd/",
+    "texto4": "leads / will be lead",
+    "texto5": "Old pipes were often made of lead, which is now known to be toxic.",
+    "texto6": "Las tuberías antiguas a menudo estaban hechas de plomo, que ahora se sabe que es tóxico."
+  },
+  {
+    "texto1": "Un frío desagradable o ligeramente frío.",
+    "texto2": "Fresco / Frío / Templado",
+    "texto3": "chilly /ˈtʃɪl.i/",
+    "texto4": "chillier / will be chilly",
+    "texto5": "It's a bit chilly outside, so you might want to wear a jacket.",
+    "texto6": "Hace un poco de frío afuera, así que quizás quieras ponerte una chaqueta."
+  },
+  {
+    "texto1": "Una sensación de frío en el cuerpo, a menudo acompañada de escalofríos.",
+    "texto2": "Escalofrío / Sensación de frío / Cardenal",
+    "texto3": "chilly /ˈtʃɪl.i/",
+    "texto4": "chillier / will be chilly",
+    "texto5": "She felt a chilly sensation running down her spine when she heard the noise.",
+    "texto6": "Sintió un escalofrío recorriendo su espalda cuando escuchó el ruido."
+  },
+  {
+    "texto1": "De manera fría, distante o poco amigable.",
+    "texto2": "Frío / Distante / Poco amigable",
+    "texto3": "chilly /ˈtʃɪl.i/",
+    "texto4": "chillier / will be chilly",
+    "texto5": "His response was a bit chilly, and I felt unwelcome at the meeting.",
+    "texto6": "Su respuesta fue un poco fría y me sentí incómodo en la reunión."
+  },
+  {
+    "texto1": "Un punto de acceso o entrada a un lugar o sistema, ya sea físico o virtual.",
+    "texto2": "Acceso / Entrada / Portal",
+    "texto3": "gateway /ˈɡeɪt.weɪ/",
+    "texto4": "gateways / will be a gateway",
+    "texto5": "The city gate served as a gateway to the ancient fortress, protecting it from invaders.",
+    "texto6": "La puerta de la ciudad servía como acceso a la antigua fortaleza, protegiéndola de los invasores."
+  },
+  {
+    "texto1": "Un dispositivo o sistema que permite la comunicación entre redes con protocolos diferentes.",
+    "texto2": "Pasarela / Puerta de enlace / Conector",
+    "texto3": "gateway /ˈɡeɪt.weɪ/",
+    "texto4": "gateways / will be a gateway",
+    "texto5": "The internet router acts as a gateway to the worldwide web, allowing us to connect with others.",
+    "texto6": "El router de internet actúa como una pasarela a la red mundial, permitiéndonos conectar con otros."
+  },
+  {
+    "texto1": "Algo que sirve como medio para lograr algo más grande o más importante.",
+    "texto2": "Vía / Canal / Paso",
+    "texto3": "gateway /ˈɡeɪt.weɪ/",
+    "texto4": "gateways / will be a gateway",
+    "texto5": "This training program is a gateway to a new career and a better future.",
+    "texto6": "Este programa de capacitación es una vía para una nueva carrera y un futuro mejor."
+  },
+  {
+    "texto1": "Una gran cantidad de dinero, propiedades u otros recursos valiosos.",
+    "texto2": "Riqueza / Fortuna / Patrimonio",
+    "texto3": "wealth /wɛlθ/",
+    "texto4": "wealths / will be wealth",
+    "texto5": "The family accumulated great wealth over generations through their business.",
+    "texto6": "La familia acumuló una gran riqueza a lo largo de generaciones a través de su negocio."
+  },
+  {
+    "texto1": "Abundancia de algo deseable o valioso.",
+    "texto2": "Abundancia / Profusión / Riqueza",
+    "texto3": "wealth /wɛlθ/",
+    "texto4": "wealths / will be wealth",
+    "texto5": "The country has a wealth of natural resources, including oil and gas.",
+    "texto6": "El país tiene una gran riqueza de recursos naturales, incluyendo petróleo y gas."
+  },
+  {
+    "texto1": "El estado de ser rico o próspero.",
+    "texto2": "Prosperidad / Afluencia / Opulencia",
+    "texto3": "wealth /wɛlθ/",
+    "texto4": "wealths / will be a wealth",
+    "texto5": "His goal in life was to achieve wealth and happiness for his family.",
+    "texto6": "Su objetivo en la vida era alcanzar la riqueza y la felicidad para su familia."
+  },
+  {
+    "texto1": "Realizar o llevar a cabo una acción, especialmente una ilegal o incorrecta.",
+    "texto2": "Cometer / Perpetrar / Realizar",
+    "texto3": "commit /kəˈmɪt/",
+    "texto4": "committed / will commit",
+    "texto5": "He committed a serious error in judgment that cost him the project.",
+    "texto6": "Cometió un grave error de juicio que le costó el proyecto."
+  },
+  {
+    "texto1": "Dedicarse o prometerse firmemente a una persona, causa o curso de acción.",
+    "texto2": "Comprometerse / Dedicarse / Prometerse",
+    "texto3": "commit /kəˈmɪt/",
+    "texto4": "committed / will commit",
+    "texto5": "She is committed to her work and always gives her best.",
+    "texto6": "Ella está comprometida con su trabajo y siempre da lo mejor de sí."
+  },
+  {
+    "texto1": "Confiar a alguien o algo al cuidado de otro, o enviar a alguien a una institución, como una prisión o un hospital psiquiátrico.",
+    "texto2": "Encomendar / Ingresar / Internar",
+    "texto3": "commit /kəˈmɪt/",
+    "texto4": "committed / will commit",
+    "texto5": "The judge decided to commit the patient to a psychiatric hospital for treatment.",
+    "texto6": "El juez decidió internar al paciente en un hospital psiquiátrico para recibir tratamiento."
+  },
+  {
+    "texto1": "En sistemas de control de versiones, guardar los cambios realizados en un archivo o conjunto de archivos en el repositorio.",
+    "texto2": "Confirmar / Guardar cambios / Consolidar",
+    "texto3": "commit /kəˈmɪt/",
+    "texto4": "committed / will commit",
+    "texto5": "Don't forget to commit your changes before pushing the code to the repository.",
+    "texto6": "No olvides confirmar tus cambios antes de subir el código al repositorio."
+  },
+  {
+    "texto1": "Un acto o una instancia de cometer algo.",
+    "texto2": "Compromiso / Acto / Ejecución",
+    "texto3": "commit /kəˈmɪt/",
+    "texto4": "commits / will be a commit",
+    "texto5": "The company showed a strong commit to environmental protection by reducing its carbon footprint.",
+    "texto6": "La empresa mostró un fuerte compromiso con la protección del medio ambiente al reducir su huella de carbono."
+  },
+  {
+    "texto1": "Producir o generar un resultado, beneficio o cosecha.",
+    "texto2": "Producir / Generar / Rendir",
+    "texto3": "yield /jiːld/",
+    "texto4": "yielded / will yield",
+    "texto5": "The apple tree yields a lot of fruit every summer, which we use to make cider.",
+    "texto6": "El manzano produce mucha fruta cada verano, que usamos para hacer sidra."
+  },
+  {
+    "texto1": "Ceder el paso o la prioridad, especialmente en el tráfico o en una discusión.",
+    "texto2": "Ceder el paso / Ceder / Rendirse",
+    "texto3": "yield /jiːld/",
+    "texto4": "yielded / will yield",
+    "texto5": "You must yield to pedestrians at the crosswalk, it's the law.",
+    "texto6": "Debes ceder el paso a los peatones en el cruce de peatones, es la ley."
+  },
+  {
+    "texto1": "Colapsar o doblarse bajo presión o fuerza.",
+    "texto2": "Ceder / Colapsar / Doblarse",
+    "texto3": "yield /jiːld/",
+    "texto4": "yielded / will yield",
+    "texto5": "The old bridge might yield under the heavy weight of the new trucks.",
+    "texto6": "El viejo puente podría ceder bajo el peso pesado de los nuevos camiones."
+  },
+  {
+    "texto1": "La cantidad producida o generada por un proceso o cultivo.",
+    "texto2": "Rendimiento / Producción / Cosecha",
+    "texto3": "yield /jiːld/",
+    "texto4": "yields / will be a yield",
+    "texto5": "The farmer was pleased with the high yield of corn this year, which meant a great profit.",
+    "texto6": "El agricultor estaba contento con el alto rendimiento de maíz este año, lo que significó una gran ganancia."
+  },
+  {
+    "texto1": "El ingreso o ganancia obtenida de una inversión.",
+    "texto2": "Rentabilidad / Rendimiento / Ganancia",
+    "texto3": "yield /jiːld/",
+    "texto4": "yields / will be a yield",
+    "texto5": "The bond has a high yield, making it an attractive investment for many people.",
+    "texto6": "El bono tiene un alto rendimiento, lo que lo convierte en una inversión atractiva para muchas personas."
+  },
+  {
+    "texto1": "Que tiene poca fuerza física, energía o resistencia.",
+    "texto2": "Débil / Frágil / Enteble",
+    "texto3": "weak /wiːk/",
+    "texto4": "weaker / will be weak",
+    "texto5": "He felt too weak to lift the heavy box after being sick for a week.",
+    "texto6": "Se sentía demasiado débil para levantar la caja pesada después de haber estado enfermo durante una semana."
+  },
+  {
+    "texto1": "Que es propenso a ceder, romperse o fallar; que no es fuerte o sólido.",
+    "texto2": "Débil / Vulnerable / Poco resistente",
+    "texto3": "weak /wiːk/",
+    "texto4": "weaker / will be weak",
+    "texto5": "The bridge's structure was weak and needed repairs to be safe.",
+    "texto6": "La estructura del puente era débil y necesitaba reparaciones para ser segura."
+  },
+  {
+    "texto1": "Que carece de poder, autoridad o influencia.",
+    "texto2": "Débil / Impotente / Indefenso",
+    "texto3": "weak /wiːk/",
+    "texto4": "weaker / will be weak",
+    "texto5": "The argument was based on weak evidence and couldn't be proven.",
+    "texto6": "El argumento se basaba en pruebas débiles y no pudo ser probado."
+  },
+  {
+    "texto1": "Que tiene una concentración o intensidad baja, como una bebida o una luz.",
+    "texto2": "Flojo / Suave / Diluido",
+    "texto3": "weak /wiːk/",
+    "texto4": "weaker / will be weak",
+    "texto5": "I prefer weak coffee in the mornings, it's easier on my stomach.",
+    "texto6": "Prefiero el café flojo por las mañanas, es más suave para mi estómago."
+  },
+  {
+    "texto1": "Que no tiene convicción o resolución; que es fácilmente influenciable.",
+    "texto2": "Débil de carácter / Indeciso / Influenciable",
+    "texto3": "weak /wiːk/",
+    "texto4": "weaker / will be weak",
+    "texto5": "He has a weak will when it comes to resisting desserts, so he always eats them.",
+    "texto6": "Tiene una voluntad débil cuando se trata de resistir los postres, por lo que siempre los come."
+  },
+  {
+    "texto1": "Una réplica de un ser humano, a menudo utilizada para exhibiciones o pruebas.",
+    "texto2": "Muñeco / Maniquí / Bulto",
+    "texto3": "dummy /ˈdʌm.i/",
+    "texto4": "dummies / will be a dummy",
+    "texto5": "The crash test dummy was used to simulate a person in a car accident.",
+    "texto6": "El muñeco de prueba de choque se usó para simular a una persona en un accidente de coche."
+  },
+  {
+    "texto1": "Una persona tonta o estúpida (uso informal y a menudo despectivo).",
+    "texto2": "Tonto / Bobo / Idiota",
+    "texto3": "dummy /ˈdʌm.i/",
+    "texto4": "dummies / will be a dummy",
+    "texto5": "Don't be such a dummy and make that mistake again.",
+    "texto6": "No seas tan tonto y cometas ese error de nuevo."
+  },
+  {
+    "texto1": "Algo falso o de imitación, utilizado para reemplazar a algo real.",
+    "texto2": "Falso / De mentira / Imitación",
+    "texto3": "dummy /ˈdʌm.i/",
+    "texto4": "dummies / will be a dummy",
+    "texto5": "The shop window had a dummy cake on display.",
+    "texto6": "El escaparate de la tienda tenía un pastel de mentira en exhibición."
+  },
+  {
+    "texto1": "En algunos juegos de cartas, un jugador que ha revelado sus cartas y cuyo compañero las juega.",
+    "texto2": "Muerto / Dummy (en juegos de cartas)",
+    "texto3": "dummy /ˈdʌm.i/",
+    "texto4": "dummies / will be a dummy",
+    "texto5": "In bridge, the dummy lays down their cards and lets their partner play.",
+    "texto6": "En bridge, el muerto revela sus cartas y deja que su compañero juegue."
+  },
+  {
+    "texto1": "Llevar o transportar algo o a alguien de un lugar a otro.",
+    "texto2": "Traer / Llevar / Aportar",
+    "texto3": "bring /brɪŋ/",
+    "texto4": "brought / will bring",
+    "texto5": "Don't forget to bring your umbrella; it might rain later.",
+    "texto6": "No olvides traer tu paraguas; podría llover más tarde."
+  },
+  {
+    "texto1": "Causar que algo ocurra o suceda.",
+    "texto2": "Provocar / Causar / Generar",
+    "texto3": "bring about /brɪŋ əˈbaʊt/",
+    "texto4": "brought about / will bring about",
+    "texto5": "The new policy will bring about significant changes to the company.",
+    "texto6": "La nueva política provocará cambios significativos en la empresa."
+  },
+  {
+    "texto1": "Hacer que alguien o algo llegue a un estado o condición particular.",
+    "texto2": "Poner / Dejar / Conducir a",
+    "texto3": "bring /brɪŋ/",
+    "texto4": "brought / will bring",
+    "texto5": "The bad news brought her to tears when she heard it.",
+    "texto6": "La mala noticia la hizo llorar cuando la escuchó."
+  },
+  {
+    "texto1": "Presentar una demanda o una acusación formal.",
+    "texto2": "Presentar / Interponer / Entablar",
+    "texto3": "bring /brɪŋ/",
+    "texto4": "brought / will bring",
+    "texto5": "They decided to bring a lawsuit against the company for the damages.",
+    "texto6": "Decidieron interponer una demanda contra la empresa por los daños."
+  },
+  {
+    "texto1": "Con relación a o con respecto a algo o alguien.",
+    "texto2": "Respecto a / En cuanto a / Sobre",
+    "texto3": "regarding /rɪˈɡɑːrdɪŋ/",
+    "texto4": "regardings / will be a regarding",
+    "texto5": "I have a question regarding your recent announcement about the new policy.",
+    "texto6": "Tengo una pregunta con respecto a su reciente anuncio sobre la nueva política."
+  },
+  {
+    "texto1": "Considerar o ver a alguien o algo de una manera particular.",
+    "texto2": "Considerar / Ver / Estimar",
+    "texto3": "regard /rɪˈɡɑːrd/",
+    "texto4": "regarded / will regard",
+    "texto5": "She is regarded as one of the best artists of her generation for her unique style.",
+    "texto6": "Ella es considerada una de las mejores artistas de su generación por su estilo único."
+  },
+  {
+    "texto1": "Respeto, consideración o atención que se le da a alguien o a algo.",
+    "texto2": "Respeto / Consideración",
+    "texto3": "regard /rɪˈɡɑːrd/",
+    "texto4": "regards / will regard",
+    "texto5": "He has no regard for the rules; he just does whatever he wants.",
+    "texto6": "Él no tiene ningún respeto por las reglas; simplemente hace lo que quiere."
+  },
+  {
+    "texto1": "Saludos o buenos deseos para una persona o un grupo, usado comúnmente para cerrar correos electrónicos.",
+    "texto2": "Saludos",
+    "texto3": "regards /rɪˈɡɑːrdz/",
+    "texto4": "regards",
+    "texto5": "Please give my best regards to your family when you see them.",
+    "texto6": "Por favor, dale mis mejores saludos a tu familia cuando los veas."
+  },
+  {
+    "texto1": "Sorprender o asombrar a alguien de una manera que causa admiración o desconcierto.",
+    "texto2": "Asombrar / Sorprender / Maravillar",
+    "texto3": "amaze /əˈmeɪz/",
+    "texto4": "amazed / will amaze",
+    "texto5": "The magician's tricks always amaze the audience, leaving them in awe.",
+    "texto6": "Los trucos del mago siempre asombran a la audiencia, dejándolos boquiabiertos."
+  },
+  {
+    "texto1": "Causar gran admiración o impacto.",
+    "texto2": "Impresionar / Deslumbrar / Fascinar",
+    "texto3": "amaze /əˈmeɪz/",
+    "texto4": "amazed / will amaze",
+    "texto5": "Her talent continues to amaze everyone who sees her perform on stage.",
+    "texto6": "Su talento sigue asombrando a todos los que la ven actuar en el escenario."
+  },
+  {
+    "texto1": "Que se espera que ocurra o se realice en un momento determinado; con fecha límite.",
+    "texto2": "Previsto / Vencido / A pagar",
+    "texto3": "due /duː/",
+    "texto4": "dues / will be due",
+    "texto5": "The rent is due on the first of every month, so we need to pay it soon.",
+    "texto6": "El alquiler vence el primer día de cada mes, así que tenemos que pagarlo pronto."
+  },
+  {
+    "texto1": "Adecuado o apropiado para una situación o propósito.",
+    "texto2": "Debido / Apropiado / Justo",
+    "texto3": "due /duː/",
+    "texto4": "dues / will be due",
+    "texto5": "Please give the matter due consideration before making a decision.",
+    "texto6": "Por favor, tómese el asunto con la debida consideración antes de tomar una decisión."
+  },
+  {
+    "texto1": "Como resultado de o causado por algo.",
+    "texto2": "Debido a / A causa de / Gracias a",
+    "texto3": "due to /duː tuː/",
+    "texto4": "dues to / will be due to",
+    "texto5": "The accident was due to careless driving, according to the police report.",
+    "texto6": "El accidente fue debido a la conducción descuidada, según el informe policial."
+  },
+  {
+    "texto1": "Un pago o cuota que se debe.",
+    "texto2": "Cuota / Cargo / Tarifa",
+    "texto3": "due /duː/",
+    "texto4": "dues / will be due",
+    "texto5": "Membership dues are collected annually to maintain the club.",
+    "texto6": "Las cuotas de membresía se cobran anualmente para mantener el club."
+  },
+  {
+    "texto1": "Una plataforma elevada en un teatro, sala de conciertos, etc., donde actúan los artistas.",
+    "texto2": "Escenario / Tarima / Plataforma",
+    "texto3": "stage /steɪdʒ/",
+    "texto4": "stages / will be a stage",
+    "texto5": "The band walked onto the stage to a cheering crowd, ready to perform.",
+    "texto6": "La banda subió al escenario ante una multitud que aplaudía, lista para actuar."
+  },
+  {
+    "texto1": "Un período o fase en el desarrollo de algo.",
+    "texto2": "Etapa / Fase / Estadio",
+    "texto3": "stage /steɪdʒ/",
+    "texto4": "stages / will be a stage",
+    "texto5": "The project is in its final stage of development and will be released soon.",
+    "texto6": "El proyecto está en su etapa final de desarrollo y se lanzará pronto."
+  },
+  {
+    "texto1": "Organizar o llevar a cabo un evento, una obra de teatro o una protesta.",
+    "texto2": "Organizar / Montar / Escenificar",
+    "texto3": "stage /steɪdʒ/",
+    "texto4": "staged / will stage",
+    "texto5": "The students decided to stage a protest against the new rules.",
+    "texto6": "Los estudiantes decidieron organizar una protesta contra las nuevas reglas."
+  },
+  {
+    "texto1": "La profesión de actor o actriz en el teatro.",
+    "texto2": "Teatro / Escena / Interpretación",
+    "texto3": "stage /steɪdʒ/",
+    "texto4": "stages / will be a stage",
+    "texto5": "She always dreamed of a career on the stage and becoming a famous actress.",
+    "texto6": "Ella siempre soñó con una carrera en el teatro y convertirse en una actriz famosa."
+  },
+  {
+    "texto1": "Ser del tamaño o la forma correctos para alguien o algo.",
+    "texto2": "Ajustar / Quedar bien / Servir",
+    "texto3": "fit /fɪt/",
+    "texto4": "fitted / will fit",
+    "texto5": "These shoes fit me perfectly, they are very comfortable.",
+    "texto6": "Estos zapatos me quedan perfectos, son muy cómodos."
+  },
+  {
+    "texto1": "Ser adecuado o apropiado para una situación o propósito.",
+    "texto2": "Encajar / Ser apropiado / Corresponder",
+    "texto3": "fit /fɪt/",
+    "texto4": "fitted / will fit",
+    "texto5": "His explanation didn't quite fit the facts presented in court.",
+    "texto6": "Su explicación no encajaba del todo con los hechos presentados en el tribunal."
+  },
+  {
+    "texto1": "Instalar o colocar algo en una posición específica.",
+    "texto2": "Instalar / Montar / Colocar",
+    "texto3": "fit /fɪt/",
+    "texto4": "fitted / will fit",
+    "texto5": "We need to fit a new lock on the door for extra security.",
+    "texto6": "Necesitamos instalar una cerradura nueva en la puerta para mayor seguridad."
+  },
+  {
+    "texto1": "En buena condición física o saludable.",
+    "texto2": "En forma / Saludable / Atlético",
+    "texto3": "fit /fɪt/",
+    "texto4": "fitter / will be fit",
+    "texto5": "She works out regularly to stay fit and healthy.",
+    "texto6": "Ella hace ejercicio regularmente para mantenerse en forma y saludable."
+  },
+  {
+    "texto1": "Un acceso o arrebato repentino de una emoción o enfermedad.",
+    "texto2": "Ataque / Acceso / Arrebato",
+    "texto3": "fit /fɪt/",
+    "texto4": "fits / will be a fit",
+    "texto5": "He had a fit of coughing after inhaling the smoke from the bonfire.",
+    "texto6": "Le dio un ataque de tos después de inhalar el humo de la hoguera."
+  },
+  {
+    "texto1": "Percibir con los ojos; notar o ser consciente de algo usando el sentido de la vista.",
+    "texto2": "Ver / Mirar / Observar",
+    "texto3": "see /siː/",
+    "texto4": "saw / will see",
+    "texto5": "Did you see that beautiful bird on the tree just now?",
+    "texto6": "¿Viste ese pájaro hermoso en el árbol justo ahora?"
+  },
+  {
+    "texto1": "Entender o comprender algo.",
+    "texto2": "Entender / Comprender / Darse cuenta",
+    "texto3": "see /siː/",
+    "texto4": "saw / will see",
+    "texto5": "Now I see what you mean and I agree with you.",
+    "texto6": "Ahora entiendo lo que quieres decir y estoy de acuerdo contigo."
+  },
+  {
+    "texto1": "Encontrarse o reunirse con alguien.",
+    "texto2": "Ver a / Reunirse con / Encontrarse con",
+    "texto3": "see /siː/",
+    "texto4": "saw / will see",
+    "texto5": "I'll see you tomorrow at the office to discuss the new project.",
+    "texto6": "Te veré mañana en la oficina para discutir el nuevo proyecto."
+  },
+  {
+    "texto1": "Acompañar a alguien a un lugar o guiarlo.",
+    "texto2": "Acompañar / Guiar / Llevar",
+    "texto3": "see /siː/",
+    "texto4": "saw / will see",
+    "texto5": "Let me see you to the door and make sure you get there safely.",
+    "texto6": "Déjame acompañarte a la puerta y asegurarme de que llegues a salvo."
+  },
+  {
+    "texto1": "Asegurarse de que algo se haga o suceda.",
+    "texto2": "Asegurarse / Encargarse / Velar por",
+    "texto3": "see to /siː tuː/",
+    "texto4": "saw to / will see to",
+    "texto5": "Can you see to it that the report is finished on time?",
+    "texto6": "¿Puedes encargarte de que el informe esté terminado a tiempo?"
   }
 ]
