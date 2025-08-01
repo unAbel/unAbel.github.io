@@ -1752,12 +1752,28 @@
     "texto6": "Ella es considerada una de las mejores artistas de su generación por su estilo único."
   },
   {
-    "texto1": "Respeto, consideración o atención que se le da a alguien o a algo.",
-    "texto2": "Respeto / Consideración",
+    "texto1": "Mirar o observar a alguien o algo, prestando atención.",
+    "texto2": "Mirar / Observar / Contemplar",
     "texto3": "regard /rɪˈɡɑːrd/",
-    "texto4": "regards / will regard",
-    "texto5": "He has no regard for the rules; he just does whatever he wants.",
-    "texto6": "Él no tiene ningún respeto por las reglas; simplemente hace lo que quiere."
+    "texto4": "regarded / will regard",
+    "texto5": "She regarded him with a puzzled expression, trying to understand what he meant.",
+    "texto6": "Ella lo miró con una expresión perpleja, tratando de entender lo que él quería decir."
+  },
+  {
+    "texto1": "Respeto, admiración o aprecio por alguien o algo.",
+    "texto2": "Respeto / Admiración / Estima",
+    "texto3": "regard /rɪˈɡɑːrd/",
+    "texto4": "regards / will be a regard",
+    "texto5": "I have great regard for her honesty, as she always tells the truth.",
+    "texto6": "Tengo un gran respeto por su honestidad, ya que siempre dice la verdad."
+  },
+  {
+    "texto1": "Atención o consideración hacia algo.",
+    "texto2": "Atención / Consideración / Cuidado",
+    "texto3": "regard /rɪˈɡɑːrd/",
+    "texto4": "regards / will be a regard",
+    "texto5": "You should act with due regard for safety when you are working with these machines.",
+    "texto6": "Debes actuar con la debida consideración por la seguridad cuando trabajes con estas máquinas."
   },
   {
     "texto1": "Saludos o buenos deseos para una persona o un grupo, usado comúnmente para cerrar correos electrónicos.",
@@ -1926,5 +1942,716 @@
     "texto4": "saw to / will see to",
     "texto5": "Can you see to it that the report is finished on time?",
     "texto6": "¿Puedes encargarte de que el informe esté terminado a tiempo?"
+  },
+  {
+    "texto1": "Hacerse visible o presentarse, especialmente de forma inesperada o repentina.",
+    "texto2": "Aparecer / Surgir / Manifestarse",
+    "texto3": "appear /əˈpɪər/",
+    "texto4": "appeared / will appear",
+    "texto5": "A strange light appeared in the sky, and we didn't know what it was.",
+    "texto6": "Una luz extraña apareció en el cielo, y no sabíamos lo que era."
+  },
+  {
+    "texto1": "Dar la impresión de ser o existir de cierta manera.",
+    "texto2": "Parecer / Aparentar / Tener aspecto de",
+    "texto3": "appear /əˈpɪər/",
+    "texto4": "appeared / will appear",
+    "texto5": "He appears to be very tired today after working all night.",
+    "texto6": "Parece estar muy cansado hoy después de trabajar toda la noche."
+  },
+  {
+    "texto1": "Presentarse formalmente en un lugar, como un tribunal o un escenario.",
+    "texto2": "Comparecer / Actuar / Presentarse",
+    "texto3": "appear /əˈpɪər/",
+    "texto4": "appeared / will appear",
+    "texto5": "The lawyer will appear in court tomorrow to defend his client.",
+    "texto6": "El abogado comparecerá ante el tribunal mañana para defender a su cliente."
+  },
+  {
+    "texto1": "Ser publicado o salir a la luz (refiriéndose a un libro, artículo, etc.).",
+    "texto2": "Publicarse / Salir / Ver la luz",
+    "texto3": "appear /əˈpɪər/",
+    "texto4": "appeared / will appear",
+    "texto5": "His new novel will appear next month in all the major bookstores.",
+    "texto6": "Su nueva novela se publicará el próximo mes en todas las librerías principales."
+  },
+  {
+    "texto1": "Un trozo de madera plano y largo, a menudo utilizado para la construcción o la artesanía.",
+    "texto2": "Tabla / Tablón",
+    "texto3": "board /bɔːrd/",
+    "texto4": "boards / will be a board",
+    "texto5": "He used a long board to make a shelf for his books.",
+    "texto6": "Él usó una tabla larga para hacer un estante para sus libros."
+  },
+  {
+    "texto1": "Una pieza de material duro y plano, a menudo utilizada para exhibir información, como en una pizarra o un tablón de anuncios.",
+    "texto2": "Pizarra / Tablón / Panel",
+    "texto3": "board /bɔːrd/",
+    "texto4": "boards / will be a board",
+    "texto5": "She wrote the lesson on the board for all the students to see.",
+    "texto6": "Ella escribió la lección en la pizarra para que todos los estudiantes la vieran."
+  },
+  {
+    "texto1": "Un grupo de personas que dirige o administra una organización, empresa o institución.",
+    "texto2": "Junta / Consejo / Comité",
+    "texto3": "board /bɔːrd/",
+    "texto4": "boards / will be a board",
+    "texto5": "The board of directors approved the new project's budget.",
+    "texto6": "La junta directiva aprobó el presupuesto del nuevo proyecto."
+  },
+  {
+    "texto1": "Subir a un vehículo de transporte público como un avión, tren o barco.",
+    "texto2": "Embarcar / Subir a bordo",
+    "texto3": "board /bɔːrd/",
+    "texto4": "boarded / will board",
+    "texto5": "Passengers are now ready to board the plane to Paris.",
+    "texto6": "Los pasajeros ya están listos para embarcar en el avión a París."
+  },
+  {
+    "texto1": "Proporcionar comida y alojamiento por un precio.",
+    "texto2": "Alojarse / Hospedar / Dar pensión",
+    "texto3": "board /bɔːrd/",
+    "texto4": "boarded / will board",
+    "texto5": "He boards with a local family while studying abroad.",
+    "texto6": "Él se aloja con una familia local mientras estudia en el extranjero."
+  },
+  {
+    "texto1": "Que tiene un carácter o temperamento suave, amable y considerado, evitando la brusquedad o la dureza.",
+    "texto2": "Amable / Suave / Tierno",
+    "texto3": "gentle /ˈdʒɛntəl/",
+    "texto4": "gentler / will be gentle",
+    "texto5": "He has a very gentle nature and is always kind to everyone, even to strangers.",
+    "texto6": "Tiene un carácter muy amable y siempre es bueno con todos, incluso con los extraños."
+  },
+  {
+    "texto1": "Que es delicado, ligero y no causa daño ni dolor, especialmente en el tacto o el movimiento.",
+    "texto2": "Delicado / Leve / Suave",
+    "texto3": "gentle /ˈdʒɛntəl/",
+    "texto4": "gentler / will be gentle",
+    "texto5": "She applied the cream with gentle strokes to avoid irritating her sensitive skin.",
+    "texto6": "Aplicó la crema con suaves toques para evitar irritar su piel sensible."
+  },
+  {
+    "texto1": "Que tiene una inclinación o pendiente ligera y gradual.",
+    "texto2": "Suave / Leve / Ligero",
+    "texto3": "gentle /ˈdʒɛntəl/",
+    "texto4": "gentler / will be gentle",
+    "texto5": "The path led down a gentle slope to the river, making it easy to walk.",
+    "texto6": "El camino bajaba por una suave pendiente hasta el río, lo que lo hacía fácil de caminar."
+  },
+  {
+    "texto1": "Que pertenece a una clase social distinguida o noble.",
+    "texto2": "Noble / De buena familia / Distinguido",
+    "texto3": "gentle /ˈdʒɛntəl/",
+    "texto4": "gentler / will be gentle",
+    "texto5": "He was born into a gentle family with a long history of serving the country.",
+    "texto6": "Nació en una familia noble con una larga historia de servir al país."
+  },
+  {
+    "texto1": "Formular una pregunta a alguien para obtener información o una respuesta.",
+    "texto2": "Preguntar / Interrogar / Cuestionar",
+    "texto3": "ask /æsk/",
+    "texto4": "asked / will ask",
+    "texto5": "I need to ask my teacher about the homework because I'm a bit confused about the instructions.",
+    "texto6": "Necesito preguntarle a mi profesor sobre la tarea porque estoy un poco confundido con las instrucciones."
+  },
+  {
+    "texto1": "Pedir algo, como ayuda, permiso o un favor.",
+    "texto2": "Pedir / Solicitar / Rogar",
+    "texto3": "ask /æsk/",
+    "texto4": "asked / will ask",
+    "texto5": "She decided to ask for a raise at work because she felt she deserved it.",
+    "texto6": "Ella decidió pedir un aumento en el trabajo porque sentía que se lo merecía."
+  },
+  {
+    "texto1": "Invitar a alguien a ir a un lugar o a hacer algo.",
+    "texto2": "Invitar / Convidar / Llamar",
+    "texto3": "ask /æsk/",
+    "texto4": "asked / will ask",
+    "texto5": "He asked her to the dance, and she was very happy to accept.",
+    "texto6": "Él la invitó al baile, y ella estaba muy feliz de aceptar."
+  },
+  {
+    "texto1": "Exigir o requerir algo, especialmente un precio o una condición.",
+    "texto3": "ask /æsk/",
+    "texto4": "asked / will ask",
+    "texto5": "The antique dealer was asking a very high price for the vase, so we decided not to buy it.",
+    "texto6": "El anticuario estaba pidiendo un precio muy alto por el jarrón, así que decidimos no comprarlo."
+  },
+  {
+    "texto1": "Depender de alguien o algo para recibir apoyo, ayuda o para que algo suceda.",
+    "texto2": "Depender / Confiar / Contar con",
+    "texto3": "rely on /rɪˈlaɪ ɒn/",
+    "texto4": "relied on / will rely on",
+    "texto5": "You can always rely on me for help, no matter what the situation is.",
+    "texto6": "Siempre puedes contar conmigo para que te ayude, sin importar cuál sea la situación."
+  },
+  {
+    "texto1": "Tener confianza o fe en alguien o algo.",
+    "texto2": "Confiar / Fiarse / Creer en",
+    "texto3": "rely on /rɪˈlaɪ ɒn/",
+    "texto4": "relied on / will rely on",
+    "texto5": "We rely on our data for accurate predictions and to make important decisions.",
+    "texto6": "Confiamos en nuestros datos para predicciones precisas y para tomar decisiones importantes."
+  },
+  {
+    "texto1": "Que tiene la capacidad, los medios o la cualificación para hacer algo.",
+    "texto2": "Capaz / Habilidoso / Competente",
+    "texto3": "able /ˈeɪbəl/",
+    "texto4": "abler / will be able",
+    "texto5": "She is able to speak three languages fluently, which is a great skill to have.",
+    "texto6": "Ella es capaz de hablar tres idiomas con fluidez, lo que es una gran habilidad."
+  },
+  {
+    "texto1": "Que tiene el poder o la oportunidad de hacer algo.",
+    "texto2": "Capaz de / En condiciones de / Con posibilidad de",
+    "texto3": "able /ˈeɪbəl/",
+    "texto4": "abler / will be able",
+    "texto5": "I won't be able to attend the meeting tomorrow because I have another appointment.",
+    "texto6": "No podré asistir a la reunión mañana porque tengo otra cita."
+  },
+  {
+    "texto1": "Que es inteligente, competente o tiene talento.",
+    "texto2": "Inteligente / Capaz / Talentoso",
+    "texto3": "able /ˈeɪbəl/",
+    "texto4": "abler / will be able",
+    "texto5": "He is an able student who quickly grasps new concepts and excels in his classes.",
+    "texto6": "Es un estudiante capaz que asimila rápidamente nuevos conceptos y se destaca en sus clases."
+  },
+  {
+    "texto1": "Dirigir o apuntar algo, como un arma o una cámara, hacia un objetivo específico.",
+    "texto2": "Apuntar / Enfoque / Dirigir",
+    "texto3": "aim /eɪm/",
+    "texto4": "aimed / will aim",
+    "texto5": "He aimed the camera at the bird to take a photo.",
+    "texto6": "Él apuntó la cámara al pájaro para tomar una foto."
+  },
+  {
+    "texto1": "Tener la intención de lograr un objetivo o meta.",
+    "texto2": "Aspirar / Pretender / Tener como objetivo",
+    "texto3": "aim /eɪm/",
+    "texto4": "aimed / will aim",
+    "texto5": "She aims to become a doctor so she can help people.",
+    "texto6": "Ella aspira a convertirse en doctora para poder ayudar a la gente."
+  },
+  {
+    "texto1": "El propósito o intención detrás de una acción.",
+    "texto2": "Objetivo / Meta / Propósito",
+    "texto3": "aim /eɪm/",
+    "texto4": "aims / will be an aim",
+    "texto5": "The aim of the project is to reduce waste in the city.",
+    "texto6": "El objetivo del proyecto es reducir los residuos en la ciudad."
+  },
+  {
+    "texto1": "La acción de apuntar o dirigir algo.",
+    "texto2": "Puntería / Apunte / Dirección",
+    "texto3": "aim /eɪm/",
+    "texto4": "aims / will be an aim",
+    "texto5": "Her aim was so precise that she hit the target every time.",
+    "texto6": "Su puntería era tan precisa que le daba al objetivo cada vez."
+  },
+  {
+    "texto1": "Revolcarse en lodo, agua o polvo, generalmente para refrescarse o por placer.",
+    "texto2": "Revolcarse / Cerdear / Bañarse",
+    "texto3": "wallow /ˈwɒl.oʊ/",
+    "texto4": "wallowed / will wallow",
+    "texto5": "The pigs wallow in the mud to keep cool on a hot day.",
+    "texto6": "Los cerdos se revuelcan en el lodo para mantenerse frescos en un día caluroso."
+  },
+  {
+    "texto1": "Permitirse un sentimiento, emoción o situación, especialmente una desagradable, de manera prolongada y a menudo autodestructiva.",
+    "texto2": "Regodearse / Deleitarse / Recrearse",
+    "texto3": "wallow /ˈwɒl.oʊ/",
+    "texto4": "wallowed / will wallow",
+    "texto5": "She's wallowing in self-pity after the breakup, refusing to move on.",
+    "texto6": "Ella se está regodeando en la autocompasión después de la ruptura, negándose a seguir adelante."
+  },
+  {
+    "texto1": "Una zona fangosa o de lodo donde los animales se revuelcan.",
+    "texto2": "Revolcadero / Lodazal / Cienagal",
+    "texto3": "wallow /ˈwɒl.oʊ/",
+    "texto4": "wallows / will be a wallow",
+    "texto5": "The buffalo found a large wallow to cool off near the river.",
+    "texto6": "El búfalo encontró un gran revolcadero para refrescarse cerca del río."
+  },
+  {
+    "texto1": "Hundirse o descender bajo la superficie del agua o de un líquido.",
+    "texto2": "Hundirse / Sumergirse / Irse a pique",
+    "texto3": "sink /sɪŋk/",
+    "texto4": "sank / will sink",
+    "texto5": "The heavy stone began to sink in the water, creating ripples on the surface.",
+    "texto6": "La piedra pesada comenzó a hundirse en el agua, creando ondas en la superficie."
+  },
+  {
+    "texto1": "Descender o moverse hacia abajo lentamente.",
+    "texto2": "Bajar / Caer / Descender",
+    "texto3": "sink /sɪŋk/",
+    "texto4": "sank / will sink",
+    "texto5": "The sun began to sink below the horizon, painting the sky with orange and pink colors.",
+    "texto6": "El sol comenzó a descender por debajo del horizonte, pintando el cielo con colores anaranjados y rosados."
+  },
+  {
+    "texto1": "Empeorar o disminuir en calidad, cantidad o intensidad.",
+    "texto2": "Deteriorarse / Degradar / Disminuir",
+    "texto3": "sink /sɪŋk/",
+    "texto4": "sank / will sink",
+    "texto5": "His health began to sink after the illness, so he needed medical attention.",
+    "texto6": "Su salud comenzó a deteriorarse después de la enfermedad, por lo que necesitaba atención médica."
+  },
+  {
+    "texto1": "Un recipiente fijo con grifos, generalmente en una cocina o baño, para lavarse o lavar cosas.",
+    "texto2": "Fregadero / Lavabo / Pila",
+    "texto3": "sink /sɪŋk/",
+    "texto4": "sinks / will be a sink",
+    "texto5": "Please put the dirty dishes in the kitchen sink so I can wash them later.",
+    "texto6": "Por favor, pon los platos sucios en el fregadero de la cocina para que pueda lavarlos más tarde."
+  },
+  {
+    "texto1": "Un lugar bajo o deprimido donde el agua tiende a acumularse.",
+    "texto2": "Depresión / Hondonada / Sumidero",
+    "texto3": "sink /sɪŋk/",
+    "texto4": "sinks / will be a sink",
+    "texto5": "The area became a natural sink for rainwater, which created a small pond.",
+    "texto6": "El área se convirtió en un sumidero natural para el agua de lluvia, lo que creó un pequeño estanque."
+  },
+  {
+    "texto1": "Un mamífero marino con aletas, pelaje grueso y cuerpo fusiforme, que vive en regiones costeras y polares.",
+    "texto2": "Foca / Lobo marino / Otaria",
+    "texto3": "seal /siːl/",
+    "texto4": "seals / will be a seal",
+    "texto5": "We saw a large seal basking on the rocks and enjoying the sun.",
+    "texto6": "Vimos una foca grande tomando el sol en las rocas y disfrutando del sol."
+  },
+  {
+    "texto1": "Un dispositivo o material que se utiliza para cerrar o asegurar algo herméticamente, impidiendo la entrada o salida de aire, líquido, etc.",
+    "texto2": "Sello / Junta / Cierre hermético",
+    "texto3": "seal /siːl/",
+    "texto4": "seals / will be a seal",
+    "texto5": "Make sure the container has a tight seal to keep the food fresh for longer.",
+    "texto6": "Asegúrate de que el recipiente tenga un cierre hermético para mantener la comida fresca por más tiempo."
+  },
+  {
+    "texto1": "Un diseño o imagen estampado en cera, papel, etc., para autenticar un documento, o un troquel o sello con el que se hace esta marca.",
+    "texto2": "Sello / Timbre / Emblema",
+    "texto3": "seal /siːl/",
+    "texto4": "seals / will be a seal",
+    "texto5": "The letter had the king's official seal, which meant it was an important message.",
+    "texto6": "La carta tenía el sello oficial del rey, lo que significaba que era un mensaje importante."
+  },
+  {
+    "texto1": "Cerrar o asegurar algo herméticamente para evitar fugas o la entrada de elementos externos.",
+    "texto2": "Sellar / Cerrar / Hermetizar",
+    "texto3": "seal /siːl/",
+    "texto4": "sealed / will seal",
+    "texto5": "You need to seal the package properly before mailing it to its destination.",
+    "texto6": "Necesitas sellar el paquete correctamente antes de enviarlo a su destino."
+  },
+  {
+    "texto1": "Confirmar o finalizar un acuerdo o pacto.",
+    "texto2": "Sellar / Ratificar / Confirmar",
+    "texto3": "seal /siːl/",
+    "texto4": "sealed / will seal",
+    "texto5": "They shook hands to seal the deal and agree on the new terms.",
+    "texto6": "Se dieron la mano para sellar el trato y acordar los nuevos términos."
+  },
+  {
+    "texto1": "Que muestra una falta de experiencia, juicio o sofisticación, a menudo por inocencia o credulidad.",
+    "texto2": "Ingenuo / Inocente / Crédulo",
+    "texto3": "naive /naɪˈiːv/",
+    "texto4": "naiver / will be naive",
+    "texto5": "She was so naive she believed everything he told her without question.",
+    "texto6": "Era tan ingenua que creyó todo lo que él le dijo sin cuestionar."
+  },
+  {
+    "texto1": "Que es demasiado simple o poco realista en su concepción, a menudo debido a la falta de consideración de las complejidades del mundo real.",
+    "texto2": "Simplista / Poco realista / Cándido",
+    "texto3": "naive /naɪˈiːv/",
+    "texto4": "naiver / will be naive",
+    "texto5": "His plan for world peace was a bit naive, as it didn't account for human nature.",
+    "texto6": "Su plan para la paz mundial era un poco ingenuo, ya que no tenía en cuenta la naturaleza humana."
+  },
+  {
+    "texto1": "Referido al arte, un estilo que carece de formación académica formal, a menudo caracterizado por una simplicidad y espontaneidad.",
+    "texto2": "Naíf / Primitivo / Informal",
+    "texto3": "naive /naɪˈiːv/",
+    "texto4": "naiver / will be naive",
+    "texto5": "The painting had a charming, naive quality that made it feel authentic.",
+    "texto6": "La pintura tenía una cualidad encantadora y naíf que la hacía sentir auténtica."
+  },
+  {
+    "texto1": "El desarrollo inevitable y predestinado de los acontecimientos; el destino.",
+    "texto2": "Destino / Hado / Suerte",
+    "texto3": "fate /feɪt/",
+    "texto4": "fates / will be a fate",
+    "texto5": "It was fate that brought them together on that rainy day.",
+    "texto6": "Fue el destino lo que los unió en ese día lluvioso."
+  },
+  {
+    "texto1": "Un poder o agencia supuestamente responsable de predeterminar y ordenar los acontecimientos.",
+    "texto2": "Sino / Fortuna / Providencia",
+    "texto3": "fate /feɪt/",
+    "texto4": "fates / will be a fate",
+    "texto5": "She believed her fate was to become a great artist and share her work with the world.",
+    "texto6": "Ella creía que su sino era convertirse en una gran artista y compartir su trabajo con el mundo."
+  },
+  {
+    "texto1": "El resultado final o la consecuencia de algo o de la vida de una persona.",
+    "texto2": "Desenlace / Fin / Condición final",
+    "texto3": "fate /feɪt/",
+    "texto4": "fates / will be a fate",
+    "texto5": "The fate of the missing explorers remains unknown after all these years.",
+    "texto6": "El desenlace de los exploradores desaparecidos sigue siendo desconocido después de todos estos años."
+  },
+  {
+    "texto1": "Un proceso formal en un tribunal para determinar la culpabilidad o inocencia de una persona acusada de un delito.",
+    "texto2": "Juicio / Proceso judicial / Visto",
+    "texto3": "trial /ˈtraɪəl/",
+    "texto4": "trials / will be a trial",
+    "texto5": "The criminal trials can last for several weeks or even months.",
+    "texto6": "Los juicios penales pueden durar varias semanas o incluso meses."
+  },
+  {
+    "texto1": "Un experimento o prueba para evaluar la eficacia, calidad o seguridad de algo.",
+    "texto2": "Ensayo / Prueba / Experimentación",
+    "texto3": "trial /ˈtraɪəl/",
+    "texto4": "trials / will be a trial",
+    "texto5": "The new drug is currently undergoing clinical trials to ensure it is safe and effective.",
+    "texto6": "El nuevo medicamento está actualmente en ensayos clínicos para asegurar que es seguro y efectivo."
+  },
+  {
+    "texto1": "Dificultades o problemas que alguien enfrenta en la vida.",
+    "texto2": "Penalidades / Tribulaciones / Adversidades",
+    "texto3": "trial /ˈtraɪəl/",
+    "texto4": "trials / will be a trial",
+    "texto5": "She faced many trials and tribulations throughout her life, but she never gave up.",
+    "texto6": "Ella enfrentó muchas penalidades y tribulaciones a lo largo de su vida, pero nunca se rindió."
+  },
+  {
+    "texto1": "Una competición o serie de competiciones para probar habilidades o capacidades.",
+    "texto2": "Pruebas / Eliminatorias / Competiciones",
+    "texto3": "trial /ˈtraɪəl/",
+    "texto4": "trials / will be a trial",
+    "texto5": "The Olympic trials will determine who represents the country in the next games.",
+    "texto6": "Las pruebas olímpicas determinarán quién representa al país en los próximos juegos."
+  },
+  {
+    "texto1": "El fundamento o la razón principal de algo; la base sobre la que se construye o se apoya algo.",
+    "texto2": "Base / Fundamento / Cimiento",
+    "texto3": "basis /ˈbeɪ.sɪs/",
+    "texto4": "bases / will be a basis",
+    "texto5": "The theory forms the basis for his entire research project.",
+    "texto6": "La teoría constituye la base de todo su proyecto de investigación."
+  },
+  {
+    "texto1": "La forma o el modo en que se organiza o se hace algo.",
+    "texto2": "Forma / Modo / Criterio",
+    "texto3": "basis /ˈbeɪ.sɪs/",
+    "texto4": "bases / will be a basis",
+    "texto5": "They meet on a regular basis to discuss their progress with the project.",
+    "texto6": "Se reúnen de forma regular para discutir su progreso con el proyecto."
+  },
+  {
+    "texto1": "Un ingrediente principal o componente esencial de algo.",
+    "texto2": "Componente / Ingrediente / Elemento principal",
+    "texto3": "basis /ˈbeɪ.sɪs/",
+    "texto4": "bases / will be a basis",
+    "texto5": "This recipe uses tomatoes as its main basis for the sauce.",
+    "texto6": "Esta receta usa tomates como su principal componente para la salsa."
+  },
+  {
+    "texto1": "Pretérito y participio pasado de 'mean'. Tener la intención de hacer algo o tener un propósito particular.",
+    "texto2": "Quiso decir / Tuvo la intención / Significó",
+    "texto3": "meant /mɛnt/",
+    "texto4": "meant / was meant",
+    "texto5": "I meant to call you earlier, but I got busy with work.",
+    "texto6": "Quise llamarte antes, pero me ocupé con el trabajo."
+  },
+  {
+    "texto1": "Pretérito y participio pasado de 'mean'. Transmitir o expresar un significado o idea.",
+    "texto2": "Significó / Quería decir / Representó",
+    "texto3": "meant /mɛnt/",
+    "texto4": "meant / was meant",
+    "texto5": "What he said meant a lot to me, it was a very kind and thoughtful gesture.",
+    "texto6": "Lo que dijo significó mucho para mí, fue un gesto muy amable y considerado."
+  },
+  {
+    "texto1": "Pretérito y participio pasado de 'mean'. Estar destinado a ser o a ocurrir.",
+    "texto2": "Estaba destinado / Debía ser / Corresponder",
+    "texto3": "meant /mɛnt/",
+    "texto4": "meant / was meant",
+    "texto5": "They were meant to be together from the very beginning.",
+    "texto6": "Estaban destinados a estar juntos desde el principio."
+  },
+  {
+    "texto1": "Preocupación, ansiedad o inquietud sobre algo.",
+    "texto2": "Preocupación / Inquietud / Ansiedad",
+    "texto3": "concern /kənˈsɜːrn/",
+    "texto4": "concerns / will be a concern",
+    "texto5": "There is growing concern about climate change and its impact on the planet.",
+    "texto6": "Existe una creciente preocupación por el cambio climático y su impacto en el planeta."
+  },
+  {
+    "texto1": "Un asunto que afecta o es de interés para alguien o algo.",
+    "texto2": "Asunto / Interés / Incumbencia",
+    "texto3": "concern /kənˈsɜːrn/",
+    "texto4": "concerns / will be a concern",
+    "texto5": "That's no concern of yours, so please stay out of it.",
+    "texto6": "Eso no es asunto tuyo, así que por favor no te metas."
+  },
+  {
+    "texto1": "Afectar, involucrar o ser relevante para alguien o algo.",
+    "texto2": "Afectar / Atener / Incumbir",
+    "texto3": "concern /kənˈsɜːrn/",
+    "texto4": "concerned / will concern",
+    "texto5": "The new regulations primarily concern environmental protection and sustainability.",
+    "texto6": "Las nuevas regulaciones conciernen principalmente a la protección del medio ambiente y la sostenibilidad."
+  },
+  {
+    "texto1": "Causar preocupación o ansiedad a alguien.",
+    "texto2": "Preocupar / Inquietar / Afligir",
+    "texto3": "concern /kənˈsɜːrn/",
+    "texto4": "concerned / will concern",
+    "texto5": "His poor health greatly concerns his family, who want him to get better.",
+    "texto6": "Su mala salud preocupa mucho a su familia, que quiere que se mejore."
+  },
+  {
+    "texto1": "El uso de la fuerza física o mental para lograr algo; un intento arduo o laborioso.",
+    "texto2": "Esfuerzo / Empeño / Dédicacion",
+    "texto3": "effort /ˈɛfərt/",
+    "texto4": "efforts / will be an effort",
+    "texto5": "Learning a new language requires a lot of effort, but it's very rewarding.",
+    "texto6": "Aprender un nuevo idioma requiere mucho esfuerzo, pero es muy gratificante."
+  },
+  {
+    "texto1": "Un resultado del trabajo o la acción; un logro.",
+    "texto2": "Logro / Resultado / Obra",
+    "texto3": "effort /ˈɛfərt/",
+    "texto4": "efforts / will be an effort",
+    "texto5": "The charity gala was a great effort and raised a lot of money for a good cause.",
+    "texto6": "La gala benéfica fue un gran esfuerzo y recaudó mucho dinero para una buena causa."
+  },
+  {
+    "texto1": "Un intento serio o determinado de hacer algo.",
+    "texto2": "Intento / Tentativa / Prueba",
+    "texto3": "effort /ˈɛfərt/",
+    "texto4": "efforts / will be an effort",
+    "texto5": "He made an effort to be more punctual and arrived on time for all his meetings.",
+    "texto6": "Hizo un esfuerzo por ser más puntual y llegó a tiempo a todas sus reuniones."
+  },
+  {
+    "texto1": "Una medida, cantidad o frecuencia de algo en relación con otra cantidad o período de tiempo.",
+    "texto2": "Tasa / Índice / Proporción",
+    "texto3": "rate /reɪt/",
+    "texto4": "rates / will be a rate",
+    "texto5": "The birth rate in the country has decreased significantly in the last decade.",
+    "texto6": "La tasa de natalidad en el país ha disminuido significativamente en la última década."
+  },
+  {
+    "texto1": "El costo o cargo por un servicio o producto, a menudo expresado por unidad.",
+    "texto2": "Tarifa / Precio / Cuota",
+    "texto3": "rate /reɪt/",
+    "texto4": "rates / will be a rate",
+    "texto5": "What's the hourly rate for this service? I need to know the total cost.",
+    "texto6": "¿Cuál es la tarifa por hora de este servicio? Necesito saber el costo total."
+  },
+  {
+    "texto1": "Asignar un valor, clasificación o evaluación a algo o alguien.",
+    "texto2": "Clasificar / Evaluar / Calificar",
+    "texto3": "rate /reɪt/",
+    "texto4": "rated / will rate",
+    "texto5": "How would you rate this movie out of five stars? I'm curious to know your opinion.",
+    "texto6": "¿Cómo calificarías esta película de cinco estrellas? Tengo curiosidad por saber tu opinión."
+  },
+  {
+    "texto1": "Considerar algo o a alguien de una manera particular.",
+    "texto2": "Considerar / Estimar / Valorar",
+    "texto3": "rate /reɪt/",
+    "texto4": "rated / will rate",
+    "texto5": "I would rate him as one of the best players on the team, he has a lot of talent.",
+    "texto6": "Lo consideraría uno de los mejores jugadores del equipo, tiene mucho talento."
+  },
+  {
+    "texto1": "Permitir que algo o alguien salga o se libere de un lugar, control o confinamiento.",
+    "texto2": "Soltar / Liberar / Dejar ir",
+    "texto3": "release /rɪˈliːs/",
+    "texto4": "released / will release",
+    "texto5": "The police decided to release the suspect due to lack of evidence in the case.",
+    "texto6": "La policía decidió soltar al sospechoso por falta de pruebas en el caso."
+  },
+  {
+    "texto1": "Hacer que un producto, una película, un disco, etc., esté disponible para el público.",
+    "texto2": "Lanzar / Estrenar / Publicar",
+    "texto3": "release /rɪˈliːs/",
+    "texto4": "released / will release",
+    "texto5": "The band will release their new album next month and their fans are very excited.",
+    "texto6": "La banda lanzará su nuevo álbum el próximo mes y sus fans están muy emocionados."
+  },
+  {
+    "texto1": "El acto de liberar o dejar salir a alguien o algo.",
+    "texto2": "Liberación / Descarga / Soltura",
+    "texto3": "release /rɪˈliːs/",
+    "texto4": "releases / will be a release",
+    "texto5": "The prisoner's release was celebrated by his family, who had been waiting for years.",
+    "texto6": "La liberación del prisionero fue celebrada por su familia, que había estado esperando durante años."
+  },
+  {
+    "texto1": "Un producto, como una película, un álbum de música o un software, que se ha hecho público.",
+    "texto2": "Lanzamiento / Estreno / Publicación",
+    "texto3": "release /rɪˈliːs/",
+    "texto4": "releases / will be a release",
+    "texto5": "The new movie is a major release for the studio, they expect it to be a huge hit.",
+    "texto6": "La nueva película es un gran lanzamiento para el estudio, esperan que sea un gran éxito."
+  },
+  {
+    "texto1": "Una autorización formal para hacer algo público o disponible.",
+    "texto2": "Autorización / Permiso / Licencia",
+    "texto3": "release /rɪˈliːs/",
+    "texto4": "releases / will be a release",
+    "texto5": "They signed a press release to announce the event and provide all the details.",
+    "texto6": "Firmaron un comunicado de prensa para anunciar el evento y proporcionar todos los detalles."
+  },
+  {
+    "texto1": "Golpear algo o a alguien con fuerza.",
+    "texto2": "Golpear / Pegar / Azotar",
+    "texto3": "strike /straɪk/",
+    "texto4": "struck / will strike",
+    "texto5": "The clock began to strike twelve, signaling the start of a new day.",
+    "texto6": "El reloj empezó a dar las doce, marcando el inicio de un nuevo día."
+  },
+  {
+    "texto1": "Un paro de trabajo organizado por un grupo de empleados para protestar por las condiciones laborales o exigir mejores salarios.",
+    "texto2": "Huelga / Paro / Cese de actividades",
+    "texto3": "strike /straɪk/",
+    "texto4": "strikes / will be a strike",
+    "texto5": "The workers decided to go on strike for better pay and safer working conditions.",
+    "texto6": "Los trabajadores decidieron ir a la huelga por un mejor sueldo y condiciones laborales más seguras."
+  },
+  {
+    "texto1": "Ocurrir a alguien repentinamente, como una idea o una enfermedad.",
+    "texto2": "Sobrevenir / Afligir / Acometer",
+    "texto3": "strike /straɪk/",
+    "texto4": "struck / will strike",
+    "texto5": "A sudden illness struck him down and he had to be hospitalized.",
+    "texto6": "Una enfermedad repentina lo abatió y tuvo que ser hospitalizado."
+  },
+  {
+    "texto1": "Causar una impresión particular en la mente de alguien.",
+    "texto2": "Impresionar / Llamar la atención / Sorprender",
+    "texto3": "strike /straɪk/",
+    "texto4": "struck / will strike",
+    "texto5": "His honesty struck me as unusual, as most people aren't so direct.",
+    "texto6": "Su honestidad me pareció inusual, ya que la mayoría de la gente no es tan directa."
+  },
+  {
+    "texto1": "En béisbol, una pelota lanzada que pasa por la zona de strike y no es bateada, o una pelota que es bateada fuera de juego o fallada.",
+    "texto2": "Strike / Bola mala / Ponche",
+    "texto3": "strike /straɪk/",
+    "texto4": "strikes / will be a strike",
+    "texto5": "The batter got two strikes before hitting the ball and getting a home run.",
+    "texto6": "El bateador tuvo dos strikes antes de golpear la pelota y conseguir un jonrón."
+  },
+  {
+    "texto1": "Un descubrimiento repentino e importante de petróleo, gas o minerales.",
+    "texto2": "Hallazgo / Descubrimiento / Yacimiento",
+    "texto3": "strike /straɪk/",
+    "texto4": "strikes / will be a strike",
+    "texto5": "The company announced a major oil strike in the North Sea, which will bring them a lot of profit.",
+    "texto6": "La empresa anunció un importante hallazgo de petróleo en el Mar del Norte, lo que les traerá muchas ganancias."
+  },
+  {
+    "texto1": "Desmoronarse o romperse en pedazos pequeños, especialmente algo seco y quebradizo.",
+    "texto2": "Desmoronarse / Deshacerse / Fragmentarse",
+    "texto3": "crumble /ˈkrʌm.bəl/",
+    "texto4": "crumbled / will crumble",
+    "texto5": "The old wall began to crumble with age and neglect.",
+    "texto6": "La vieja pared comenzó a desmoronarse con la edad y el abandono."
+  },
+  {
+    "texto1": "Colapsar, desintegrarse o fallar gradualmente.",
+    "texto2": "Colapsar / Deteriorarse / Venirse abajo",
+    "texto3": "crumble /ˈkrʌm.bəl/",
+    "texto4": "crumbled / will crumble",
+    "texto5": "The empire began to crumble from within due to political conflicts.",
+    "texto6": "El imperio empezó a colapsar desde dentro debido a conflictos políticos."
+  },
+  {
+    "texto1": "Un postre de frutas horneado con una cobertura desmenuzada hecha de harina, mantequilla y azúcar.",
+    "texto2": "Crumble / Pastel desmenuzado / Postre de frutas",
+    "texto3": "crumble /ˈkrʌm.bəl/",
+    "texto4": "crumbles / will be a crumble",
+    "texto5": "My grandmother makes the best apple crumble, it's my favorite dessert.",
+    "texto6": "Mi abuela hace el mejor crumble de manzana, es mi postre favorito."
+  },
+  {
+    "texto1": "Manipular, tocar o gestionar algo con las manos.",
+    "texto2": "Manejar / Tocar / Manipular",
+    "texto3": "handle /ˈhæn.dəl/",
+    "texto4": "handled / will handle",
+    "texto5": "Please handle the delicate items with care so they don't break.",
+    "texto6": "Por favor, manipule los artículos delicados con cuidado para que no se rompan."
+  },
+  {
+    "texto1": "Gestionar, controlar o resolver una situación, un problema o a una persona.",
+    "texto2": "Gestionar / Ocuparse de / Resolver",
+    "texto3": "handle /ˈhæn.dəl/",
+    "texto4": "handled / will handle",
+    "texto5": "She's good at handling difficult customers and resolving their complaints.",
+    "texto6": "Ella es buena gestionando clientes difíciles y resolviendo sus quejas."
+  },
+  {
+    "texto1": "La parte de un objeto que está diseñada para ser agarrada o sostenida.",
+    "texto2": "Mango / Asa / Manija",
+    "texto3": "handle /ˈhæn.dəl/",
+    "texto4": "handles / will be a handle",
+    "texto5": "The cup has a comfortable handle, making it easy to hold.",
+    "texto6": "La taza tiene un mango cómodo, lo que la hace fácil de sostener."
+  },
+  {
+    "texto1": "Un nombre o apodo, especialmente uno utilizado en un sistema de comunicación o en línea.",
+    "texto2": "Nombre de usuario / Nick / Alias",
+    "texto3": "handle /ˈhæn.dəl/",
+    "texto4": "handles / will be a handle",
+    "texto5": "What's your Twitter handle? I'd like to follow you.",
+    "texto6": "¿Cuál es tu nombre de usuario de Twitter? Me gustaría seguirte."
+  },
+  {
+    "texto1": "Comerciar o traficar con bienes específicos, a menudo de forma ilegal.",
+    "texto2": "Comerciar / Traficar / Vender",
+    "texto3": "handle /ˈhæn.dəl/",
+    "texto4": "handled / will handle",
+    "texto5": "They were accused of handling stolen goods and were arrested by the police.",
+    "texto6": "Fueron acusados de traficar con bienes robados y fueron arrestados por la policía."
+  },
+  {
+    "texto1": "Cubrir o envolver algo con un material flexible.",
+    "texto2": "Envolver / Envolver / Cubrir",
+    "texto3": "wrap /ræp/",
+    "texto4": "wrapped / will wrap",
+    "texto5": "Please wrap the gift in colorful paper so it looks festive.",
+    "texto6": "Por favor, envuelve el regalo en papel de colores para que se vea festivo."
+  },
+  {
+    "texto1": "Un material flexible utilizado para envolver o cubrir algo.",
+    "texto2": "Envoltura / Envoltorio / Cubierta",
+    "texto3": "wrap /ræp/",
+    "texto4": "wraps / will be a wrap",
+    "texto5": "The plastic wrap keeps the food fresh by sealing it tightly.",
+    "texto6": "El envoltorio de plástico mantiene la comida fresca al sellarla herméticamente."
+  },
+  {
+    "texto1": "Terminar o completar una actividad, un proyecto o un evento.",
+    "texto2": "Finalizar / Concluir / Terminar",
+    "texto3": "wrap up /ræp ʌp/",
+    "texto4": "wrapped up / will wrap up",
+    "texto5": "We need to wrap up the meeting soon, as it's getting late.",
+    "texto6": "Necesitamos terminar la reunión pronto, ya que se está haciendo tarde."
+  },
+  {
+    "texto1": "Rodear o abrazar con los brazos o con algo flexible.",
+    "texto2": "Rodear / Abrazar / Ceñir",
+    "texto3": "wrap /ræp/",
+    "texto4": "wrapped / will wrap",
+    "texto5": "She wrapped her arms around her child to give him a warm hug.",
+    "texto6": "Ella rodeó a su hijo con los brazos para darle un cálido abrazo."
   }
 ]
