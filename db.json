@@ -3,25 +3,25 @@
     "texto1": "Un verbo que describe el cese de la vida en personas, animales o plantas.",
     "texto2": "Morir / Fallecer",
     "texto3": "die /daɪ/",
-    "texto4": "died /daɪd/ / will die /daɪ/",
+    "texto4": "died /daɪd/ / will die /daɪ/ / dying /ˈdaɪ.ɪŋ/",
     "texto5": "The old tree finally died after the long winter.",
     "texto6": "El viejo árbol finalmente murió después del largo invierno."
   },
   {
-    "texto1": "Un verbo que describe el fin de algo inanimado o una costumbre. Se usa de forma figurada.",
-    "texto2": "Apagarse / Extinguirse / Desaparecer",
+    "texto1": "Un verbo que describe el fin del funcionamiento de un objeto inanimado o una costumbre.",
+    "texto2": "Apagarse / Extinguirse",
     "texto3": "die /daɪ/",
-    "texto4": "died /daɪd/ / will die /daɪ/",
-    "texto5": "The engine died right as we were about to enter the tunnel.",
-    "texto6": "El motor se apagó justo cuando estábamos a punto de entrar en el túnel."
+    "texto4": "died /daɪd/ / will die /daɪ/ / dying /ˈdaɪ.ɪŋ/",
+    "texto5": "The car engine died right as we were about to enter the tunnel.",
+    "texto6": "El motor del coche se apagó justo cuando estábamos a punto de entrar en el túnel."
   },
   {
-    "texto1": "Una expresión coloquial que se usa para indicar un deseo extremo o un estado de anhelo. A menudo se usa en expresiones como 'to die for'.",
-    "texto2": "Morirse de ganas / Estar para morirse",
+    "texto1": "Un verbo usado en expresiones idiomáticas para indicar un anhelo o deseo muy intenso de algo.",
+    "texto2": "Morirse de ganas",
     "texto3": "die /daɪ/",
-    "texto4": "died /daɪd/ / will die /daɪ/",
-    "texto5": "That chocolate cake is to die for!",
-    "texto6": "¡Ese pastel de chocolate está para morirse!"
+    "texto4": "died /daɪd/ / will die /daɪ/ / dying /ˈdaɪ.ɪŋ/",
+    "texto5": "I'm dying to know how the story ends!",
+    "texto6": "¡Me muero de ganas de saber cómo termina la historia!"
   },
   {
     "texto1": "Un adjetivo que describe la sensación de inestabilidad, aturdimiento, o que el entorno da vueltas. Se puede usar por diversas razones, incluyendo la ingesta de alcohol.",
@@ -622,5 +622,205 @@
     "texto4": "N/A",
     "texto5": "The final count showed that the 'yes' votes were higher than the 'no' votes.",
     "texto6": "El conteo final mostró que los votos a favor eran más altos que los votos en contra."
+  },
+  {
+    "texto1": "Un sustantivo que se refiere al punto donde dos o más huesos se encuentran en el cuerpo (una articulación). También se puede usar para describir un lugar, a menudo informal y poco elegante, donde la gente se reúne para comer o socializar.",
+    "texto2": "Articulación / Coyuntura / Local",
+    "texto3": "joint /dʒɔɪnt/",
+    "texto4": "N/A",
+    "texto5": "I have some pain in my knee joint when I walk.",
+    "texto6": "Tengo algo de dolor en la articulación de la rodilla cuando camino."
+  },
+  {
+    "texto1": "Un sustantivo que se usa en lenguaje informal para referirse a un lugar, como un restaurante, un bar o un club, que es a menudo considerado de baja categoría, poco elegante o sin pretensiones.",
+    "texto2": "Local / Bar / Lugar",
+    "texto3": "joint /dʒɔɪnt/",
+    "texto4": "N/A",
+    "texto5": "Let's go to that pizza joint on the corner for a quick bite.",
+    "texto6": "Vamos a ese local de pizzas en la esquina para un bocado rápido."
+  },
+  {
+    "texto1": "Un adjetivo que se refiere a algo que se realiza, se posee o se comparte entre dos o más personas o grupos. Describe una acción o propiedad que es mutua o combinada.",
+    "texto2": "Conjunto / Mutuo / Común",
+    "texto3": "joint /dʒɔɪnt/",
+    "texto4": "N/A",
+    "texto5": "They made a joint decision to buy the house together.",
+    "texto6": "Tomaron una decisión conjunta de comprar la casa juntos."
+  },
+  {
+    "texto1": "Un sustantivo que se refiere a una articulación en el cuerpo humano o animal, o a una conexión entre dos partes, como en una tubería o en una estructura mecánica.",
+    "texto2": "Unión / Conexión",
+    "texto3": "joint /dʒɔɪnt/",
+    "texto4": "N/A",
+    "texto5": "The plumber fixed the leaky joint in the pipe.",
+    "texto6": "El fontanero arregló la unión con fugas en la tubería."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de secuestrar a alguien, llevándoselo ilegalmente y reteniéndolo contra su voluntad, a menudo para pedir un rescate. Es un delito grave.",
+    "texto2": "Secuestrar / Raptar",
+    "texto3": "kidnap /ˈkɪdnæp/",
+    "texto4": "kidnapped / will kidnap / kidnapping",
+    "texto5": "The police are searching for the criminals who tried to kidnap the wealthy businessman.",
+    "texto6": "La policía está buscando a los criminales que intentaron secuestrar al empresario adinerado."
+  },
+  {
+    "texto1": "Un sustantivo que se refiere al acto ilegal de llevar a alguien, especialmente a un niño, y retenerlo contra su voluntad, a menudo con fines de extorsión o rescate.",
+    "texto2": "Secuestro / Rapto",
+    "texto3": "kidnap /ˈkɪdnæp/",
+    "texto4": "N/A",
+    "texto5": "The government refused to negotiate with the kidnappers.",
+    "texto6": "El gobierno se negó a negociar con los secuestradores."
+  },
+  {
+    "texto1": "Un verbo que se usa figuradamente para describir el acto de tomar o robar algo de manera inesperada o injusta. Es menos común que el uso literal.",
+    "texto2": "Robar / Arrebatar",
+    "texto3": "kidnap /ˈkɪdnæp/",
+    "texto4": "kidnapped / will kidnap / kidnapping",
+    "texto5": "The company was accused of trying to kidnap the best talent from their competitors.",
+    "texto6": "La compañía fue acusada de intentar robar el mejor talento de sus competidores."
+  },
+  {
+    "texto1": "Un adjetivo que describe algo que es útil o conveniente, especialmente por su diseño o ubicación. También se usa para describir a una persona que es hábil con las manos o buena para arreglar cosas.",
+    "texto2": "Útil / Práctico / Manitas / A mano",
+    "texto3": "handy /ˈhændi/",
+    "texto4": "handier / will be handy / being handy",
+    "texto5": "It's handy to have a small flashlight in the car's glove compartment.",
+    "texto6": "Es práctico tener una linterna pequeña en la guantera del coche."
+  },
+  {
+    "texto1": "Un adjetivo que se usa para describir a una persona que es hábil con las manos, buena para hacer reparaciones en la casa o para construir cosas.",
+    "texto2": "Manitas / Habilidoso",
+    "texto3": "handy /ˈhændi/",
+    "texto4": "handier / will be handy / being handy",
+    "texto5": "My dad is really handy; he built all the furniture in our house.",
+    "texto6": "Mi papá es un gran manitas; construyó todos los muebles de nuestra casa."
+  },
+  {
+    "texto1": "Un adjetivo que se usa para describir algo que está convenientemente cerca o al alcance de la mano, lo que lo hace fácil de usar o acceder.",
+    "texto2": "A mano / Al alcance",
+    "texto3": "handy /ˈhændi/",
+    "texto4": "handier / will be handy / being handy",
+    "texto5": "Keep a pen and paper handy in case you need to write something down.",
+    "texto6": "Mantén un bolígrafo y papel a mano en caso de que necesites anotar algo."
+  },
+  {
+    "texto1": "Un sustantivo que se refiere a una pieza de ajedrez, la de menor valor. También se usa para describir a una persona que es usada por otros para lograr un fin. Como verbo, significa dejar algo como garantía para obtener un préstamo.",
+    "texto2": "Peón / Prenda / Empeñar",
+    "texto3": "pawn /pɔːn/",
+    "texto4": "N/A",
+    "texto5": "He was just a pawn in their political game.",
+    "texto6": "Él era solo un peón en su juego político."
+  },
+  {
+    "texto1": "Un sustantivo que se refiere a una pieza de ajedrez, la más numerosa y con movimientos limitados, que avanza hacia adelante y puede ser sacrificada para el beneficio de las piezas más valiosas.",
+    "texto2": "Peón",
+    "texto3": "pawn /pɔːn/",
+    "texto4": "N/A",
+    "texto5": "The pawn can only move forward one square at a time.",
+    "texto6": "El peón solo puede avanzar una casilla a la vez."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de dejar un objeto de valor, como joyas o un aparato electrónico, como garantía en una casa de empeños para recibir un préstamo de dinero.",
+    "texto2": "Empeñar",
+    "texto3": "pawn /pɔːn/",
+    "texto4": "pawned / will pawn / pawning",
+    "texto5": "She had to pawn her grandmother's ring to pay for the rent.",
+    "texto6": "Ella tuvo que empeñar el anillo de su abuela para pagar el alquiler."
+  },
+  {
+    "texto1": "Un sustantivo que se usa en lenguaje figurado para describir a una persona que está siendo manipulada o utilizada por otros para lograr un objetivo que no es propio.",
+    "texto2": "Peón / Títere",
+    "texto3": "pawn /pɔːn/",
+    "texto4": "N/A",
+    "texto5": "He thought he was making his own decisions, but he was really just a pawn in the CEO's scheme.",
+    "texto6": "Él creía que estaba tomando sus propias decisiones, pero en realidad era solo un peón en el plan del director ejecutivo."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de hacer que alguien crea algo que no es verdad, a menudo con la intención de obtener una ventaja personal. Implica engaño, mentira o un acto de deshonestidad.",
+    "texto2": "Engañar / Mentir / Charlatanear",
+    "texto3": "deceive /dɪˈsiːv/",
+    "texto4": "deceived / will deceive / deceiving",
+    "texto5": "He tried to deceive me into thinking he was a doctor.",
+    "texto6": "Él intentó engañarme para que pensara que era un doctor."
+  },
+  {
+    "texto1": "Un verbo que describe el acto de ocultar la verdad o dar una impresión falsa sobre una situación, un hecho o una persona. Se usa comúnmente en un contexto de traición o deshonestidad deliberada.",
+    "texto2": "Engañar / Falsificar",
+    "texto3": "deceive /dɪˈsiːv/",
+    "texto4": "deceived / will deceive / deceiving",
+    "texto5": "She deceived her friends by pretending to be rich.",
+    "texto6": "Ella engañó a sus amigos fingiendo ser rica."
+  },
+  {
+    "texto1": "Un verbo que se usa para describir el acto de hacer que alguien pierda la confianza en algo o en alguien, a menudo mediante una traición o un engaño.",
+    "texto2": "Decepcionar / Fallar",
+    "texto3": "deceive /dɪˈsiːv/",
+    "texto4": "deceived / will deceive / deceiving",
+    "texto5": "He deceived my expectations and failed the exam.",
+    "texto6": "Él decepcionó mis expectativas y reprobó el examen."
+  },
+  {
+    "texto1": "Un adjetivo que describe algo que es apropiado, correcto o adecuado para una situación o propósito particular. También puede referirse a algo que es respetable, formal, o a la forma 'correcta' de hacer algo.",
+    "texto2": "Adecuado / Apropiado / Correcto / Propio",
+    "texto3": "proper /ˈprɑːpər/",
+    "texto4": "N/A",
+    "texto5": "It's not proper to wear jeans to a formal wedding.",
+    "texto6": "No es apropiado usar jeans en una boda formal."
+  },
+  {
+    "texto1": "Un adjetivo que se usa para describir algo que es de buena calidad, auténtico, o lo que se espera que sea, a menudo en un sentido de seriedad o de formalidad.",
+    "texto2": "Auténtico / Genuino / Real",
+    "texto3": "proper /ˈprɑːpər/",
+    "texto4": "N/A",
+    "texto5": "We need to get a proper shovel to dig this hole.",
+    "texto6": "Necesitamos conseguir una pala de verdad para cavar este hoyo."
+  },
+  {
+    "texto1": "Un adjetivo que se usa para describir a una persona, cosa o lugar que es considerado de la alta sociedad o que se comporta de una manera formal y respetable.",
+    "texto2": "Decente / Respetable / Formal",
+    "texto3": "proper /ˈprɑːpər/",
+    "texto4": "N/A",
+    "texto5": "She comes from a proper family and has excellent manners.",
+    "texto6": "Ella proviene de una familia decente y tiene excelentes modales."
+  },
+  {
+    "texto1": "Un adjetivo que se usa para enfatizar que algo es el nombre o término exacto o correcto para un objeto, lugar o concepto. Se usa a menudo en la frase 'the proper name'.",
+    "texto2": "Propio / Exacto",
+    "texto3": "proper /ˈprɑːpər/",
+    "texto4": "N/A",
+    "texto5": "In proper English, you should say 'thank you' and not 'thanks'.",
+    "texto6": "En el inglés apropiado, debes decir 'thank you' y no 'thanks'."
+  },
+  {
+    "texto1": "Un sustantivo que se refiere a un camino o sendero, especialmente en una zona rural o boscosa. También se usa como verbo para describir la acción de seguir a alguien o algo de cerca o para arrastrar algo detrás de uno.",
+    "texto2": "Sendero / Pista / Rastro",
+    "texto3": "trail /treɪl/",
+    "texto4": "N/A",
+    "texto5": "We followed the trail through the forest to reach the lake.",
+    "texto6": "Seguimos el sendero por el bosque para llegar al lago."
+  },
+  {
+    "texto1": "Un sustantivo que se refiere a una serie de huellas, marcas, o un rastro que se deja atrás, lo que permite seguir a alguien o algo. Puede ser literal, como huellas en la nieve, o figurado, como un rastro de destrucción.",
+    "texto2": "Rastro / Huella",
+    "texto3": "trail /treɪl/",
+    "texto4": "N/A",
+    "texto5": "The police dogs picked up the trail of the missing person.",
+    "texto6": "Los perros policía siguieron el rastro de la persona desaparecida."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de arrastrar algo por el suelo o detrás de uno. También puede usarse para describir el acto de seguir a alguien o algo a distancia.",
+    "texto2": "Arrastrar / Seguir",
+    "texto3": "trail /treɪl/",
+    "texto4": "trailed / will trail / trailing",
+    "texto5": "The dog's leash trailed behind him as he ran.",
+    "texto6": "La correa del perro se arrastraba detrás de él mientras corría."
+  },
+  {
+    "texto1": "Un verbo que se usa para describir la acción de ir detrás de alguien, como un competidor, o de estar en una posición de menor éxito en una carrera o un juego.",
+    "texto2": "Ir detrás / Estar a la zaga",
+    "texto3": "trail /treɪl/",
+    "texto4": "trailed / will trail / trailing",
+    "texto5": "Our team is trailing by ten points with only a minute left in the game.",
+    "texto6": "Nuestro equipo va a la zaga por diez puntos con solo un minuto restante en el juego."
   }
 ]
