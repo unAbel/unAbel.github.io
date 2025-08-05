@@ -318,5 +318,309 @@
     "texto4": "reached / will reach / reaching",
     "texto5": "I tried to reach you all day, but your phone was off.",
     "texto6": "Intenté contactarte todo el día, pero tu teléfono estaba apagado."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de traicionar la confianza de alguien, especialmente revelando un secreto, engañando a esa persona, o mostrándose desleal. Es la forma en pasado y pasado participio de 'betray'.",
+    "texto2": "Traicionar / Engañar / Revelar",
+    "texto3": "betrayed /bɪˈtreɪd/",
+    "texto4": "N/A",
+    "texto5": "I feel betrayed because he told everyone my secret.",
+    "texto6": "Me siento traicionado porque él le contó a todos mi secreto."
+  },
+  {
+    "texto1": "Un verbo que se usa para describir el acto de revelar información, un sentimiento, o una cualidad sin la intención de hacerlo. A menudo se usa en un contexto más pasivo o sutil.",
+    "texto2": "Revelar / Delatar / Manifestar",
+    "texto3": "betrayed /bɪˈtreɪd/",
+    "texto4": "N/A",
+    "texto5": "His nervous trembling betrayed his fear.",
+    "texto6": "Su temblor nervioso delató su miedo."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de engañar a alguien en su fe o confianza, especialmente en un contexto romántico, pero también puede ser usado en otros contextos sociales o profesionales.",
+    "texto2": "Traicionar / Ser infiel",
+    "texto3": "betrayed /bɪˈtreɪd/",
+    "texto4": "N/A",
+    "texto5": "He betrayed his country by selling government secrets.",
+    "texto6": "Él traicionó a su país vendiendo secretos gubernamentales."
+  },
+  {
+    "texto1": "Un adjetivo que describe a una persona o animal que no puede caminar normalmente debido a una lesión en la pierna o el pie. En el lenguaje informal americano, se usa para describir algo que es insatisfactorio, aburrido o poco convincente.",
+    "texto2": "Cojo / Patético / Aburrido / Pobre",
+    "texto3": "lame /leɪm/",
+    "texto4": "lamer / will be lame / being lame",
+    "texto5": "That movie was really lame; nothing exciting happened.",
+    "texto6": "Esa película fue realmente patética; no pasó nada emocionante."
+  },
+  {
+    "texto1": "Un adjetivo usado para referirse a una persona que no puede caminar normalmente debido a una lesión o defecto físico en una o ambas piernas. Este uso es más formal o técnico que el uso informal.",
+    "texto2": "Cojo / Lisiado",
+    "texto3": "lame /leɪm/",
+    "texto4": "lamer / will be lame / being lame",
+    "texto5": "The injured horse was lame and could not run in the race.",
+    "texto6": "El caballo herido estaba cojo y no pudo correr en la carrera."
+  },
+  {
+    "texto1": "Un adjetivo en lenguaje informal, especialmente entre adolescentes, para describir algo que es aburrido, poco interesante, o de baja calidad.",
+    "texto2": "Aburrido / Pobre / Tonto",
+    "texto3": "lame /leɪm/",
+    "texto4": "lamer / will be lame / being lame",
+    "texto5": "Don't be so lame; let's go out and do something fun!",
+    "texto6": "¡No seas tan aburrido; salgamos a hacer algo divertido!"
+  },
+  {
+    "texto1": "Un adjetivo usado para describir una excusa o un argumento que es débil, poco convincente o poco sincero.",
+    "texto2": "Pobre / Insatisfactorio / Malo",
+    "texto3": "lame /leɪm/",
+    "texto4": "lamer / will be lame / being lame",
+    "texto5": "He gave a lame excuse for not finishing his homework.",
+    "texto6": "Dio una pobre excusa por no terminar su tarea."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de conceder, otorgar o dar algo formalmente a alguien, como un deseo, un permiso, o una solicitud. Como sustantivo, se refiere a una suma de dinero dada por una organización o el gobierno para un propósito específico.",
+    "texto2": "Conceder / Otorgar / Subsidio / Beca",
+    "texto3": "grant /ɡrænt/",
+    "texto4": "granted / will grant / granting",
+    "texto5": "The city council decided to grant the company a permit for the new building.",
+    "texto6": "El consejo de la ciudad decidió conceder a la empresa un permiso para el nuevo edificio."
+  },
+  {
+    "texto1": "Un sustantivo que se refiere a una suma de dinero que se otorga a un individuo o una organización para un propósito específico, como investigación, estudio o un proyecto, sin la expectativa de que sea devuelto.",
+    "texto2": "Beca / Subsidio / Donación",
+    "texto3": "grant /ɡrænt/",
+    "texto4": "N/A",
+    "texto5": "She received a grant to fund her research on climate change.",
+    "texto6": "Ella recibió una beca para financiar su investigación sobre el cambio climático."
+  },
+  {
+    "texto1": "Una frase verbal que se usa para describir el acto de dar por sentado algo, asumiendo que algo es cierto o que sucederá sin pensarlo realmente. A menudo se usa en la forma 'take something for granted'.",
+    "texto2": "Dar por sentado",
+    "texto3": "grant /ɡrænt/",
+    "texto4": "N/A",
+    "texto5": "He took her kindness for granted and never thanked her.",
+    "texto6": "Él dio por sentado su amabilidad y nunca le dio las gracias."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de aceptar o permitir que algo suceda, a menudo a regañadientes o como parte de una discusión, en la forma 'I grant you that...'.",
+    "texto2": "Admitir / Conceder",
+    "texto3": "grant /ɡrænt/",
+    "texto4": "granted / will grant / granting",
+    "texto5": "I grant you that it's a difficult situation, but we still have to try.",
+    "texto6": "Admito que es una situación difícil, pero aún así tenemos que intentarlo."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de llegar a un lugar después de un viaje o un período de tiempo. Se usa para referirse a la llegada de personas, objetos o incluso eventos, como la llegada de una carta o de una fecha.",
+    "texto2": "Llegar / Arribar",
+    "texto3": "arrive /əˈraɪv/",
+    "texto4": "arrived / will arrive / arriving",
+    "texto5": "What time did you arrive at the airport?",
+    "texto6": "¿A qué hora llegaste al aeropuerto?"
+  },
+  {
+    "texto1": "Un verbo que describe el acto de que un evento, un momento o un período de tiempo importante suceda o se presente.",
+    "texto2": "Llegar / Venir",
+    "texto3": "arrive /əˈraɪv/",
+    "texto4": "arrived / will arrive / arriving",
+    "texto5": "The time has arrived for us to make a decision.",
+    "texto6": "Ha llegado el momento de que tomemos una decisión."
+  },
+  {
+    "texto1": "Un verbo que se usa para describir el acto de conseguir el éxito o de lograr una posición de importancia o reconocimiento después de un esfuerzo sostenido.",
+    "texto2": "Llegar / Tener éxito",
+    "texto3": "arrive /əˈraɪv/",
+    "texto4": "arrived / will arrive / arriving",
+    "texto5": "After years of hard work, he finally felt that he had arrived.",
+    "texto6": "Después de años de arduo trabajo, finalmente sintió que había tenido éxito."
+  },
+  {
+    "texto1": "Un verbo que describe el acto de que una carta, un paquete o cualquier otra forma de correspondencia sea entregada en su destino.",
+    "texto2": "Llegar / Recibir",
+    "texto3": "arrive /əˈraɪv/",
+    "texto4": "arrived / will arrive / arriving",
+    "texto5": "The package arrived yesterday, but I wasn't home to receive it.",
+    "texto6": "El paquete llegó ayer, pero no estaba en casa para recibirlo."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de pedir una cantidad de dinero como pago por un servicio o producto. También se usa para referirse a la acción de cargar o llenar una batería con electricidad, o para acusar a alguien de un crimen.",
+    "texto2": "Cobrar / Cargar / Acusar",
+    "texto3": "charge /tʃɑːrdʒ/",
+    "texto4": "charged / will charge / charging",
+    "texto5": "The hotel will charge your credit card when you check out.",
+    "texto6": "El hotel le cobrará a su tarjeta de crédito cuando haga el check-out."
+  },
+  {
+    "texto1": "Un verbo que describe el acto de reabastecer o llenar un dispositivo, como una batería o un teléfono, con energía eléctrica.",
+    "texto2": "Cargar",
+    "texto3": "charge /tʃɑːrdʒ/",
+    "texto4": "charged / will charge / charging",
+    "texto5": "I need to charge my phone before I leave the house.",
+    "texto6": "Necesito cargar mi teléfono antes de salir de casa."
+  },
+  {
+    "texto1": "Un verbo que se usa para referirse a la acción de acusar formalmente a alguien de un crimen o delito.",
+    "texto2": "Acusar / Imputar",
+    "texto3": "charge /tʃɑːrdʒ/",
+    "texto4": "charged / will charge / charging",
+    "texto5": "He was charged with theft and had to go to court.",
+    "texto6": "Fue acusado de robo y tuvo que ir a la corte."
+  },
+  {
+    "texto1": "Un sustantivo que se refiere a la responsabilidad o el cuidado de alguien o algo. También se usa para referirse a una tarifa o un cargo por un servicio.",
+    "texto2": "Cargo / Responsabilidad",
+    "texto3": "charge /tʃɑːrdʒ/",
+    "texto4": "N/A",
+    "texto5": "The children were left in the charge of their grandparents.",
+    "texto6": "Los niños quedaron a cargo de sus abuelos."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de avanzar rápidamente hacia alguien o algo para atacar o confrontar. A menudo se usa en un contexto militar o figurado.",
+    "texto2": "Cargar / Acometer / Atacar",
+    "texto3": "charge /tʃɑːrdʒ/",
+    "texto4": "charged / will charge / charging",
+    "texto5": "The knight charged at the dragon with his sword drawn.",
+    "texto6": "El caballero atacó al dragón con su espada desenvainada."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de preguntarse o sentir curiosidad sobre algo. También se usa para expresar asombro o admiración ante algo inesperado, bello o extraordinario. Como sustantivo, se refiere a algo que causa asombro.",
+    "texto2": "Preguntarse / Asombrarse / Maravilla",
+    "texto3": "wonder /ˈwʌndər/",
+    "texto4": "wondered / will wonder / wondering",
+    "texto5": "I wonder what time the train is going to arrive.",
+    "texto6": "Me pregunto a qué hora va a llegar el tren."
+  },
+  {
+    "texto1": "Un sustantivo que se refiere a un sentimiento de asombro, admiración o sorpresa por algo hermoso, extraordinario o inesperado.",
+    "texto2": "Maravilla / Asombro",
+    "texto3": "wonder /ˈwʌndər/",
+    "texto4": "N/A",
+    "texto5": "The Grand Canyon is one of the natural wonders of the world.",
+    "texto6": "El Gran Cañón es una de las maravillas naturales del mundo."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de preguntarse o dudar sobre algo, especialmente de una manera que puede implicar incertidumbre o escepticismo.",
+    "texto2": "Dudar / Preguntarse",
+    "texto3": "wonder /ˈwʌndər/",
+    "texto4": "wondered / will wonder / wondering",
+    "texto5": "She wondered if she had made the right decision.",
+    "texto6": "Ella se preguntaba si había tomado la decisión correcta."
+  },
+  {
+    "texto1": "Un verbo que se usa para expresar el deseo de saber o comprender algo, a menudo con una connotación de curiosidad o intriga.",
+    "texto2": "Querer saber / Tener curiosidad",
+    "texto3": "wonder /ˈwʌndər/",
+    "texto4": "wondered / will wonder / wondering",
+    "texto5": "I wonder who called me while I was out.",
+    "texto6": "Me pregunto quién me llamó mientras estaba fuera."
+  },
+  {
+    "texto1": "Un sustantivo que se refiere a una plataforma o estructura construida en el agua, donde los barcos pueden atracar para cargar y descargar, o para ser reparados. También se usa como verbo para referirse a la acción de atracar un barco.",
+    "texto2": "Muelle / Dique / Atracar",
+    "texto3": "dock /dɑːk/",
+    "texto4": "N/A",
+    "texto5": "The cruise ship will arrive at the dock at 9 a.m.",
+    "texto6": "El crucero llegará al muelle a las 9 de la mañana."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de un barco o bote que llega y se amarra a un muelle, permitiendo que la gente suba o baje.",
+    "texto2": "Atracar / Amarrar",
+    "texto3": "dock /dɑːk/",
+    "texto4": "docked / will dock / docking",
+    "texto5": "The boat docked at the small pier to let the passengers off.",
+    "texto6": "El bote atracó en el pequeño muelle para dejar bajar a los pasajeros."
+  },
+  {
+    "texto1": "Un verbo que se usa para describir el acto de deducir dinero del salario de alguien, a menudo como una multa o una penalización.",
+    "texto2": "Retener / Deducir (dinero)",
+    "texto3": "dock /dɑːk/",
+    "texto4": "docked / will dock / docking",
+    "texto5": "They will dock your pay if you are late for work again.",
+    "texto6": "Te retendrán dinero de tu sueldo si llegas tarde al trabajo de nuevo."
+  },
+  {
+    "texto1": "Un sustantivo que se refiere al área en un tribunal de justicia donde se sientan los acusados durante un juicio.",
+    "texto2": "Banquillo de los acusados",
+    "texto3": "dock /dɑːk/",
+    "texto4": "N/A",
+    "texto5": "The accused stood in the dock and listened to the verdict.",
+    "texto6": "El acusado se puso de pie en el banquillo y escuchó el veredicto."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de dar, suministrar o hacer que algo esté disponible para alguien. A menudo se usa para hablar de la provisión de cosas necesarias como comida, refugio o información.",
+    "texto2": "Proporcionar / Suministrar / Proveer / Dar",
+    "texto3": "provide /prəˈvaɪd/",
+    "texto4": "provided / will provide / providing",
+    "texto5": "The school will provide all the necessary books for the students.",
+    "texto6": "La escuela proporcionará todos los libros necesarios para los estudiantes."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de proveer el sustento o el apoyo financiero a una familia o a un individuo. También puede usarse para referirse a la acción de preparar con antelación para el futuro.",
+    "texto2": "Mantener / Proveer para",
+    "texto3": "provide /prəˈvaɪd/",
+    "texto4": "provided / will provide / providing",
+    "texto5": "He works hard to provide for his family.",
+    "texto6": "Él trabaja duro para mantener a su familia."
+  },
+  {
+    "texto1": "Una conjunción o adverbio que se usa para introducir una condición, a menudo en la forma de 'provided that' o 'providing that'.",
+    "texto2": "Siempre que / A condición de que",
+    "texto3": "provide /prəˈvaɪd/",
+    "texto4": "N/A",
+    "texto5": "You can go to the party, provided that you finish your homework first.",
+    "texto6": "Puedes ir a la fiesta, siempre y cuando termines tu tarea primero."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de guiar a alguien en la dirección equivocada o hacer que crean algo falso, a menudo con el propósito de engañar. Se usa comúnmente para hablar de información o acciones que resultan en una conclusión errónea.",
+    "texto2": "Engañar / Desorientar / Inducir a error",
+    "texto3": "mislead /mɪsˈliːd/",
+    "texto4": "misled / will mislead / misleading",
+    "texto5": "The politician's speech was designed to mislead the public about the new law.",
+    "texto6": "El discurso del político fue diseñado para engañar al público sobre la nueva ley."
+  },
+  {
+    "texto1": "Un verbo que se usa para describir el acto de llevar a alguien por un camino equivocado, ya sea de forma física, como perderse, o de forma figurada, como dar un mal consejo.",
+    "texto2": "Desorientar / Extraviar / Descaminar",
+    "texto3": "mislead /mɪsˈliːd/",
+    "texto4": "misled / will mislead / misleading",
+    "texto5": "The old map misled us, and we ended up in the wrong town.",
+    "texto6": "El viejo mapa nos desorientó, y terminamos en el pueblo equivocado."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de dar una impresión falsa o incorrecta a alguien, lo que lleva a una conclusión equivocada. Es similar a engañar, pero puede ser menos intencional.",
+    "texto2": "Dar una impresión falsa / Confundir",
+    "texto3": "mislead /mɪsˈliːd/",
+    "texto4": "misled / will mislead / misleading",
+    "texto5": "His friendly demeanor can sometimes mislead people into thinking he's not serious about his work.",
+    "texto6": "Su comportamiento amigable a veces puede confundir a la gente haciéndoles pensar que no se toma en serio su trabajo."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de decir los números en orden, o determinar el número total de personas o cosas. También puede usarse para considerar o tener algo en cuenta, como en 'contar con algo'.",
+    "texto2": "Contar / Calcular / Considerar",
+    "texto3": "count /kaʊnt/",
+    "texto4": "counted / will count / counting",
+    "texto5": "I asked my son to count how many apples were in the basket.",
+    "texto6": "Le pedí a mi hijo que contara cuántas manzanas había en la cesta."
+  },
+  {
+    "texto1": "Un verbo que se usa para describir el acto de considerar o incluir algo como parte de un total o una evaluación, a menudo con la preposición 'in'.",
+    "texto2": "Contar / Incluir",
+    "texto3": "count /kaʊnt/",
+    "texto4": "counted / will count / counting",
+    "texto5": "Don't forget to count in the money you spent on groceries.",
+    "texto6": "No olvides incluir el dinero que gastaste en la compra."
+  },
+  {
+    "texto1": "Un verbo que describe el acto de depender o confiar en alguien o algo, a menudo con la preposición 'on'.",
+    "texto2": "Contar con / Depender de",
+    "texto3": "count /kaʊnt/",
+    "texto4": "counted / will count / counting",
+    "texto5": "You can count on me to be there for you no matter what.",
+    "texto6": "Puedes contar conmigo para estar ahí para ti pase lo que pase."
+  },
+  {
+    "texto1": "Un sustantivo que se refiere al acto de contar o al resultado de un conteo, como en el contexto de una votación o un censo.",
+    "texto2": "Conteo / Cuenta",
+    "texto3": "count /kaʊnt/",
+    "texto4": "N/A",
+    "texto5": "The final count showed that the 'yes' votes were higher than the 'no' votes.",
+    "texto6": "El conteo final mostró que los votos a favor eran más altos que los votos en contra."
   }
 ]
