@@ -791,16 +791,16 @@
     "texto5": "In proper English, you should say 'thank you' and not 'thanks'.",
     "texto6": "En el inglés apropiado, debes decir 'thank you' y no 'thanks'."
   },
-  {
-    "texto1": "Un sustantivo que se refiere a un camino o sendero, especialmente en una zona rural o boscosa. También se usa como verbo para describir la acción de seguir a alguien o algo de cerca o para arrastrar algo detrás de uno.",
-    "texto2": "Sendero / Pista / Rastro",
+{
+    "texto1": "Un sustantivo que se refiere a un camino o sendero, especialmente en una zona natural o boscosa. Es una ruta establecida o un camino creado por el uso frecuente.",
+    "texto2": "Sendero / Camino",
     "texto3": "trail /treɪl/",
     "texto4": "N/A",
     "texto5": "We followed the trail through the forest to reach the lake.",
     "texto6": "Seguimos el sendero por el bosque para llegar al lago."
   },
   {
-    "texto1": "Un sustantivo que se refiere a una serie de huellas, marcas, o un rastro que se deja atrás, lo que permite seguir a alguien o algo. Puede ser literal, como huellas en la nieve, o figurado, como un rastro de destrucción.",
+    "texto1": "Un sustantivo que se refiere a las huellas, marcas, o el rastro que deja una persona, animal u objeto al moverse. Puede ser tanto físico (huellas) como metafórico (un rastro de evidencia).",
     "texto2": "Rastro / Huella",
     "texto3": "trail /treɪl/",
     "texto4": "N/A",
@@ -808,16 +808,16 @@
     "texto6": "Los perros policía siguieron el rastro de la persona desaparecida."
   },
   {
-    "texto1": "Un verbo que describe la acción de arrastrar algo por el suelo o detrás de uno. También puede usarse para describir el acto de seguir a alguien o algo a distancia.",
-    "texto2": "Arrastrar / Seguir",
+    "texto1": "Un verbo que describe la acción de arrastrar pasivamente algo detrás de uno, generalmente sin intención, como una prenda de ropa o una cuerda. No implica la acción forzada de arrastrar algo pesado.",
+    "texto2": "Arrastrarse / Colgar",
     "texto3": "trail /treɪl/",
     "texto4": "trailed / will trail / trailing",
     "texto5": "The dog's leash trailed behind him as he ran.",
     "texto6": "La correa del perro se arrastraba detrás de él mientras corría."
   },
   {
-    "texto1": "Un verbo que se usa para describir la acción de ir detrás de alguien, como un competidor, o de estar en una posición de menor éxito en una carrera o un juego.",
-    "texto2": "Ir detrás / Estar a la zaga",
+    "texto1": "Un verbo que se usa para describir la acción de ir detrás de alguien en una competición o carrera, o de estar en una posición de desventaja.",
+    "texto2": "Ir detrás / Quedarse atrás",
     "texto3": "trail /treɪl/",
     "texto4": "trailed / will trail / trailing",
     "texto5": "Our team is trailing by ten points with only a minute left in the game.",
