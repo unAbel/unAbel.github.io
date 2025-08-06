@@ -822,5 +822,125 @@
     "texto4": "trailed / will trail / trailing",
     "texto5": "Our team is trailing by ten points with only a minute left in the game.",
     "texto6": "Nuestro equipo va a la zaga por diez puntos con solo un minuto restante en el juego."
+  },
+  {
+    "texto1": "Un sustantivo que se refiere a una cantidad de dinero que se ha reunido o reservado para un propósito específico. Como verbo, significa proporcionar dinero para algo.",
+    "texto2": "Fondo / Fondos / Financiación",
+    "texto3": "fund /fʌnd/",
+    "texto4": "N/A",
+    "texto5": "We started a fund to help people affected by the flood.",
+    "texto6": "Empezamos un fondo para ayudar a las personas afectadas por la inundación."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de proporcionar el dinero necesario para un proyecto, una organización o una actividad. Es la acción de financiar algo.",
+    "texto2": "Financiar / Subvencionar",
+    "texto3": "fund /fʌnd/",
+    "texto4": "funded / will fund / funding",
+    "texto5": "The new research project will be funded by the government.",
+    "texto6": "El nuevo proyecto de investigación será financiado por el gobierno."
+  },
+  {
+    "texto1": "Un sustantivo en plural ('funds') que se refiere al dinero disponible que una persona, organización o gobierno tiene para gastar. A menudo se usa en un contexto de finanzas personales o corporativas.",
+    "texto2": "Dinero / Capital / Recursos",
+    "texto3": "fund /fʌnd/",
+    "texto4": "N/A",
+    "texto5": "I don't have the funds to buy a new car right now.",
+    "texto6": "No tengo los fondos para comprar un coche nuevo en este momento."
+  },
+  {
+    "texto1": "Un sustantivo que se refiere a una reserva de algo, no solo de dinero, que se mantiene disponible para su uso cuando sea necesario. Puede ser un fondo de conocimiento, de energía, o de cualquier otro recurso.",
+    "texto2": "Reserva / Suministro",
+    "texto3": "fund /fʌnd/",
+    "texto4": "N/A",
+    "texto5": "The professor has a deep fund of knowledge about the topic.",
+    "texto6": "El profesor tiene un profundo fondo de conocimiento sobre el tema."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de expresar insatisfacción, dolor, resentimiento o descontento sobre algo. Se puede usar para hablar de una queja formal o de una queja informal sobre una situación o persona.",
+    "texto2": "Quejarse / Reclamar / Lamentarse",
+    "texto3": "complain /kəmˈpleɪn/",
+    "texto4": "complained / will complain / complaining",
+    "texto5": "The customers complained about the slow service at the restaurant.",
+    "texto6": "Los clientes se quejaron del servicio lento en el restaurante."
+  },
+  {
+    "texto1": "Un verbo que se usa para describir el acto de expresar una queja formal o una demanda contra una persona o una organización, a menudo en un contexto legal o administrativo.",
+    "texto2": "Reclamar / Presentar una queja",
+    "texto3": "complain /kəmˈpleɪn/",
+    "texto4": "complained / will complain / complaining",
+    "texto5": "He threatened to complain to the manager if they didn't fix the problem.",
+    "texto6": "Él amenazó con quejarse al gerente si no arreglaban el problema."
+  },
+  {
+    "texto1": "Un verbo que describe el acto de quejarse de forma crónica o habitual, a menudo sobre cosas pequeñas o sin importancia, lo que da una connotación de ser una persona pesimista o negativa.",
+    "texto2": "Quejarse por todo / Lloriquear",
+    "texto3": "complain /kəmˈpleɪn/",
+    "texto4": "complained / will complain / complaining",
+    "texto5": "He's always complaining about his job, but he never tries to find a new one.",
+    "texto6": "Él siempre se está quejando de su trabajo, pero nunca intenta encontrar uno nuevo."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de tener la misma opinión, idea o sentimiento que otra persona. También se usa para aceptar una propuesta, un plan o un contrato, o para estar de acuerdo con una declaración o hecho.",
+    "texto2": "Estar de acuerdo / Aceptar / Concordar",
+    "texto3": "agree /əˈɡriː/",
+    "texto4": "agreed / will agree / agreeing",
+    "texto5": "I agree with you; it's a great idea.",
+    "texto6": "Estoy de acuerdo contigo; es una gran idea."
+  },
+  {
+    "texto1": "Un verbo que describe el acto de aceptar un acuerdo, un contrato o una propuesta, lo que a menudo implica un compromiso formal o una promesa. Se usa para referirse a la resolución de un desacuerdo.",
+    "texto2": "Acordar / Pactar / Convenio",
+    "texto3": "agree /əˈɡriː/",
+    "texto4": "agreed / will agree / agreeing",
+    "texto5": "They agreed to a new contract that will last for five years.",
+    "texto6": "Acordaron un nuevo contrato que durará cinco años."
+  },
+  {
+    "texto1": "Un verbo que se usa para describir el acto de concordar con una declaración o un hecho, reconociendo que es verdadero o válido.",
+    "texto2": "Admitir / Reconocer / Estar de acuerdo",
+    "texto3": "agree /əˈɡriː/",
+    "texto4": "agreed / will agree / agreeing",
+    "texto5": "I agree that the situation is difficult, but we must try to find a solution.",
+    "texto6": "Estoy de acuerdo en que la situación es difícil, pero debemos tratar de encontrar una solución."
+  },
+  {
+    "texto1": "Un verbo que se refiere a la acción de que dos elementos gramaticales, como un sujeto y un verbo, coincidan en número, género o persona. Es un uso más técnico, relacionado con la lingüística.",
+    "texto2": "Concordar",
+    "texto3": "agree /əˈɡriː/",
+    "texto4": "agreed / will agree / agreeing",
+    "texto5": "The verb must agree with the subject in number.",
+    "texto6": "El verbo debe concordar con el sujeto en número."
+  },
+  {
+    "texto1": "Un sustantivo que se refiere a un arreglo o trato entre dos o más partes. También puede significar el estado de estar de acuerdo en una opinión, idea o sentimiento. Formalmente, se usa para un contrato o documento legal.",
+    "texto2": "Acuerdo / Contrato / Convenio",
+    "texto3": "agreement /əˈɡriːmənt/",
+    "texto4": "N/A",
+    "texto5": "We finally reached an agreement on the new contract terms.",
+    "texto6": "Finalmente llegamos a un acuerdo sobre los términos del nuevo contrato."
+  },
+  {
+    "texto1": "Un sustantivo que se refiere a una convención o arreglo formal que es legalmente vinculante para las partes involucradas. A menudo se usa en un contexto de negocios, política o derecho.",
+    "texto2": "Acuerdo / Pacto / Tratado",
+    "texto3": "agreement /əˈɡriːmənt/",
+    "texto4": "N/A",
+    "texto5": "The two countries signed a trade agreement to boost their economies.",
+    "texto6": "Los dos países firmaron un acuerdo comercial para impulsar sus economías."
+  },
+  {
+    "texto1": "Un sustantivo que describe un consenso o una armonía en ideas, opiniones o sentimientos entre varias personas. Implica que las partes están de acuerdo entre sí.",
+    "texto2": "Concordancia / Armonía",
+    "texto3": "agreement /əˈɡriːmənt/",
+    "texto4": "N/A",
+    "texto5": "There was a general agreement among the team members about the new strategy.",
+    "texto6": "Hubo una concordancia general entre los miembros del equipo sobre la nueva estrategia."
+  },
+  {
+    "texto1": "Un sustantivo en el campo de la lingüística que se refiere a la concordancia entre las formas de las palabras en una oración, como la concordancia de género, número o persona entre un sujeto y su verbo.",
+    "texto2": "Concordancia",
+    "texto3": "agreement /əˈɡriːmənt/",
+    "texto4": "N/A",
+    "texto5": "The agreement between the noun and the adjective is essential in Spanish grammar.",
+    "texto6": "La concordancia entre el sustantivo y el adjetivo es esencial en la gramática española."
   }
 ]
