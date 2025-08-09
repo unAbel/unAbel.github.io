@@ -214,5 +214,189 @@
     "texto4": "absorbed / will absorb / absorbing",
     "texto5": "The company had to absorb the cost of the damaged goods.",
     "texto6": "La empresa tuvo que absorber el costo de los productos dañados."
+  },
+  {
+    "texto1": "Un verbo que describe el uso indebido o excesivo de algo, como una sustancia o un poder. Como sustantivo, se refiere al trato cruel o violento de una persona o animal, o al uso inapropiado de una posición o recurso.",
+    "texto2": "Abusar / Maltratar / Abuso / Maltrato",
+    "texto3": "abuse /əˈbjuːs/",
+    "texto4": "abused / will abuse / abusing",
+    "texto5": "He was fired for abusing his position of power at the company.",
+    "texto6": "Fue despedido por abusar de su posición de poder en la empresa."
+  },
+  {
+    "texto1": "Un sustantivo que se refiere al trato cruel o violento de una persona o animal. Puede ser físico, emocional o psicológico. A menudo se usa en un contexto de violencia doméstica o maltrato infantil.",
+    "texto2": "Maltrato / Violencia / Abuso",
+    "texto3": "abuse /əˈbjuːs/",
+    "texto4": "N/A",
+    "texto5": "The police are investigating a case of child abuse in the neighborhood.",
+    "texto6": "La policía está investigando un caso de abuso infantil en el vecindario."
+  },
+  {
+    "texto1": "Un sustantivo que se refiere al uso excesivo o adictivo de una sustancia, como el alcohol o las drogas. Se usa comúnmente en la frase 'drug abuse' o 'substance abuse'.",
+    "texto2": "Abuso (de drogas o alcohol)",
+    "texto3": "abuse /əˈbjuːs/",
+    "texto4": "N/A",
+    "texto5": "Substance abuse is a serious problem that requires professional help.",
+    "texto6": "El abuso de sustancias es un problema grave que requiere ayuda profesional."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de hablar a alguien de una manera grosera, ofensiva o insultante. Se usa para referirse a un maltrato verbal o a un lenguaje abusivo.",
+    "texto2": "Insultar / Ofender / Maltratar (verbalmente)",
+    "texto3": "abuse /əˈbjuːs/",
+    "texto4": "abused / will abuse / abusing",
+    "texto5": "He abused the referee with a lot of foul language after the game.",
+    "texto6": "Él insultó al árbitro con mucho lenguaje soez después del partido."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de aumentar la velocidad de un vehículo u otro objeto en movimiento. También se usa en sentido figurado para describir el aumento de la velocidad o la intensidad de un proceso o un evento.",
+    "texto2": "Acelerar / Aumentar la velocidad / Impulsar",
+    "texto3": "accelerate /ækˈseləreɪt/",
+    "texto4": "accelerated / will accelerate / accelerating",
+    "texto5": "The car accelerated quickly as it entered the highway.",
+    "texto6": "El coche aceleró rápidamente al entrar en la autopista."
+  },
+  {
+    "texto1": "Un verbo que se usa para describir el aumento de la velocidad o la tasa de un proceso o evento, como el crecimiento de una economía, la propagación de un rumor o el desarrollo de una enfermedad.",
+    "texto2": "Acelerar / Impulsar",
+    "texto3": "accelerate /ækˈseləreɪt/",
+    "texto4": "accelerated / will accelerate / accelerating",
+    "texto5": "The new policies are designed to accelerate economic growth.",
+    "texto6": "Las nuevas políticas están diseñadas para acelerar el crecimiento económico."
+  },
+  {
+    "texto1": "Un verbo que describe el acto de hacer que algo suceda más rápido o a un ritmo más rápido de lo normal. A menudo se usa en un contexto más técnico o científico.",
+    "texto2": "Acelerar / Apresurar",
+    "texto3": "accelerate /ækˈseləreɪt/",
+    "texto4": "accelerated / will accelerate / accelerating",
+    "texto5": "The scientists used a catalyst to accelerate the chemical reaction.",
+    "texto6": "Los científicos usaron un catalizador para acelerar la reacción química."
+  },
+  {
+    "texto1": "Un sustantivo que se refiere a la forma distintiva en que una persona habla, lo que a menudo revela su país, región o clase social. Es el conjunto de sonidos, entonación y ritmo que caracterizan el habla de un grupo de personas. También puede referirse a un signo ortográfico que se añade a una letra.",
+    "texto2": "Acento / Deje / Entonación",
+    "texto3": "accent /ˈæksent/",
+    "texto4": "N/A",
+    "texto5": "She has a beautiful French accent when she speaks English.",
+    "texto6": "Ella tiene un hermoso acento francés cuando habla inglés."
+  },
+  {
+    "texto1": "Un sustantivo que se refiere a un signo ortográfico que se añade a una letra para indicar que su pronunciación es diferente, como en las palabras 'résumé' o 'café'.",
+    "texto2": "Acento / Tilde",
+    "texto3": "accent /ˈæksent/",
+    "texto4": "N/A",
+    "texto5": "In Spanish, the word 'teléfono' has an accent on the 'e'.",
+    "texto6": "En español, la palabra 'teléfono' tiene un acento en la 'e'."
+  },
+  {
+    "texto1": "Un sustantivo que se refiere a un énfasis o un estrés que se pone en una sílaba o una palabra al hablar. Es la fuerza o la prominencia que se le da a una parte del discurso, lo que hace que se escuche más fuerte que el resto.",
+    "texto2": "Acento / Énfasis / Estrés",
+    "texto3": "accent /ˈæksent/",
+    "texto4": "N/A",
+    "texto5": "The accent in the word 'beautiful' is on the first syllable.",
+    "texto6": "El acento en la palabra 'beautiful' está en la primera sílaba."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de dar un énfasis particular a algo, ya sea en el habla o en un contexto figurado, como en el diseño o el arte. Se usa para destacar o enfatizar una parte de una composición.",
+    "texto2": "Acentuar / Destacar / Enfatizar",
+    "texto3": "accent /ˈæksent/",
+    "texto4": "accented / will accent / accenting",
+    "texto5": "She accented her outfit with a beautiful red scarf.",
+    "texto6": "Ella acentuó su atuendo con una hermosa bufanda roja."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de recibir o tomar algo que se ofrece, como un regalo o una propuesta. También se usa para estar de acuerdo con una idea, reconocer la verdad de una situación, o admitir a alguien en un grupo o institución.",
+    "texto2": "Aceptar / Recibir / Admitir",
+    "texto3": "accept /əkˈsept/",
+    "texto4": "accepted / will accept / accepting",
+    "texto5": "I will accept the job offer because it's a great opportunity.",
+    "texto6": "Aceptaré la oferta de trabajo porque es una gran oportunidad."
+  },
+  {
+    "texto1": "Un verbo que describe el acto de estar de acuerdo con una idea, un plan o una opinión, sin necesariamente recibir algo físico. Implica una aprobación mental o verbal de algo que se ha propuesto.",
+    "texto2": "Aceptar / Aprobar",
+    "texto3": "accept /əkˈsept/",
+    "texto4": "accepted / will accept / accepting",
+    "texto5": "We all accepted the new rules without any discussion.",
+    "texto6": "Todos aceptamos las nuevas reglas sin ninguna discusión."
+  },
+  {
+    "texto1": "Un verbo que se usa para referirse al acto de reconocer una situación o un hecho como verdadero o válido, incluso si es desagradable. Implica un proceso de asimilación emocional o mental.",
+    "texto2": "Aceptar / Asumir",
+    "texto3": "accept /əkˈsept/",
+    "texto4": "accepted / will accept / accepting",
+    "texto5": "You need to accept that you made a mistake and move on.",
+    "texto6": "Tienes que aceptar que cometiste un error y seguir adelante."
+  },
+  {
+    "texto1": "Un verbo que describe el acto de permitir que alguien entre en un grupo, una escuela, un hospital o cualquier otra institución. Se usa para referirse a la admisión de una persona en una organización.",
+    "texto2": "Admitir / Aceptar",
+    "texto3": "accept /əkˈsept/",
+    "texto4": "accepted / will accept / accepting",
+    "texto5": "She was accepted into the university's engineering program.",
+    "texto6": "Ella fue aceptada en el programa de ingeniería de la universidad."
+  },
+  {
+    "texto1": "Un sustantivo que se refiere al derecho o la oportunidad de usar o entrar a un lugar o de usar algo. Como verbo, significa obtener la entrada o usar algo, como una computadora o una base de datos.",
+    "texto2": "Acceso / Entrada / Acceder",
+    "texto3": "access /ˈækses/",
+    "texto4": "N/A",
+    "texto5": "You need a password to get access to the computer files.",
+    "texto6": "Necesitas una contraseña para tener acceso a los archivos de la computadora."
+  },
+  {
+    "texto1": "Un verbo que describe el acto de obtener la entrada o la oportunidad de usar algo, como un sistema informático, un sitio web o una red. Se utiliza a menudo en un contexto de tecnología o seguridad.",
+    "texto2": "Acceder / Conectarse",
+    "texto3": "access /ˈækses/",
+    "texto4": "accessed / will access / accessing",
+    "texto5": "I can't access my email because the internet is not working.",
+    "texto6": "No puedo acceder a mi correo electrónico porque el internet no funciona."
+  },
+  {
+    "texto1": "Un sustantivo que se refiere a la forma física de entrar a un lugar, como una rampa, un camino o una puerta. Se usa para describir la entrada a un edificio, un parque o un área restringida.",
+    "texto2": "Entrada / Vía de acceso",
+    "texto3": "access /ˈækses/",
+    "texto4": "N/A",
+    "texto5": "The only access to the beach is through a small, winding path.",
+    "texto6": "La única vía de acceso a la playa es a través de un pequeño y sinuoso sendero."
+  },
+  {
+    "texto1": "Un verbo que describe la acción de obtener información de una base de datos, un archivo o una fuente de datos. Se usa en el contexto de la informática y la gestión de datos.",
+    "texto2": "Acceder / Consultar / Recuperar",
+    "texto3": "access /ˈækses/",
+    "texto4": "accessed / will access / accessing",
+    "texto5": "The program will access the database to retrieve the customer information.",
+    "texto6": "El programa accederá a la base de datos para recuperar la información del cliente."
+  },
+  {
+    "texto1": "Un adjetivo que describe algo que es fácil de alcanzar, entrar, usar o entender. Se aplica tanto a lugares físicos (con rampas para sillas de ruedas, por ejemplo) como a ideas o información que son sencillas de comprender para la mayoría de las personas.",
+    "texto2": "Accesible / Asequible / Alcanzable",
+    "texto3": "accessible /əkˈsesəbəl/",
+    "texto4": "N/A",
+    "texto5": "The building has a ramp, making it accessible to people in wheelchairs.",
+    "texto6": "El edificio tiene una rampa, lo que lo hace accesible para personas en sillas de ruedas."
+  },
+  {
+    "texto1": "Un adjetivo que se refiere a una persona o a un lugar que es fácil de contactar o visitar. Implica que no hay barreras, ya sean físicas o sociales, para poder llegar a alguien o a un sitio.",
+    "texto2": "Accesible / Abierto / Asequible",
+    "texto3": "accessible /əkˈsesəbəl/",
+    "texto4": "N/A",
+    "texto5": "The CEO has an accessible personality and is always willing to talk to employees.",
+    "texto6": "El director ejecutivo tiene una personalidad accesible y siempre está dispuesto a hablar con los empleados."
+  },
+  {
+    "texto1": "Un adjetivo que describe un precio o un costo que es razonable y que está al alcance de la mayoría de las personas. Se usa para hablar de productos, servicios o oportunidades que no son demasiado caros.",
+    "texto2": "Asequible / Económico",
+    "texto3": "accessible /əkˈsesəbəl/",
+    "texto4": "N/A",
+    "texto5": "The new public transport system is accessible to everyone in the city.",
+    "texto6": "El nuevo sistema de transporte público es asequible para todos en la ciudad."
+  },
+  {
+    "texto1": "Un adjetivo que se refiere a un lugar, como una base de datos o un documento, que es fácil de encontrar y consultar. Se usa en el contexto de la información y la tecnología para describir algo que no está oculto o protegido por contraseña.",
+    "texto2": "Disponible / Accesible",
+    "texto3": "accessible /əkˈsesəbəl/",
+    "texto4": "N/A",
+    "texto5": "The important documents are accessible from the company's main server.",
+    "texto6": "Los documentos importantes son accesibles desde el servidor principal de la empresa."
   }
 ]
