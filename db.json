@@ -1,26 +1,394 @@
 [
   {
-    "texto1": "Decir o expresar con palabras; manifestar un pensamiento, sentimiento u opinión. También puede referirse a recitar, afirmar, o suponer algo. Cuando se usa como sustantivo, se refiere a una oportunidad para hablar o dar una opinión.",
-    "texto2": "decir / hablar / expresar / contar / pronunciar / declarar",
-    "texto3": "say /seɪ/",
+    "texto1": "Verbo transitivo que se utiliza para expresar algo verbalmente. Es el uso más común y fundamental, refiriéndose a la acción de pronunciar palabras.",
+    "texto2": "decir / expresar",
+    "texto3": "say / seɪ /",
     "texto4": "said / will say / saying",
-    "texto5": "I want to say something about the meeting we had earlier today.",
-    "texto6": "Quiero decir algo sobre la reunión que tuvimos hoy más temprano."
+    "texto5": "When you finish your task, say something in the team chat.",
+    "texto6": "Cuando termines tu tarea, di algo en el chat del equipo."
   },
   {
-    "texto1": "Indicar o mostrar algo. Este significado se utiliza a menudo para referirse a la información que proporciona un dispositivo, un texto, o un dato. También se puede usar para expresar que algo 'dice mucho' sobre una situación, lo que implica que revela mucho sobre ella.",
-    "texto2": "indicar / mostrar / revelar / señalar / sugerir",
-    "texto3": "say /seɪ/",
+    "texto1": "Verbo transitivo que indica la comunicación de una opinión o una idea, a menudo en un contexto más formal o como parte de un argumento.",
+    "texto2": "opinar / argumentar",
+    "texto3": "say / seɪ /",
     "texto4": "said / will say / saying",
-    "texto5": "The API documentation says that this function returns a JSON object.",
-    "texto6": "La documentación de la API dice que esta función devuelve un objeto JSON."
+    "texto5": "The documentation says we should use an API key for authentication.",
+    "texto6": "La documentación dice que deberíamos usar una clave API para la autenticación."
   },
   {
-    "texto1": "Usado como sustantivo para referirse al derecho o la autoridad para participar en una decisión o para dar una opinión que sea tenida en cuenta. Se usa comúnmente en frases como 'to have a say' (tener voz o voto) o 'to have no say' (no tener voz ni voto).",
-    "texto2": "voz / opinión / voto / poder de decisión / influencia",
-    "texto3": "say /seɪ/",
-    "texto4": "no aplica",
-    "texto5": "Developers often have a say in which technologies are chosen for a project.",
-    "texto6": "Los desarrolladores a menudo tienen voz y voto en qué tecnologías se eligen para un proyecto."
+    "texto1": "Verbo transitivo que se usa para dar instrucciones o comandos.",
+    "texto2": "ordenar / instruir",
+    "texto3": "say / seɪ /",
+    "texto4": "said / will say / saying",
+    "texto5": "The configuration file says to use 'port 80' for the HTTP server.",
+    "texto6": "El archivo de configuración dice que se use el 'puerto 80' para el servidor HTTP."
+  },
+  {
+    "texto1": "Sustantivo que se refiere a una oportunidad para expresar la opinión de uno o para influir en una decisión.",
+    "texto2": "voz / opinión",
+    "texto3": "say / seɪ /",
+    "texto4": "n/a",
+    "texto5": "Every team member should have a say in the architecture design.",
+    "texto6": "Cada miembro del equipo debería tener voz en el diseño de la arquitectura."
+  },
+  {
+    "texto1": "Verbo intransitivo que se refiere al movimiento de un lugar a otro, la acción de desplazarse. Es el uso más común y fundamental del término.",
+    "texto2": "ir / moverse",
+    "texto3": "go / ɡoʊ /",
+    "texto4": "went / will go / going",
+    "texto5": "After the meeting, I need to go to my desk to finish the code.",
+    "texto6": "Después de la reunión, necesito ir a mi escritorio para terminar el código."
+  },
+  {
+    "texto1": "Verbo intransitivo que indica el comienzo de una acción o un proceso. A menudo se usa en combinación con 'on' o 'ahead'.",
+    "texto2": "proceder / comenzar",
+    "texto3": "go / ɡoʊ /",
+    "texto4": "went / will go / going",
+    "texto5": "The build failed, but we can't go on until the dependencies are resolved.",
+    "texto6": "La compilación falló, pero no podemos continuar hasta que se resuelvan las dependencias."
+  },
+  {
+    "texto1": "Verbo intransitivo que se utiliza para expresar que algo funciona correctamente o está en un estado operativo.",
+    "texto2": "funcionar / andar",
+    "texto3": "go / ɡoʊ /",
+    "texto4": "went / will go / going",
+    "texto5": "The new server is online, and everything seems to be going well.",
+    "texto6": "El nuevo servidor está en línea y todo parece estar funcionando bien."
+  },
+  {
+    "texto1": "Verbo intransitivo que describe un cambio a un estado o condición diferente, a menudo precedido por 'get'.",
+    "texto2": "volverse / cambiar",
+    "texto3": "go / ɡoʊ /",
+    "texto4": "went / will go / going",
+    "texto5": "The database went down suddenly, and we lost the connection.",
+    "texto6": "La base de datos se cayó de repente y perdimos la conexión."
+  },
+  {
+    "texto1": "Verbo intransitivo que se usa para indicar un resultado o conclusión, a menudo en frases como 'how did it go?' o 'it went well'.",
+    "texto2": "resultar / salir",
+    "texto3": "go / ɡoʊ /",
+    "texto4": "went / will go / going",
+    "texto5": "The deployment went smoothly and without any issues.",
+    "texto6": "El despliegue salió sin problemas y sin ningún inconveniente."
+  },
+  {
+    "texto1": "Sustantivo que se refiere a un intento o turno para hacer algo. Se utiliza comúnmente en un contexto informal.",
+    "texto2": "intento / turno",
+    "texto3": "go / ɡoʊ /",
+    "texto4": "goes / will go / n/a",
+    "texto5": "Let's give this a go and see if the new algorithm improves performance.",
+    "texto6": "Vamos a intentarlo y ver si el nuevo algoritmo mejora el rendimiento."
+  },
+  {
+    "texto1": "Verbo transitivo que se refiere a la posesión de información o hechos en la mente, habiendo aprendido algo o habiéndolo experimentado. Es el significado más común y fundamental.",
+    "texto2": "saber / conocer",
+    "texto3": "know / noʊ /",
+    "texto4": "knew / will know / knowing",
+    "texto5": "I know that this new framework will improve our development speed.",
+    "texto6": "Sé que este nuevo framework mejorará nuestra velocidad de desarrollo."
+  },
+  {
+    "texto1": "Verbo transitivo que se utiliza para expresar familiaridad con una persona, lugar o cosa. Implica un conocimiento directo a través de la experiencia personal.",
+    "texto2": "conocer / familiarizarse con",
+    "texto3": "know / noʊ /",
+    "texto4": "knew / will know / knowing",
+    "texto5": "Do you know the lead developer of the frontend team?",
+    "texto6": "¿Conoces al desarrollador principal del equipo de frontend?"
+  },
+  {
+    "texto1": "Verbo transitivo que indica la capacidad de distinguir o reconocer algo. A menudo se usa en expresiones como 'know the difference'.",
+    "texto2": "distinguir / reconocer",
+    "texto3": "know / noʊ /",
+    "texto4": "knew / will know / knowing",
+    "texto5": "It's important to know the difference between a bug and a feature request.",
+    "texto6": "Es importante saber la diferencia entre un error y una solicitud de función."
+  },
+  {
+    "texto1": "Verbo transitivo que significa entender una habilidad o un concepto a fondo, a menudo con la capacidad de aplicarlo.",
+    "texto2": "entender / dominar",
+    "texto3": "know / noʊ /",
+    "texto4": "knew / will know / knowing",
+    "texto5": "You need to know how to use Git for version control in this project.",
+    "texto6": "Necesitas saber cómo usar Git para el control de versiones en este proyecto."
+  },
+  {
+    "texto1": "Adjetivo o pronombre que se usa para comparar dos cosas, indicando una mayor cantidad o grado. En este contexto, 'more' significa una cantidad superior o adicional de algo.",
+    "texto2": "más / adicional",
+    "texto3": "more / mɔːr /",
+    "texto4": "n/a",
+    "texto5": "To process this data, we need more memory.",
+    "texto6": "Para procesar estos datos, necesitamos más memoria."
+  },
+  {
+    "texto1": "Adverbio que se utiliza para formar el comparativo de adjetivos o adverbios largos (con dos o más sílabas), a diferencia de agregar '-er'.",
+    "texto2": "más",
+    "texto3": "more / mɔːr /",
+    "texto4": "n/a",
+    "texto5": "This code is more efficient than the previous version.",
+    "texto6": "Este código es más eficiente que la versión anterior."
+  },
+  {
+    "texto1": "Pronombre que se usa para referirse a una cantidad adicional o a personas o cosas adicionales.",
+    "texto2": "más",
+    "texto3": "more / mɔːr /",
+    "texto4": "n/a",
+    "texto5": "I have completed the initial tasks, but there is more to do.",
+    "texto6": "He completado las tareas iniciales, pero hay más por hacer."
+  },
+  {
+    "texto1": "Verbo transitivo que significa obtener o recibir algo. Este es uno de los usos más versátiles y frecuentes del verbo, refiriéndose a la adquisición de un objeto físico o intangible.",
+    "texto2": "obtener / conseguir",
+    "texto3": "get / ɡɛt /",
+    "texto4": "got / will get / getting",
+    "texto5": "I need to get the latest version of the code from the repository.",
+    "texto6": "Necesito obtener la última versión del código del repositorio."
+  },
+  {
+    "texto1": "Verbo transitivo que significa entender o comprender algo. Se usa a menudo en un contexto informal.",
+    "texto2": "entender / captar",
+    "texto3": "get / ɡɛt /",
+    "texto4": "got / will get / getting",
+    "texto5": "I don't get this error message; what is it trying to say?",
+    "texto6": "No entiendo este mensaje de error; ¿qué está tratando de decir?"
+  },
+  {
+    "texto1": "Verbo transitivo que indica la acción de ir a un lugar para traer a alguien o algo. También se usa para referirse a la llegada a un lugar.",
+    "texto2": "recoger / llegar",
+    "texto3": "get / ɡɛt /",
+    "texto4": "got / will get / getting",
+    "texto5": "Can you get the server logs from the database and analyze them?",
+    "texto6": "¿Puedes obtener los registros del servidor de la base de datos y analizarlos?"
+  },
+  {
+    "texto1": "Verbo transitivo que se usa para describir un cambio de estado o condición, a menudo en el sentido de volverse o convertirse en algo.",
+    "texto2": "volverse / ponerse",
+    "texto3": "get / ɡɛt /",
+    "texto4": "got / will get / getting",
+    "texto5": "The connection will get slower as more users access the network.",
+    "texto6": "La conexión se volverá más lenta a medida que más usuarios accedan a la red."
+  },
+  {
+    "texto1": "Verbo transitivo que significa persuadir a alguien para que haga algo. A menudo se usa en un contexto informal.",
+    "texto2": "convencer / lograr que",
+    "texto3": "get / ɡɛt /",
+    "texto4": "got / will get / getting",
+    "texto5": "We need to get the team to agree on the new API design.",
+    "texto6": "Necesitamos lograr que el equipo esté de acuerdo con el nuevo diseño de la API."
+  },
+  {
+    "texto1": "Verbo transitivo que expresa gusto, agrado o disfrute hacia algo o alguien. Es el uso más común del término y se aplica para manifestar preferencia o afecto.",
+    "texto2": "gustar / agradar",
+    "texto3": "like / laɪk /",
+    "texto4": "liked / will like / liking",
+    "texto5": "I like the new interface design of the application.",
+    "texto6": "Me gusta el nuevo diseño de la interfaz de la aplicación."
+  },
+  {
+    "texto1": "Preposición que se usa para indicar similitud o semejanza entre dos cosas, a menudo para hacer una comparación.",
+    "texto2": "como / similar a",
+    "texto3": "like / laɪk /",
+    "texto4": "n/a",
+    "texto5": "The syntax of this language is very clean, like Python.",
+    "texto6": "La sintaxis de este lenguaje es muy limpia, como Python."
+  },
+  {
+    "texto1": "Conjunción que introduce una cláusula de comparación, similar a 'as if' o 'as though', especialmente en el inglés informal.",
+    "texto2": "como si",
+    "texto3": "like / laɪk /",
+    "texto4": "n/a",
+    "texto5": "The server's response time is slow, like it's overloaded.",
+    "texto6": "El tiempo de respuesta del servidor es lento, como si estuviera sobrecargado."
+  },
+  {
+    "texto1": "Sustantivo (plural 'likes') que se refiere a las cosas que una persona disfruta o prefiere. En un contexto tecnológico, se usa comúnmente en redes sociales.",
+    "texto2": "gustos / preferencias",
+    "texto3": "like / laɪk /",
+    "texto4": "likes / n/a",
+    "texto5": "Based on user likes, we can recommend similar products.",
+    "texto6": "Basándonos en los gustos de los usuarios, podemos recomendar productos similares."
+  },
+  {
+    "texto1": "Adjetivo que describe algo que tiene una naturaleza o características similares. A menudo se usa en combinación con otro sustantivo para formar un adjetivo compuesto.",
+    "texto2": "similar / parecido a",
+    "texto3": "like / laɪk /",
+    "texto4": "n/a",
+    "texto5": "We need to handle this bug and other like issues with a new patch.",
+    "texto6": "Necesitamos manejar este error y otros problemas similares con un nuevo parche."
+  },
+  {
+    "texto1": "Adverbio interrogativo que se utiliza para preguntar sobre el momento, día o período en que ocurre algo.",
+    "texto2": "¿cuándo?",
+    "texto3": "when / wɛn /",
+    "texto4": "n/a",
+    "texto5": "When will the next software update be released?",
+    "texto6": "¿Cuándo se lanzará la próxima actualización de software?"
+  },
+  {
+    "texto1": "Conjunción subordinada que se usa para introducir una cláusula de tiempo, indicando el momento en el que ocurre la acción de la cláusula principal.",
+    "texto2": "cuando",
+    "texto3": "when / wɛn /",
+    "texto4": "n/a",
+    "texto5": "The system reboots when the new configuration is applied.",
+    "texto6": "El sistema se reinicia cuando se aplica la nueva configuración."
+  },
+  {
+    "texto1": "Conjunción subordinada que introduce una cláusula que describe dos eventos que suceden simultáneamente, similar a 'while', pero a menudo se usa para eventos más cortos o puntuales.",
+    "texto2": "mientras",
+    "texto3": "when / wɛn /",
+    "texto4": "n/a",
+    "texto5": "The application crashed when I was running the tests.",
+    "texto6": "La aplicación se colgó mientras estaba ejecutando las pruebas."
+  },
+  {
+    "texto1": "Pronombre relativo que introduce una cláusula relativa de tiempo, especificando el momento de un evento anterior.",
+    "texto2": "en el que",
+    "texto3": "when / wɛn /",
+    "texto4": "n/a",
+    "texto5": "That was the day when we deployed the new feature.",
+    "texto6": "Ese fue el día en el que desplegamos la nueva función."
+  },
+  {
+    "texto1": "Verbo intransitivo y transitivo que se refiere al proceso mental de usar la mente para formar ideas, razonar, o llegar a una conclusión. Este es el significado más común y fundamental.",
+    "texto2": "pensar / reflexionar",
+    "texto3": "think / θɪŋk /",
+    "texto4": "thought / will think / thinking",
+    "texto5": "I need to think about the best way to refactor this module.",
+    "texto6": "Necesito pensar en la mejor manera de refactorizar este módulo."
+  },
+  {
+    "texto1": "Verbo transitivo que se utiliza para expresar una opinión, creencia o punto de vista sobre algo.",
+    "texto2": "creer / opinar",
+    "texto3": "think / θɪŋk /",
+    "texto4": "thought / will think / thinking",
+    "texto5": "What do you think about the new server architecture?",
+    "texto6": "¿Qué opinas sobre la nueva arquitectura del servidor?"
+  },
+  {
+    "texto1": "Verbo transitivo que indica la intención o el plan de hacer algo en el futuro. A menudo se usa en combinación con la estructura 'think of' o 'think about'.",
+    "texto2": "planear / tener la intención de",
+    "texto3": "think / θɪŋk /",
+    "texto4": "thought / will think / thinking",
+    "texto5": "We are thinking of implementing a new authentication system.",
+    "texto6": "Estamos pensando en implementar un nuevo sistema de autenticación."
+  },
+  {
+    "texto1": "Verbo transitivo que significa recordar o traer a la mente algo. Se usa a menudo con 'of' o 'about'.",
+    "texto2": "recordar / traer a la mente",
+    "texto3": "think / θɪŋk /",
+    "texto4": "thought / will think / thinking",
+    "texto5": "I can't think of the password for this service right now.",
+    "texto6": "No puedo recordar la contraseña de este servicio ahora mismo."
+  },
+  {
+    "texto1": "Verbo transitivo que significa crear, construir, producir o fabricar algo. Es el uso más común y fundamental, refiriéndose a la acción de dar forma o existencia a un objeto o concepto.",
+    "texto2": "hacer / crear / construir",
+    "texto3": "make / meɪk /",
+    "texto4": "made / will make / making",
+    "texto5": "We need to make a new component for the user authentication form.",
+    "texto6": "Necesitamos hacer un nuevo componente para el formulario de autenticación de usuario."
+  },
+  {
+    "texto1": "Verbo transitivo que indica la acción de causar que algo o alguien haga algo, a menudo con un sentido de forzar o inducir. Se usa con un objeto y un verbo en infinitivo sin 'to'.",
+    "texto2": "hacer que / causar",
+    "texto3": "make / meɪk /",
+    "texto4": "made / will make / making",
+    "texto5": "The memory leak is making the application crash.",
+    "texto6": "La fuga de memoria está haciendo que la aplicación se bloquee."
+  },
+  {
+    "texto1": "Verbo transitivo que se utiliza para expresar la acción de ganar dinero o generar ganancias.",
+    "texto2": "ganar / obtener",
+    "texto3": "make / meɪk /",
+    "texto4": "made / will make / making",
+    "texto5": "The new subscription model will make more revenue for the company.",
+    "texto6": "El nuevo modelo de suscripción generará más ingresos para la compañía."
+  },
+  {
+    "texto1": "Verbo transitivo que significa lograr o completar algo, a menudo con un esfuerzo. Se usa en frases como 'make a decision' o 'make a mistake'.",
+    "texto2": "lograr / realizar",
+    "texto3": "make / meɪk /",
+    "texto4": "made / will make / making",
+    "texto5": "Did you make a backup of the database before the update?",
+    "texto6": "¿Hiciste una copia de seguridad de la base de datos antes de la actualización?"
+  },
+  {
+    "texto1": "Verbo transitivo que se usa para preparar o arreglar algo, como una cama o una cita. En este contexto, implica la organización de algo.",
+    "texto2": "preparar / organizar",
+    "texto3": "make / meɪk /",
+    "texto4": "made / will make / making",
+    "texto5": "Let's make a plan to handle the server downtime.",
+    "texto6": "Hagamos un plan para manejar el tiempo de inactividad del servidor."
+  },
+  {
+    "texto1": "Sustantivo que se refiere a la medida continua y sin fin de la existencia y los eventos, en el pasado, presente y futuro. Este es su significado principal.",
+    "texto2": "tiempo / hora",
+    "texto3": "time / taɪm /",
+    "texto4": "n/a",
+    "texto5": "What is the current system time on the server?",
+    "texto6": "¿Cuál es la hora actual del sistema en el servidor?"
+  },
+  {
+    "texto1": "Sustantivo que se refiere a un punto específico en el tiempo, un momento concreto o una hora del día. A menudo se usa para hablar de horarios o plazos.",
+    "texto2": "momento / hora",
+    "texto3": "time / taɪm /",
+    "texto4": "n/a",
+    "texto5": "We need to set a time for the deployment of the new feature.",
+    "texto6": "Necesitamos fijar una hora para el despliegue de la nueva función."
+  },
+  {
+    "texto1": "Verbo transitivo que significa medir o programar la duración de algo. También se usa para coordinar un evento para que ocurra en un momento específico.",
+    "texto2": "cronometrar / programar",
+    "texto3": "time / taɪm /",
+    "texto4": "timed / will time / timing",
+    "texto5": "We need to time the execution of this script to optimize its performance.",
+    "texto6": "Necesitamos cronometrar la ejecución de este script para optimizar su rendimiento."
+  },
+  {
+    "texto1": "Sustantivo que se refiere a una instancia o ocasión en la que algo ocurre o se hace. A menudo se usa en expresiones como 'this time' o 'many times'.",
+    "texto2": "vez / ocasión",
+    "texto3": "time / taɪm /",
+    "texto4": "times / n/a",
+    "texto5": "This is the third time the server has crashed this week.",
+    "texto6": "Esta es la tercera vez que el servidor se cae esta semana."
+  },
+  {
+    "texto1": "Sustantivo que se refiere a un período de duración limitada. Se usa para hablar de un lapso de tiempo o una era.",
+    "texto2": "periodo / era",
+    "texto3": "time / taɪm /",
+    "texto4": "n/a",
+    "texto5": "The last time we had a bug like this, it took us a long time to fix.",
+    "texto6": "La última vez que tuvimos un error como este, nos tomó mucho tiempo arreglarlo."
+  },
+  {
+    "texto1": "Verbo transitivo que se refiere a la capacidad de percibir algo con los ojos. Este es el significado más fundamental y común, relacionado con la vista física.",
+    "texto2": "ver / mirar",
+    "texto3": "see / siː /",
+    "texto4": "saw / will see / seeing",
+    "texto5": "I can see a potential bug in this part of the code.",
+    "texto6": "Puedo ver un posible error en esta parte del código."
+  },
+  {
+    "texto1": "Verbo transitivo que significa entender o comprender algo. A menudo se usa en un contexto más abstracto, para referirse a la percepción de una idea o un concepto.",
+    "texto2": "entender / comprender",
+    "texto3": "see / siː /",
+    "texto4": "saw / will see / seeing",
+    "texto5": "Now that you've explained the problem, I see what you mean.",
+    "texto6": "Ahora que has explicado el problema, entiendo lo que quieres decir."
+  },
+  {
+    "texto1": "Verbo transitivo que se usa para referirse a la acción de encontrarse o reunirse con alguien. También puede usarse para iniciar una reunión.",
+    "texto2": "reunirse / encontrarse",
+    "texto3": "see / siː /",
+    "texto4": "saw / will see / seeing",
+    "texto5": "Let's see the project manager tomorrow to discuss the new requirements.",
+    "texto6": "Encontrémonos con el gerente de proyecto mañana para discutir los nuevos requisitos."
+  },
+  {
+    "texto1": "Verbo transitivo que se utiliza para asegurar o verificar que algo se hace o sucede. A menudo se usa en un sentido de responsabilidad o supervisión.",
+    "texto2": "asegurarse / verificar",
+    "texto3": "see / siː /",
+    "texto4": "saw / will see / seeing",
+    "texto5": "I will see to it that the database is backed up before the migration.",
+    "texto6": "Me aseguraré de que la base de datos esté respaldada antes de la migración."
   }
 ]
