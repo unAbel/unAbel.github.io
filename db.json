@@ -390,5 +390,909 @@
     "texto4": "saw / will see / seeing",
     "texto5": "I will see to it that the database is backed up before the migration.",
     "texto6": "Me aseguraré de que la base de datos esté respaldada antes de la migración."
+  },
+  {
+    "texto1": "Adjetivo que describe algo de alta calidad, satisfactorio, correcto o deseable. Este es el uso más común y general, aplicable a personas, cosas y situaciones.",
+    "texto2": "bueno / correcto",
+    "texto3": "good / ɡʊd /",
+    "texto4": "n/a",
+    "texto5": "The developer wrote a good unit test for the new function.",
+    "texto6": "El desarrollador escribió una buena prueba unitaria para la nueva función."
+  },
+  {
+    "texto1": "Adjetivo que se usa para expresar que algo es adecuado, beneficioso o útil para un propósito específico.",
+    "texto2": "beneficioso / útil",
+    "texto3": "good / ɡʊd /",
+    "texto4": "n/a",
+    "texto5": "It's a good practice to commit changes frequently to the repository.",
+    "texto6": "Es una buena práctica confirmar los cambios frecuentemente al repositorio."
+  },
+  {
+    "texto1": "Adjetivo que se utiliza para expresar que una persona es hábil, competente o talentosa en un área particular.",
+    "texto2": "hábil / competente",
+    "texto3": "good / ɡʊd /",
+    "texto4": "n/a",
+    "texto5": "She is a good programmer, her code is always well-structured.",
+    "texto6": "Ella es una buena programadora, su código siempre está bien estructurado."
+  },
+  {
+    "texto1": "Sustantivo (plural 'goods') que se refiere a posesiones o artículos comerciales, especialmente en el contexto de bienes y servicios. A menudo se usa en plural.",
+    "texto2": "bienes / mercancías",
+    "texto3": "good / ɡʊd /",
+    "texto4": "goods / n/a",
+    "texto5": "We need to update the database to include new goods in our catalog.",
+    "texto6": "Necesitamos actualizar la base de datos para incluir nuevos productos en nuestro catálogo."
+  },
+  {
+    "texto1": "Adjetivo que se utiliza para saludar a alguien, como en 'Good morning' o 'Good evening'. En este contexto, no significa 'bueno' en el sentido de calidad, sino que es parte de una frase idiomática.",
+    "texto2": "n/a",
+    "texto3": "good / ɡʊd /",
+    "texto4": "n/a",
+    "texto5": "Good afternoon, let's start the stand-up meeting.",
+    "texto6": "Buenas tardes, comencemos la reunión de pie."
+  },
+  {
+    "texto1": "Sustantivo plural que se refiere a seres humanos en general, a la población o a un grupo indeterminado de personas. Este es el uso más fundamental y común.",
+    "texto2": "gente / personas",
+    "texto3": "people / ˈpiːpəl /",
+    "texto4": "n/a",
+    "texto5": "The goal of this application is to help people manage their data.",
+    "texto6": "El objetivo de esta aplicación es ayudar a la gente a gestionar sus datos."
+  },
+  {
+    "texto1": "Sustantivo plural que se usa para referirse a los empleados o miembros de un equipo o grupo en particular.",
+    "texto2": "equipo / personal",
+    "texto3": "people / ˈpiːpəl /",
+    "texto4": "n/a",
+    "texto5": "The people in the testing department found a critical bug.",
+    "texto6": "El personal del departamento de pruebas encontró un error crítico."
+  },
+  {
+    "texto1": "Sustantivo (singular 'a people') que se refiere a una nación, etnia o comunidad de personas que comparten una cultura o un origen común.",
+    "texto2": "pueblo / nación",
+    "texto3": "people / ˈpiːpəl /",
+    "texto4": "peoples / n/a",
+    "texto5": "The software was designed to be culturally sensitive to different peoples.",
+    "texto6": "El software fue diseñado para ser culturalmente sensible a diferentes pueblos."
+  },
+  {
+    "texto1": "Sustantivo que se refiere al período de 365 o 366 días que tarda la Tierra en orbitar el Sol. Este es el significado más común y fundamental del término.",
+    "texto2": "año / anualidad",
+    "texto3": "year / jɪər /",
+    "texto4": "years / n/a",
+    "texto5": "The project is expected to be completed within one year.",
+    "texto6": "Se espera que el proyecto se complete en un año."
+  },
+  {
+    "texto1": "Sustantivo que indica un período de tiempo particular de 12 meses, a menudo definido por un calendario fiscal o académico. Se usa para referirse a un ciclo específico.",
+    "texto2": "año fiscal / año académico",
+    "texto3": "year / jɪər /",
+    "texto4": "years / n/a",
+    "texto5": "Our financial report for the last fiscal year showed significant growth.",
+    "texto6": "Nuestro informe financiero del último año fiscal mostró un crecimiento significativo."
+  },
+  {
+    "texto1": "Sustantivo que se refiere a la edad de una persona, a menudo en un contexto informal. Se usa para describir la cantidad de años que ha vivido alguien.",
+    "texto2": "edad / año de vida",
+    "texto3": "year / jɪər /",
+    "texto4": "years / n/a",
+    "texto5": "He's been working on software development for many years.",
+    "texto6": "Él ha estado trabajando en el desarrollo de software por muchos años."
+  },
+  {
+    "texto1": "Verbo transitivo que significa coger, agarrar o recibir algo. Este es el significado más común, refiriéndose a la acción física de obtener algo con las manos.",
+    "texto2": "tomar / coger / agarrar",
+    "texto3": "take / teɪk /",
+    "texto4": "took / will take / taking",
+    "texto5": "Don't forget to take a copy of the backup file before you start the migration.",
+    "texto6": "No olvides tomar una copia del archivo de respaldo antes de empezar la migración."
+  },
+  {
+    "texto1": "Verbo transitivo que indica la acción de requerir o necesitar algo, como tiempo, esfuerzo o recursos. Se usa para expresar la duración o el costo de una actividad.",
+    "texto2": "tomar / requerir",
+    "texto3": "take / teɪk /",
+    "texto4": "took / will take / taking",
+    "texto5": "This new feature will take a lot of time to implement correctly.",
+    "texto6": "Esta nueva función tomará mucho tiempo para implementarse correctamente."
+  },
+  {
+    "texto1": "Verbo transitivo que significa aceptar algo, como una idea, una oferta o una responsabilidad. Se usa para indicar la disposición a recibir algo.",
+    "texto3": "take / teɪk /",
+    "texto2": "aceptar / asumir",
+    "texto4": "took / will take / taking",
+    "texto5": "We need to take responsibility for the bug in the new release.",
+    "texto6": "Necesitamos asumir la responsabilidad por el error en la nueva versión."
+  },
+  {
+    "texto1": "Verbo transitivo que se utiliza para referirse a la acción de llevar a alguien o algo de un lugar a otro.",
+    "texto2": "llevar",
+    "texto3": "take / teɪk /",
+    "texto4": "took / will take / taking",
+    "texto5": "I will take my laptop to the office to work on the project.",
+    "texto6": "Llevaré mi portátil a la oficina para trabajar en el proyecto."
+  },
+  {
+    "texto1": "Verbo transitivo que se refiere a la acción de quitar o remover algo de un lugar o posición.",
+    "texto2": "quitar / remover",
+    "texto3": "take / teɪk /",
+    "texto4": "took / will take / taking",
+    "texto5": "The system will take down the server for a scheduled maintenance.",
+    "texto6": "El sistema quitará el servidor para un mantenimiento programado."
+  },
+  {
+    "texto1": "Adverbio que modifica un verbo, indicando que una acción se realiza de manera exitosa, competente, o de una forma satisfactoria. Este es su uso más común y fundamental.",
+    "texto2": "bien / correctamente",
+    "texto3": "well / wɛl /",
+    "texto4": "n/a",
+    "texto5": "The new feature is working well after the latest update.",
+    "texto6": "La nueva función está funcionando bien después de la última actualización."
+  },
+  {
+    "texto1": "Adverbio que se utiliza como una palabra de relleno o para introducir una declaración, a menudo para expresar una pausa, sorpresa o para iniciar una respuesta.",
+    "texto2": "pues / bueno",
+    "texto3": "well / wɛl /",
+    "texto4": "n/a",
+    "texto5": "Well, the test results were not what we expected.",
+    "texto6": "Bueno, los resultados de la prueba no fueron lo que esperábamos."
+  },
+  {
+    "texto1": "Adjetivo que describe una persona o cosa que está en un buen estado de salud o en buena condición física. Se usa para referirse al bienestar.",
+    "texto2": "sano / en buen estado",
+    "texto3": "well / wɛl /",
+    "texto4": "n/a",
+    "texto5": "After the server reboot, the system looks well and is responding quickly.",
+    "texto6": "Después del reinicio del servidor, el sistema se ve bien y responde rápidamente."
+  },
+  {
+    "texto1": "Sustantivo que se refiere a una fuente de agua o líquido, como un pozo. Aunque es menos común, sigue siendo un uso válido del término.",
+    "texto2": "pozo",
+    "texto3": "well / wɛl /",
+    "texto4": "wells / n/a",
+    "texto5": "The database is a well of information for our analytics team.",
+    "texto6": "La base de datos es un pozo de información para nuestro equipo de análisis."
+  },
+  {
+    "texto1": "Conjunción subordinada que se utiliza para introducir una razón o una causa. Es el uso más común y fundamental, conectando una acción con el motivo detrás de ella.",
+    "texto2": "porque / debido a que",
+    "texto3": "because / bɪˈkɔːz /",
+    "texto4": "n/a",
+    "texto5": "The application crashed because of an unhandled exception.",
+    "texto6": "La aplicación se bloqueó porque hubo una excepción no controlada."
+  },
+  {
+    "texto1": "Adverbio que se usa para responder a una pregunta que empieza con 'why', proporcionando la razón directamente sin una oración completa. Se usa en un contexto más informal.",
+    "texto2": "porque",
+    "texto3": "because / bɪˈkɔːz /",
+    "texto4": "n/a",
+    "texto5": "Why did you choose that framework? Because of its scalability and performance.",
+    "texto6": "¿Por qué elegiste ese framework? Porque de su escalabilidad y rendimiento."
+  },
+  {
+    "texto1": "Adverbio que se utiliza para intensificar la cualidad de un adjetivo o adverbio, significando 'mucho' o 'en gran medida'. Este es su uso más común y fundamental.",
+    "texto2": "muy / mucho",
+    "texto3": "very / ˈvɛri /",
+    "texto4": "n/a",
+    "texto5": "The new algorithm is very efficient and fast.",
+    "texto6": "El nuevo algoritmo es muy eficiente y rápido."
+  },
+  {
+    "texto1": "Adjetivo que enfatiza la identidad exacta o precisa de una persona o cosa. A menudo se usa para dar un sentido de autenticidad o singularidad.",
+    "texto2": "mismo / exacto",
+    "texto3": "very / ˈvɛri /",
+    "texto4": "n/a",
+    "texto5": "This is the very line of code that is causing the bug.",
+    "texto6": "Esta es la misma línea de código que está causando el error."
+  },
+  {
+    "texto1": "Adjetivo que se usa para describir algo que está en un punto extremo o en el límite de algo, como en 'the very end' o 'the very beginning'.",
+    "texto2": "mismo / preciso",
+    "texto3": "very / ˈvɛri /",
+    "texto4": "n/a",
+    "texto5": "We need to optimize the code from the very beginning of the project.",
+    "texto6": "Necesitamos optimizar el código desde el principio del proyecto."
+  },
+  {
+    "texto1": "Adverbio que indica que algo ocurrió hace muy poco tiempo. Este es uno de los usos más comunes, refiriéndose a un pasado inmediato.",
+    "texto2": "recién / justo ahora",
+    "texto3": "just / dʒʌst /",
+    "texto4": "n/a",
+    "texto5": "I just deployed the new version to the production server.",
+    "texto6": "Acabo de desplegar la nueva versión en el servidor de producción."
+  },
+  {
+    "texto1": "Adverbio que significa 'solamente' o 'simplemente', para indicar que algo es la única cosa o la única razón.",
+    "texto2": "solo / simplemente",
+    "texto3": "just / dʒʌst /",
+    "texto4": "n/a",
+    "texto5": "You can't just delete the database without a backup.",
+    "texto6": "No puedes simplemente borrar la base de datos sin una copia de seguridad."
+  },
+  {
+    "texto1": "Adverbio que se usa para enfatizar la precisión, la exactitud o la veracidad de algo. A menudo se usa en expresiones como 'just right' o 'just in time'.",
+    "texto2": "justo / exactamente",
+    "texto3": "just / dʒʌst /",
+    "texto4": "n/a",
+    "texto5": "The patch was deployed just in time to prevent a major outage.",
+    "texto6": "El parche se desplegó justo a tiempo para evitar una interrupción importante."
+  },
+  {
+    "texto1": "Adjetivo que significa imparcial, equitativo o justo. Se usa para describir una acción o un juicio que es moralmente correcto o razonable.",
+    "texto2": "justo / imparcial",
+    "texto3": "just / dʒʌst /",
+    "texto4": "n/a",
+    "texto5": "The company has a just policy for managing intellectual property rights.",
+    "texto6": "La empresa tiene una política justa para gestionar los derechos de propiedad intelectual."
+  },
+  {
+    "texto1": "Verbo intransitivo que se refiere al movimiento hacia el lugar o la persona que habla o a un lugar específico. Es el uso más común, indicando un movimiento de acercamiento.",
+    "texto2": "venir / llegar",
+    "texto3": "come / kʌm /",
+    "texto4": "came / will come / coming",
+    "texto5": "Can you come to my office to discuss the new feature's design?",
+    "texto6": "¿Puedes venir a mi oficina para discutir el diseño de la nueva función?"
+  },
+  {
+    "texto1": "Verbo intransitivo que indica la acción de ocurrir o suceder un evento. Se usa para referirse a la llegada de un momento o una situación particular.",
+    "texto2": "ocurrir / suceder",
+    "texto3": "come / kʌm /",
+    "texto4": "came / will come / coming",
+    "texto5": "A new version of the software will come out next month.",
+    "texto6": "Una nueva versión del software saldrá el próximo mes."
+  },
+  {
+    "texto1": "Verbo intransitivo que se usa para cambiar de estado o condición, a menudo en el contexto de convertirse en algo nuevo o entrar en un estado diferente.",
+    "texto2": "convertirse / volverse",
+    "texto3": "come / kʌm /",
+    "texto4": "came / will come / coming",
+    "texto5": "The new API came into use a few days ago, but we are still updating the documentation.",
+    "texto6": "La nueva API entró en uso hace unos días, pero todavía estamos actualizando la documentación."
+  },
+  {
+    "texto1": "Verbo intransitivo que se refiere a originarse o provenir de un lugar, fuente o causa en particular.",
+    "texto2": "provenir / originarse",
+    "texto3": "come / kʌm /",
+    "texto4": "came / will come / coming",
+    "texto5": "This bug seems to have come from the last code commit.",
+    "texto6": "Este error parece haber venido del último 'commit' de código."
+  },
+  {
+    "texto1": "Verbo intransitivo que se refiere a la acción de realizar una actividad o tarea con un propósito, especialmente como parte de un empleo o un proyecto. Este es el significado más común y fundamental.",
+    "texto2": "trabajar / operar",
+    "texto3": "work / wɜːrk /",
+    "texto4": "worked / will work / working",
+    "texto5": "I will work on fixing the bug in the new software release.",
+    "texto6": "Trabajaré en la corrección del error en la nueva versión del software."
+  },
+  {
+    "texto1": "Verbo intransitivo que indica que un sistema, una máquina o un concepto funciona correctamente y de manera efectiva.",
+    "texto2": "funcionar / marchar",
+    "texto3": "work / wɜːrk /",
+    "texto4": "worked / will work / working",
+    "texto5": "The new API seems to work as expected without any issues.",
+    "texto6": "La nueva API parece funcionar como se esperaba sin ningún problema."
+  },
+  {
+    "texto1": "Sustantivo que se refiere a un empleo, una profesión o la actividad laboral. En este sentido, se refiere al lugar o a la naturaleza de las tareas que se realizan.",
+    "texto2": "trabajo / empleo",
+    "texto3": "work / wɜːrk /",
+    "texto4": "n/a",
+    "texto5": "I have a lot of work to do before the deadline.",
+    "texto6": "Tengo mucho trabajo que hacer antes de la fecha límite."
+  },
+  {
+    "texto1": "Sustantivo que se refiere a los resultados de un esfuerzo, como una obra de arte, un producto, o en este contexto, un proyecto de software.",
+    "texto2": "obra / producto / trabajo",
+    "texto3": "work / wɜːrk /",
+    "texto4": "works / n/a",
+    "texto5": "This open-source library is an impressive piece of work.",
+    "texto6": "Esta biblioteca de código abierto es una impresionante obra de trabajo."
+  },
+  {
+    "texto1": "Verbo transitivo que se refiere a la acción de emplear o aplicar algo para un propósito específico. Este es el uso más común y fundamental del término.",
+    "texto2": "usar / utilizar",
+    "texto3": "use / juːz /",
+    "texto4": "used / will use / using",
+    "texto5": "We need to use a new library to handle the API calls more efficiently.",
+    "texto6": "Necesitamos usar una nueva biblioteca para manejar las llamadas a la API de manera más eficiente."
+  },
+  {
+    "texto1": "Sustantivo que se refiere al acto o la manera de usar algo, o a la finalidad para la cual se utiliza. En este contexto, 'use' se pronuncia con 's' sorda.",
+    "texto2": "uso / utilidad",
+    "texto3": "use / juːs /",
+    "texto4": "n/a",
+    "texto5": "The use of an automated deployment tool has improved our workflow.",
+    "texto6": "El uso de una herramienta de despliegue automatizado ha mejorado nuestro flujo de trabajo."
+  },
+  {
+    "texto1": "Verbo transitivo que indica la acción de consumir o agotar un recurso. A menudo se usa en un contexto de recursos limitados, como memoria o ancho de banda.",
+    "texto2": "consumir / agotar",
+    "texto3": "use / juːz /",
+    "texto4": "used / will use / using",
+    "texto5": "The application is using too much memory and causing the server to slow down.",
+    "texto6": "La aplicación está consumiendo demasiada memoria y causando que el servidor se ralentice."
+  },
+  {
+    "texto1": "Verbo transitivo que significa aprovechar una situación o una oportunidad. A menudo se usa en un sentido más figurado.",
+    "texto2": "aprovechar / sacar partido",
+    "texto3": "use / juːz /",
+    "texto4": "used / will use / using",
+    "texto5": "The team will use this downtime to perform necessary system upgrades.",
+    "texto6": "El equipo aprovechará este tiempo de inactividad para realizar las actualizaciones necesarias del sistema."
+  },
+  {
+    "texto1": "Adverbio que se refiere al momento actual o en el presente. Este es el uso más común y directo, indicando que algo está ocurriendo en este instante.",
+    "texto2": "ahora / en este momento",
+    "texto3": "now / naʊ /",
+    "texto4": "n/a",
+    "texto5": "The server is now online and accepting requests from the API.",
+    "texto6": "El servidor ya está en línea y acepta peticiones de la API."
+  },
+  {
+    "texto1": "Conjunción o adverbio que se utiliza para introducir una nueva idea o un cambio en la conversación, a menudo para hacer una transición o para iniciar un argumento.",
+    "texto2": "ahora bien / entonces",
+    "texto3": "now / naʊ /",
+    "texto4": "n/a",
+    "texto5": "Now, let's consider the security implications of this feature.",
+    "texto6": "Ahora bien, consideremos las implicaciones de seguridad de esta función."
+  },
+  {
+    "texto1": "Adverbio que se usa para dar una orden o un comando de manera inmediata. Implica urgencia o la necesidad de actuar en el presente.",
+    "texto2": "ya / ahora mismo",
+    "texto3": "now / naʊ /",
+    "texto4": "n/a",
+    "texto5": "The production server is down, so we need to fix it now!",
+    "texto6": "El servidor de producción está caído, ¡así que necesitamos arreglarlo ahora mismo!"
+  },
+  {
+    "texto1": "Adjetivo que describe algo que existe, está en curso o es relevante en el momento presente.",
+    "texto2": "actual / presente",
+    "texto3": "now / naʊ /",
+    "texto4": "n/a",
+    "texto5": "The now-deprecated function should be replaced with the new one.",
+    "texto6": "La función ahora obsoleta debe ser reemplazada por la nueva."
+  },
+  {
+    "texto1": "Adverbio que se utiliza para indicar un momento en el pasado o en el futuro. Es su uso más común, refiriéndose a una secuencia temporal de eventos.",
+    "texto2": "entonces / luego",
+    "texto3": "then / ðɛn /",
+    "texto4": "n/a",
+    "texto5": "First, we'll run the tests, and then we'll deploy the new feature.",
+    "texto6": "Primero, ejecutaremos las pruebas, y luego desplegaremos la nueva función."
+  },
+  {
+    "texto1": "Adverbio que se usa para indicar una consecuencia o un resultado lógico. A menudo se utiliza para concluir una idea o como parte de una estructura condicional, como 'if... then'.",
+    "texto2": "entonces / en ese caso",
+    "texto3": "then / ðɛn /",
+    "texto4": "n/a",
+    "texto5": "If the build fails, then we need to check the logs for errors.",
+    "texto6": "Si la compilación falla, entonces necesitamos revisar los registros en busca de errores."
+  },
+  {
+    "texto1": "Adverbio que se utiliza para referirse a la posición o la condición de una persona o cosa en un momento específico del pasado.",
+    "texto2": "en ese momento",
+    "texto3": "then / ðɛn /",
+    "texto4": "n/a",
+    "texto5": "The then-current version of the API had a security vulnerability.",
+    "texto6": "La versión de la API de ese entonces tenía una vulnerabilidad de seguridad."
+  },
+  {
+    "texto1": "Adverbio que se utiliza para expresar una transición en el discurso o en la escritura, a menudo para introducir un nuevo punto o para retomar una idea.",
+    "texto2": "además / por otra parte",
+    "texto3": "then / ðɛn /",
+    "texto4": "n/a",
+    "texto5": "We've discussed the frontend, and then there's the backend to consider.",
+    "texto6": "Hemos discutido el 'frontend', y además está el 'backend' que hay que considerar."
+  },
+  {
+    "texto1": "Adverbio que se utiliza para añadir información o un elemento adicional a una declaración. Es el uso más común y fundamental, funcionando como un sinónimo de 'además'.",
+    "texto2": "también / además",
+    "texto3": "also / ˈɔːlsoʊ /",
+    "texto4": "n/a",
+    "texto5": "The server needs more memory, and we also need to optimize the database queries.",
+    "texto6": "El servidor necesita más memoria, y también necesitamos optimizar las consultas de la base de datos."
+  },
+  {
+    "texto1": "Adverbio que se usa para mostrar que dos cosas son similares, equivalentes o tienen la misma característica. En este sentido, puede usarse para comparar elementos.",
+    "texto2": "además / por igual",
+    "texto3": "also / ˈɔːlsoʊ /",
+    "texto4": "n/a",
+    "texto5": "The new framework is fast and also has great community support.",
+    "texto6": "El nuevo framework es rápido y también tiene un gran apoyo de la comunidad."
+  },
+  {
+    "texto1": "Preposición que indica movimiento hacia el interior de un espacio cerrado o de un objeto. Este es el uso más común y fundamental, refiriéndose a una dirección o un destino.",
+    "texto2": "en / dentro de",
+    "texto3": "into / ˈɪntuː /",
+    "texto4": "n/a",
+    "texto5": "To run the application, you need to log in to the system first.",
+    "texto6": "Para ejecutar la aplicación, necesitas iniciar sesión en el sistema primero."
+  },
+  {
+    "texto1": "Preposición que se utiliza para expresar un cambio de estado, forma o condición. En este sentido, indica una transformación de algo en otra cosa.",
+    "texto2": "en / a / hacia",
+    "texto3": "into / ˈɪntuː /",
+    "texto4": "n/a",
+    "texto5": "The developer converted the old JavaScript code into a new TypeScript module.",
+    "texto6": "El desarrollador convirtió el código JavaScript antiguo en un nuevo módulo de TypeScript."
+  },
+  {
+    "texto1": "Preposición que se utiliza para indicar una relación de división o partición de algo en partes. Se usa en un contexto de segmentación.",
+    "texto2": "en / entre",
+    "texto3": "into / ˈɪntuː /",
+    "texto4": "n/a",
+    "texto5": "We need to split the large dataset into smaller, more manageable chunks.",
+    "texto6": "Necesitamos dividir el gran conjunto de datos en fragmentos más pequeños y manejables."
+  },
+  {
+    "texto1": "Preposición que se usa para indicar un interés o una participación activa en una actividad. A menudo se utiliza en un contexto informal.",
+    "texto2": "interesado en / metido en",
+    "texto3": "into / ˈɪntuː /",
+    "texto4": "n/a",
+    "texto5": "He's really into machine learning and is always reading new papers.",
+    "texto6": "Él está muy metido en el aprendizaje automático y siempre está leyendo nuevos artículos."
+  },
+  {
+    "texto1": "Adverbio que se utiliza para indicar que algo es exclusivo o único, limitando la acción a una sola persona, cosa o situación. Este es el uso más común y fundamental del término.",
+    "texto2": "solo / solamente",
+    "texto3": "only / ˈoʊnli /",
+    "texto4": "n/a",
+    "texto5": "This function should only be called by the administrator user.",
+    "texto6": "Esta función solo debería ser llamada por el usuario administrador."
+  },
+  {
+    "texto1": "Adverbio que se usa para indicar un resultado o consecuencia, a menudo inesperada o no deseada. Se utiliza para introducir una cláusula que contrasta con la principal.",
+    "texto2": "sin embargo / pero",
+    "texto3": "only / ˈoʊnli /",
+    "texto4": "n/a",
+    "texto5": "I tried to fix the bug, only to discover it was a new feature.",
+    "texto6": "Intenté arreglar el error, solo para descubrir que era una nueva función."
+  },
+  {
+    "texto1": "Adjetivo que describe algo como el único de su tipo o el más importante de un grupo. En este sentido, enfatiza la singularidad.",
+    "texto2": "único / solo",
+    "texto3": "only / ˈoʊnli /",
+    "texto4": "n/a",
+    "texto5": "The only way to solve this problem is to refactor the entire module.",
+    "texto6": "La única manera de resolver este problema es refactorizar todo el módulo."
+  },
+  {
+    "texto1": "Conjunción que introduce una restricción o condición, a menudo con la misma función que 'but' o 'if not'.",
+    "texto2": "si no fuera por / a no ser que",
+    "texto3": "only / ˈoʊnli /",
+    "texto4": "n/a",
+    "texto5": "I would have finished the task by now, only I ran into an unexpected error.",
+    "texto6": "Habría terminado la tarea para ahora, si no fuera porque me encontré con un error inesperado."
+  },
+  {
+    "texto1": "Verbo intransitivo que se refiere a la acción de dirigir la vista a algo o alguien, con el fin de ver o examinar. Este es el significado más común y fundamental del término.",
+    "texto2": "mirar / observar",
+    "texto3": "look / lʊk /",
+    "texto4": "looked / will look / looking",
+    "texto5": "Please look at the code comments to understand the logic.",
+    "texto6": "Por favor, mira los comentarios del código para entender la lógica."
+  },
+  {
+    "texto1": "Verbo copulativo que se usa para describir la apariencia o el aspecto de una persona, cosa o situación. A menudo se utiliza para hacer juicios o descripciones basadas en la percepción visual.",
+    "texto2": "parecer / lucir",
+    "texto3": "look / lʊk /",
+    "texto4": "looked / will look / looking",
+    "texto5": "The new interface looks very clean and user-friendly.",
+    "texto6": "La nueva interfaz luce muy limpia y fácil de usar."
+  },
+  {
+    "texto1": "Sustantivo que se refiere a la apariencia, el aspecto o el estilo de algo o alguien. Se usa para describir una característica visual.",
+    "texto2": "apariencia / aspecto",
+    "texto3": "look / lʊk /",
+    "texto4": "looks / n/a",
+    "texto5": "We need to update the website's look and feel to make it more modern.",
+    "texto6": "Necesitamos actualizar el aspecto y la sensación del sitio web para hacerlo más moderno."
+  },
+  {
+    "texto1": "Verbo intransitivo que se usa para buscar o investigar algo. A menudo se combina con 'for' para especificar el objeto de la búsqueda.",
+    "texto2": "buscar",
+    "texto3": "look / lʊk /",
+    "texto4": "looked / will look / looking",
+    "texto5": "The developer is looking for a solution to the performance bottleneck.",
+    "texto6": "El desarrollador está buscando una solución al cuello de botella del rendimiento."
+  },
+  {
+    "texto1": "Interjección que se usa para llamar la atención de alguien, especialmente en un contexto de sorpresa o para advertir algo.",
+    "texto2": "¡mira!",
+    "texto3": "look / lʊk /",
+    "texto4": "n/a",
+    "texto5": "Look, the server just returned a 500 error!",
+    "texto6": "¡Mira, el servidor acaba de devolver un error 500!"
+  },
+  {
+    "texto1": "Verbo transitivo que expresa el deseo de tener o de poseer algo, ya sea un objeto físico, una cualidad o un estado. Este es el uso más común y fundamental.",
+    "texto2": "querer / desear",
+    "texto3": "want / wɑːnt /",
+    "texto4": "wanted / will want / wanting",
+    "texto5": "The user wants a simple, responsive interface for the application.",
+    "texto6": "El usuario quiere una interfaz sencilla y receptiva para la aplicación."
+  },
+  {
+    "texto1": "Verbo transitivo que se usa para indicar la necesidad de algo. A menudo se utiliza para referirse a la falta o la carencia de un elemento esencial.",
+    "texto2": "necesitar / hacer falta",
+    "texto3": "want / wɑːnt /",
+    "texto4": "wanted / will want / wanting",
+    "texto5": "The server wants more RAM to handle the increased traffic.",
+    "texto6": "El servidor necesita más RAM para manejar el aumento del tráfico."
+  },
+  {
+    "texto1": "Verbo transitivo que indica la intención o el deseo de realizar una acción. Se usa para expresar un plan o una meta.",
+    "texto2": "querer / tener la intención de",
+    "texto3": "want / wɑːnt /",
+    "texto4": "wanted / will want / wanting",
+    "texto5": "The team wants to implement a new feature in the next sprint.",
+    "texto6": "El equipo quiere implementar una nueva función en el próximo 'sprint'."
+  },
+  {
+    "texto1": "Sustantivo que se refiere a una falta, una deficiencia o la carencia de algo. En este sentido, se refiere a una necesidad o a un deseo insatisfecho.",
+    "texto2": "carencia / necesidad",
+    "texto3": "want / wɑːnt /",
+    "texto4": "wants / n/a",
+    "texto5": "The software update addresses the user's wants and provides new functionalities.",
+    "texto6": "La actualización del software aborda las necesidades del usuario y proporciona nuevas funcionalidades."
+  },
+  {
+    "texto1": "Verbo transitivo que se refiere a la acción de transferir algo a alguien, otorgándolo de forma voluntaria. Es el uso más común y fundamental, indicando un acto de entrega.",
+    "texto2": "dar / entregar",
+    "texto3": "give / ɡɪv /",
+    "texto4": "gave / will give / giving",
+    "texto5": "The API will give us the user data in JSON format.",
+    "texto6": "La API nos dará los datos del usuario en formato JSON."
+  },
+  {
+    "texto1": "Verbo transitivo que indica la acción de proporcionar información, instrucciones o una descripción de algo.",
+    "texto2": "proporcionar / ofrecer",
+    "texto3": "give / ɡɪv /",
+    "texto4": "gave / will give / giving",
+    "texto5": "I will give you a list of all the dependencies for this project.",
+    "texto6": "Te proporcionaré una lista de todas las dependencias para este proyecto."
+  },
+  {
+    "texto1": "Verbo transitivo que se usa para expresar la acción de organizar o celebrar un evento, como una fiesta o una presentación. En este contexto, significa 'llevar a cabo'.",
+    "texto2": "ofrecer / dar / celebrar",
+    "texto3": "give / ɡɪv /",
+    "texto4": "gave / will give / giving",
+    "texto5": "The team will give a presentation on the new architecture next week.",
+    "texto6": "El equipo ofrecerá una presentación sobre la nueva arquitectura la próxima semana."
+  },
+  {
+    "texto1": "Verbo transitivo que se utiliza para ceder o renunciar a una posición o un argumento, a menudo en un contexto de negociación o debate.",
+    "texto2": "ceder / rendirse",
+    "texto3": "give / ɡɪv /",
+    "texto4": "gave / will give / giving",
+    "texto5": "We can't give up on the project just because of a few bugs.",
+    "texto6": "No podemos rendirnos con el proyecto solo por unos pocos errores."
+  },
+  {
+    "texto1": "Sustantivo que se refiere a la elasticidad o la flexibilidad de algo. En este contexto, 'give' se usa para describir la capacidad de ceder bajo presión.",
+    "texto2": "flexibilidad / elasticidad",
+    "texto3": "give / ɡɪv /",
+    "texto4": "n/a",
+    "texto5": "There is no give in the project deadline, we have to finish it on time.",
+    "texto6": "No hay flexibilidad en la fecha límite del proyecto, tenemos que terminarlo a tiempo."
+  },
+  {
+    "texto1": "Adjetivo que indica que algo es el primero en una secuencia, una serie o un orden. Se utiliza para señalar la posición inicial en tiempo o espacio. Es el uso más común y fundamental del término.",
+    "texto2": "primero / inicial",
+    "texto3": "first / fɜːrst /",
+    "texto4": "n/a",
+    "texto5": "The first step in our deployment process is to run the automated tests.",
+    "texto6": "El primer paso en nuestro proceso de despliegue es ejecutar las pruebas automatizadas."
+  },
+  {
+    "texto1": "Adverbio que se usa para indicar que una acción ocurre antes que otras. Se utiliza para marcar la prioridad o el inicio de una secuencia de eventos.",
+    "texto2": "primero",
+    "texto3": "first / fɜːrst /",
+    "texto4": "n/a",
+    "texto5": "First, you need to install the dependencies; then you can run the application.",
+    "texto6": "Primero, necesitas instalar las dependencias; luego puedes ejecutar la aplicación."
+  },
+  {
+    "texto1": "Adjetivo que describe algo que es el más importante o el más significativo. Se utiliza para enfatizar la prioridad o la relevancia de un elemento.",
+    "texto2": "principal / más importante",
+    "texto3": "first / fɜːrst /",
+    "texto4": "n/a",
+    "texto5": "The first priority for the team is to fix the critical security bug.",
+    "texto6": "La principal prioridad del equipo es arreglar el error de seguridad crítico."
+  },
+  {
+    "texto1": "Sustantivo que se refiere al inicio o al comienzo de algo, como un período de tiempo. Se utiliza para marcar el punto de partida de un evento.",
+    "texto2": "principio / inicio",
+    "texto3": "first / fɜːrst /",
+    "texto4": "n/a",
+    "texto5": "At first, the new API was difficult to integrate, but now it works perfectly.",
+    "texto6": "Al principio, la nueva API fue difícil de integrar, pero ahora funciona perfectamente."
+  },
+  {
+    "texto1": "Adjetivo que describe algo que existe o se ha producido por primera vez, o que es una adición reciente. Es el uso más común y fundamental, indicando novedad y originalidad.",
+    "texto2": "nuevo / reciente",
+    "texto3": "new / nuː /",
+    "texto4": "n/a",
+    "texto5": "We are working on a new feature that will improve user experience.",
+    "texto6": "Estamos trabajando en una nueva función que mejorará la experiencia del usuario."
+  },
+  {
+    "texto1": "Adjetivo que se refiere a algo que ha sido reemplazado o actualizado. Se usa para contrastar algo viejo con algo que es una versión más reciente.",
+    "texto2": "renovado / actualizado",
+    "texto3": "new / nuː /",
+    "texto4": "n/a",
+    "texto5": "The development team has a new approach to managing the project.",
+    "texto6": "El equipo de desarrollo tiene un enfoque nuevo para gestionar el proyecto."
+  },
+  {
+    "texto1": "Adjetivo que describe a una persona que es inexperta o que acaba de comenzar una actividad. Se usa para referirse a la falta de experiencia en un campo específico.",
+    "texto2": "novato / inexperto",
+    "texto3": "new / nuː /",
+    "texto4": "n/a",
+    "texto5": "As a new developer, it's important to ask for help when you're stuck.",
+    "texto6": "Como desarrollador novato, es importante pedir ayuda cuando te quedes atascado."
+  },
+  {
+    "texto1": "Adverbio que se utiliza para indicar que una acción se ha realizado de forma reciente o de manera novedosa. A menudo se usa en expresiones como 'newly'.",
+    "texto2": "recientemente / de forma nueva",
+    "texto3": "new / nuː /",
+    "texto4": "n/a",
+    "texto5": "The company has newly acquired a startup specializing in cloud computing.",
+    "texto6": "La compañía ha adquirido recientemente una 'startup' especializada en computación en la nube."
+  },
+  {
+    "texto1": "Sustantivo que se refiere a una ruta, dirección o sendero que se sigue para ir de un lugar a otro. Es el significado más común, indicando una trayectoria física.",
+    "texto2": "camino / ruta / dirección",
+    "texto3": "way / weɪ /",
+    "texto4": "n/a",
+    "texto5": "What is the best way to integrate this API into our system?",
+    "texto6": "¿Cuál es la mejor manera de integrar esta API en nuestro sistema?"
+  },
+  {
+    "texto1": "Sustantivo que indica un método, un plan o la forma en que se realiza una acción. Se utiliza para describir la manera en que se logra un objetivo o se soluciona un problema.",
+    "texto2": "manera / forma / método",
+    "texto3": "way / weɪ /",
+    "texto4": "n/a",
+    "texto5": "We need to find a new way to optimize the database queries.",
+    "texto6": "Necesitamos encontrar una nueva forma de optimizar las consultas a la base de datos."
+  },
+  {
+    "texto1": "Sustantivo que se utiliza para referirse a un aspecto o un detalle particular de algo. A menudo se usa en expresiones como 'in many ways' o 'in a way'.",
+    "texto2": "aspecto / sentido",
+    "texto3": "way / weɪ /",
+    "texto4": "n/a",
+    "texto5": "The new architecture is better in many ways than the old one.",
+    "texto6": "La nueva arquitectura es mejor en muchos sentidos que la antigua."
+  },
+  {
+    "texto1": "Sustantivo que se refiere al espacio o la distancia entre dos puntos. Se usa para hablar de la longitud de un recorrido.",
+    "texto2": "distancia",
+    "texto3": "way / weɪ /",
+    "texto4": "n/a",
+    "texto5": "The office is a long way from my home, so I will work remotely.",
+    "texto6": "La oficina está a una larga distancia de mi casa, así que trabajaré de forma remota."
+  },
+  {
+    "texto1": "Adverbio que se utiliza para enfatizar una distancia o una duración. A menudo se combina con otras palabras para intensificar su significado.",
+    "texto2": "mucho / lejos",
+    "texto3": "way / weɪ /",
+    "texto4": "n/a",
+    "texto5": "The project is way behind schedule because of the unexpected bugs.",
+    "texto6": "El proyecto está muy atrasado debido a los errores inesperados."
+  },
+  {
+    "texto1": "Verbo transitivo que se refiere a la acción de descubrir o localizar algo que estaba perdido, oculto o desconocido. Este es el uso más común y directo.",
+    "texto2": "encontrar / hallar",
+    "texto3": "find / faɪnd /",
+    "texto4": "found / will find / finding",
+    "texto5": "I used the debugging tool to find the cause of the system error.",
+    "texto6": "Usé la herramienta de depuración para encontrar la causa del error del sistema."
+  },
+  {
+    "texto1": "Verbo transitivo que significa descubrir algo o llegar a una conclusión después de un proceso de investigación, análisis o reflexión.",
+    "texto2": "descubrir / llegar a la conclusión de",
+    "texto3": "find / faɪnd /",
+    "texto4": "found / will find / finding",
+    "texto5": "We found that the new library has better performance than the old one.",
+    "texto6": "Descubrimos que la nueva biblioteca tiene un mejor rendimiento que la antigua."
+  },
+  {
+    "texto1": "Verbo transitivo que se usa para expresar que una persona experimenta, percibe o considera que algo tiene una cualidad específica.",
+    "texto2": "encontrar / considerar",
+    "texto3": "find / faɪnd /",
+    "texto4": "found / will find / finding",
+    "texto5": "The users find the new interface to be very intuitive.",
+    "texto6": "Los usuarios encuentran que la nueva interfaz es muy intuitiva."
+  },
+  {
+    "texto1": "Verbo transitivo que indica la acción de obtener o conseguir algo que se necesita o se desea. Se usa a menudo en un contexto más abstracto, como encontrar una solución o un trabajo.",
+    "texto2": "conseguir / obtener",
+    "texto3": "find / faɪnd /",
+    "texto4": "found / will find / finding",
+    "texto5": "Did you find a solution for the memory leak in the application?",
+    "texto6": "¿Conseguiste una solución para la fuga de memoria en la aplicación?"
+  },
+  {
+    "texto1": "Preposición que indica una posición o un movimiento que está directamente encima de algo. Este es uno de los usos más comunes y literales, refiriéndose a una ubicación superior.",
+    "texto2": "sobre / encima de",
+    "texto3": "over / ˈoʊvər /",
+    "texto4": "n/a",
+    "texto5": "The server logs are sent over the network to the monitoring tool.",
+    "texto6": "Los registros del servidor se envían sobre la red a la herramienta de monitoreo."
+  },
+  {
+    "texto1": "Preposición que se usa para indicar un movimiento de un lado a otro o a través de una superficie. Se utiliza para referirse al cruce de un obstáculo o un área.",
+    "texto2": "a través de / por encima de",
+    "texto3": "over / ˈoʊvər /",
+    "texto4": "n/a",
+    "texto5": "We need to go over the documentation to find the solution for this bug.",
+    "texto6": "Necesitamos revisar la documentación para encontrar la solución para este error."
+  },
+  {
+    "texto1": "Preposición que indica que algo ha terminado o que ha llegado a su fin. Se usa comúnmente para referirse a la finalización de un proceso o un evento.",
+    "texto2": "terminado / acabado",
+    "texto3": "over / ˈoʊvər /",
+    "texto4": "n/a",
+    "texto5": "The scheduled maintenance is finally over and the server is back online.",
+    "texto6": "El mantenimiento programado ha terminado y el servidor está de nuevo en línea."
+  },
+  {
+    "texto1": "Preposición o adverbio que indica una cantidad que excede un límite, un número o una medida. A menudo se usa en el sentido de 'más que'.",
+    "texto2": "más de / por encima de",
+    "texto3": "over / ˈoʊvər /",
+    "texto4": "n/a",
+    "texto5": "The application handles over a million requests per day.",
+    "texto6": "La aplicación maneja más de un millón de peticiones al día."
+  },
+  {
+    "texto1": "Prefijo que se utiliza para formar adjetivos y verbos, indicando un exceso de algo o una acción que se realiza en exceso. Esto le da un significado de 'demasiado'.",
+    "texto2": "en exceso / demasiado",
+    "texto3": "over / ˈoʊvər /",
+    "texto4": "n/a",
+    "texto5": "The server is overloaded and can't handle any more requests.",
+    "texto6": "El servidor está sobrecargado y no puede manejar más peticiones."
+  },
+  {
+    "texto1": "Preposición que indica que un evento o un período de tiempo sucede en un momento posterior a otro. Es el uso más común y fundamental, refiriéndose a una secuencia temporal.",
+    "texto2": "después de / tras",
+    "texto3": "after / ˈæftər /",
+    "texto4": "n/a",
+    "texto5": "We will deploy the new version after the nightly tests are completed.",
+    "texto6": "Desplegaremos la nueva versión después de que se completen las pruebas nocturnas."
+  },
+  {
+    "texto1": "Conjunción subordinada que introduce una cláusula que describe un evento que ocurre más tarde que otro. Se utiliza para conectar dos acciones en el tiempo.",
+    "texto2": "después de que",
+    "texto3": "after / ˈæftər /",
+    "texto4": "n/a",
+    "texto5": "The application started working correctly after we fixed the bug.",
+    "texto6": "La aplicación empezó a funcionar correctamente después de que arreglamos el error."
+  },
+  {
+    "texto1": "Adverbio que se usa para indicar que una acción ocurre en un momento posterior al que se mencionó. Se usa comúnmente para referirse a eventos pasados.",
+    "texto2": "después / más tarde",
+    "texto3": "after / ˈæftər /",
+    "texto4": "n/a",
+    "texto5": "First we write the code, and after, we write the tests.",
+    "texto6": "Primero escribimos el código y, después, escribimos las pruebas."
+  },
+  {
+    "texto1": "Adjetivo que describe algo que ocurre o se hace posteriormente a un evento. Se utiliza en contextos donde se enfatiza la secuencia temporal.",
+    "texto2": "posterior / siguiente",
+    "texto3": "after / ˈæftər /",
+    "texto4": "n/a",
+    "texto5": "The 'after-hours' maintenance is scheduled for tonight at 11 PM.",
+    "texto6": "El mantenimiento 'fuera de horario' está programado para esta noche a las 11 PM."
+  },
+  {
+    "texto1": "Sustantivo que se refiere al período de 24 horas que va de medianoche a medianoche, o al período de luz diurna. Es el significado más común y fundamental del término.",
+    "texto2": "día",
+    "texto3": "day / deɪ /",
+    "texto4": "days / n/a",
+    "texto5": "We need to fix this critical bug within one business day.",
+    "texto6": "Necesitamos arreglar este error crítico en un día hábil."
+  },
+  {
+    "texto1": "Sustantivo que se utiliza para referirse al período de tiempo en el que se trabaja o se realizan las actividades laborales. A menudo se usa en un contexto profesional.",
+    "texto2": "jornada laboral / día de trabajo",
+    "texto3": "day / deɪ /",
+    "texto4": "n/a",
+    "texto5": "Our team's workday usually starts with a stand-up meeting at 9 AM.",
+    "texto6": "La jornada laboral de nuestro equipo suele comenzar con una reunión de pie a las 9 AM."
+  },
+  {
+    "texto1": "Sustantivo que se refiere a una fecha o a un evento particular, a menudo un día festivo o un día conmemorativo.",
+    "texto2": "día / fecha",
+    "texto3": "day / deɪ /",
+    "texto4": "n/a",
+    "texto5": "The server downtime is scheduled for maintenance day, which is every first Sunday of the month.",
+    "texto6": "El tiempo de inactividad del servidor está programado para el día de mantenimiento, que es cada primer domingo del mes."
+  },
+  {
+    "texto1": "Sustantivo que se usa para referirse a la era actual o a un período específico en la historia. Se utiliza para contextualizar eventos en el tiempo.",
+    "texto2": "época / era",
+    "texto3": "day / deɪ /",
+    "texto4": "n/a",
+    "texto5": "In this day and age of cloud computing, scalability is a key concern.",
+    "texto6": "En esta época de computación en la nube, la escalabilidad es una preocupación clave."
+  },
+  {
+    "texto1": "Adverbio interrogativo que se utiliza para preguntar sobre un lugar, una posición o una dirección. Es el uso más común y fundamental del término.",
+    "texto2": "¿dónde?",
+    "texto3": "where / wɛər /",
+    "texto4": "n/a",
+    "texto5": "Where is the new server located in the data center?",
+    "texto6": "¿Dónde está ubicado el nuevo servidor en el centro de datos?"
+  },
+  {
+    "texto1": "Conjunción o pronombre relativo que introduce una cláusula para referirse a un lugar previamente mencionado. Se usa para conectar una idea a una ubicación específica.",
+    "texto2": "donde / en el que",
+    "texto3": "where / wɛər /",
+    "texto4": "n/a",
+    "texto5": "This is the line of code where the error occurs.",
+    "texto6": "Esta es la línea de código donde ocurre el error."
+  },
+  {
+    "texto1": "Conjunción que introduce una cláusula que contrasta con la principal, a menudo para mostrar una situación opuesta. En este sentido, se usa como sinónimo de 'whereas'.",
+    "texto2": "mientras que",
+    "texto3": "where / wɛər /",
+    "texto4": "n/a",
+    "texto5": "We've fixed the bug in the backend, where the frontend is still experiencing issues.",
+    "texto6": "Hemos arreglado el error en el 'backend', mientras que el 'frontend' aún está experimentando problemas."
+  },
+  {
+    "texto1": "Sustantivo que se refiere a un objeto, artículo o entidad, especialmente si su nombre no se conoce o no se desea especificar. Este es el uso más común y genérico, aplicable a cualquier cosa tangible o intangible.",
+    "texto2": "cosa / objeto",
+    "texto3": "thing / θɪŋ /",
+    "texto4": "things / n/a",
+    "texto5": "I have a few things to do before I can push my changes to the repository.",
+    "texto6": "Tengo algunas cosas que hacer antes de poder subir mis cambios al repositorio."
+  },
+  {
+    "texto1": "Sustantivo que se usa para referirse a una situación, un asunto, una idea o un evento, en un sentido más abstracto. Es una forma general de hablar de conceptos o circunstancias.",
+    "texto2": "asunto / cuestión / situación",
+    "texto3": "thing / θɪŋ /",
+    "texto4": "things / n/a",
+    "texto5": "The most important thing is to ensure the security of the user data.",
+    "texto6": "Lo más importante es asegurar la seguridad de los datos del usuario."
+  },
+  {
+    "texto1": "Sustantivo que se utiliza para referirse a un elemento particular o a un componente de algo. En el contexto de la programación, puede referirse a una pieza de código o a un elemento de un sistema.",
+    "texto2": "elemento / parte",
+    "texto3": "thing / θɪŋ /",
+    "texto4": "things / n/a",
+    "texto5": "The 'thing' that makes this framework so fast is its virtual DOM.",
+    "texto6": "La 'cosa' que hace que este framework sea tan rápido es su DOM virtual."
+  },
+  {
+    "texto1": "Sustantivo que se refiere a una posesión o a una pertenencia, a menudo en un contexto de pertenencias personales. Se usa comúnmente en plural.",
+    "texto2": "pertenencias / posesiones",
+    "texto3": "thing / θɪŋ /",
+    "texto4": "things / n/a",
+    "texto5": "I need to get my things from the office before I go on vacation.",
+    "texto6": "Necesito sacar mis cosas de la oficina antes de irme de vacaciones."
+  },
+  {
+    "texto1": "Adjetivo o pronombre que se utiliza para referirse a la mayor cantidad o la mayoría de un grupo o conjunto. Es el uso más común y fundamental, indicando una porción superior al 50%.",
+    "texto2": "la mayoría de / la mayor parte",
+    "texto3": "most / moʊst /",
+    "texto4": "n/a",
+    "texto5": "Most of the developers in the team use a Git-based workflow.",
+    "texto6": "La mayoría de los desarrolladores del equipo utiliza un flujo de trabajo basado en Git."
+  },
+  {
+    "texto1": "Adverbio que se usa para formar el superlativo de adjetivos o adverbios de dos o más sílabas. En este sentido, 'most' significa 'el más' o 'la más'.",
+    "texto2": "más / el más",
+    "texto3": "most / moʊst /",
+    "texto4": "n/a",
+    "texto5": "This is the most efficient algorithm we have developed so far.",
+    "texto6": "Este es el algoritmo más eficiente que hemos desarrollado hasta ahora."
+  },
+  {
+    "texto1": "Adverbio que significa 'muy' o 'en gran medida', especialmente en un contexto de cortesía o formalidad. Se usa en expresiones como 'most welcome' o 'most important'.",
+    "texto2": "muy / sumamente",
+    "texto3": "most / moʊst /",
+    "texto4": "n/a",
+    "texto5": "It is most important that we secure the user data before the public release.",
+    "texto6": "Es sumamente importante que aseguremos los datos del usuario antes del lanzamiento público."
   }
 ]
