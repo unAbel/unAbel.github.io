@@ -64,6 +64,14 @@
     "texto6": "Durante la semana laboral, tenemos reuniones diarias de seguimiento."
   },
   {
+    "texto1": "Verbo: Jugar (actividad, deporte, juego)",
+    "texto2": "jugar",
+    "texto3": "play /pleɪ/",
+    "texto4": "played / playing / will play",
+    "texto5": "The kids are playing in the garden.",
+    "texto6": "Los niños están jugando en el jardín."
+  },
+  {
     "texto1": "Verbo: Reproducir contenido multimedia",
     "texto2": "reproducir / ejecutar",
     "texto3": "play /pleɪ/",
@@ -72,12 +80,12 @@
     "texto6": "Haz clic para reproducir el video tutorial."
   },
   {
-    "texto1": "Verbo: Desempeñar un papel o función",
-    "texto2": "desempeñar / cumplir",
-    "texto3": "play /pleɪ/",
-    "texto4": "played / playing / will play",
-    "texto5": "AI plays a crucial role in data analysis.",
-    "texto6": "La IA desempeña un papel crucial en el análisis de datos."
+  "texto1": "Verbo: Tener un papel o función importante",
+  "texto2": "tener / cumplir / ejercer",
+  "texto3": "play /pleɪ/",
+  "texto4": "played / playing / will play",
+  "texto5": "AI plays a crucial role in data analysis.",
+  "texto6": "La IA tiene un papel crucial en el análisis de datos."
   },
   {
     "texto1": "Sustantivo: Software/hardware para medios",
