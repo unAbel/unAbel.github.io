@@ -80,12 +80,12 @@
     "texto6": "Haz clic para reproducir el video tutorial."
   },
   {
-  "texto1": "Verbo: Tener un papel o función importante",
-  "texto2": "tener / cumplir / ejercer",
-  "texto3": "play /pleɪ/",
-  "texto4": "played / playing / will play",
-  "texto5": "AI plays a crucial role in data analysis.",
-  "texto6": "La IA tiene un papel crucial en el análisis de datos."
+    "texto1": "Verbo: Tener un papel o función importante",
+    "texto2": "tener / cumplir / ejercer",
+    "texto3": "play /pleɪ/",
+    "texto4": "played / playing / will play",
+    "texto5": "AI plays a crucial role in data analysis.",
+    "texto6": "La IA tiene un papel crucial en el análisis de datos."
   },
   {
     "texto1": "Sustantivo: Software/hardware para medios",
@@ -96,7 +96,7 @@
     "texto6": "El reproductor de video soporta múltiples formatos."
   },
   {
-    "texto1": "Verbo modal: Posibilidad o probabilidad",
+    "texto1": "Verbo modal: Posibilidad o probabilidad (posibilidad menor que may)",
     "texto2": "podría / quizás",
     "texto3": "might /maɪt/",
     "texto4": "n/a",
@@ -360,12 +360,20 @@
     "texto6": "Déjame revisar los registros del servidor en busca de errores."
   },
   {
-    "texto1": "Verbo: Declarar variables (programación)",
+    "texto1": "Uso como verbo auxiliar. 'Let's' (abreviatura de 'let us') se usa para hacer sugerencias o propuestas a un grupo de personas. Es un uso imperativo y colaborativo.",
+    "texto2": "Vamos a / Hagamos / Propongo que",
+    "texto3": "let's /lɛts/",
+    "texto4": "n/a",
+    "texto5": "We've fixed the bug, so let's deploy the new version.",
+    "texto6": "Hemos arreglado el error, así que vamos a desplegar la nueva versión."
+  },
+  {
+    "texto1": "Verbo: Declarar variables en programación",
     "texto2": "declarar (variables)",
     "texto3": "let /lɛt/",
     "texto4": "n/a",
-    "texto5": "Use let to declare block-scoped variables in JavaScript.",
-    "texto6": "Usa let para declarar variables con alcance de bloque en JavaScript."
+    "texto5": "Use 'let' to declare a variable in your program.",
+    "texto6": "Usa 'let' para declarar una variable en tu programa."
   },
   {
     "texto1": "Adverbio: Repetir una acción",
@@ -456,6 +464,14 @@
     "texto6": "Cada desarrollador debe completar el entrenamiento de seguridad."
   },
   {
+    "texto1": "Determinante: Cada miembro sin excepción",
+    "texto2": "cada / todo",
+    "texto3": "every /ˈɛvri/",
+    "texto4": "n/a",
+    "texto5": "Every file must be tested",
+    "texto6": "Cada/todo archivo debe ser probado"
+  },
+  {
     "texto1": "Sustantivo: Expresión interrogativa",
     "texto2": "pregunta",
     "texto3": "question /ˈkwɛsʧən/",
@@ -520,12 +536,20 @@
     "texto6": "Cada desarrollador necesita un buen juego de herramientas de depuración."
   },
   {
-    "texto1": "Adjetivo: Configuración predeterminada",
-    "texto2": "predeterminado / por defecto",
-    "texto3": "set /sɛt/",
-    "texto4": "n/a",
-    "texto5": "Reset to factory settings to restore the set configuration.",
-    "texto6": "Restaura a los ajustes de fábrica para recuperar la configuración predeterminada."
+    "texto1": "Adjetivo: Fijo o predeterminado",
+    "texto2": "fijo / establecido / predeterminado",
+    "texto3": "set / /sɛt/",
+    "texto4": "n/a / n/a / n/a",
+    "texto5": "The team follows set procedures for code deployment",
+    "texto6": "El equipo sigue procedimientos fijos para el despliegue de código"
+  },
+  {
+    "texto1": "Sustantivo: En matemáticas/software: colección de elementos únicos",
+    "texto2": "conjunto (matemático)",
+    "texto3": "set / /sɛt/",
+    "texto4": "sets / sets (plural) / n/a",
+    "texto5": "We used a hash set to optimize the data retrieval process",
+    "texto6": "Usamos una tabla hash para optimizar el proceso de recuperación de datos"
   },
   {
     "texto1": "Adjetivo que indica tamaño reducido o menor que el promedio",
@@ -640,44 +664,92 @@
     "texto6": "La tarea se completó por debajo del presupuesto y antes de lo previsto."
   },
   {
-    "texto1": "Verbo que significa cambiar dirección u orientación",
-    "texto2": "girar / voltear / cambiar",
-    "texto3": "turn /tɜːrn/",
+    "texto1": "Verbo: Cambiar de dirección o posición física",
+    "texto2": "girar / voltear / dar la vuelta",
+    "texto3": "turn / /tɜːrn/",
     "texto4": "turned / will turn / turning",
-    "texto5": "Turn the device clockwise to secure it properly.",
-    "texto6": "Gira el dispositivo en sentido horario para fijarlo correctamente."
+    "texto5": "Turn left at the next intersection to reach the office",
+    "texto6": "Gira a la izquierda en la próxima intersección para llegar a la oficina"
   },
   {
-    "texto1": "Verbo que describe transformarse o convertirse en algo",
-    "texto2": "convertirse en / volverse / transformarse",
-    "texto3": "turn /tɜːrn/",
+    "texto1": "Verbo: Cambiar de estado o condición",
+    "texto2": "volverse / convertirse / transformarse",
+    "texto3": "turn / /tɜːrn/",
     "texto4": "turned / will turn / turning",
-    "texto5": "The screen may turn blue during system updates.",
-    "texto6": "La pantalla puede volverse azul durante las actualizaciones del sistema."
+    "texto5": "The leaves turn red in autumn creating a beautiful landscape",
+    "texto6": "Las hojas se vuelven rojas en otoño creando un paisaje hermoso"
   },
   {
-    "texto1": "Adjetivo/determinante que indica cantidad pequeña (con sustantivos contables)",
-    "texto2": "pocos / escasos / reducido número",
-    "texto3": "few /fjuː/",
+    "texto1": "Sustantivo: Oportunidad para hacer algo en secuencia",
+    "texto2": "turno / oportunidad",
+    "texto3": "turn / /tɜːrn/",
+    "texto4": "turns / turns (plural) / n/a",
+    "texto5": "It's your turn to present the code review in our team meeting",
+    "texto6": "Es tu turno de presentar la revisión de código en la reunión de equipo"
+  },
+  {
+    "texto1": "Verbo: Operar un interruptor (encender/apagar)",
+    "texto2": "encender / apagar / activar",
+    "texto3": "turn / /tɜːrn/",
+    "texto4": "turned / will turn / turning",
+    "texto5": "Don't forget to turn off/on your computer before leaving the office",
+    "texto6": "No olvides apagar tu computadora antes de salir de la oficina"
+  },
+  {
+    "texto1": "Sustantivo: Cambio en el desarrollo de eventos",
+    "texto2": "giro / cambio / viraje",
+    "texto3": "turn / /tɜːrn/",
+    "texto4": "turns / turns (plural) / n/a",
+    "texto5": "The project took an unexpected turn when we discovered the new requirements",
+    "texto6": "El proyecto tomó un giro inesperado cuando descubrimos los nuevos requisitos"
+  },
+    {
+    "texto1": "Adjetivo: Indica pequeña cantidad (con artículo)",
+    "texto2": "pocos / algunos / varios",
+    "texto3": "few / /fjuː/",
+    "texto4": "fewer (comparative) / fewest (superlative) / n/a",
+    "texto5": "I have a few minutes before the meeting to check your code",
+    "texto6": "Tengo unos pocos minutos antes de la reunión para revisar tu código"
+  },
+  {
+    "texto1": "Pronombre: Número pequeño (sin artículo, énfasis negativo)",
+    "texto2": "pocos / escasos",
+    "texto3": "few / /fjuː/",
     "texto4": "fewer / fewest / n/a",
-    "texto5": "Few developers understand this legacy code completely.",
-    "texto6": "Pocos desarrolladores entienden este código heredado completamente."
+    "texto5": "Few developers understand the complexity of this algorithm",
+    "texto6": "Pocos desarrolladores entienden la complejidad de este algoritmo"
   },
   {
-    "texto1": "Verbo que significa llevar algo consigo a un lugar",
-    "texto2": "traer / llevar / acercar",
-    "texto3": "bring /brɪŋ/",
+    "texto1": "Verbo: Transportar algo hacia el hablante",
+    "texto2": "traer / llevar (hacia aquí)",
+    "texto3": "bring / /brɪŋ/",
     "texto4": "brought / will bring / bringing",
-    "texto5": "Bring your laptop to the sprint planning meeting.",
-    "texto6": "Trae tu portátil a la reunión de planificación del sprint."
+    "texto5": "Can you bring your laptop to the meeting room?",
+    "texto6": "¿Puedes traer tu portátil a la sala de reuniones?"
   },
   {
-    "texto1": "Verbo que causa un estado o condición particular",
-    "texto2": "provocar / ocasionar / causar",
-    "texto3": "bring /brɪŋ/",
+    "texto1": "Verbo: Causar o producir un resultado",
+    "texto2": "causar / ocasionar / provocar",
+    "texto3": "bring / /brɪŋ/",
     "texto4": "brought / will bring / bringing",
-    "texto5": "These changes will bring significant improvements to performance.",
-    "texto6": "Estos cambios provocarán mejoras significativas en el rendimiento."
+    "texto5": "The new update will bring significant performance improvements",
+    "texto6": "La nueva actualización causará mejoras significativas en el rendimiento"
+  },
+  {
+    "texto1": "Verbo: Acompañar o conducir a alguien",
+    "texto2": "acompañar / llevar",
+    "texto3": "bring / /brɪŋ/",
+    "texto4": "brought / will bring / bringing",
+    "texto5": "You can bring your family to the company's annual dinner",
+    "texto6": "Puedes acompañar a tu familia a la cena anual de la empresa"
+  },
+  {
+    "texto1": "Verbo frasal: Mencionar o plantear un tema",
+    "texto2": "mencionar / plantear / sacar a colación",
+    "texto3": "bring up / /brɪŋ ʌp/",
+    "texto4": "brought up / will bring up / bringing up",
+    "texto5": "Please bring up any technical concerns during the planning meeting",
+    "texto6": "Por favor plantea cualquier inquietud técnica durante la reunión de planificación"
   },
   {
     "texto1": "Adjetivo que describe algo en etapa inicial o antes del tiempo esperado",
