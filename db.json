@@ -1,698 +1,842 @@
 [
   {
-    "texto1": "Verbo: Usar dinero para pagar bienes o servicios",
-    "texto2": "gastar / invertir",
-    "texto3": "spend / /spɛnd/",
-    "texto4": "spent / will spend / spending",
-    "texto5": "I spend about $50 on groceries every week",
-    "texto6": "Gasto unos $50 en comestibles cada semana"
+    "texto1": "Sustantivo: Compañía o actividad comercial dedicada a la venta de bienes/servicios",
+    "texto2": "negocio / empresa / comercio",
+    "texto3": "business / /ˈbɪznəs/",
+    "texto4": "businesses",
+    "texto5": "Our startup transformed from a small business to a tech unicorn in five years.",
+    "texto6": "Nuestra startup pasó de ser un pequeño negocio a un unicornio tecnológico en cinco años."
   },
   {
-    "texto1": "Verbo: Pasar tiempo realizando una actividad específica",
-    "texto2": "pasar (tiempo) / dedicar",
-    "texto3": "spend / /spɛnd/",
-    "texto4": "spent / will spend / spending",
-    "texto5": "Developers spend hours debugging complex code",
-    "texto6": "Los desarrolladores pasan horas depurando código complejo"
+    "texto1": "Sustantivo: Asunto o tema personal que no concierne a otros (usado en expresiones)",
+    "texto2": "asunto / incumbencia / tema",
+    "texto3": "business / /ˈbɪznəs/",
+    "texto4": "businesses",
+    "texto5": "Which programming language to use for this project is none of your business.",
+    "texto6": "Qué lenguaje de programación usar para este proyecto no es asunto tuyo."
   },
   {
-    "texto1": "Sustantivo: Parte superior del cuerpo humano que contiene el cerebro",
-    "texto2": "cabeza / testa",
-    "texto3": "head / /hɛd/",
+    "texto1": "Sustantivo: En desarrollo de software, reglas y procesos que definen operaciones comerciales",
+    "texto2": "lógica de negocio / reglas operativas",
+    "texto3": "business / /ˈbɪznəs/",
+    "texto4": "businesses",
+    "texto5": "The business layer handles all transaction validations and workflows.",
+    "texto6": "La capa de negocio maneja todas las validaciones y flujos de transacciones."
+  },
+    {
+    "texto1": "Sustantivo: Datos organizados con significado o contexto",
+    "texto2": "información / datos / conocimiento",
+    "texto3": "information / /ˌɪnfərˈmeɪʃən/",
+    "texto4": "uncountable",
+    "texto5": "The dashboard displays real-time information about server performance.",
+    "texto6": "El panel muestra información en tiempo real sobre el rendimiento del servidor."
+  },
+  {
+    "texto1": "Sustantivo: Campo profesional relacionado con sistemas computacionales y datos",
+    "texto2": "tecnología de información / informática",
+    "texto3": "information / /ˌɪnfərˈmeɪʃən/",
+    "texto4": "uncountable",
+    "texto5": "She works in Information Technology specializing in cloud security.",
+    "texto6": "Ella trabaja en Tecnología de la Información especializada en seguridad en la nube."
+  },
+  {
+    "texto1": "Adjetivo: No cerrado, bloqueado o restringido; permite acceso o movimiento",
+    "texto2": "abierto / desbloqueado / accesible",
+    "texto3": "open / /ˈoʊpən/",
+    "texto4": "n/a",
+    "texto5": "Make sure the database connection remains open during the data transfer.",
+    "texto6": "Asegúrate de que la conexión a la base de datos permanezca abierta durante la transferencia de datos."
+  },
+  {
+    "texto1": "Verbo: Mover algo a una posición que permita acceso (puerta, ventana, archivo)",
+    "texto2": "abrir / destapar / iniciar",
+    "texto3": "open / /ˈoʊpən/",
+    "texto4": "opened / will open / opening",
+    "texto5": "Open the configuration file before modifying the settings.",
+    "texto6": "Abre el archivo de configuración antes de modificar los ajustes."
+  },
+  {
+    "texto1": "Adjetivo: Disponible al público o accesible para todos",
+    "texto2": "público / disponible / accesible",
+    "texto3": "open / /ˈoʊpən/",
+    "texto4": "n/a",
+    "texto5": "The new API documentation is now open for community contributions.",
+    "texto6": "La nueva documentación de la API está ahora abierta a contribuciones de la comunidad."
+  },
+  {
+    "texto1": "Sustantivo: Arreglo metódico o secuencia lógica (datos, elementos, procesos)",
+    "texto2": "orden / secuencia / disposición",
+    "texto3": "order / /ˈɔːrdər/",
+    "texto4": "orders",
+    "texto5": "Sort the dataset in alphabetical order before running the analysis.",
+    "texto6": "Ordena el conjunto de datos alfabéticamente antes de ejecutar el análisis."
+  },
+  {
+    "texto1": "Sustantivo: Solicitud formal para comprar bienes o servicios",
+    "texto2": "pedido / encargo / comanda",
+    "texto3": "order / /ˈɔːrdər/",
+    "texto4": "orders",
+    "texto5": "We received an order for 500 software licenses this morning.",
+    "texto6": "Recibimos un pedido de 500 licencias de software esta mañana."
+  },
+  {
+    "texto1": "Verbo: Solicitar bienes o servicios formalmente",
+    "texto2": "pedir / encargar / solicitar",
+    "texto3": "order / /ˈɔːrdər/",
+    "texto4": "ordered / will order / ordering",
+    "texto5": "Remember to order extra servers before the product launch.",
+    "texto6": "Recuerda pedir servidores adicionales antes del lanzamiento del producto."
+  },
+  {
+    "texto1": "Sustantivo: Gobierno como entidad administrativa que dirige un estado/nación",
+    "texto2": "gobierno / administración / estado",
+    "texto3": "government / /ˈɡʌvərnmənt/",
+    "texto4": "governments",
+    "texto5": "The government announced new regulations for data protection.",
+    "texto6": "El gobierno anunció nuevas regulaciones para la protección de datos."
+  },
+  {
+    "texto1": "Sustantivo: Sistema o método de gobernar (estructura política)",
+    "texto2": "gobierno / sistema político / administración",
+    "texto3": "government / /ˈɡʌvərnmənt/",
+    "texto4": "governments",
+    "texto5": "Digital voting systems are transforming modern government.",
+    "texto6": "Los sistemas de votación digital están transformando el gobierno moderno."
+  },
+  {
+    "texto1": "Sustantivo: Unidad básica de lenguaje escrito o hablado",
+    "texto2": "palabra / término / vocablo",
+    "texto3": "word / /wɜːrd/",
+    "texto4": "words",
+    "texto5": "The password must contain at least twelve characters and one special word.",
+    "texto6": "La contraseña debe contener al menos doce caracteres y una palabra especial."
+  },
+  {
+    "texto1": "Sustantivo: Promesa o compromiso formal (usado en expresiones)",
+    "texto2": "palabra / promesa / compromiso",
+    "texto3": "word / /wɜːrd/",
+    "texto4": "words",
+    "texto5": "I give you my word that the software update will be ready by Friday.",
+    "texto6": "Te doy mi palabra de que la actualización de software estará lista para el viernes."
+  },
+  {
+    "texto1": "Sustantivo: En computación, unidad de datos manejada por procesador",
+    "texto2": "palabra / unidad de datos",
+    "texto3": "word / /wɜːrd/",
+    "texto4": "words",
+    "texto5": "The processor handles 64-bit words more efficiently than 32-bit ones.",
+    "texto6": "El procesador maneja palabras de 64 bits más eficientemente que las de 32 bits."
+  },
+  {
+    "texto1": "Sustantivo: Problema o asunto importante que requiere atención o solución",
+    "texto2": "problema / asunto / tema",
+    "texto3": "issue / /ˈɪʃuː/",
+    "texto4": "issues",
+    "texto5": "The security issue needs immediate attention from the development team.",
+    "texto6": "El problema de seguridad necesita atención inmediata del equipo de desarrollo."
+  },
+  {
+    "texto1": "Sustantivo: En sistemas/software, error o fallo que afecta funcionalidad",
+    "texto2": "incidencia / fallo / bug",
+    "texto3": "issue / /ˈɪʃuː/",
+    "texto4": "issues",
+    "texto5": "GitHub shows 15 open issues in our repository that need fixing.",
+    "texto6": "GitHub muestra 15 incidencias abiertas en nuestro repositorio que necesitan corrección."
+  },
+  {
+    "texto1": "Verbo: Distribuir o proporcionar oficialmente (documentos, equipos, actualizaciones)",
+    "texto2": "emitir / distribuir / proporcionar",
+    "texto3": "issue / /ˈɪʃuː/",
+    "texto4": "issued / will issue / issuing",
+    "texto5": "The system will automatically issue security certificates to new users.",
+    "texto6": "El sistema emitirá automáticamente certificados de seguridad a nuevos usuarios."
+  },
+    {
+    "texto1": "Sustantivo: Lugar de intercambio comercial",
+    "texto2": "mercado / plaza",
+    "texto3": "market / /ˈmɑːrkɪt/",
+    "texto4": "markets / markets (plural) / n/a",
+    "texto5": "The farmers market opens every Saturday near the city center",
+    "texto6": "El mercado de agricultores abre cada sábado cerca del centro de la ciudad"
+  },
+  {
+    "texto1": "Sustantivo: Área de demanda económica",
+    "texto2": "mercado / sector",
+    "texto3": "market / /ˈmɑːrkɪt/",
+    "texto4": "markets / markets (plural) / n/a",
+    "texto5": "The job market for developers is very competitive right now",
+    "texto6": "El mercado laboral para desarrolladores es muy competitivo actualmente"
+  },
+  {
+    "texto1": "Verbo: Promocionar o comercializar",
+    "texto2": "comercializar / promocionar / mercadear",
+    "texto3": "market / /ˈmɑːrkɪt/",
+    "texto4": "marketed / will market / marketing",
+    "texto5": "The company will market this new software as a productivity solution",
+    "texto6": "La empresa comercializará este nuevo software como una solución de productividad"
+  },
+  {
+    "texto1": "Verbo: Dar dinero a cambio de bienes/servicios",
+    "texto2": "pagar / abonar / remunerar",
+    "texto3": "pay / /peɪ/",
+    "texto4": "paid / will pay / paying",
+    "texto5": "You can pay for your subscription using credit card or PayPal",
+    "texto6": "Puedes pagar tu suscripción con tarjeta de crédito o PayPal"
+  },
+  {
+    "texto1": "Sustantivo: Salario o compensación",
+    "texto2": "pago / salario / sueldo",
+    "texto3": "pay / /peɪ/",
     "texto4": "n/a / n/a / n/a",
-    "texto5": "She nodded her head in agreement",
-    "texto6": "Ella asintió con la cabeza en señal de acuerdo"
+    "texto5": "The company offers competitive pay and excellent benefits for developers",
+    "texto6": "La empresa ofrece un salario competitivo y excelentes beneficios para desarrolladores"
   },
   {
-    "texto1": "Sustantivo: Persona que lidera o dirige un grupo/organización",
-    "texto2": "jefe / director / líder",
-    "texto3": "head / /hɛd/",
+    "texto1": "Verbo: Dar o prestar (atención, respeto)",
+    "texto2": "prestar / dar",
+    "texto3": "pay / /peɪ/",
+    "texto4": "paid / will pay / paying",
+    "texto5": "Always pay attention to error messages during debugging",
+    "texto6": "Siempre presta atención a los mensajes de error durante la depuración"
+  },
+  {
+    "texto1": "Verbo: Construir o desarrollar algo progresivamente",
+    "texto2": "construir / desarrollar / edificar",
+    "texto3": "build / /bɪld/",
+    "texto4": "built / will build / building",
+    "texto5": "We need to build a responsive user interface for the mobile app",
+    "texto6": "Necesitamos construir una interfaz de usuario responsiva para la aplicación móvil"
+  },
+  {
+    "texto1": "Verbo: Aumentar o fortalecer gradualmente",
+    "texto2": "aumentar / fortalecer / acumular",
+    "texto3": "build / /bɪld/",
+    "texto4": "built / will build / building",
+    "texto5": "Regular code reviews help build trust within the development team",
+    "texto6": "Las revisiones de código regulares ayudan a fortalecer la confianza dentro del equipo de desarrollo"
+  },
+  {
+    "texto1": "Sustantivo: Estructura física o forma corporal",
+    "texto2": "constitución física / complexión / estructura",
+    "texto3": "build / /bɪld/",
+    "texto4": "builds / builds (plural) / n/a",
+    "texto5": "The athlete has a muscular build suitable for competitive sports",
+    "texto6": "El atleta tiene una constitución física muscular adecuada para deportes competitivos"
+  },
+  {
+    "texto1": "Verbo: Sostener físicamente con las manos",
+    "texto2": "sostener / agarrar / sujetar",
+    "texto3": "hold / /hoʊld/",
+    "texto4": "held / will hold / holding",
+    "texto5": "Hold the cable firmly while I connect it to the server",
+    "texto6": "Sostén el cable firmemente mientras lo conecto al servidor"
+  },
+  {
+    "texto1": "Verbo: Organizar o llevar a cabo un evento",
+    "texto2": "organizar / celebrar / llevar a cabo",
+    "texto3": "hold / /hoʊld/",
+    "texto4": "held / will hold / holding",
+    "texto5": "We'll hold the sprint planning meeting every Monday morning",
+    "texto6": "Celebraremos la reunión de planificación del sprint cada lunes por la mañana"
+  },
+  {
+    "texto1": "Verbo: Mantener o conservar un estado",
+    "texto2": "mantener / conservar / retener",
+    "texto3": "hold / /hoʊld/",
+    "texto4": "held / will hold / holding",
+    "texto5": "This database can hold up to 10 terabytes of user data",
+    "texto6": "Esta base de datos puede conservar hasta 10 terabytes de datos de usuario"
+  },
+  {
+    "texto1": "Sustantivo: Mantenimiento o reparación técnica",
+    "texto2": "servicio / mantenimiento / reparación",
+    "texto3": "service / /ˈsɜːrvɪs/",
+    "texto4": "services / services (plural) / n/a",
+    "texto5": "The IT department offers a maintenance service for all production servers",
+    "texto6": "El departamento de TI ofrece un servicio de mantenimiento para todos los servidores de producción"
+  },
+  {
+    "texto1": "Sustantivo: Atención al cliente o asistencia",
+    "texto2": "servicio / atención / asistencia",
+    "texto3": "service / /ˈsɜːrvɪs/",
+    "texto4": "services / services (plural) / n/a",
+    "texto5": "Our customer service team responds within 24 hours",
+    "texto6": "Nuestro equipo de atención al cliente responde en 24 horas"
+  },
+  {
+    "texto1": "Sustantivo: En informática: sistema que ofrece funcionalidad",
+    "texto2": "servicio / sistema",
+    "texto3": "service / /ˈsɜːrvɪs/",
+    "texto4": "services / services (plural) / n/a",
+    "texto5": "We're migrating our authentication service to a microservices architecture",
+    "texto6": "Estamos migrando nuestro servicio de autenticación a una arquitectura de microservicios"
+  },
+  {
+    "texto1": "Verbo: Aceptar como verdadero o real",
+    "texto2": "creer / tener fe / confiar",
+    "texto3": "believe / /bɪˈliːv/",
+    "texto4": "believed / will believe / believing",
+    "texto5": "I believe this new framework will improve our development speed",
+    "texto6": "Creo que este nuevo framework mejorará nuestra velocidad de desarrollo"
+  },
+  {
+    "texto1": "Verbo: Formarse una opinión o tener una convicción",
+    "texto2": "opinar / considerar / pensar",
+    "texto3": "believe / /bɪˈliːv/",
+    "texto4": "believed / will believe / believing",
+    "texto5": "Many developers believe that clean code is essential for maintainability.",
+    "texto6": "Muchos desarrolladores opinan que el código limpio es esencial para la mantenibilidad."
+  },
+  {
+    "texto1": "Adjetivo: Inmediatamente después del primero en orden",
+    "texto2": "segundo / siguiente",
+    "texto3": "second / /ˈsɛkənd/",
     "texto4": "n/a / n/a / n/a",
-    "texto5": "The head of engineering approved the new architecture",
-    "texto6": "El jefe de ingeniería aprobó la nueva arquitectura"
+    "texto5": "This is our second attempt to refactor the legacy codebase",
+    "texto6": "Este es nuestro segundo intento de refactorizar la base de código heredada"
   },
   {
-    "texto1": "Verbo: Dirigirse o moverse hacia cierta dirección",
-    "texto2": "dirigirse / encaminarse",
-    "texto3": "head / /hɛd/",
-    "texto4": "headed / will head / heading",
-    "texto5": "We're heading to the conference room for the sprint planning",
-    "texto6": "Nos dirigimos a la sala de conferencias para la planificación del sprint"
+    "texto1": "Sustantivo: Unidad de tiempo (1/60 de minuto)",
+    "texto2": "segundo / instante",
+    "texto3": "second / /ˈsɛkənd/",
+    "texto4": "seconds / seconds (plural) / n/a",
+    "texto5": "The new algorithm processes data in under three seconds",
+    "texto6": "El nuevo algoritmo procesa datos en menos de tres segundos"
   },
   {
-    "texto1": "Sustantivo: Vehículo automotor de cuatro ruedas para transporte personal",
-    "texto2": "coche / automóvil / auto",
-    "texto3": "car / /kɑr/",
+    "texto1": "Verbo: Apoyar formalmente una propuesta",
+    "texto2": "apoyar / secundar / respaldar",
+    "texto3": "second / /sɪˈkɒnd/",
+    "texto4": "seconded / will second / seconding",
+    "texto5": "I second the proposal to adopt agile methodologies across teams",
+    "texto6": "Apoyo la propuesta de adoptar metodologías ágiles en todos los equipos"
+  },
+  {
+    "texto1": "Partícula: Respuesta afirmativa o de acuerdo",
+    "texto2": "sí / de acuerdo / correcto",
+    "texto3": "yes / /jɛs/",
     "texto4": "n/a / n/a / n/a",
-    "texto5": "He drives an electric car to reduce his carbon footprint",
-    "texto6": "Él conduce un coche eléctrico para reducir su huella de carbono"
+    "texto5": "Yes, I completed the feature implementation yesterday",
+    "texto6": "Sí, completé la implementación de la función ayer"
   },
   {
-    "texto1": "Sustantivo: Vagón o compartimento de tren",
-    "texto2": "vagón / coche de tren",
-    "texto3": "car / /kɑr/",
+    "texto1": "Sustantivo: Respuesta afirmativa",
+    "texto2": "sí / aprobación",
+    "texto3": "yes / /jɛs/",
+    "texto4": "yeses / yeses (plural) / n/a",
+    "texto5": "We received a clear yes from stakeholders for the new design",
+    "texto6": "Recibimos un claro sí de los stakeholders para el nuevo diseño"
+  },
+  {
+    "texto1": "Verbo: Sentir profundo afecto o pasión",
+    "texto2": "amar / adorar / encantar",
+    "texto3": "love / /lʌv/",
+    "texto4": "loved / will love / loving",
+    "texto5": "I love how this programming language simplifies complex tasks",
+    "texto6": "Me encanta cómo este lenguaje de programación simplifica tareas complejas"
+  },
+  {
+    "texto1": "Sustantivo: Fuerte afecto o entusiasmo",
+    "texto2": "amor / pasión / cariño",
+    "texto3": "love / /lʌv/",
     "texto4": "n/a / n/a / n/a",
-    "texto5": "The dining car serves meals during long journeys",
-    "texto6": "El vagón comedor sirve comidas durante los viajes largos"
+    "texto5": "Her love for problem-solving makes her an excellent developer",
+    "texto6": "Su pasión por resolver problemas la convierte en una excelente desarrolladora"
   },
   {
-    "texto1": "Verbo: Adquirir conocimiento o habilidad mediante estudio o experiencia",
-    "texto2": "aprender / instruirse",
-    "texto3": "learn / /lɜrn/",
-    "texto4": "learned / will learn / learning",
-    "texto5": "Children learn languages faster than adults",
-    "texto6": "Los niños aprenden idiomas más rápido que los adultos"
+    "texto1": "Expresión: Indica gran disfrute o preferencia (informal)",
+    "texto2": "encantar / fascinar / adorar",
+    "texto3": "love to / /lʌv tuː/",
+    "texto4": "loved to / will love to / loving to",
+    "texto5": "I'd love to collaborate on that open-source project",
+    "texto6": "Me encantaría colaborar en ese proyecto de código abierto"
   },
   {
-    "texto1": "Verbo: Memorizar información específica",
-    "texto2": "memorizar / aprender de memoria",
-    "texto3": "learn / /lɜrn/",
-    "texto4": "learned / will learn / learning",
-    "texto5": "You need to learn the new API endpoints by tomorrow",
-    "texto6": "Necesitas memorizar los nuevos endpoints del API para mañana"
+    "texto1": "Verbo: Hacer algo más grande o mayor en cantidad/nivel",
+    "texto2": "aumentar / incrementar / elevar",
+    "texto3": "increase / /ɪnˈkriːs/",
+    "texto4": "increased / will increase / increasing",
+    "texto5": "We need to increase the server capacity before the product launch",
+    "texto6": "Necesitamos aumentar la capacidad del servidor antes del lanzamiento del producto"
   },
   {
-    "texto1": "Sustantivo: Posición o grado en una escala jerárquica o de medida",
-    "texto2": "nivel / grado / categoría",
-    "texto3": "level / /ˈlɛvəl/",
+    "texto1": "Sustantivo: Crecimiento en tamaño, cantidad o intensidad",
+    "texto2": "aumento / incremento / subida",
+    "texto3": "increase / /ˈɪnkriːs/",
+    "texto4": "increases / increases (plural) / n/a",
+    "texto5": "The update resulted in a 30% increase in application performance",
+    "texto6": "La actualización resultó en un incremento del 30% en el rendimiento de la aplicación"
+  },
+  {
+    "texto1": "Sustantivo: Posición de trabajo remunerado",
+    "texto2": "trabajo / empleo / puesto",
+    "texto3": "job / /dʒɒb/",
+    "texto4": "jobs / jobs (plural) / n/a",
+    "texto5": "She landed a great job as a senior developer at a tech company",
+    "texto6": "Consiguió un excelente trabajo como desarrolladora senior en una empresa tecnológica"
+  },
+  {
+    "texto1": "Sustantivo: Tarea específica o deber",
+    "texto2": "tarea / trabajo / labor",
+    "texto3": "job / /dʒɒb/",
+    "texto4": "jobs / jobs (plural) / n/a",
+    "texto5": "Our main job today is to fix the critical bugs in the payment system",
+    "texto6": "Nuestra principal tarea hoy es corregir los errores críticos en el sistema de pagos"
+  },
+  {
+    "texto1": "Sustantivo: Estrategia organizada para lograr un objetivo",
+    "texto2": "plan / estrategia / proyecto",
+    "texto3": "plan / /plæn/",
+    "texto4": "plans / plans (plural) / n/a",
+    "texto5": "The development team created a detailed plan for the next sprint",
+    "texto6": "El equipo de desarrollo creó un plan detallado para el próximo sprint"
+  },
+  {
+    "texto1": "Verbo: Diseñar o organizar acciones futuras",
+    "texto2": "planear / planificar / proyectar",
+    "texto3": "plan / /plæn/",
+    "texto4": "planned / will plan / planning",
+    "texto5": "We need to plan the database migration carefully to avoid data loss",
+    "texto6": "Necesitamos planificar la migración de la base de datos cuidadosamente para evitar pérdida de datos"
+  },
+  {
+    "texto1": "Sustantivo: Consecuencia o efecto de una acción",
+    "texto2": "resultado / consecuencia / efecto",
+    "texto3": "result / /rɪˈzʌlt/",
+    "texto4": "results / results (plural) / n/a",
+    "texto5": "The test results showed significant improvement in processing speed",
+    "texto6": "Los resultados de la prueba mostraron una mejora significativa en la velocidad de procesamiento"
+  },
+  {
+    "texto1": "Verbo: Ocurrir como consecuencia",
+    "texto2": "resultar / derivar / surgir",
+    "texto3": "result / /rɪˈzʌlt/",
+    "texto4": "resulted / will result / resulting",
+    "texto5": "Poor code documentation will result in difficulties during maintenance",
+    "texto6": "La mala documentación del código resultará en dificultades durante el mantenimiento"
+  },
+  {
+    "texto1": "Adverbio: A distancia física o temporal",
+    "texto2": "lejos / fuera / a distancia",
+    "texto3": "away / /əˈweɪ/",
     "texto4": "n/a / n/a / n/a",
-    "texto5": "This position requires a high level of technical expertise",
-    "texto6": "Este puesto requiere un alto nivel de experiencia técnica"
+    "texto5": "Our remote team members work away from the main office",
+    "texto6": "Nuestros miembros remotos del equipo trabajan lejos de la oficina principal"
   },
   {
-    "texto1": "Adjetivo: Superficie plana y uniforme sin inclinaciones",
-    "texto2": "nivelado / plano / parejo",
-    "texto3": "level / /ˈlɛvəl/",
+    "texto1": "Adverbio: Indica una disminución gradual hasta desaparecer (uso frecuente en combinaciones como 'fade away')",
+    "texto2": "desvanecerse / desaparecer gradualmente / atenuarse",
+    "texto3": "away / /əˈweɪ/",
     "texto4": "n/a / n/a / n/a",
-    "texto5": "Ensure the table is level before installing the equipment",
-    "texto6": "Asegúrese de que la mesa esté nivelada antes de instalar el equipo"
+    "texto5": "The error message should fade away after three seconds",
+    "texto6": "El mensaje de error debería desaparecer después de tres segundos"
   },
   {
-    "texto1": "Sustantivo: Ser humano individual considerado separadamente",
-    "texto2": "persona / individuo / ser humano",
-    "texto3": "person / /ˈpɜrsən/",
+    "texto1": "Sustantivo: Caso representativo que ilustra un concepto",
+    "texto2": "ejemplo / muestra / ilustración",
+    "texto3": "example / /ɪɡˈzæmpəl/",
+    "texto4": "examples / examples (plural) / n/a",
+    "texto5": "Let me show you an example of clean code implementation",
+    "texto6": "Permíteme mostrarte un ejemplo de implementación de código limpio"
+  },
+  {
+    "texto1": "Sustantivo: Modelo digno de imitación",
+    "texto2": "ejemplo / modelo / patrón",
+    "texto3": "example / /ɪɡˈzæmpəl/",
+    "texto4": "examples / examples (plural) / n/a",
+    "texto5": "Her documentation sets a good example for the entire team",
+    "texto6": "Su documentación establece un buen modelo para todo el equipo"
+  },
+  {
+    "texto1": "Verbo: Ocurrir o tener lugar",
+    "texto2": "ocurrir / suceder / pasar",
+    "texto3": "happen / /ˈhæpən/",
+    "texto4": "happened / will happen / happening",
+    "texto5": "Errors happen when we rush the deployment process",
+    "texto6": "Los errores ocurren cuando apresuramos el proceso de despliegue"
+  },
+  {
+    "texto1": "Verbo: Tener la casualidad de (happen to)",
+    "texto2": "dar la casualidad / por casualidad",
+    "texto3": "happen to / /ˈhæpən tuː/",
+    "texto4": "happened to / will happen to / happening to",
+    "texto5": "Do you happen to have the latest API documentation?",
+    "texto6": "¿Tienes por casualidad la última documentación de la API?"
+  },
+  {
+    "texto1": "Verbo: Presentar o proponer algo voluntariamente",
+    "texto2": "ofrecer / proponer / presentar",
+    "texto3": "offer / /ˈɒfər/",
+    "texto4": "offered / will offer / offering",
+    "texto5": "The company will offer free training workshops next month",
+    "texto6": "La empresa ofrecerá talleres de capacitación gratuitos el próximo mes"
+  },
+  {
+    "texto1": "Sustantivo: Propuesta formal o oportunidad",
+    "texto2": "oferta / propuesta / oportunidad",
+    "texto3": "offer / /ˈɒfər/",
+    "texto4": "offers / offers (plural) / n/a",
+    "texto5": "I received a job offer with a competitive salary package",
+    "texto6": "Recibí una oferta de trabajo con un paquete salarial competitivo"
+  },
+  {
+    "texto1": "Adjetivo: En etapa temprana de vida o desarrollo",
+    "texto2": "joven / nuevo / juvenil",
+    "texto3": "young / /jʌŋ/",
+    "texto4": "younger / youngest / n/a",
+    "texto5": "Young professionals often bring fresh perspectives to tech teams",
+    "texto6": "Los profesionales jóvenes suelen aportar perspectivas frescas a los equipos tecnológicos"
+  },
+  {
+    "texto1": "Adjetivo: Relativo a poca experiencia",
+    "texto2": "inexperto / novato / principiante",
+    "texto3": "young / /jʌŋ/",
+    "texto4": "younger / youngest / n/a",
+    "texto5": "The young startup is making waves in the fintech industry",
+    "texto6": "La joven startup está causando impacto en la industria fintech"
+  },
+  {
+    "texto1": "Verbo: Cerrar o finalizar operaciones",
+    "texto2": "cerrar / finalizar / concluir",
+    "texto3": "close / /kloʊz/",
+    "texto4": "closed / will close / closing",
+    "texto5": "Remember to close all applications before updating the system",
+    "texto6": "Recuerda cerrar todas las aplicaciones antes de actualizar el sistema"
+  },
+  {
+    "texto1": "Adjetivo: Próximo o con poca distancia",
+    "texto2": "cercano / próximo / inmediato",
+    "texto3": "close / /kloʊs/",
+    "texto4": "closer / closest / n/a",
+    "texto5": "Our deadline is close, so we need to focus on critical tasks",
+    "texto6": "Nuestra fecha límite está cerca, así que debemos enfocarnos en tareas críticas"
+  },
+  {
+    "texto1": "Adverbio: A corta distancia",
+    "texto2": "cerca / próximamente",
+    "texto3": "close / /kloʊs/",
+    "texto4": "closer / closest / n/a",
+    "texto5": "The data center is located close to our main office",
+    "texto6": "El centro de datos está ubicado cerca de nuestra oficina principal"
+  },
+  {
+    "texto1": "Sustantivo: Conjunto de instrucciones ejecutables",
+    "texto2": "programa / aplicación / software",
+    "texto3": "program / /ˈproʊɡræm/",
+    "texto4": "programs / programs (plural) / n/a",
+    "texto5": "This program efficiently processes large datasets",
+    "texto6": "Este programa procesa grandes conjuntos de datos eficientemente"
+  },
+  {
+    "texto1": "Verbo: Crear instrucciones para computadora",
+    "texto2": "programar / codificar",
+    "texto3": "program / /ˈproʊɡræm/",
+    "texto4": "programmed / will program / programming",
+    "texto5": "We need to program the API to handle multiple requests simultaneously",
+    "texto6": "Necesitamos programar la API para manejar múltiples solicitudes simultáneamente"
+  },
+  {
+    "texto1": "Sustantivo: Plan estructurado de actividades",
+    "texto2": "programa / plan / agenda",
+    "texto3": "program / /ˈproʊɡræm/",
+    "texto4": "programs / programs (plural) / n/a",
+    "texto5": "The internship program includes mentorship from senior developers",
+    "texto6": "El programa de pasantías incluye mentoría de desarrolladores senior"
+  },
+  {
+    "texto1": "Verbo: Guiar o dirigir personas/proyectos",
+    "texto2": "liderar / dirigir / guiar",
+    "texto3": "lead / /liːd/",
+    "texto4": "led / will lead / leading",
+    "texto5": "She will lead the development team for the new project",
+    "texto6": "Ella liderará el equipo de desarrollo para el nuevo proyecto"
+  },
+  {
+    "texto1": "Sustantivo: Posición de ventaja o dirección",
+    "texto2": "liderazgo / delantera / ventaja",
+    "texto3": "lead / /liːd/",
+    "texto4": "leads / leads (plural) / n/a",
+    "texto5": "Our startup has a technological lead in machine learning applications",
+    "texto6": "Nuestra startup tiene ventaja tecnológica en aplicaciones de aprendizaje automático"
+  },
+  {
+    "texto1": "Verbo: Ser el causante principal",
+    "texto2": "conducir a / llevar a / resultar en",
+    "texto3": "lead to / /liːd tuː/",
+    "texto4": "led to / will lead to / leading to",
+    "texto5": "Poor code quality can lead to technical debt and maintenance issues",
+    "texto6": "La mala calidad del código puede conducir a deuda técnica y problemas de mantenimiento"
+  },
+  {
+    "texto1": "Verbo: Adquirir mediante pago",
+    "texto2": "comprar / adquirir / obtener",
+    "texto3": "buy / /baɪ/",
+    "texto4": "bought / will buy / buying",
+    "texto5": "We need to buy more cloud storage for our application data",
+    "texto6": "Necesitamos comprar más almacenamiento en la nube para los datos de nuestra aplicación"
+  },
+  {
+    "texto1": "Verbo: Aceptar como válido o creíble",
+    "texto2": "creer / aceptar / tragarse",
+    "texto3": "buy / /baɪ/",
+    "texto4": "bought / will buy / buying",
+    "texto5": "The team didn't buy the manager's explanation for the delay",
+    "texto6": "El equipo no se creyó la explicación del gerente sobre el retraso"
+  },
+  {
+    "texto1": "Sustantivo: Adquisición ventajosa (informal)",
+    "texto2": "ganga / buena compra",
+    "texto3": "buy / /baɪ/",
+    "texto4": "buys / buys (plural) / n/a",
+    "texto5": "This code editor was a great buy for our development workflow",
+    "texto6": "Este editor de código fue una excelente compra para nuestro flujo de desarrollo"
+  },
+  {
+    "texto1": "Verbo: Comprender el significado o funcionamiento",
+    "texto2": "entender / comprender / captar",
+    "texto3": "understand / /ˌʌndərˈstænd/",
+    "texto4": "understood / will understand / understanding",
+    "texto5": "It's crucial to understand the requirements before coding",
+    "texto6": "Es crucial entender los requisitos antes de programar"
+  },
+  {
+    "texto1": "Verbo: Percibir las intenciones o emociones",
+    "texto2": "entender / comprender / percibir",
+    "texto3": "understand / /ˌʌndərˈstænd/",
+    "texto4": "understood / will understand / understanding",
+    "texto5": "I understand your frustration with the bug in production",
+    "texto6": "Entiendo tu frustración con el error en producción"
+  },
+  {
+    "texto1": "Verbo: Interpretar correctamente información",
+    "texto2": "interpretar / deducir / inferir",
+    "texto3": "understand / /ˌʌndərˈstænd/",
+    "texto4": "understood / will understand / understanding",
+    "texto5": "The documentation helps users understand how the API responds",
+    "texto6": "La documentación ayuda a los usuarios a interpretar cómo responde la API"
+  },
+  {
+    "texto1": "Expresión: Agradecimiento formal",
+    "texto2": "gracias / agradecer",
+    "texto3": "thank you / /ˈθæŋk juː/",
+    "texto4": "thanked / will thank / thanking",
+    "texto5": "Thank you for your contribution to the open-source project",
+    "texto6": "Gracias por tu contribución al proyecto de código abierto"
+  },
+  {
+    "texto1": "Verbo: Expresar gratitud",
+    "texto2": "agradecer / dar las gracias",
+    "texto3": "thank / /θæŋk/",
+    "texto4": "thanked / will thank / thanking",
+    "texto5": "I want to thank the team for meeting the tight deadline",
+    "texto6": "Quiero agradecer al equipo por cumplir con el plazo ajustado"
+  },
+  {
+    "texto1": "Adverbio: Gran distancia física o temporal",
+    "texto2": "lejos / distante / remoto",
+    "texto3": "far / /fɑːr/",
+    "texto4": "farther/further / farthest/furthest / n/a",
+    "texto5": "Our remote developers work far from the company headquarters",
+    "texto6": "Nuestros desarrolladores remotos trabajan lejos de la sede de la empresa"
+  },
+  {
+    "texto1": "Adverbio: Significativamente diferente",
+    "texto2": "mucho / considerablemente / ampliamente",
+    "texto3": "far / /fɑːr/",
+    "texto4": "farther/further / farthest/furthest / n/a",
+    "texto5": "This framework is far superior to the previous version",
+    "texto6": "Este framework es muy superior a la versión anterior"
+  },
+  {
+    "texto1": "Sustantivo/Adverbio: Día actual o época contemporánea",
+    "texto2": "hoy / hoy día / actualidad",
+    "texto3": "today / /təˈdeɪ/",
     "texto4": "n/a / n/a / n/a",
-    "texto5": "Each person in the team has unique skills",
-    "texto6": "Cada persona en el equipo tiene habilidades únicas"
+    "texto5": "Today we're deploying the new authentication system",
+    "texto6": "Hoy estamos desplegando el nuevo sistema de autenticación"
   },
   {
-    "texto1": "Sustantivo: Categoría gramatical (primera, segunda o tercera persona)",
-    "texto2": "persona gramatical",
-    "texto3": "person / /ˈpɜrsən/",
+    "texto1": "Sustantivo: Período de 60 minutos",
+    "texto2": "hora / sesenta minutos",
+    "texto3": "hour / /ˈaʊər/",
+    "texto4": "hours / hours (plural) / n/a",
+    "texto5": "The server maintenance will take approximately two hours",
+    "texto6": "El mantenimiento del servidor tomará aproximadamente dos horas"
+  },
+  {
+    "texto1": "Sustantivo: Momento específico del día",
+    "texto2": "hora / momento",
+    "texto3": "hour / /ˈaʊər/",
+    "texto4": "hours / hours (plural) / n/a",
+    "texto5": "Our stand-up meeting is at 10 o'clock hour every morning",
+    "texto6": "Nuestra reunión diaria es a la hora 10 cada mañana"
+  },
+  {
+    "texto1": "Sustantivo: Persona que aprende formalmente",
+    "texto2": "estudiante / alumno / aprendiz",
+    "texto3": "student / /ˈstuːdnt/",
+    "texto4": "students / students (plural) / n/a",
+    "texto5": "Computer science students often contribute to open-source projects",
+    "texto6": "Los estudiantes de informática suelen contribuir a proyectos de código abierto"
+  },
+  {
+    "texto1": "Sustantivo: Parte frontal de la cabeza",
+    "texto2": "cara / rostro / semblante",
+    "texto3": "face / /feɪs/",
+    "texto4": "faces / faces (plural) / n/a",
+    "texto5": "Face recognition technology is advancing rapidly",
+    "texto6": "La tecnología de reconocimiento facial avanza rápidamente"
+  },
+  {
+    "texto1": "Verbo: Enfrentar situación difícil",
+    "texto2": "enfrentar / afrontar / encarar",
+    "texto3": "face / /feɪs/",
+    "texto4": "faced / will face / facing",
+    "texto5": "Developers often face challenging debugging sessions",
+    "texto6": "Los desarrolladores suelen enfrentar sesiones de depuración desafiantes"
+  },
+  {
+    "texto1": "Sustantivo: Superficie o aspecto principal",
+    "texto2": "frente / superficie / faz",
+    "texto3": "face / /feɪs/",
+    "texto4": "faces / faces (plural) / n/a",
+    "texto5": "The user interface is the public face of our application",
+    "texto6": "La interfaz de usuario es la cara pública de nuestra aplicación"
+  },
+  {
+    "texto1": "Verbo: Desear o esperar algo positivamente",
+    "texto2": "esperar / desear / anhelar",
+    "texto3": "hope / /hoʊp/",
+    "texto4": "hoped / will hope / hoping",
+    "texto5": "I hope we can resolve this bug before the release",
+    "texto6": "Espero que podamos resolver este error antes del lanzamiento"
+  },
+  {
+    "texto1": "Sustantivo: Expectativa positiva",
+    "texto2": "esperanza / ilusión / expectativa",
+    "texto3": "hope / /hoʊp/",
+    "texto4": "hopes / hopes (plural) / n/a",
+    "texto5": "There's hope that the new framework will reduce development time",
+    "texto6": "Existe la esperanza de que el nuevo framework reduzca el tiempo de desarrollo"
+  },
+  {
+    "texto1": "Sustantivo: Concepto mental o pensamiento",
+    "texto2": "idea / concepto / noción",
+    "texto3": "idea / /aɪˈdiːə/",
+    "texto4": "ideas / ideas (plural) / n/a",
+    "texto5": "I have an idea for optimizing our database queries",
+    "texto6": "Tengo una idea para optimizar nuestras consultas a la base de datos"
+  },
+  {
+    "texto1": "Sustantivo: Propósito o intención",
+    "texto2": "propósito / intención / objetivo",
+    "texto3": "idea / /aɪˈdiːə/",
+    "texto4": "ideas / ideas (plural) / n/a",
+    "texto5": "The main idea behind this feature is to improve user retention",
+    "texto6": "El propósito principal detrás de esta función es mejorar la retención de usuarios"
+  },
+  {
+    "texto1": "Sustantivo: Cantidad monetaria requerida",
+    "texto2": "costo / precio / gasto",
+    "texto3": "cost / /kɒst/",
+    "texto4": "costs / costs (plural) / n/a",
+    "texto5": "The cost of cloud services affects our project budget significantly",
+    "texto6": "El costo de los servicios en la nube afecta significativamente nuestro presupuesto del proyecto"
+  },
+  {
+    "texto1": "Verbo: Requerir pago o recursos",
+    "texto2": "costar / requerir / implicar",
+    "texto3": "cost / /kɒst/",
+    "texto4": "cost / will cost / costing",
+    "texto5": "Implementing this security feature will cost extra development time",
+    "texto6": "Implementar esta característica de seguridad costará tiempo extra de desarrollo"
+  },
+  {
+    "texto1": "Sustantivo: Consecuencia negativa",
+    "texto2": "precio / consecuencia / sacrificio",
+    "texto3": "cost / /kɒst/",
+    "texto4": "costs / costs (plural) / n/a",
+    "texto5": "The team delivered quickly, but at the cost of code quality",
+    "texto6": "El equipo entregó rápidamente, pero al precio de la calidad del código"
+  },
+  {
+    "texto1": "Adjetivo/Adverbio: Cantidad reducida",
+    "texto2": "menos / menor / inferior",
+    "texto3": "less / /lɛs/",
+    "texto4": "less / least / n/a",
+    "texto5": "We're using less memory with the optimized algorithm",
+    "texto6": "Estamos usando menos memoria con el algoritmo optimizado"
+  },
+  {
+    "texto1": "Preposición: Sin o restándole",
+    "texto2": "menos / excepto / sin",
+    "texto3": "less / /lɛs/",
     "texto4": "n/a / n/a / n/a",
-    "texto5": "The verb conjugation changes in third person singular",
-    "texto6": "La conjugación verbal cambia en tercera persona singular"
+    "texto5": "The update took three hours less than expected",
+    "texto6": "La actualización tomó tres horas menos de lo esperado"
   },
   {
-    "texto1": "Sustantivo: Conocimiento o habilidad adquirida mediante práctica prolongada",
-    "texto2": "experiencia / práctica",
-    "texto3": "experience / /ɪkˈspɪriəns/",
+    "texto1": "Sustantivo: Espacio físico en edificio",
+    "texto2": "habitación / cuarto / sala",
+    "texto3": "room / /ruːm/",
+    "texto4": "rooms / rooms (plural) / n/a",
+    "texto5": "The conference room has new video equipment for remote meetings",
+    "texto6": "La sala de conferencias tiene nuevo equipo de video para reuniones remotas"
+  },
+  {
+    "texto1": "Sustantivo: Espacio disponible",
+    "texto2": "espacio / lugar / cabida",
+    "texto3": "room / /ruːm/",
     "texto4": "n/a / n/a / n/a",
-    "texto5": "Her coding experience helped solve the production issue quickly",
-    "texto6": "Su experiencia en programación ayudó a resolver el problema de producción rápidamente"
-  },
-  {
-    "texto1": "Sustantivo: Evento o situación vivida que causa impacto emocional",
-    "texto2": "vivencia / suceso",
-    "texto3": "experience / /ɪkˈspɪriəns/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "Traveling alone was a transformative experience for him",
-    "texto6": "Viajar solo fue una experiencia transformadora para él"
-  },
-  {
-    "texto1": "Verbo: Encontrarse en una situación específica o sentir algo directamente",
-    "texto2": "experimentar / vivir",
-    "texto3": "experience / /ɪkˈspɪriəns/",
-    "texto4": "experienced / will experience / experiencing",
-    "texto5": "Users experience frustration when the app crashes frequently",
-    "texto6": "Los usuarios experimentan frustración cuando la app falla frecuentemente"
-  },
-  {
-    "texto1": "Sustantivo: Persona que pertenece a un grupo u organización",
-    "texto2": "miembro / integrante / socio",
-    "texto3": "member / /ˈmɛmbər/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "Every team member must complete the security training",
-    "texto6": "Cada miembro del equipo debe completar el entrenamiento de seguridad"
-  },
-  {
-    "texto1": "Sustantivo: Componente estructural de un conjunto (informática)",
-    "texto2": "elemento / componente / miembro",
-    "texto3": "member / /ˈmɛmbər/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "This class member stores the user's authentication token",
-    "texto6": "Este miembro de la clase almacena el token de autenticación del usuario"
-  },
-  {
-    "texto1": "Adjetivo: Cantidad adecuada para satisfacer una necesidad",
-    "texto2": "suficiente / bastante / adecuado",
-    "texto3": "enough / /ɪˈnʌf/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "We have enough time to refactor this code before deployment",
-    "texto6": "Tenemos suficiente tiempo para refactorizar este código antes del despliegue"
-  },
-  {
-    "texto1": "Adverbio: Hasta el grado necesario o deseado",
-    "texto2": "suficientemente / bastante",
-    "texto3": "enough / /ɪˈnʌf/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "The server isn't powerful enough to handle this load",
-    "texto6": "El servidor no es suficientemente potente para manejar esta carga"
-  },
-  {
-    "texto1": "Adjetivo: De baja calidad o estándar inaceptable",
-    "texto2": "malo / pésimo / deficiente",
-    "texto3": "bad / /bæd/",
-    "texto4": "worse / worst / bad (comparativo/superlativo)",
-    "texto5": "Bad code documentation causes maintenance problems later",
-    "texto6": "La mala documentación del código causa problemas de mantenimiento después"
-  },
-  {
-    "texto1": "Adjetivo: Perjudicial para la salud o bienestar",
-    "texto2": "dañino / nocivo / perjudicial",
-    "texto3": "bad / /bæd/",
-    "texto4": "worse / worst / bad (comparativo/superlativo)",
-    "texto5": "Sitting all day is bad for your posture",
-    "texto6": "Estar sentado todo el día es dañino para tu postura"
-  },
-  {
-    "texto1": "Adjetivo: Grave o serio en intensidad (informática)",
-    "texto2": "grave / severo / crítico",
-    "texto3": "bad / /bæd/",
-    "texto4": "worse / worst / bad (comparativo/superlativo)",
-    "texto5": "The system crashed due to a bad memory allocation",
-    "texto6": "El sistema falló debido a una asignación de memoria grave"
-  },
-  {
-    "texto1": "Sustantivo: Área urbana grande con gobierno autónomo",
-    "texto2": "ciudad / urbe / metrópolis",
-    "texto3": "city / /ˈsɪti/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "Tech companies are concentrated in major cities like San Francisco",
-    "texto6": "Las empresas tecnológicas se concentran en ciudades principales como San Francisco"
-  },
-  {
-    "texto1": "Sustantivo: Gobierno municipal como entidad administrativa",
-    "texto2": "municipio / ayuntamiento / gobierno local",
-    "texto3": "city / /ˈsɪti/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "City regulations affect startup licensing requirements",
-    "texto6": "Las regulaciones municipales afectan los requisitos de licencia para startups"
-  },
-  {
-    "texto1": "Sustantivo: Período entre el atardecer y el amanecer",
-    "texto2": "noche / oscuridad",
-    "texto3": "night / /naɪt/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "Debugging often continues late into the night before releases",
-    "texto6": "La depuración a menudo continúa hasta altas horas de la noche antes de los lanzamientos"
-  },
-  {
-    "texto1": "Sustantivo: Período para actividades sociales o de ocio",
-    "texto2": "velada / noche (eventos)",
-    "texto3": "night / /naɪt/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "After the conference, we went for dinner and a night out",
-    "texto6": "Tras la conferencia, salimos a cenar y de velada"
-  },
-  {
-    "texto1": "Adjetivo: Tener la capacidad, habilidad o medios para hacer algo",
-    "texto2": "capaz / competente / hábil",
-    "texto3": "able / /ˈeɪbəl/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "She is able to solve complex algorithms efficiently",
-    "texto6": "Ella es capaz de resolver algoritmos complejos eficientemente"
-  },
-  {
-    "texto1": "Verbo: Proporcionar asistencia o recursos para mantener algo",
-    "texto2": "apoyar / sostener / respaldar",
-    "texto3": "support / /səˈpɔrt/",
-    "texto4": "supported / will support / supporting",
-    "texto5": "The framework supports multiple programming languages",
-    "texto6": "El framework soporta múltiples lenguajes de programación"
-  },
-  {
-    "texto1": "Sustantivo: Asistencia técnica o mantenimiento",
-    "texto2": "soporte / asistencia / ayuda",
-    "texto3": "support / /səˈpɔrt/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "Contact customer support if you encounter installation issues",
-    "texto6": "Contacte al soporte al cliente si encuentra problemas de instalación"
-  },
-  {
-    "texto1": "Sustantivo: Serie continua de elementos en una dirección",
-    "texto2": "línea / fila / hilera",
-    "texto3": "line / /laɪn/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "The assembly line optimizes manufacturing efficiency",
-    "texto6": "La línea de ensamblaje optimiza la eficiencia manufacturera"
-  },
-  {
-    "texto1": "Sustantivo: Fragmento de texto en código o documento",
-    "texto2": "renglón / línea de texto",
-    "texto3": "line / /laɪn/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "Comment each line of code to improve readability",
-    "texto6": "Comenta cada línea de código para mejorar la legibilidad"
-  },
-  {
-    "texto1": "Verbo: Mostrar o exhibir información formalmente",
-    "texto2": "presentar / mostrar / exponer",
-    "texto3": "present / /prɪˈzɛnt/",
-    "texto4": "presented / will present / presenting",
-    "texto5": "The team will present their findings at the tech conference",
-    "texto6": "El equipo presentará sus hallazgos en la conferencia tecnológica"
-  },
-  {
-    "texto1": "Adjetivo: Existente u ocurriendo en el momento actual",
-    "texto2": "presente / actual / contemporáneo",
-    "texto3": "present / /ˈprɛzənt/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "All present employees must attend the security briefing",
-    "texto6": "Todos los empleados presentes deben asistir a la sesión de seguridad"
-  },
-  {
-    "texto1": "Sustantivo: Superficie lateral o aspecto particular de algo",
-    "texto2": "lado / costado / flanco",
-    "texto3": "side / /saɪd/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "Check both sides of the circuit board for defects",
-    "texto6": "Verifica ambos lados de la placa de circuito en busca de defectos"
-  },
-  {
-    "texto1": "Sustantivo: Perspectiva o posición en una discusión",
-    "texto2": "bando / perspectiva / posición",
-    "texto3": "side / /saɪd/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "Consider the user's side when designing interfaces",
-    "texto6": "Considera la perspectiva del usuario al diseñar interfaces"
-  },
-  {
-    "texto1": "Sustantivo: Palabra o expresión con significado específico",
-    "texto2": "término / vocablo / expresión",
-    "texto3": "term / /tɜrm/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "'Agile' is a common term in software development methodologies",
-    "texto6": "'Agile' es un término común en metodologías de desarrollo de software"
-  },
-  {
-    "texto1": "Sustantivo: Período de tiempo definido con características específicas",
-    "texto2": "plazo / período / etapa",
-    "texto3": "term / /tɜrm/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "The project must be completed in a short term",
-    "texto6": "El proyecto debe completarse en un plazo corto"
-  },
-  {
-    "texto1": "Sustantivo: Tiempo vivido desde el nacimiento",
-    "texto2": "edad / años de vida",
-    "texto3": "age / /eɪdʒ/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "The legal working age varies between countries",
-    "texto6": "La edad legal para trabajar varía entre países"
-  },
-  {
-    "texto1": "Verbo: Proceso de envejecimiento o maduración",
-    "texto2": "envejecer / madurar",
-    "texto3": "age / /eɪdʒ/",
-    "texto4": "aged / will age / aging",
-    "texto5": "Fine wine ages better in controlled conditions",
-    "texto6": "El buen vino envejece mejor en condiciones controladas"
-  },
-  {
-    "texto1": "Sustantivo: Período histórico característico",
-    "texto2": "era / época / período",
-    "texto3": "age / /eɪdʒ/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "We live in the age of digital transformation",
-    "texto6": "Vivimos en la era de la transformación digital"
-  },
-  {
-    "texto1": "Adjetivo: Situado a poca altura o por debajo del nivel normal",
-    "texto2": "bajo / inferior / reducido",
-    "texto3": "low / /loʊ/",
-    "texto4": "lower / lowest / low (comparativo/superlativo)",
-    "texto5": "Low battery warnings help prevent unexpected shutdowns",
-    "texto6": "Las advertencias de batería baja ayudan a prevenir apagados inesperados"
-  },
-  {
-    "texto1": "Adjetivo: Insuficiente en cantidad o calidad",
-    "texto2": "escaso / deficiente / limitado",
-    "texto3": "low / /loʊ/",
-    "texto4": "lower / lowest / low (comparativo/superlativo)",
-    "texto5": "The team has low bandwidth for new features this sprint",
-    "texto6": "El equipo tiene ancho de banda limitado para nuevas funcionalidades en este sprint"
-  },
-  {
-    "texto1": "Verbo: Comunicarse verbalmente usando palabras",
-    "texto2": "hablar / conversar / expresarse",
-    "texto3": "speak / /spiːk/",
-    "texto4": "spoke / will speak / speaking",
-    "texto5": "Developers must speak clearly during code reviews",
-    "texto6": "Los desarrolladores deben hablar con claridad durante las revisiones de código"
-  },
-  {
-    "texto1": "Verbo: Dominar el uso de un idioma",
-    "texto2": "hablar (idioma) / dominar",
-    "texto3": "speak / /spiːk/",
-    "texto4": "spoke / will speak / speaking",
-    "texto5": "Many programmers speak multiple programming languages",
-    "texto6": "Muchos programadores dominan múltiples lenguajes de programación"
-  },
-  {
-    "texto1": "Sustantivo: Serie de acciones para lograr un resultado específico",
-    "texto2": "proceso / procedimiento / método",
-    "texto3": "process / /ˈprɑːsɛs/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "The CI/CD process automates software deployment",
-    "texto6": "El proceso CI/CD automatiza el despliegue de software"
-  },
-  {
-    "texto1": "Verbo: Manipular datos mediante operaciones computacionales",
-    "texto2": "procesar / tratar / manipular",
-    "texto3": "process / /ˈprɑːsɛs/",
-    "texto4": "processed / will process / processing",
-    "texto5": "The server processes requests in under 50 milliseconds",
-    "texto6": "El servidor procesa solicitudes en menos de 50 milisegundos"
-  },
-  {
-    "texto1": "Adjetivo: Accesible o visible para la población general",
-    "texto2": "público / accesible / abierto",
-    "texto3": "public / /ˈpʌblɪk/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "Public APIs allow third-party integrations",
-    "texto6": "Las APIs públicas permiten integraciones de terceros"
-  },
-  {
-    "texto1": "Sustantivo: Personas en general o como grupo colectivo",
-    "texto2": "público / ciudadanía / población",
-    "texto3": "public / /ˈpʌblɪk/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "The software update addresses security concerns raised by the public",
-    "texto6": "La actualización de software aborda preocupaciones de seguridad planteadas por el público"
-  },
-  {
-    "texto1": "Sustantivo: Medio de transporte ferroviario",
-    "texto2": "tren / ferrocarril",
-    "texto3": "train / /treɪn/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "I take the train to the tech hub every morning",
-    "texto6": "Tomo el tren al centro tecnológico cada mañana"
-  },
-  {
-    "texto1": "Verbo: Enseñar habilidades mediante práctica sistemática",
-    "texto2": "entrenar / capacitar / instruir",
-    "texto3": "train / /treɪn/",
-    "texto4": "trained / will train / training",
-    "texto5": "We need to train new hires on our security protocols",
-    "texto6": "Necesitamos capacitar a los nuevos empleados en nuestros protocolos de seguridad"
-  },
-  {
-    "texto1": "Adjetivo: Que puede ocurrir o ser realizado",
-    "texto2": "posible / factible / realizable",
-    "texto3": "possible / /ˈpɑːsəbl/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "It's possible to fix the bug before the release deadline",
-    "texto6": "Es posible corregir el error antes de la fecha límite de lanzamiento"
-  },
-  {
-    "texto1": "Adjetivo: Potencial pero no confirmado",
-    "texto2": "potencial / hipotético / eventual",
-    "texto3": "possible / /ˈpɑːsəbl/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "We identified three possible solutions to the scalability issue",
-    "texto6": "Identificamos tres soluciones potenciales al problema de escalabilidad"
-  },
-  {
-    "texto1": "Adverbio: En realidad, contrariamente a lo que se podría pensar",
-    "texto2": "en realidad / realmente / de hecho",
-    "texto3": "actually / /ˈæktʃuəli/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "This supposedly simple feature actually requires complex backend work",
-    "texto6": "Esta característica aparentemente simple en realidad requiere trabajo complejo en el backend"
-  },
-  {
-    "texto1": "Adverbio: Para precisar o corregir información",
-    "texto2": "precisamente / exactamente / para ser exacto",
-    "texto3": "actually / /ˈæktʃuəli/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "The outage wasn't caused by hackers, but actually by a configuration error",
-    "texto6": "La caída no fue causada por hackers, sino precisamente por un error de configuración"
-  },
-  {
-    "texto1": "Adverbio: Preferir una opción sobre otra",
-    "texto2": "preferiblemente / mejor / más bien",
-    "texto3": "rather / /ˈræðər/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "I'd rather use Python than Java for this data analysis task",
-    "texto6": "Preferiría usar Python que Java para esta tarea de análisis de datos"
-  },
-  {
-    "texto1": "Adverbio: En cierto grado, moderadamente",
-    "texto2": "bastante / algo / relativamente",
-    "texto3": "rather / /ˈræðər/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "The new framework is rather complex for beginners",
-    "texto6": "El nuevo framework es bastante complejo para principiantes"
-  },
-  {
-    "texto1": "Sustantivo: Perspectiva visual desde una ubicación",
-    "texto2": "vista / panorama / paisaje",
-    "texto3": "view / /vjuː/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "The office has an amazing view of the city skyline",
-    "texto6": "La oficina tiene una vista increíble del horizonte urbano"
-  },
-  {
-    "texto1": "Sustantivo: Opinión personal o manera de considerar algo",
-    "texto2": "punto de vista / opinión / perspectiva",
-    "texto3": "view / /vjuː/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "In my view, we should prioritize security over new features",
-    "texto6": "Desde mi punto de vista, deberíamos priorizar seguridad sobre nuevas funcionalidades"
-  },
-  {
-    "texto1": "Verbo: Examinar visualmente o considerar mentalmente",
-    "texto2": "ver / examinar / considerar",
-    "texto3": "view / /vjuː/",
-    "texto4": "viewed / will view / viewing",
-    "texto5": "You can view the API documentation online",
-    "texto6": "Puedes ver la documentación del API en línea"
-  },
-  {
-    "texto1": "Sustantivo: Cantidad monetaria requerida para adquirir algo",
-    "texto2": "precio / costo / valor",
-    "texto3": "price / /praɪs/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "The price of cloud storage has decreased significantly",
-    "texto6": "El precio del almacenamiento en la nube ha disminuido significativamente"
-  },
-  {
-    "texto1": "Sustantivo: Consecuencia negativa de una acción",
-    "texto2": "consecuencia / costo (figurado) / sacrificio",
-    "texto3": "price / /praɪs/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "Technical debt comes with a high price in maintenance",
-    "texto6": "La deuda técnica conlleva un alto costo en mantenimiento"
-  },
-  {
-    "texto1": "Sustantivo: Padre o madre de una persona",
-    "texto2": "padre / madre / progenitor",
-    "texto3": "parent / /ˈpɛrənt/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "My parent taught me basic programming when I was young",
-    "texto6": "Mi padre me enseñó programación básica cuando era joven"
-  },
-  {
-    "texto1": "Sustantivo: Elemento superior en una jerarquía (informática)",
-    "texto2": "elemento padre / nodo padre / contenedor principal",
-    "texto3": "parent / /ˈpɛrənt/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "The parent directory contains all project subfolders",
-    "texto6": "El directorio padre contiene todos los subdirectorios del proyecto"
-  },
-  {
-    "texto1": "Adjetivo: Que requiere gran esfuerzo físico o mental",
-    "texto2": "difícil / complicado / arduo",
-    "texto3": "hard / /hɑrd/",
-    "texto4": "harder / hardest / hard (comparativo/superlativo)",
-    "texto5": "Debugging multithreaded applications is hard",
-    "texto6": "Depurar aplicaciones multihilo es difícil"
-  },
-  {
-    "texto1": "Adverbio: Con gran intensidad o esfuerzo",
-    "texto2": "intensamente / fuertemente / con empeño",
-    "texto3": "hard / /hɑrd/",
-    "texto4": "harder / hardest / hard (comparativo/superlativo)",
-    "texto5": "The team worked hard to meet the launch deadline",
-    "texto6": "El equipo trabajó intensamente para cumplir la fecha de lanzamiento"
-  },
-  {
-    "texto1": "Sustantivo: Reunión social con fines de celebración",
-    "texto2": "fiesta / reunión social / celebración",
-    "texto3": "party / /ˈpɑrti/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "After the product launch, we had a small office party",
-    "texto6": "Tras el lanzamiento del producto, tuvimos una pequeña fiesta en la oficina"
-  },
-  {
-    "texto1": "Sustantivo: Grupo organizado con objetivos políticos o legales",
-    "texto2": "partido (político) / grupo / facción",
-    "texto3": "party / /ˈpɑrti/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "Third-party libraries can introduce security risks",
-    "texto6": "Las bibliotecas de terceros pueden introducir riesgos de seguridad"
-  },
-  {
-    "texto1": "Adjetivo: Relativo a un área geográfica específica",
-    "texto2": "local / regional / del área",
-    "texto3": "local / /ˈloʊkəl/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "We support local businesses through our supply chain",
-    "texto6": "Apoyamos negocios locales a través de nuestra cadena de suministro"
-  },
-  {
-    "texto1": "Adjetivo: Almacenado o ejecutado en el dispositivo del usuario (informática)",
-    "texto2": "local / en dispositivo",
-    "texto3": "local / /ˈloʊkəl/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "Always backup local files to cloud storage",
-    "texto6": "Siempre haz copia de seguridad de archivos locales en almacenamiento en la nube"
-  },
-  {
-    "texto1": "Sustantivo: Habitante de un área específica",
-    "texto2": "local / residente / vecino",
-    "texto3": "local / /ˈloʊkəl/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "The locals know the best coffee shops near the office",
-    "texto6": "Los locales conocen las mejores cafeterías cerca de la oficina"
-  },
-  {
-    "texto1": "Verbo: Dirigir o regular el funcionamiento de algo",
-    "texto2": "controlar / dirigir / gestionar",
-    "texto3": "control / /kənˈtroʊl/",
-    "texto4": "controlled / will control / controlling",
-    "texto5": "You can control the robot using this mobile app interface",
-    "texto6": "Puedes controlar el robot usando esta interfaz de aplicación móvil"
-  },
-  {
-    "texto1": "Sustantivo: Dispositivo para operar máquinas o sistemas",
-    "texto2": "mando / control / panel de control",
-    "texto3": "control / /kənˈtroʊl/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "The game controller has responsive analog controls",
-    "texto6": "El mando del juego tiene controles analógicos sensibles"
-  },
-  {
-    "texto1": "Sustantivo: Gestión de acceso y permisos en sistemas (informática)",
-    "texto2": "control de acceso / gestión de permisos",
-    "texto3": "control / /kənˈtroʊl/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "Implement proper access control to protect sensitive data",
-    "texto6": "Implementa control de acceso adecuado para proteger datos sensibles"
-  },
-  {
-    "texto1": "Sustantivo: Sentimiento de ansiedad o inquietud",
-    "texto2": "preocupación / inquietud / desasosiego",
-    "texto3": "concern / /kənˈsɜrn/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "There's growing concern about data privacy among users",
-    "texto6": "Existe creciente preocupación sobre privacidad de datos entre los usuarios"
-  },
-  {
-    "texto1": "Verbo: Relacionarse o afectar a algo o alguien",
-    "texto2": "concernir / afectar / atañer",
-    "texto3": "concern / /kənˈsɜrn/",
-    "texto4": "concerned / will concern / concerning",
-    "texto5": "This security update concerns all users of the platform",
-    "texto6": "Esta actualización de seguridad afecta a todos los usuarios de la plataforma"
-  },
-  {
-    "texto1": "Sustantivo: Artículo o servicio creado para su venta",
-    "texto2": "producto / artículo / mercancía",
-    "texto3": "product / /ˈprɑːdʌkt/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "Our latest product simplifies cloud database management",
-    "texto6": "Nuestro último producto simplifica la gestión de bases de datos en la nube"
-  },
-  {
-    "texto1": "Sustantivo: Resultado de un proceso o actividad",
-    "texto2": "resultado / fruto / consecuencia",
-    "texto3": "product / /ˈprɑːdʌkt/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "Good teamwork is the product of effective communication",
-    "texto6": "El buen trabajo en equipo es resultado de una comunicación efectiva"
-  },
-  {
-    "texto1": "Verbo: Dejar de tener posesión o control de algo",
-    "texto2": "perder / extraviar",
-    "texto3": "lose / /luːz/",
-    "texto4": "lost / will lose / losing",
-    "texto5": "Never lose your encryption keys - store them securely",
-    "texto6": "Nunca pierdas tus claves de cifrado - guárdalas de forma segura"
-  },
-  {
-    "texto1": "Verbo: No ganar en una competencia o desafío",
-    "texto2": "fracasar / ser derrotado / no ganar",
-    "texto3": "lose / /luːz/",
-    "texto4": "lost / will lose / losing",
-    "texto5": "We might lose the competition if we don't optimize our algorithm",
-    "texto6": "Podríamos fracasar en la competencia si no optimizamos nuestro algoritmo"
-  },
-  {
-    "texto1": "Sustantivo: Relato narrativo de eventos reales o ficticios",
-    "texto2": "historia / relato / cuento",
-    "texto3": "story / /ˈstɔːri/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "User stories help define software requirements in Agile",
-    "texto6": "Las historias de usuario ayudan a definir requisitos de software en Agile"
-  },
-  {
-    "texto1": "Sustantivo: Nivel o piso de un edificio",
-    "texto2": "piso / planta / nivel",
-    "texto3": "story / /ˈstɔːri/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "The startup occupies three stories in this office building",
-    "texto6": "La startup ocupa tres pisos en este edificio de oficinas"
-  },
-  {
-    "texto1": "Verbo: Seguir desarrollando o extendiendo algo sin interrupción",
-    "texto2": "continuar / proseguir / seguir",
-    "texto3": "continue / /kənˈtɪnjuː/",
-    "texto4": "continued / will continue / continuing",
-    "texto5": "The team will continue development after the code review",
-    "texto6": "El equipo continuará el desarrollo después de la revisión de código"
-  },
-  {
-    "texto1": "Verbo: Reanudar después de una pausa",
-    "texto2": "reanudar / retomar",
-    "texto3": "continue / /kənˈtɪnjuː/",
-    "texto4": "continued / will continue / continuing",
-    "texto5": "Continue debugging from where you left off yesterday",
-    "texto6": "Reanuda la depuración desde donde la dejaste ayer"
-  },
-  {
-    "texto1": "Verbo: Estar en posición vertical sobre los pies",
-    "texto2": "estar de pie / permanecer erguido",
-    "texto3": "stand / /stænd/",
-    "texto4": "stood / will stand / standing",
-    "texto5": "Stand up during video calls to improve posture",
-    "texto6": "Ponte de pie durante las videollamadas para mejorar la postura"
-  },
-  {
-    "texto1": "Verbo: Tolerar o soportar algo difícil",
-    "texto2": "tolerar / soportar / aguantar",
-    "texto3": "stand / /stænd/",
-    "texto4": "stood / will stand / standing",
-    "texto5": "Modern frameworks can't stand poor security practices",
-    "texto6": "Los frameworks modernos no toleran malas prácticas de seguridad"
-  },
-  {
-    "texto1": "Sustantivo: Puesto o estructura temporal para exhibición/venta",
-    "texto2": "puesto / stand / quiosco",
-    "texto3": "stand / /stænd/",
-    "texto4": "n/a / n/a / n/a",
-    "texto5": "We'll demo our software at booth 42 in the tech expo",
-    "texto6": "Haremos una demostración de nuestro software en el puesto 42 de la expo tecnológica"
+    "texto5": "There's room for improvement in our testing procedures",
+    "texto6": "Hay espacio para mejorar en nuestros procedimientos de prueba"
+  },
+  {
+    "texto1": "Sustantivo: Motivo o explicación",
+    "texto2": "razón / motivo / causa",
+    "texto3": "reason / /ˈriːzn/",
+    "texto4": "reasons / reasons (plural) / n/a",
+    "texto5": "The main reason for the delay was unexpected technical debt",
+    "texto6": "La razón principal del retraso fue deuda técnica inesperada"
+  },
+  {
+    "texto1": "Verbo: Pensar lógicamente",
+    "texto2": "razonar / deducir / argumentar",
+    "texto3": "reason / /ˈriːzn/",
+    "texto4": "reasoned / will reason / reasoning",
+    "texto5": "We need to reason through this problem before coding",
+    "texto6": "Necesitamos razonar este problema antes de programar"
+  },
+  {
+    "texto1": "Sustantivo: Estructura o formato",
+    "texto2": "forma / estructura / formato",
+    "texto3": "form / /fɔːrm/",
+    "texto4": "forms / forms (plural) / n/a",
+    "texto5": "Data should be stored in a structured form for efficient access",
+    "texto6": "Los datos deben almacenarse en forma estructurada para un acceso eficiente"
+  },
+  {
+    "texto1": "Sustantivo: Documento con campos",
+    "texto2": "formulario / documento / planilla",
+    "texto3": "form / /fɔːrm/",
+    "texto4": "forms / forms (plural) / n/a",
+    "texto5": "Complete the registration form to access the developer tools",
+    "texto6": "Complete el formulario de registro para acceder a las herramientas de desarrollo"
+  },
+  {
+    "texto1": "Verbo: Crear o constituir",
+    "texto2": "formar / constituir / crear",
+    "texto3": "form / /fɔːrm/",
+    "texto4": "formed / will form / forming",
+    "texto5": "We'll form a task force to address the security vulnerabilities",
+    "texto6": "Formaremos un grupo de trabajo para abordar las vulnerabilidades de seguridad"
+  },
+  {
+    "texto1": "Verbo: Desarrollar o adquirir (hábito)",
+    "texto2": "desarrollar / adquirir / forjar",
+    "texto3": "form / /fɔːrm/",
+    "texto4": "formed / will form / forming",
+    "texto5": "Good developers form the habit of daily code reviews",
+    "texto6": "Los buenos desarrolladores desarrollan el hábito de revisiones diarias de código"
   }
 ]
