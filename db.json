@@ -252,8 +252,8 @@
     "texto2": "servicio / mantenimiento / reparación",
     "texto3": "service / /ˈsɜːrvɪs/",
     "texto4": "services / services (plural) / n/a",
-    "texto5": "The server is down for scheduled maintenance service",
-    "texto6": "El servidor está fuera de servicio por mantenimiento programado"
+    "texto5": "The IT department offers a maintenance service for all production servers",
+    "texto6": "El departamento de TI ofrece un servicio de mantenimiento para todos los servidores de producción"
   },
   {
     "texto1": "Sustantivo: Atención al cliente o asistencia",
@@ -280,12 +280,12 @@
     "texto6": "Creo que este nuevo framework mejorará nuestra velocidad de desarrollo"
   },
   {
-    "texto1": "Verbo: Tener convicción o confianza en algo",
-    "texto2": "considerar / opinar / sostener",
+    "texto1": "Verbo: Formarse una opinión o tener una convicción",
+    "texto2": "opinar / considerar / pensar",
     "texto3": "believe / /bɪˈliːv/",
     "texto4": "believed / will believe / believing",
-    "texto5": "Many developers believe that clean code is essential for maintainability",
-    "texto6": "Muchos desarrolladores sostienen que el código limpio es esencial para la mantenibilidad"
+    "texto5": "Many developers believe that clean code is essential for maintainability.",
+    "texto6": "Muchos desarrolladores opinan que el código limpio es esencial para la mantenibilidad."
   },
   {
     "texto1": "Adjetivo: Inmediatamente después del primero en orden",
