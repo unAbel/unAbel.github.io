@@ -1326,5 +1326,13 @@
     "texto4": "n/a",
     "texto5": "It is most critical that we address this security vulnerability immediately.",
     "texto6": "Es sumamente crítico que abordemos esta vulnerabilidad de seguridad inmediatamente."
+  },
+  {
+    "texto1": "Verbo modal para consejos/sugerencias u obligación moral débil",
+    "texto2": "Debería / Convendría / Sería bueno que",
+    "texto3": "should /ʃʊd/",
+    "texto4": "n/a",
+    "texto5": "You should test your code before deploying to production.",
+    "texto6": "Deberías probar tu código antes de desplegarlo a producción."
   }
 ]
